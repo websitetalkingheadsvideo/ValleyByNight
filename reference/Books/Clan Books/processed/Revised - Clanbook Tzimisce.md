@@ -1,0 +1,4144 @@
+=== PAGE 1 ===
+TM
+AA HHiissttoorryy ooff EEvviill
+FFrroomm tthhee aannaarrcchhss wwhhoo ffoorrggeedd tthhee SSaabbbbaatt ttoo ddrreeaaddeedd DDrraaccuullaa hhiimmsseellff,, tthhee TTzziimmiissccee hhaavvee ccaarrvveedd aann iinnddeelliibbllee ppllaaccee ffoorr tthheemmsseellvveess aammoonngg tthhee ssoocciieettyy ooff tthhee DDaammnneedd.. TThhee mmooddeerrnn nniigghhttss hhaavvee ccaauugghhtt uupp wwiitthh
+tthheessee mmoonnsstteerrss,, hhoowweevveerr,, wwhhoo hhaavvee ffaalllleenn ffrroomm tthheeiirr ppllaaccee aass mmaasstteerrss ooff hhooaarryy eessttaatteess ttoo ddeeggeenneerraatteess bboouunndd bbyy tthhee ccaalllloouuss wwhhiimmss ooff tthhee
+SSaabbbbaatt.. TThheeiirrss iiss aa nniigghhttllyy ssttrruuggggllee,, nnoott oonnllyy ttoo ssuurrvviivvee,, bbuutt aallssoo ttoo eessccaappee tthheeiirr ggrriimm ddeessttiinnyy aanndd oonnccee aaggaaiinn rriissee ttoo pprroommiinneennccee.. CCllaannbbooookk:: TTzziimmiissccee IInncclluuddeess:: •• TThhee pprraaccttiicceess ooff tthhee mmooddeerrnn TTzziimmiissccee,, iinncclluuddiinngg tthheeiirr rroollee aass
+ssppiirriittuuaall lleeaaddeerrss ooff tthhee SSaabbbbaatt
+•• MMaatteerriiaall oonn tthhoossee ttaaiinntteedd bbyy ccoonnttaacctt wwiitthh tthhee TTzziimmiissccee,, iinncclluuddiinngg tthhee rreevveennaanntt ffaammiilliieess aanndd tthhee OOlldd CCllaann
+•• UUnnsseettttlliinngg nneeww aapppplliiccaattiioonnss ooff VViicciissssiittuuddee,, sscchheemmeess aanndd tthhee ccllaann lloorree ooff tthhee FFiieennddss
+W W W. W H I T E - W O L F. C O M is BN 1-58846-202-1
+WW2361 $14.95 U.S. PRINTED IN USA
+CLANBOOk: WW2361
+TM
+CLANBOOk: WW2361
+TM
+CLANBOOk: WW2361
+
+=== PAGE 2 ===
+C L A N B O O K: ™
+B L S J S y u CieN OuLBANANd AmeS tew Art
+Contents
+
+=== PAGE 3 ===
+C S t, r reditS pe CiAL hANKS Ave
+Written by: Lucien Soulban and James Stewart ditiON
+Additional Material by: Jess Heinig Oh, never mind. Like I remember. Developed by: Justin Achilli y! ArBLOCKOS
+Editor: John Chambers
+That nasty, villainous puke seat. Art Director: Richard Thomas
+Layout & Typesetting: Becky Jollensten
+Interior Art: Guy Davis, Leif Jones, Vince Locke, Matt
+Mitchell and Christopher Shy
+Front Cover Art: John Van Fleet
+Front & Back Cover Design:Becky Jollensten
+Intern: Matthew O’Connor
+© 2001 White Wolf Publishing, Inc. All rights reserved. Reproduction with out the written permission of the publisher is expressly for bidden, except for the purposes of reviews, and for blank character sheets, which may be reproduced
+for personal use only. White Wolf, Vampire, Vampire the
+Masquerade, Vampire the Dark Ages, Mage the Ascension, Hunter the Reckoning, World of Darkness and Aberrant are registered trademarks of White Wolf Publishing, Inc. All rights reserved. were wolf the Apocalypse, Wraith the
+Oblivion, Changeling the Dreaming, were wolf the Wild
+West, Mage the Sorcerers Crusade, Wraith the Great War, Trinity, Children of the Night and Clanbook Tzimisce are trademarks of White Wolf Publishing, Inc. All rights reserved. All characters, names, places and text herein are copyrighted
+by White Wolf Publishing, Inc. The mention of or reference to any company or product in the se pages is not a challenge to the trademark or copyright
+concerned. This book uses the supernatural for settings, characters and the mes. All mystical and supernatural elements are fiction
+and intended for entertainment purposes only. Reader discretion is advised. For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www.white-wolf.com; alt.games.whitewolf and
+rec.games.frp.storyteller
+PRINTED IN USA. Clanbook: tzimis Ce
+
+=== PAGE 4 ===
+C L A N B O O K: ™
+ONte NtS i Ntr Odu CtiON: w i Nter F ie Nd 4
+C h Apter O Ne: A r ABBLe OF F ie NdS 8
+C h Apter t wO: e gO ANd e vOLutiON 38
+C h Apter t hree: A mONg F ie NdS 74
+Contents
+
+=== PAGE 5 ===
+Clanbook: tzimis Ce
+
+=== PAGE 6 === w F
+i Nter ie Nd
+November 22nd, 1942 – Sunday “Well,” Holden continued nervously, “I finished cataloguing the
+The landscape was a white vastness, a world with out a horizon condition of the tanks around us, but I do n’t have paper to write on.” to separate the earth from the choking mist of the flat Russian Dietrich ignored his subordinate. It was likelier the Kanonier
+steppe. Obergefreiter Dietrich Walling, of ficer in Hitler’s vaunted stuffed what ever paper he had into his pants to keep himself warm. Wehrmacht, surveyed the once-proud siege engine of the 22nd Panzer “…five tanks scattered throughout the are a…”
+Division. His whitewashed Panzerkampfwagen IV lay alone and This was a war of unspoken truths. half-buried by snowdrifts. The OKW recruitment posters never
+“…no petrol in any of the m…” showed the soldiers standing around tanks, watching the m burn
+Dietrich said not hing about the Balkan sheepskin cap for the brief moments they pushed away the cold. Holden had lifted from a dead Romanian of ficer, and Holden
+The remnants of the panzer division ran out of petrol about said not hing about Dietrich’s black field jacket decorated with
+150 kilometers west of Volgograde, near the indentation of the River an Unteroffizier’s chevrons. Chir. The Russian counteroffensive in the Stalingrad campaign
+“…one Panzer III is carrying dead soldiers…” began three days ago when a thick mist strangled visibility from
+This was a far cry from the proud German phalanx that the air and biting cold scattered warmth to the four corners. swept through the Ukraine, freeing places like Izyum and Svatovo
+Artillery flashed and thundered in muffled fury, and engaging from Communism. The villagers, winnowed by famine, heralded
+tanks collided with one another in a clumsy ballet of the blind. the Wehrmacht’s arrival as the new Crusade come to sweep the
+The air was thicker than milk, but the Russian 8th Cavalry still
+Antichrist Stalin from his throne of bones. they took the German surrounded the beleaguered 22nd Division and picked away with
+black crosses to mean hope, and Dietrich took the ir hope to mean the ir snipers, the T-34 tanks. Dietrich’s group finally smashed
+victory. That belief died at the altar of Stalingrad. through the blockade yesterday and vanished into the steppes. Now, broken and dying, they waited for the Russians. The artillery “…face torn of f.” and tank thunder, how ever, drifted away with morning, leaving “What? Repeat that!” Dietrich or dered when he realized he’d
+the landscape unerringly silent beneath a pissy soup of white. missed something important. Kanonier Holden — Dietrich’s gunner and the only other “I found a Panzer III covered with dead Romanian soldiers. survivor from his Panzer IV — stumbled out from the snow- they blocked the hatches. I tried removing the soldiers to get into burdened curtain of air. He looked fresh out of Hitlerjugend, the tank, but they were frozen to the metal. I pulled too hard on
+with only a tuft of unshaved fuzz on his chin and an oil-smeared one. I… I think I tore his face of f.” face soiling his you thful Aryan looks. A thigh-length overcoat of “You think?”
+brown sheepskin hung loosely from his bony should ers. He was “Well, yes. I mean, he could n’t have looked that way before, sir.” unraveling a towline from a large spool. “Who was in the tank?”
+“What are you do ing?” Dietrich asked. Grizzled with facial
+“I do n’t know. Frozen corpses covered the hatches and storgrowth and dirt that highlighted premature wrinkles, he wore a age bins.”
+black field jacket and sheepskin cap. Otherwise, he could have cut
+“So? Pull the corpses of f.” a handsome figure, civilization permitting. “I… but…. Won’t I tear of f the ir faces, sir?”
+“I found this on a Tiger about 20 meters northeast of here. “Have you ever skinned a rabbit?”
+I hooked the other tanks together, in case we needed to find each other in this squall. Leutnant Habsmann or dered me —” “Uh, yes… yes, sir.”
+“Habsmann? Is that rat-faced bastard still alive?” Dietrich “This is no different. At least rabbits serve a purpose. Go back, spat. “I’m surprised they did n’t ship him out to Poland with the pull of f the corpses, and scavenge what you can. do n’t for get to rest of the Jews.” check the fuel tanks under the floor. We can’t serve our Führer
+by dying here.”
+“Sir, he’s not—”
+Holden was shocked a moment, the n nodded blindly before
+“I know what he says, you idiot!” Dietrich raged. “But he’s setting of f into the curtain of white. not Aryan either. He may have fooled the Reich Agency for
+Genealogy, but you can see the Semite blood in him. It’s in his “And Holden,” Dietrich added, “say not hing to Habsmann. sloped brow, his frizzy black hair and his hooked nose. did n’t they If you find anything, we’ll barely have enough for ourselves. teach you that in Hitlerjugend?” Understood?”
+“Yes, sir, they did, but I can’t… I can’t disobey Habsmann. ***
+He outranks us both. Also, he wants us to gather at his Tiger. He Two hours had passed since Holden had left, and now, says if we share the warmth, we’ll less likely freeze.” Obergefreiter Walling suspected his subordinate had abandoned
+“You go if you want, but I won’t make it easier for the Rus- him in favor of Habsmann. Dietrich rested in the commander’s sians to find us. I’m staying here.” chair and stretched his legs against the main gun’s recoil guard. He sat in dried blood, but the thought never bothered him. Ober Holden’s expression betrayed all his concerns. Still, he said
+leutnant Westermayer deserved that sniper bullet when he stood not hing and tethered the towline to the panzer’s for ward cable hooks. on his chair and stuck his head out from the turret hatch. He was
+“Continue with you r report. What else did you see out the re already dead when he tumbled back through and spattered the
+aside from that mongrel Habsmann?”
+Winter Fiend
+
+=== PAGE 7 === interior with thick clots of blood. At the time, Dietrich ignored the etrich pulled himself out of the snow and onto the Tiger’s skirt. crimson gore on his overalls and continued steering. That was a He peered inside the empty tank. The crew must be dead, thought
+lifetime ago, last week. Dietrich found he grew more inured against Dietrich, but he had little concern for the m now, where ver they the violence with each minute. Not even the bits of flesh or blood were. Dietrich exited and unhooked one of the four towlines that
+encrusted on his clothing bothered him anymore. led him furthest from his own panzer. He took the loose towline
+A bitter night chill had settled over the region, for cing Dietrich and pulled himself through the snow while winding the excess back into the black interior of his tank for shelter. Although the cable around his should er. hatches, pistol ports and cupola’s vision slots were all closed, the what ever stalked him would probably go after the other
+heat still escaped like water through a sieve. Dietrich marveled at vehicles still tethered to the Tiger, leaving Dietrich safe and alone how this blade of the Wehrmacht could resist Russian bullets and in his is olated tank. He knew his actions would cost the lives of
+shells but could n’t keep out the Soviet Empire’s greatest soldier, his all ies, but that was a sacrifice he was will ing to make on the ir
+“General Frost.” Dietrich did n’t want to freeze, but he’d long run behalf. Besides, not a one was loyal to Germany anymore. Since out of can ned heat and had not hing to burn with his lighter. If he Stalingrad, the soldiers privately scoffed at the weekly propaganda
+wanted to survive, he’d have to leave the sanctuary of his panzer and reports from the Ministry for Public Enlightenment. If the war search the nearby vehicles. Holden mentioned something about five faltered, it was because Hitler all owed lesser species to fight alongside
+other tanks; one of the m probably had something worth scavenging, the German Volk and because weak men with weak blood fought on but he’d have to take care not to approach Habsmann’s Tiger. the frontlines. Indignant and angry, Dietrich struggled through
+Dietrich checked the clip on the Sturmgewehr.44 machine the snow, cursing the Reich for betraying its own dreams. pistol and was about to open the hatch when something darkened *** the turret’s glass vision blocks. Instinctively, Dietrich backed away The Panzer III was six tons smaller than Dietrich’s Kampfinto the low-ceiling for ward compartment, where he bumped into wagen, but it had been refitted with a 50mm gun. Still, snowdrifts
+the driver’s seat. It could n’t be Holden or any other soldier in the was hed up on its skirt, miring it until next spring. Painted white, division, Dietrich thought. they all knew to rap the ir wrenches or it was nearly lost against the blizzard. The only feature that stood gun but ts on the hatch before entering lest they find the ir heads out against its surface were 10 Romanians covering the tank like
+blown of f by edgy panzer crews. Someone peered inside, but it was maggots on a corpse. they were all facedown, dead and stuck to the too dark to see anything. exposed metal, blocking the four major hatches, Dietrich realized, A hiss of cold air slipped into the tank, along with a faint along with the air intake and exhaust ports. Somebody positioned
+was h of winter white — the intruder opened the cupola hatch. the m deliberately, and for a moment, Dietrich found himself ap Dietrich felt the pit of his stomach drop away and his blood preciating the cold and barren logic that required such action. plummet along with it like a waterfall. Some primordial instinct “I’ve walked into the lion’s den,” Dietrich muttered. what ever in the back of his skull screamed for Dietrich to run. This was n’t was stalking his division had made his home here, but with the
+the enemy; this was a hunter. storm already covering his trail, Dietrich had no hope of find Carefully, Dietrich reached behind him and ran his fingers ing his way back. This panzer was his only salvation. “Besides,” along the recess in the ceiling. The cupola’s hatch was completely Dietrich continued to himself, “what ever barred the hatches did
+pulled back. Small eddies of fine frost drifted through the opening so for a reason.” If it was protecting something, the n it was worth and settled over the reddish-brown interior. Dietrich’s questing Dietrich’s attention. fingers snagged a latch. He pushed it gently, painfully aware of Dietrich dropped the cable and scrambled up to the soldier
+the low groan it made, but the driver’s escape hatch finally opened hunched over the commander’s hatch. With a firm grip on his with a satisfying pop. More cold air slipped through and filled the should ers, Dietrich tried prying him of f the tank. The corpse’s
+for ward compartment. Quietly, Dietrich positioned himself beneath face came of f in stiff strips, leaving behind patches of flesh on the his exit. He could see a pair of milky-white… hands… that tapered metal, but the body remained stuck; something had mauled his face
+of f into serrated claws slip past the cupola’s hatch. A bear? A clever beyond recognition, ripping open his jacket and winter clothing as wolf? what ever was coming in was do ing so head first. Dietrich well. The soldier’s exposed stomach and chest were likewise frozen to
+did n’t wait around to see the creature’s face; he pushed of f the metal, but not in the way Dietrich expected. The soldier appeared driver’s chair, through the hatch and into the bristling, cold air. anchored to the metal, with his exposed flesh hooked or melted into
+With visibility nearly gone, the how ling wind swept away the hatch lining. Dietrich did n’t care. they were only Romanian. all noise and claimed it as its own. Dietrich looked back at the Dietrich took out his knife and cut away at the flesh, separatwhite-was hed turret just in time to see black jackboots slip through ing the corpse from the hatch. Just like skinning rabbits. After a the hatch. Dietrich leapt of f the tank and grabbed the towline few moments of cutting and sawing, he used the knifepoint to dig
+linking him to the Tiger. Holding on, he pushed his way through out the flesh in the lining before finally opening the cupola’s hatch. the knee-deep drifts, into the worsening storm. A wave of warm air and the smell of but cher-shop viscera was hed
+*** over him. The interior was humid. Half-frozen and minutes away
+The drifts grew deeper, slowing Dietrich do wn, but he pushed from frostbite, Dietrich dropped into the tank, slamming the hatch through the cold. After what seemed for ever, Dietrich arrived shut with a loud clang on his way do wn. Warmth enveloped him. at the Tiger. It was a petrol guzzler and ungraceful. It was n’t A noxious mix of of fal and innards filled the pitch-black
+called a “Furniture Van” for its elegance. Even now, half hidden interior, but that did n’t bother Dietrich terribly. He’d spent his in a growing snowdrift, it looked unwieldy and ugly. Patches of summers on a Kümmritz sheep farm south of Berlin and was
+zimmerit, anti-magnetic mine paste, had fallen away, revealing inured to the smell of death. It was the low mewling and sobbing a mottling of gray. The turret’s side-hatch stood wide open. Di- all around him that grated on his nerves. Dietrich fumbled for his
+Clanbook: tzimis Ce
+
+=== PAGE 8 === lighter and lit it up. The shadows danced into flickers, darkening that gaze. Suddenly, Dietrich realized that the re was not hing this
+the nooks, crannies and corners of the panzer’s guts. That’s when creature could n’t do. he found the other survivors. “The new man is among us!” Dietrich mumbled, quoting
+The interior of the tank was the Devil’s abattoir. Holden, Hermann Rauschning’s Hitler Speaks. “…I will tell you a secret. Habsmann and at least four other soldiers lay stretched out over I have seen the vision of the new man — fearless and for midable…” the equipment, chairs, ammunition bins, walls, ceiling and floor. “…I shrank from him,” the Generalmajor concluded. the ir bodies had the consistency of warm tallow — drooping and “You read Hitler Speaks?”
+limp. It was as though Satan had smeared the m across Creation’s
+“It was… entertaining,” the Generalmajor all owed. face with his thumb. Five different intestines braided around each
+“I remember a time,” Dietrich ventured, “when I would have other and snaked through the interior like Christmas tinsel, while
+followed the Führer into Hell.” flayed flesh stretched over the walls. More shocking, perhaps, was
+“And now?” that the soldiers had all been turned inside out, yet they still
+seemed to live. or gans pulsed and pumped the ir precious fluids “I’ve seen what it looks like…. Russia has been one defeat while they hung from the recoil guard and lay draped over and after another because of Hitler. He’s betrayed his promises to us.”
+around the chairs. The mewling came from the flattened faces “You speak treason.” of Holden and the others. With deflated mouths and vocal cords “the n we are both on the firing line,” Dietrich grinned with
+stretched like was hed linen, they could do no more than cry and a look to Holden and the others. “What are you?” he finally asked. gurgle. Annunciation was a lost gift. “Can you not see it in my face?” the Generalmajor exclaimed
+Dietrich shook his head in amazement and muttered, “Mag- with a feral smile. “I am the spirit of you r ancestors given blood. nificent.” Despite the carnage, it possessed a functional aesthetic I am Nordic heritage brought to the for e.” of ten lost on the battlefield. Dietrich had seen his share of severed “the re’s more to it than that,” Dietrich ventured. limbs and shrapnel-eviscerated comrades, but that was fate alone. “Yes the re is, but that will come in due time. I’ve decided to
+This was pure function and cold-hearted brilliance. Dietrich’s spare you. I appreciate you r cunning. It might just help us both
+father told him stories about how ancient hunters split open deer survive.”
+and slept in the ir innards for warmth when trapped by blizzards. “What do you mean?”
+This was practicality taken to the extreme. The tank’s interior
+“Hitler’s war is n’t our war. Ours is more ancient in the rehad been covered with gutted but living soldiers who se exposed membering. This advance into Russia was an attempt to regain
+innards and blood vessels provided warmth. The soldiers outside soil lost to us since the red storm swept Russia. Unfortunately, we
+sealed in any escaping heat. This was calculated and perfect relied on you r kind to fight for us, and that misplaced trust has
+pragmatism. This was what the German army lacked to carry cost us. Now I must return empty-handed. You’re right; Hitler, out the Thousand-Year Reich. Himmler and the rest of the m have betrayed you, but they are of
+“are n’t you going to salute a superior of ficer?” a voice asked. no consequence. they served the ir purpose.”
+It was languid, almost slippery. “But why are you here, in this desolate place?”
+Dietrich spun around, nearly killing the lighter’s meager
+“I was fighting my enemies when the Russian counteroffensive tongue. Sitting in the radio operator’s chair and shadowed by a
+began,” the Generalmajor proclaimed. “I protected this place for low ceiling, sat an SS-Brigadefuhrer und Generalmajor. Darkness
+the while it took me to rest, stay warm and regain my… strength. covered the man’s face, but Dietrich could see the white undershirt
+I’m ready to leave. You were going to be my last meal, but you beneath the black uniform, the wet field-gray greatcoat with black
+make a worthier Unteroffizier.” collar, do uble-lightning bolt lapels, the flared breeches and wet, black jackboots. On his lap rested a field-gray cap with a silver “will ingly, though I do n’t know who I serve or why.”
+skull and crossbones pin. “That too will come in time, but I’m of fering you the chance
+“I would,” Dietrich ventured, “if I did n’t think you were for a purity you’ve never known. You can be like me, with out going to try and kill me. Or should I say tried?” impediment or soiled body. I of fer perfection of thought. That is
+all you need know for now.”
+“You’re an eel, I’ll give you that. Sneaking out of you r panzer was wise, but I was impressed with the way you took the line to “If I abandon the army, I will be shot as a deserter.”
+this tank. You were hoping I’d go after the others, were n’t you?” “No,” the Generalmajor of fered. “As far as they know, you died
+“You saw me?” Dietrich asked do ubtfully. “How? I left you here, tonight. As far as you’re concerned,” he added with a fanged behind.” grin, “they are right.” The Generalmajor moved with a speed that
+killed Dietrich’s flame, do using the tank in darkness. He slammed
+“Well, you did n’t summon this storm, did you?” the Obergefreiter do wn on his back hard. Hot needles ripped into
+“And you did?” Dietrich sneered. Dietrich’s neck, and he felt his blood explode through the wound in
+The Generalmajor leaned for ward, all owing the light to touch a burning — but horrifically thrilling — torrent. Holden mewled
+his face. He was stunning, nearly painful in Aryan perfection. in his ear, but Dietrich could hear only the waterfall rush of blood
+His hair was gold silk against alabaster skin, his nose and lips thunder in his head. The thunder drifted away like Russian tanks
+thin and imperial, his cheeks were cut of marble, and his Rhinein the mist, how ever, and Dietrich realized he was shivering from blue eyes carried the wolf’s glare. His face was perfect and with out
+the impossible cold that gripped his bones — he was dying. That’s deficiency; he embodied the idealized Nordic warrior Himmler
+when the Generalmajor pressed his lips against Dietrich’s and spit so proudly espoused in his elite Schutzstaffel. His stare whittled
+in his mouth. Dietrich’s world exploded in a scream. Dietrich to the bone; it was an intrepid and cruel heart that cast
+Winter Fiend
+
+=== PAGE 9 ===
+Clanbook: tzimis Ce
+
+=== PAGE 10 ===
+C O: h Apter Ne
+A r F
+ABBLe OF ie NdS
+It is a grave tragedy to die you ng so we pray, “May we be sufficiently ripe before we are eaten up by death…”
+— Baba Ifa Karade, Odu Ethics of Edi: The Handbook of Yoruba Religious Concepts
+We are Tzimisce…. lightened and ultimate state of being, possibly brought
+What a bucket of shit! We were united for as long as it on by extensive use of Vicissitude. took Tzimisce to Embrace his first progeny. After that, all bogatyri: “elder valiant champions,” or a reference bets were of f. You’ll also hear the clans talk about Enoch to Tzimisce’s quest-knights. and how we all existed “as one,” like some Disney take on
+boyars: nobles or nobility. Cainites. Christ, Enoch was Caine’s petting zoo filled with knezi: a lesser landowner than a Tzimisce voivode. mortals and not hing more. Knezi supplied the main fighting for ce against the clan’s
+You think you know the Damned. You do n’t know shit. elders during the Anarch Revolt. In the modern nights, What you’re about to learn is n’t a lesson, it’s a correction. it is a title for any Tzimisce who makes claim to nobil Forget the ankle-grabbing Carthaginians or the imperial glory ity. As such, it is no longer as respected as it once was. of Rome; they died for a damn good reason. Our history
+koldun: Tzimisce spellcrafters who employ elemenhas little to do with the mundane world and everything to do tal and spirit magic. with the Tzimisce. We’re called Fiends for a good reason. manse: a Tzimisce aristocrat’s keep or place of power
+Face it Brothers and Sisters in Caine, that’s what we are. from which he rules. In modern parlance, a manse may
+It’s time you understood why. simply be an opulent (or especially morbid) have n. — The Eye, priest of the Seven Hands pack szlachta: although the specific term means “gentry,”
+t L zimiSCe exiCON szlachta are soldiers, spies, bodyguards and protectors of
+the Tzimisce. Modified to serve, the se ghouls are tough, Learn the se terms well, for many Fiends remember smart and deadly. the ir usage even in the modern nights. tirsa: land or do main. Azhi Dahaka: Azhi Dahaka is Persian for the
+three-headed dragon of the demon Ahriman. To the voivode: typically, a Tzimisce landholder or lord, the
+Tzimisce, it is the Metamorphosist’s Holy Grail, an en- term is strangely nebulous. Tzimisce of any significant
+Chapter one: a rabble oF Fiends
+
+=== PAGE 11 === power or territorial holdings of ten use this title, though controlled flesh like living clay — full of potential with in
+you ng clan members shy away from such epitaphs. the sculptor’s hands. More so, the Eldest realized it held vozhd: a fading practice among contemporary Tzi- no anchored physical identity. Like quicksilver, its counmisce, vozhd are lobotomized amalgamations of many tenance flowed from one mask to the next. Ynosh, in his
+lesser ghouls. Through Vicissitude and koldunic rituals, attempt to excise his own weaknesses, transmogrified the the ghouls become one entity with the simple duty to Beast’s marks upon his body and spirit into physical for m, maim and destroy what ever stands in its way. but the Beast also brought with it gifts like intuition, whim, zadruga: “joint family,” where by all the relatives expression, imagination and, most importantly, growth. of the ruler live together under strict familial bonds. Tzimisce, whether one or all, bore the se successfully. Also, the ancient name for revenant families, still used The Eldest counted itself among the first Antedilutonight by elder Tzimisce. vians, though it remained apart from the m. In its eyes, zulo for m: a Tzimisce’s monstrous for m, brought on the other Cainites stagnated in development. they
+through an advanced understanding of Vicissitude. The Fiends possessed no potential to grow or become greater than employ this shape in battle or to intimidate the ir enemies. when the ir sires Embraced the m. The Eldest, on the
+other hand, an or acle in its mortal days, expressed the t p ’
+he r Oge Nit Or S gamut of evolution’s whims with wondrous flourish. It became the yesterday, now and tomorrow of humanL
+egACy ity’s progress, becoming instead of for etelling. It saw where destiny intended the m to go. Caine’s childer
+As told by Titus Villicent, consultant to the consistory and grandchilder, how ever, possessed no such promise. So you wish to know you r past, back to the Eldest’s Mortals grew stronger, while we remained stagnant or part in this divine dance? It began in Enoch, the city of grew weaker. Eventually, mortals would rule, for cing the
+Caine’s making and his attempt at reparations to the Damned to hide in the ir shadows. That was inevitable. Almighty. He had already sired thrice in a fit of loneliness Conversely, the Eldest sensed the change in itself and watched his blood scatter further into the nascent and in other Cainites, one of minute metamorphosis
+clans. Perhaps he for esaw the inevitability of his actions, goaded by the Beast. At first, the Eldest’s thirst all owed but if he did n’t, the n [Tzimisce] itself certainly not iced. it to sup from the necks of mortal and beast alike. the n, Regardless of the ir claims and popular outsider ac- its thirst demanded more. No longer satisfied with one
+counts, the Eldest and, thus, its childer emerged from vessel or a score of herds, the Eldest longed for thicker between the harlot legs of the Tigris and Euphrates and and richer blood; it knew only its progeny would eventunot the Carpathians. In Enoch’s early nights, when all y satisfy it. The Eldest realized the burden of drinking
+skeletons of builder’s wood served as the city’s crude blood would only worsen with each decade. Eventually, battlements and the Great Flood echoed in the distant the thirst would preclude the blood of animal vessels millennium, Caine had just Embraced Ynosh the Law- and that of mortals. Only the infanticide of progeny
+giver, the first of his childer. Ynosh, also known as Enoch, could sustain the Eldest, and when that time ended, nearly swallowed by the how ling of his heart, sought to the Eldest itself would perish. rid himself of chaotic impurities that he believed bound Distraught over its tethered existence, the Eldest him to the Beast. with out the tethers, the Beast’s grip spent a mortal’s age in seclusion and meditation, shifting
+would weaken, and it would perish. Through effort and for ce of will, Ynosh focused the t A C he v AtArOF hANge
+most protean and primordial seeds of his flesh and spit
+Azhi Dahaka, Dracon, Illuyankas, Dracula and the m into a mortal vessel — [Tzimisce], a magician and
+Leviathan; all dragons. You wonder why this beast seer of some repute. Ynosh intended to kill the Eldest
+in particular factors so heavily in our mythology. as carrier of his accursed seeds, his most wild and fierce
+It’s simple, really. Since humanity’s infancy, dragons aspects. Instead, the Eldest emerged intact and not the
+have plagued its legends. The kine feared the se great feral Beast Ynosh feared. In a fit of compassion, the
+serpents, but to the Tzimisce, they represented grand
+Lawgiver spared the Antediluvian, while reasoning change. Dragons are harbingers of transformation
+out the error of his assumptions. Certainly, the Beast at the edge of chaos and for ever in motion with spihowled in both the ir hearts, but the Eldest was not the
+raling and sinuous for ms. It is not the ir appearance monster Ynosh anticipated, at least not visibly. that appeals to us, but the ir potential for chrysalis
+To its sire’s surprise, the Eldest suffered no greater
+— and beyond. they are living embodiments of a avarice or degeneration than that of its siblings. Already
+change we have yet to truly realize. strong, it possessed a fluid nature and perception and
+Clanbook: tzimis Ce
+
+=== PAGE 12 === and flying through shapes of mortal and legend alike, A r
+ANt seeking out a for m free of the accursed thirst. It studied
+This is bullshit. Are you telling me we’re actually the scrolls that once gifted it with spellcraft, hoping to
+jealous of mortals? Fine, we’re still looking for that find answers with in its fading mortal gifts. It mattered
+pure seed of creativity that all ows for true growth, but little, how ever, for the thirst came of the Beast, and
+this defeatist attitude is totally Camarilla. Do we even it drowned all considerations. The Eldest could not
+know if this “seed” actually exists, or is this another escape, for while it changed for ms, it could not change
+Antediluvian ploy to keep our wheels spinning? We’re its essence. Cruel fate deprived it of that one saving
+Damned Brothers and Sisters… why the hell are we grace mortals possessed: adaptation as a tool of survival. was ting time with “evolution?” We do n’t grow! We
+L e e Avi Ng NOCh decay! We’re fucking dead! Unlike its growing flock of cousins, the Eldest had — The Spine, abbot of the Seven Hands pack
+no interest in guiding the mortal masses or glorifying
+Caine’s name. More so, it did not aspire to protect the essence, which granted the powers of flesh-shaping and kine, not when they were both food and can vas to it. bestowed the Antediluvian’s childer with the ability to
+The others frowned when the Eldest demonstrated how make what they would of the ir physical for ms. In turn, easily it played, wove and laced the ir flesh and sinew like this bond all owed the Eldest expression through each of yarn on a loom. they bemoaned its gifts after it twisted its most-gifted childer. The Eldest secretly became legion-
+[Nosferatu’s] flesh into the hideous mockery of beauty now fold, all owing it to take host in chosen descendents and shared by the entire clan. they secretly consorted with reap the knowledge of the ir exploration. it as [Toreador] had do ne to earn her uncanny elegance. On the Eldest’s return journey through the Fertile Cres The Eldest existed among the unimaginative, while its cent, it took a second progeny in Gallod, a tribal chieftain, siblings [Brujah] and Mekhet played shadow games with to monitor the events in the Enoch. During its subsequent
+mortals, delighting in the ir own cunning and agendas. journeys, how ever, the Eldest discovered the tribes of hu The Eldest knew of the kine’s potential and grew manity thinned in the western for ests, thus depriving it of angry that the others stubbornly defined the mselves in sustenance. It a fit of hungered frenzy, the Eldest revealed
+mortal terms with out understanding humanity’s greatest the last of its malignant curses when, from leagues afar, it strength, mutability. Only it appreciated kine as both meal consumed Gallod inside out. The sacrament that bestowed
+and inspiration, and thus, only it deserved humanity for unlife and all owed the Eldest to take root in its progeny also itself. The Eldest wished to delimit itself according to its all owed it to devour its childer, scouring the m out like an
+destiny, as opposed to what it might be now, and mortals undead consumption. This is the clan’s greatest curse, for were key to that expression. The Eldest shifted through should the Eldest fall to the Beast’s thirst, the n it will devour
+physical for ms easily, but it lacked that final adaptation its childer from afar like an unseen demon. to save it from its thirst, its Beast. To that end, the Eldest
+K upALA
+abandoned Enoch, knowing its answers lay in the primordial world, where Caine possessed no influence and Having learned its lesson from Gallod, the Eldest where mortals were not protected like lovers or herded gathered tribes of mortals during its travels, so that it
+like sheep. It needed to witness humanity’s struggle for would never want for vitae again. Along its journeys, it survival and even be responsible for humanity’s hardships. Embraced those who best fit its own questing spirit. It
+Only the n, the Eldest believed, would it understand what made a childe of Yorak in the for ested foothills of the it lacked to escape its fate. Carpathians and Byelobog in the northern was tes of
+The Eldest journeyed the lands before humanity Europe. Along Africa’s coast, it took a warrior named named the m, following where its atrophying gifts as seer Demdemeh, who subsequently vanished into the prinudged it. It first ventured east, to the birthplace of the mordial African heartland to pursue his fate; whilst in
+sun, where it cursed Kartarirya with unlife. It Embraced Cypriot is le, the Eldest welcomed the creature known not from loneliness (in itself, it had all the company it only as the Dracon into the fold. wished), but because it needed vessels through which to The world may have been open to the Eldest, but it
+explore the infinite possibilities and for ms of adaptation. eventually favored the lands of Yorak, deep with in the
+With Kartarirya, the Eldest discovered its ability to share Carpathians’ bosom. It did not know why the mountain its progeny’s senses. Thus, in each of its of fspring, the Eldest chain proved so all uring, but this do main entranced the
+bestowed a multitude of curses beyond damning the m with Eldest with its siren call. It even returned to studying unlife. It divested in the m a portion of its mutable spirit mortal magics again after a century of disuse, even though
+in the for m of a sacrament, its own flesh. Its vitae hid its its gifts remained a pale shadow of Cainite potential. Chapter one: a rabble oF Fiends
+
+=== PAGE 13 ===
+The Eldest refused to abandon what ever whispered to p LANti Ng the S eed it while it slumbered, and eventually, learned how to
+speak to the spirit of the mountains, the great beast
+A warning to you Sabbat Tzimisce. with in in known as Kupala. us all is the Blood of the great sire itself. It grants us
+a most mutable essence coupled with the greatest Kupala and the Lupines were enemies from the most ancient of times. The Lupines eventually entrapped it
+responsibility. We are Trojan Horses for our master, with in the Carpathians, verdant for est grew up around and if you ever attain a new understanding of our
+it. Now Kupala wished for release and spoke to the Elexistence, the Antediluvian may rise with in you and dest through its dreams. The spirit of the land of fered
+take for m. This is not a loss, but a blessing, for you its hand in all egiance against the ir common enemies
+are returning to the gestalt existence of One Flesh in exchange for the Tzimisce releasing Kupala from
+that existed before the Eldest made you or any of its prison deep with in the Carpathians’ spine. The
+us. You are blessed to return into the who le. The
+Antediluvian agreed and spent the next year exploring other clans breed like a disease, but we all come from
+the mountain’s for gotten crags, while Kupala taught
+[Tzimisce]. That is why we claim no real fealty to the Eldest magic it thought lost following its Embrace. Caine, who did no more than do om mortals with
+The Eldest, in turn, passed the lessons on to its most a Kiss. That is God’s curse and not Caine’s gift! powerful childer and used the m in the great congress
+The Eldest will ingly created us of its own flesh that freed Kupala itself. and endows each of us with its essence. Where do
+The Lupines fought hard and would not all ow you think the fleshcrafting art comes from? It is
+Kupala easy escape. In the twisted cavern where
+[Tzimisce] sharing its wisdom with you. Perhaps the demon lay, champions of the Lupine clans fell
+that is why some of our more ancient members upon the Antediluvian and its fleshly brood. Eventuhave abandoned the mutable way. they know the
+all y, how ever, the Tzimisce triumphed when Kupala art but are fearful of it, lest they stir the slumbering
+broke free and fled. The demon-spirit did not escape
+Antediluvian with in the ir breast. completely, how ever, for it had been interred in the mountains for so long that it remained bound to the
+To the east, Enoch still flourished, and its host childer soil. Kupala could not retire to the courts of the spirits remained close enough to touch Caine’s shadow. Europe or to which ever hell it once claimed as home. Instead, was are na to the Tzimisce alone. Hence, the clan knew it took the Carpathians as its new do main and shared
+the se do mains as its own before others did. It spread across its existence with the Tzimisce. The region’s Lupines, the Great European Plain that stretched from Eastern while still for midable in the centuries to come, never
+Siberia, across the Urals and the Volga Basin to finally recovered from this devastating blow. they lost the touch the virgin shores of the Atlantic. The Tzimisce lands they sought to protect and watched Kupala’s
+chose the ir lands well, for the tribes spreading west black blood twist the soil and for ests. used the European Plain and Danube Basin to disperse across the continent. In particular, the plains south of
+the inviolable Pripet Marshes and those north of the t he L ege Nd OF K upALA
+Pindus Range became the twin arteries for kine tribes
+You wish to know of Kupala? Very well, but moving through the region. The fist of the Carpathians
+you will discover a price in the telling. Such is alprovided a chokehold on the traffic with the Pindus ways the case with legends. The whispering spirits
+Mountains in Greece and the icy shores of the Baltic. tell me that Kupala numbered among the m, but
+The Tzimisce “tithed” the mortal flood flowing past it possessed the power to blight all it surveyed. In
+the m. All was not blest, how ever, for the Fiends did the days when Caine still suckled at Eve’s teat, it
+not claim sole kingship over the lands. Lupines, still fought the Lupines repeatedly until, finally, the ir
+potent from the chaste wilderness, fought the clan for most potent shamans trapped it. they surrounded
+every for est corner and mountain peak. As powerful it from the north and south, and gripped the earth
+as the Tzimisce were, they still suffered greatly. The with the ir terrible claws. they peeled the lands
+Lupines even harried the great Antediluvian itself and back like onionskin, for ming two great walls, the n
+threatened to rout the entire clan back to Caine’s feet. clapped the m together in one mighty heave. the ir
+The Lupines could not deter the Eldest, how ever. The herculean effort for med the Carpathians and the
+Tzimisce progenitor felt an affinity with the Carpathians, Alps and trapped Kupala deep with in the ir heart like for something with in the m touched upon its atrophied
+two clasped hands holding a fly. Thus it remained, gifts as mortal seer, empowering its dreams once again. until [Tzimisce] found Kupala centuries later. Clanbook: tzimis Ce
+
+=== PAGE 14 ===
+F LOOd, C ur Se ANd e x OduS cousins passage through to the western lands thick with tribes so long as nobody broached the ir territory. Other
+While the Tzimisce prospered and continued to
+Cainites recognized the Tzimisce claims to do main, watch the mortals mill about beneath the ir mountain but only for the while it took the warring clans of the
+peaks, all was not well in Enoch. Caine’s childer rebelled
+Second City to call Caine’s anger upon the m. against him, just as he had do ne against the Almighty, Caine’s curse took the Tzimisce by surprise. the ir and reddened the streets with the ir blood and that of
+dealings with the soil-bound Kupala, as well the ir terothers. the n, in the Almighty’s divine act of retribution ritorial nature, became the clan’s anathema when the
+against mortals, the Great Flood engulfed the world. curse for ced the m to sleep upon the ir native soil for true
+In Europe, it was no different; the mighty rivers that rest. Even the Eldest nearly perished in the journey back
+fractured the land invited the Deluge across such lowhome to claim indigenous “dead water” from its birthlying plains as the Danube Basin, the Po Valley and place. Its return to the Carpathians, how ever, heralded
+the Rhineland. Those who survived the swift rise in a greater flood of mortal herds and Cainites who had left
+waters fled to the highlands. Mortal and Cainites alike the Fertile Crescent in shame following Caine’s edict. sought refuge on higher and higher grounds, turning
+Knowing they faced a threat to the ir territories, the the Carpathians in particular into an is land ark ruled
+Tzimisce for tified the ir do mains and fell into is olationby the sovereign Tzimisce lords. The Fiends extended is m. As a unified front, they might have survived both
+hospitality to the ir new arrivals, taking in payment a mortal and Cainite claimants to the ir territory. Divided, sacrifice of one child from each family. To show the ir
+how ever, they all owed the ir brothers and sisters to fall compassion, they rarely took the first-born son. Inwhile protecting the ir own have ns through harsher
+stead, they claimed the you ngest for feast, experiment measures. The Eldest was the sole tie the clan’s members
+or servitude. In some cases, Tzimisce voivodes claimed had to any others of the ir bloodline. Self-evolution, like
+entire families from the larger tribes. Thus came the the quest for truth, proved a solitary path for many. The
+indentured servitude that would eventually give rise
+Tzimisce ruled from the ir is olated manses like tyrants to the revenant families. over the mortal communities blossoming at the ir feet. Following the flood, the Fiends not ed the passage
+The Antediluvian, how ever, knew a time would come of mortal tribes under the influence of solitary Gangrel
+when its clan would drift apart like flotsam. Already, its and Nosferatu from Enoch. The new tribes refused to pay
+childe Byelobog had retreated into the Pripet Marshes fealty to the Fiends and drifted through the Tzimisce’s
+while Yorak meditated deep with in the Carpathians, mountain passes with out of fering amends. The Tzimisce taking counsel directly from Kupala itself. claimed preeminence over the region — not unreasont e v
+able considering that they ruled the land in the centuries he Lde St ANi SheS before the fall of Enoch. they alone freed Kupala from
+An addendum by the Prince of Paupers, priest of the its prison and kept the Lupines at bay. The intruding
+Bloodfoot pack
+Cainites, in the ir arrogance, held that the world and all
+I completed my interrogation of Silas, a Salubri mortals came of Enoch and were, thus, by right, the irs. antitribu believed fallen with the remainder of the Sac They could go where they wished, and that included the
+rifice Covenant pack of New York. As we’ve suspected, do mains of the Tzimisce, who m they’d rarely encountered. the Salubri antitribu are privy to information that we’ve
+When the floodwaters receded, the Tzimisce lost only suspected until now. Our eldest Cainites always
+vast do mains to new mortal tribes who rushed into the void and took territory once held by Fiend-indentured
+families. The Gangrel were of little consequence, since K S
+OLdu NiC or Cery they wandered and rarely stayed in one location long
+We speak of Kupala and claim our koldunic enough to threaten the local blood-stock. It was the
+rites stave of f its infestation. We say it quiets our
+Nosferatu and the occasional Malkavian patrons who sleep when we rest in its soil. Ha! Our sorcery is
+proved difficult. The Fiends dealt with the se interlopof Kupala, surely, for that spirit is sovereign over ers and the ir servants harshly, whether through mortal
+all others in our cursed homeland. It hounds those tribal skirmishes or torture. they littered the ir borders
+who know not its craft, hoping to drive us to it. with still-living for ests of bodies impaled on bone trees
+And driven we are. We learn its spells and its way or fleshcrafted messengers to the backs of the ir horses
+with spirits to earn tranquility. Our knowledge of before sending the m riding back to the ir masters. koldunic rituals is not a bulwark against Kupala; our
+The Tzimisce eventually realized they could n’t rest is not a victory achieved. It is the demon’s gift
+slaughter everyone journeying through the ir do mains to us for being good and blind little sheep. lest the mortals unite against the m. they all owed the ir
+Chapter one: a rabble oF Fiends
+
+=== PAGE 15 === claimed that [Tzimisce] itself went into torpor shortly
+after Caine’s curse against us, but we lacked a reason, given that Yorak’s historical treatise was strangely incomplete. We now know why. Through Silas, one of the Salubri antitribu’s premier historians, I’ve uncovered
+the following. Although some claims lacks a degree of credibility, I include the m for the sake of the bishops
+and the ir superiors. It is not my place to judge. The Salubri, once healers, saw the for mation of the ir warrior sect through the efforts of Samiel, the ir first
+knight; this much we know. Samiel, in turn, launched a crusade against “the for ces of black magic” and Cainites
+tainted by the seed of heresy. From what I gather, someone betrayed us to the Salubri. Samiel learned of the Eldest’s
+bargain with Kupala and deemed the exchange infernal. The “great war” the Salubri spoke of was not against the mythical “Baali” (if they even existed at all), but
+against us! Samiel and his band of 15 (or seven — Silas is truculent) warriors made the ir way along the foot of
+the Carpathians, remaining hidden among the mass of mortal tribes streaming into the European continent
+and raiding the occasional Tzimisce stronghold to uncover the Eldest’s have n. Along the way, they secretly slaughtered our kind, mistakenly identifying our szlachta
+for demonic familiars and using that as irrefutable proof of our concourse with Hell. Silas’ tale, unfortunately, mixes legend with fact liberally, making truth all the
+more difficult to uncover. According to Silas, Samiel and his knights attacked the Eldest in his have n. After fighting past his “legions
+of fiends and devils,” Samiel brought a blazing sword to hand and slaughtered the Eldest with “righteous fire.”
+The Eldest, in a final act of defiance, smote Samiel by tearing his skull from with in his head, leaving but one
+knight to recount the tale afterward. The Salubri later realized the ir mistake, if they made a mistake at all, and quietly claimed Samiel died fighting the clan’s
+eternal enemy during the ir great war. Obviously, while some portions of the legend ring true, especially Silas’
+description of the Eldest’s have n and the servitors that
+Samiel fought, we know the Progenitor survived long enough to fall to Lugoj’s fangs. While it is possible that
+Samiel attacked the Eldest and injured it enough to place it in torpor, Samiel did not destroy the grand
+Fiend itself. d ri FtwOOd
+t zimiSCe
+by Bashtani Koudye of Tripoli
+Lambach Ruthven is fairly righteous, but part of me thinks he’s been smoking crack out of babies’ asses. I got
+Clanbook: tzimis Ce
+
+=== PAGE 16 === eastward Volga Basin remained Fiend territory, but the
+t e ’ F he Lde StS AteANd clan still pursued is olationist agendas and private venC d
+the hi LdreNOF rACON dettas. The Antediluvian’s fear that its progeny would
+Rise, Child of Dracon, for I speak of our Progeni- surrender to who lly esoteric pursuits proved correct. tor. The Eldest did indeed “perish” during Samiel’s Even Yorak and Byelobog retreated into the ir respective attack, but what is destruction to a creature of its realms and had little to do with one another. With safer
+power? The Progenitor survived through each seed passage available around the Carpathians by way of the that it implanted with in its progeny upon the Embrace Mediterranean Sea, Greece and Rome flourished into
+and with in the progeny of its progeny. It no longer expansive empires influenced by the other clans. Rome needed its own for m, for it could take shape with in witnessed some Tzimisce patronage under the Dracon, each of us, if it so wished. On Cyprus, the Dracon while other Fiends trickled out from the black deeps of
+felt the Eldest awaken and grow with in his belly. the Eastern for ests. The fact remained, how ever, that
+The Dracon took care to nurture the newly risen the Carpathian Cainites is olated the mselves from the
+Progenitor. After birthing it, the Dracon smuggled world. This is why they lost territory to the ir rivals. the fetal Antediluvian back to the Carpathians and First Mycenaean, the n Hellenistic Greece ruled over placed it under the Methuselah Yorak’s care, deep portions of Europe, but they never advanced toward
+with in the bowels of the mountains. the Carpathians. The Romans, in turn, expanded the ir
+While the torpid embryo slept and grew in the empire further, prostrating the mselves at the feet of the befouled soil like a seed, the demon Kupala whispered mountain chain. Even they stopped from ascending
+her slopes, how ever. From the Celts to the Slavs and into the Eldest’s ears, as it had do ne with Yorak. To
+Goths, the Carpathians remained untenable. This is n’t what avail, I know not, but few can with stand centuries
+to say the Tzimisce stayed do rmant or idle during this of discourse with demons and come away untouched. period. In truth, they ruled the land as near gods and
+Suffice it to say that our understanding of koldunic came to influence the surrounding tribes with growing
+ways became far greater. As the soil and flora rotted proficiency. As individuals, the Tzimisce accomplished
+further, our familiarity with the demon’s paths grew much, than ks to the Dracon, Shaagra and Radu, but as a
+effortless. That is why the Children of Dracon do not clan, they rarely worked together to any real conclusion. tap the fetid magics of Kupala. That was not a gift of
+Yorak’s disinterest in leading the Fiends as the regional
+[Tzimisce] itself and came only through a malignant
+Voivode among Voivodes did n’t help either. demon who se touch never left the Romanian soil. The eldest of the region’s Tzimisce, Yorak assumed the Voivodate following the Progenitor’s fall into torpor. a look at his precious journal when he was n’t around, and
+He stayed in the caves where Kupala whispered loudest the re’s some wild shit in the re. He claims he saw Lugoj
+and concentrated on other matters, such as enslaving
+Blood-breaker commit Amaranth on the Eldest itself before tribes of Slavs, Celts and the occasional Thracian clan
+the Antediluvian went ahead and pulled a fast one on him. for his experiments. He fully believed in Azhi Dahaka, That means that Lugoj, who’s in torpor somewhere in the the ecstatic state that the Eldest itself sought to uncover. Carpathians, is actually Tzimisce now. All right, cool, He spent his lifetimes with in the labyrinthine Carpathwhatever. Later, Lambach tells me the Eldest’s a mutated
+ians, exploring the world through his mental Disciplines, fucking patch of out-of-control can nabis living beneath even though he’d long ago abandoned interest in the
+New York and spreading through the sewers like a weed. I outside realms. know, to you this sounds like moist and runny shit, but you
+Over the centuries, Yorak constructed his Cathedral got to respect the fact that we can do some scary-ass stuff. of Flesh. Rivaling the Hanging Gardens of Babylon and
+Lambach’s tale means one of two things. One, he took a the Christian monuments to come later, this magnum
+big hit of f that baby but t, or two, the legends our sire told opus to pain and suffering became the center of Metaus were true…. What!? You know which one. I’m talking
+morphosist thought and worship. Yorak built it over the about where Tzimisce can manifest in any of us and turn
+course of centuries, through do zens of caverns and with us into it. If that’s true, the n the re’s at least two Tzimisce
+thousands of victims. For a while, the Tzimisce pursued
+Antediluvians running around right now, and we’re do ubly the ir agendas and paid little heed to the world growscrewed. What? What d’ya mean “Be a good lad”? What
+ing on the horizon’s edge. When Yorak and the others the fuck are you talking…. Holy sh—
+learned that Rome owed its glory in part to Cainites, — Kaleel Bratovitch, Tzimisce kennel master, deceased how ever, they realized they could no longer lurk in
+With the Eldest under the sleep of ages, its childer the shadows like the Lasombra. Certainly, the Roman
+with drew from the world. The Carpathians and the
+Empire did not expand beyond the Danube Basin, but
+Chapter one: a rabble oF Fiends
+
+=== PAGE 17 === empires would contest the might of the Fiends. In turn, t C F
+he AthedrALOF Le Sh the se new sovereignties would bring with the m Cainites
+hungry for the clan’s do main. As it was, the Romans It was magnificent. Thick stalagmites and stalacwere uncomfortably close because few Tzimisce did tites for med the pillars, with bone trusses over which anything to halt the ir incursions. limestone grew and for med an osseous mix of liquid
+Yorak wisely realized that politics and kingly matters architecture. Either skulls — with the ir eyes and surwere far outside his expertise or skill. Both the koldun rounding musculature still intact — or cartilage — thin and he preferred the ir studies to affecting mortal af- enough to behold the sea of viscera and floating or gans
+fairs and stemming Cainite incursion into the ir lands. comprised the walls; scores of ghouls moistened the
+Instead, he chose to Embrace the influential members eyes so they could blink properly. Even more revenants of the regional tribes and task the m with that which conducted the ritual tattooing by drawing charcoaldid not interest him. dusted threads through the ir victim’s skin with bone
+needles. Later, Yorak and his childer would carefully
+S: t N d hAAgrA he ew ire CtiON
+slough the flesh from the ir screaming sacrifices, treat
+Yorak’s decision to strengthen his brood’s do mains the fresh can vas in a preservative and stretch it over in the region came at a for tuitous time. Change gripped the windows like a mosaic. The cathedral had so many
+the known world. To the farthest East, the Hunnite wonders, like the blood pool lined with sitting victims
+Empire fell to the Chinese at the start of the Christian who m you could use as chairs, the pillars of grafted calendar, sending the Huns into nomadic exile. they bodies, the walls of mouths that sang a wailing chorus
+swiftly spread west, so that, by AD 375, they arrived in as you passed the m or the open gallery where corpses the Ukraine, where they displaced the Ostrogoths and remained impaled on stalactites. Visigoths with the ir lighting-fast raids. The Ostrogoths Such wonders. It’s a pity the modern nights could
+petitioned Emperor Valens for settlement in Moesia, but not support such beauty openly. Truthfully, nobody when he demanded they surrender the ir wives and chil- knows where the Cathedral of Flesh is anymore; it’s
+dren, the inevitable clash resulted in a stunning Roman apparently vanished. Where once it stood, I’m told, loss. The story later repeated itself with the Visigoths. rests naught but a gaping hole. Clanbook: tzimis Ce
+
+=== PAGE 18 ===
+Meanwhile, any hope that the Roman Empire could — and Lambach Ruthven wanted Shaagra for the mselves. rise from its ashes died with Constantine’s ill-chosen Yorak, how ever, chose Triglav as second in line among heirs. Rome was on the decline, and its resident Ventrue, the local Fiends and all owed him the Embrace. Lambach
+Toreador and Malkavians had lost control to a squabbling would never for get that slight, and its repercussions would host of Cainite detractors and to the unlikely strength of certainly echo do wn history’s corridor. a Hebraic cult. The city’s eldest fled in droves, sending Shaagra never knew her sire. Once educated in the
+Europe into a decaying spiral. The periphery of the Ro- craft of the Tzimisce and for ced into the blood oath, she man Empire crumbled and regional Damned panicked. and her tribe followed her granddaughter and favored
+they knew the Germanic tribes prepared for massacre and ghoul, Libussa, into the Danube Plain. Traveling in the pillage, and many sought diplomacy with the previously century-long wake of marauding tribes and bands, the
+is olated Tzimisce. For once, the other clans treated the Vroi eventually settled upon land that would become
+Fiends as potential all ies and not an Eastern frontier threat. Prague, the westernmost point of Carpathian Tzimisce
+The Tzimisce, in turn, not iced the flood of human- influence. It would serve as a border against Western ity streaming through the ir northernmost borders. The interests and become one of many flash points in the
+tribes and federations of Hun-displaced nomads fought Tremere-Tzimisce conflict. Shaagra herself slept in fitful and intermingled, as was expected, but the Gangrel of torpor, growing steadily insane in the blackened soil of
+the steppes and disenfranchised Brujah accompanied Kupala’s violation. Her Embrace, how ever, precipitated the m. Yorak met with several Gangrel chieftains and the Tzimisce practice of claiming stock from noble
+promised the m unmolested passage through the Car- families and tribal leaders to better influence the region’s pathians’ Tihuta Pass; in return, they promised to incite mortals. This brought a new breed of Fiends into the
+warfare against the Roman settlements along the ir routes. clan’s hierarchy. Tzimisce like Radu, Wladymir Rusto Yorak sought to regain the territory the clan lost with vitch and Dracula provide but a sample of the do zen the arrival of the Ventrue and Malkavians. The spread who played the parts of nobility and engaged in games
+of the tribes turned into a wave that tainted everything of political intrigue against the regional Ventrue and ahead of it. In the wake of that chaos, Yorak sent in Brujah at the time better than the ir sires had. The clan
+Tzimisce to reclaim the ir for mer estates. broke its mold of cackling fiends and incomprehensible
+Shaagra’s Embrace heralded the Tzimisce’s golden Metamorphosists and emerged from its is olationism, age and centuries of the Fiends’ do minion over Eastern albeit fractured and of opposing agendas. Europe. Yorak understood that the wandering Hun, t z he AdrugA
+Slavic and Goth tribes would eventually become the
+Eli Dragsky, Priscus of Moscow new landholders of what ever territory they settled. It
+had happened before with the Scythians and Hallstatt Sorry if I’m not poetic, but I’m a scholar, not a writer. in the centuries preceding the White Christ’s birth, You’ll also not e that I’m against the concept of revenant and it would happen again, given Europe’s virgin ex- families for a variety of reasons. We all know that, for
+panses. the or etically, by influencing the tribes now, the centuries, Tzimisce such as Yorak and the Dracon bound
+Tzimisce could establish the mselves as the preeminent entire families into tortured slavery under the eupheclan of the region. mism zadruga, or “joint family.” Convenience first for ged this practice because it proved easier to raise servants
+The Slav Shaagra came from the Vroi tribe and in an environment of horror than to train continually
+ruled as the ir goddess, leader and mystic. Her people relative newcomers to accept what they saw. Eventufled westward after her tribe had suffered under the
+all y, the se ghouls, whether through the haunted soil of harsh ministrations of a larger tribe. When they reached
+the Carpathians or from centuries of weathering the the Carpathians, Yorak took not ice of Shaagra. She
+blood bond, managed to pass the ir half-Damned state held concourse with potent spirits and possessed a
+on to the ir children, thus for ming revenants. Yorak’s beacon soul. Yorak sensed Shaagra’s potent magic and
+childer spoke of ancient ghoul families predating the the supernatural creatures she entertained as counsel. Great Flood, though the ir fates before Christ’s birth
+Shaagra commanded strong respect from her people, are a little nebulous. Given the deformities that we’re and possessed the vision as shaman to appeal to the
+seeing emerge from our own families, how ever, I think
+Tzimisce’s sense of Azhi Dahaka. Yorak accepted her they simply became too genetically polluted to breed
+for the Embrace, but he did not take her. anymore. Sorry, but if the Bratovitches are an indication
+Although he was the voivode of the region, other of what we can expect, the n they pose a danger to our
+Tzimisce Methuselahs shared Yorak’s age. While Byelobog existence. they’re becoming wild and unpredictable; remained aloof, both Triglav the Three-Headed — who
+the suicide/murder rate among the Bratovitches alone earned mythological reverence among the regional tribes
+Chapter one: a rabble oF Fiends
+
+=== PAGE 19 ===
+Og Atyri
+Before the revenants, the szlachta, the vozhd and for it, the skin pouch crawled over the ir faces and the ghouls came the bogatyri, the Eldest’s champions. gave the m the countenance of the Eldest. the ir
+Yorak asserted the bogatyri were not kine, Lupine for earm bones extended into blades, while the ir or Cainite. Although they appeared mortal, they tongues darted out like daggers. When the Eldest fell
+claimed lineage from Meru, a mystical mountain in to Samiel, the bogatyri scattered to the four winds
+India and supposed birthplace of the Arioi (what to find it. they never returned, even after Yorak occult-scholars would later call the mythical Aryan sent the m messages that the Dracon had carried
+race). Metal refused to cut the ir unblemished skin the Eldest to term. while stone and wood for eswore never to bruise the m. Lambach believes the bogatyri split and now
+The bogatyri came into [Tzimisce’s] service when guard the different manifestations of the Eldest itself. the Great Flood was hed a band of the m against the Certainly, Lambach saw someone of indescribable
+Carpathians. In return for the Eldest’s hospitality purity watching over the Eldest (in its guise as Luand succor, they of fered the ir all egiance. goj) and again caught glimpse of another beneath
+Each bogatyri possessed a skin pouch holding the tunnels of New York. Certainly.… the flesh of the Antediluvian — when they fought
+is staggering, and more than a few revenants have acci- legionnaires. The Basarab retained the ir nobility and land dentally attracted hunters and, sometimes, the media to holdings during the ir existence as revenants. Unlike the
+our do orsteps. they’re walking time bombs, and frankly, other families, they later married into Szekler stock and that’s the least of our worries from the m. for estalled the onset of deformity. As warriors and strate The modern revenant lines trace the ir history to gists par excellence, they could have served the Sabbat as
+the tribes of Slavs and Celts once living in the Danube near equals, had “great” Dracula himself not been born and Volga basins. The eldest known family, the Basarab, Basarab and Embraced. The mortal Dracula murdered
+claimed joint lineage from Dacian royalty and Roman a number of us in his quest for immortality and greater
+Clanbook: tzimis Ce
+
+=== PAGE 20 === influence over regional politics. He even for ced his way
+m B iLKANd LOOd
+into the clan by threatening Lambach with destruction. Because of Dracula’s actions, we hunted do wn the entire I once witnessed how the revenants blood-tied revenant line and destroyed the m to the last ghoul, just the ir own children in service to the ir lords. The
+to make a lesson of the m. If you think this was an is o- mother, her breasts heavy with milk, partook of lated incident, think again. This is n’t the first time we’ve her lord’s vitae, the n fed her child. As the infant
+Embraced revenants, and it is n’t the first time they’ve suckled at her teat, she with drew a knife and made threatened to betray the clan or sect. We of ten fail to a tiny incision just above her nipple (amid a sea of
+realize that the se creatures possess a dangerous degree of scars). Her blood flowed freely over her breast and knowledge and many even hate us. We’ve made slaves of into the child’s mouth, while it lapped the muddy
+the se families for centuries, and the n, we Embrace the m mixture of the two. and of fer the m stakes? Just how foolish are we? The Basarab are n’t the only fallen lines — what about dissidents, detractors and anyone he considered an enemy the Danislav? the se for mer kin to the Lupines betrayed of the state. Called the Oprichniki, the se mortal agents
+and destroyed Count Florescu before we annihilated the m. sowed fear and discord throughout the countryside in a
+The Krevcheski were our greatest traitors. As clockwork campaign of legitimized murder. Eventually, the insane masons and siege engineers, they broke the ir oaths and al- Ivan even turned his men against each other. We were
+lied the mselves with the loathsome Tremere. We thought wise not to Embrace this syphilis-induced madman (leave we destroyed the m during the Renaissance, but now, I’m him for the Ventrue!), but we did bring the surviving
+hearing conflicting rumors that some still serve the Coun- Oprichniki under our sway. After all, the horrors of Ivan’s cil of Seven or that they’ve betrayed the Tremere as well torture chambers had already inured the m to violence. and for med a minor bloodline of sorcerers skilled in both My problem is this; the Oprichniki served us well
+Thaumaturgy and koldunic ways. What about the albino until Communism usurped White Russia. Afterward, Khazi who served the “White God” Byelobog? We’ve they stayed behind the Iron Curtain, hidden from the heard continued all egations that one of the m betrayed Sabbat until the collapse of the USSR. Since the n, the ir master to the Teutonic Knights, which weakened they’ve stayed in Russia and Romania, serving our
+him enough for Lugoj to diablerize him later. Unfortu- “comrades” with in the or adea League (essentially, nately, we can’t confirm this because the Khazi died at the non-Sabbat Tzimisce). That means we do n’t have the hands of the Teutonic Knights during the fighting or the full loyalty of the se ghouls, and that makes the m
+in subsequent Crusades by the Christian Church. How potentially dangerous. Additionally, we might suffer many more families must betray us before we smarten up? swift reprisal from the Sabbat should it learn we kept
+Look at the revenants that survive into the new this line hidden from the sect. they pose a danger to millennium; they are a fucking pitiful lot, numbering the us, one we should eliminate immediately. Bratovitch, Grimaldi, Obertus, Zantosa and Oprichniki. t r
+he e BeLLiON
+The hedonistic Szantovitch (Zantosa, if you prefer the ir modern incarnation) may have been great spies once, but
+by Devin and Alison Markbury of London the nights of noble Poland and Bohemia are gone. Even
+Before the Sabbat came, the elder Tzimisce always the n, they were too independent; now, they’re close to
+abused the ir authority over the ir progeny. Being a Fiend extinction and useless in the modern nights. That makes
+meant surviving 100 hells and 1,000 degradations, just to the m desperate and dangerous. The Bratovitches have
+claim some measure of autonomy. Unfortunately, from always been our do gs of war, and unfortunately, they’re
+the time the Ventrue under Nova Arpad came to influence acting like it too. Only the Italian-born Grimaldi and the
+the Carpathian nights, the elder Tzimisce thought of the ir scholarly Obertus have managed to serve us loyally, while
+progeny as not hing more than nocked arrows ready for the still staying hidden. Still, you do n’t think the Giovanni
+flight. The inter-clan conflicts alone claimed the ir score of have n’t been trying to woo the Grimaldi from us or that
+neonates, to say not hing of the Tzimisce-Tremere enmity. the Obertus do n’t still spy for the Dracon from the ir nights in Constantinople? It won’t take much for either — Velya the Vivisectionist, Cardinal of the Land
+family to betray us, you know. Beyond the for est
+Of final not e are the Oprichniki; this lot troubles me. Cainite scholars say Patricia Bollingbroke started
+The Oprichniki are the you ngest of the revenants, with a the Anarch Revolt under the name Tyler and led her history dating back only to the 16th century, during the band of berserks against Hardestadt of Clan Ventrue in
+reign of Ivan the Terrible. This Russian dictator ruled 1395. Actually, the Anarch Movement began earlier over Oprichnina and used his secret police to ferret out by a few centuries. The appearance of the Usurper
+Chapter one: a rabble oF Fiends
+
+=== PAGE 21 ===
+Tremere sparked a hidden war against us for control of
+F r the mystically infused Carpathians. Both sides wanted iNAL eve Nge
+a slice of Kupala’s power, and the only way to gain You want to know why I’m laughing? Cause that was to squat on his territory. Despite our efforts this shit’s hilarious. I’d been hearing rumors saying
+to stop the m, the Tremere for ged all iances with the that some Tzimisce pointed the Tremere Goratrix
+Ventrue and other clans to dispose of us politically. toward the Embrace. At first, I wondered why
+Transylvania, at this point, fell into seven “unofficial” somebody would be that stupid, the n it hit me; it do mains that the clans claimed as the irs. By 1197, the was pure genius. The Tremere took the ir first blood
+number dropped to four, with three realms left to rot from a Tzimisce before Tremere himself drained with out voivodes. Although we still held the greatest Saulot. That means the entire clan has portions of
+power over Transylvania, internal bickering pretty the [Tzimisce] in the m. When the Eldest emerges much kneecapped our efforts. I’m surprised we stayed from torpor, both clans are going to be eaten inside
+in control at all. The Tremere hooked up with the fucking out… And who says we do n’t have patience
+Arpad Ventrue, who claimed lineage from the Magyar or cunning when it comes to revenge? tribes that invaded the Carpathian basin in AD 948. Staking land in the heart of Tzimisce territory, Nova
+Obertus flock in Constantinople. Matters finally hit
+Arpad proved a pain in our arse and outplayed us rock bottom when the Dracon Embraced a you ng man
+politically. Of course, when diplomacy and all iances named Gesu (who sired his own brother Symeon, thus
+failed, the Tremere bushwhacked our keeps with the ir leading to the Embrace of Myca Vykos, an esteemed
+Gargoyles. Our elders countered with the ir szlachta priscus). Prior to all this, Gesu had nightmarish visions
+and even sacrificed a thrall or two to save the ir arses. concerning the “evils of the land” (read: Kupala), and
+Cainite ash rolled with the Carpathian mists in those upon “Becoming,” he fell into an odd torpor. The Dranights, and the lucky neonates survived a week. con blamed Gesu’s condition on the Balkan Tzimisce
+Internally, we screwed ourselves over bad. A host of and left Constantinople to attack his Carpathian
+Tzimisce marked the ir territories in blood and tolerated cousins. In a fit of fury, he bushwhacked Triglav the little interference from the ir own kind. Radu, Marelle, Three-Headed, an accomplished koldun, and following
+Razkolina and Darvag played gods in the ir do main a fierce battle that decimated the tirsa, deprived Triglav and felt no obligation to help each other. Yorak did n’t of his namesakes. The Balkan Tzimisce retaliated by
+care enough to help the situation, and when he did, destroying Byzantine-Akoimetai monasteries outside he nominated Vladimir Rustovitch as his “successor,” Constantinople. This is how the Obertus revenants
+what ever that meant. The other Tzimisce ignored Rus- found the mselves as lock, stock and property of the tovitch’s shiny title Voivode among Voivodes because it entire clan. The rift between our koldun siblings and
+did n’t mean shit with out Fiends like Yorak or Byelobog the Children of Dracon never healed. Oh, they’re civil to back up the claim. It’s also not eworthy that he never to each other now, but I do n’t want to be the re when
+claimed that title for himself — somebody called him the se two factions meet in an is olated all ey. voivode, and it stuck, but not with the recognition of
+Meanwhile, in the mortal world, where the vast the older Fiends. In the middle of all this, naturally, the
+Roman Empire failed to conquer, Christianity boldly
+Nosferatu master mason Zelios caught us by surprise after marched. The northern lands of Denmark, Norway
+he built a series of castles across Transylvania. The first and Sweden fell to the martyr’s religion. The local
+of the m, overlooking the precious Tihuta Pass in the
+Tzimisce, such as the Fiend-witch Gunnhild, found
+Carpathians, acted as a floodgate against the Mongol the ir hlaut blood magic of little use against the papal
+tide sweeping through the East. We did n’t realize it at champion Olaf Tryggvason. Christianity was the most
+the time, but the castles actually for med a geomantic effective siege engine Cainites had ever encountered. web of ley lines that tethered the castles together and
+The Toreador borrowed or influenced its artistic and trapped Kupala. architectural development. The Ventrue embraced
+Actually, I say we did n’t know, but some of us did. the language of the litany before all others had and
+Zelios had the support of the Tzimisce Methuselah, assumed positions of power when the Church con Dracon, who’d been but ting heads with his Carpathian verted kingdoms and standardized the state language brethren since settling in Constantinople. The Dracon, to Latin. The Lasombra also touched on the Church’s
+a principle founder of the city, regularly spoke out hierarchy from the top do wn, while the Malkavians against Kupala and our use of koldunic sorcery. What inspired heresies with the ir conniving tongues. To
+started as civil arguments and debates broke into open add insult to injury, the great Byelobog nearly fell to conflict between the Carpathian Tzimisce and the Teutonic Knights who braved the Pripet Marshes, and
+Clanbook: tzimis Ce
+
+=== PAGE 22 === weakened the Methuselah enough for Lugoj Blood- who’s been around longer than most or ganized religions. breaker to take him do wn later on. Sure, Lambach plays the fool, but I think he’s playing
+The Mongols arrival in 1241 did n’t help much other folks even more. He attended Kupala’s Eve when either. Like a tide, they swept through Eastern Europe the Tzimisce broke the ancient blood oaths and made
+and back out again in just a year, leaving Transylvania everyone equal. Not once did he consider himself the broken and easy pickings for other Cainites to claim. The enemy, and in truth, neither did the anarchs. Lambach
+Mongols shattered our holdings throughout the region never abused his power or esteem as Methuselah. Frankly, and nearly destroyed Darvag Grozny, the but cher of Rus, with out his vitae, many Fiends do ubted they could have who remained in Torpor till the rise of Baba Yaga and the broken the ir blood ties. Lambach was like the catalyst
+fall of Communism. The old guard changed, especially of the entire process. after the attack on Byelobog, and the you ng Tzimisce While the anarch Tzimisce took the ir sweet time had good reason to hope the ir indentured servitude was getting into the revolt, when they did, they did it with
+near an end. the ir masters, how ever, seeing the same both feet. Oh, did I also mention they did it disorgachanges happen to the world, tightened the ir grips over nized as hell? Once free of the blood oaths, the you ng the ir thralls. It did n’t take long before violence erupted. Tzimisce decided to try out independence at breakneck
+Lugoj Blood-breaker, the first voice of Tzimisce speed and scattered in a do zen different directions. Yes, dissent, traced his lineage back to Noriz, the so-called I know Sabbat history recounts the glorious war in
+Corrupter of Legions. Although Noriz strode across more reverent terms, but the truth is, we acted like wild
+Moldavia, conquering the tirsas of rival Cainites, he teenagers more than Fiends. I’m surprised the Tzimisce built his ladder to power from the spines of his childer elders did n’t slap do wn the entire movement, but they
+and grandchilder. After he avoided destruction once too of ten, Lugoj and his siblings vowed never to be m Ad r AmBLi NgS? anyone’s pawns again. Unfortunately, the Tzimisce
+I know what history says, but I do n’t believe anchored the ir loyalties with a million different hooks, its lies so easily. I knew the sycophant Lugoj, and
+and freedom of ten took planning. he served his masters eagerly. He claims Velya and
+It took another century before the time was right, if he discovered Kupala’s treasure in a for gotten and not critical. Tyler, leading the Anarch Revolt, attacked desecrated mountain monastery. It grew through the
+the Ventrue potentate Hardestadt, while the Ottomans crack of the chapel floor, and degenerate creatures, (who brought with the m the rapacious Assamites) ate once monks, later Tzimisce and the n Kupala’s minaway at the borders of Eastern Europe. The Inquisi- ions guarded it jealously. Lugoj claims they barely tion ensured that Western Europe fared no better and escaped with the ir unlives. Lies. Lugoj played the
+claimed scores of you ng Cainites. the n news came lackey for his master, the Eldest, and found Kupala’s that the Lasombra, under the leadership of Gratiano, heart only because the Eldest so guided him. I tell you
+had not only joined the anarchs but also managed to this because Yorak shared the truth with me ages ago. diablerize the ir Antediluvian as well. you ng Tzimisce Had Lugoj and Velya followed the flower’s winding had already spent decades searching the Carpathians for veins through the crack of the monastery’s floors, they
+the rare and profane bloom known as Kupala’s sacred would have chased it into the deepest intestines of fire-flower, an artifact that Fiends hoped would help Yorak’s do main, into his Cathedral of Flesh. shatter the ir ties to the ir elders. When two Tzimisce, Why foster this duplicity when it eventually de Lugoj and his all y Velya the Flayer, finally found the stroyed a score of Tzimisce, you ask? Because Kupala’s
+sacred fire-flower, they gathered on Kupala’s Eve and sacred “fire flower” was, in fact, a portion of the Eldest’s broke the blood-oaths hanging over everyone’s heads. newest for m, a precursor to the horror dwelling in
+The Tzimisce revolt was under way. the sewers of New York. do n’t believe me, but ask t A r Lambach what he witnessed in the sewers, and watch
+he NAr Ch evOLt him stutter. The Eldest all owed Lugoj to take of itself
+If you want to know more about the Anarch Revolt so that it could shatter any for mer all iances shared by and for mation of the Sabbat, talk to Lambach Ruthven. its progeny. It imparted its seeds in new generations of
+He had a hand in both events and is n’t as likely to rip Tzimisce, binding the m to it alone when it so chose. you r head of f as Velya and that psychotic babbling Ironically, the Tzimisce shared of the ir blood in a harridan on his back. Lambach, the product of ancient subsequent ritus, thus turning the Sabbat (as opposed
+Carpathian nobility, is the guy you have to watch out to the clan alone) into the Eldest’s harvest. And when for though. The older Sabbat consider him a goof and the thing beneath New York grows hungry, who do
+screw-up, but frankly, I’m not saying that to any Fiend you think it will summon to feast upon? Chapter one: a rabble oF Fiends
+
+=== PAGE 23 === were n’t any better or ganized and did n’t take the revolt sion, and any Tzimisce still in “power” was the lord of
+seriously enough. they did later, when the anarchs flotsam scattered across a huge ocean. Worse yet, the attacked several Carpathian keeps in the span of a few Camarilla had appropriately risen like a phoenix from
+months and burned do wn those they could n’t breach. the Council of Ashes that tried to extend its influence
+Tzimisce elders retaliated through the various av- into Transylvania and mandated a policy of Masquerade. enues open to the m. Some bribed the anarchs to look The final blow came at the Convention of Thorns the other way, others defended the mselves behind walls in the year following Columbus’ discovery of the New
+of szlachta or used the ir revenants on suicide missions World, when the anarchs surrendered the ir grievances to eliminate particularly truculent childer. Again, the and the Assamites accepted the blood curse. The terms
+efforts to fight the anarchs proved too little, too late, of acquiescence would have seen Transylvania fall from too scattered. At this point, Mehmet II laid was te to the Tzimisce and into the hands of the ir rivals, the
+Constantinople, the Christian bastion. During the Tremere. Was it any wonder the Convention of Thorns
+Tzimisce’s civil war across Europe, they ignored the alienated us and the aristocratic Keepers? I even think real-world problems thundering around the m. The Turks the Camarilla did this deliberately to is olate the two
+threatened Europe, and only the continued struggle clans because we dared to destroy our Eldest. In the along the eastern borders kept the m at bay. when ever end, it did n’t really matter; we never would have joined
+the Christian and Muslim empires collided, how ever, the the Camarilla for various reasons. Our elders hated the anarchs stepped into the chaos and rode the mayhem. Tremere, and the very fact that they stood as equals
+Unfortunately, they substituted one master, in the for m in this new all iance served as an affront to us (not to of the ir sires, for another, in the for m of the Ventrue mention that joining the Camarilla meant giving up
+and Assamites. territory and the ir rights as nobles). Conversely, our
+The Fiends’ rebellion did more to destabilize the you ng members fought too hard and for too long to region than any Mongol horde had ever do ne. they abandon the ir cause. foolishly all owed lesser and of ten weaker nobility to for tunately for us, the same predicament bothered
+escape retribution whether because boyars bribed the m the Lasombra. Because we both destroyed our elders with or suddenly shifted all egiance. Meanwhile, the anarchs such abandon during the revolt, that made us Cainites
+destroyed many of the potent elders who of ten protected non gratae in the esteem of the Camarilla’s clans. A cothe clan’s ancestral do mains against the depredations of alition of Tzimisce met with as many Lasombra on the the Tremere and Ventrue. The final blow to the Tzimisce is land of Mallorca, and after arguing over statement of
+came when both Byelobog and the Eldest itself fell to purpose and ideology, we agreed to support one another. diablerie. Yorak had already reputedly fallen, though While the Convention of Thorns’ delegates signed the ir the culprit remains a mystery, while the Dracon was legacies away, we denounced the Camarilla and for med
+nowhere to be found. While this seemed like a victory the nascent Sabbat in defiance of both the seven-clan at the time, the truth is, by destroying our strongest all iance and the mortal Inquisition. members or driving the m into hiding, we made it easier t S
+he ABBAt for the other clans to walk all over us. Sure, the Ventrue
+and Tremere say we should be held accountable for our When we first started this little venture known as crimes, but the fact remains that they benefited more the Sabbat, I think we romanticized our struggle a bit
+than anyone else did. too much. We played the rogue and renegade generals
+By this time, the anarchs suffered a series of defeats seeking to wrest the kingdom from the control of the at the hands of the nascent Camarilla and its potent evil emperor. If any solemnity came into play, it was
+elders. The Inquisition swung its scythe with renewed than ks to the surprising recruitment of some of our for mer vigor following the release of Malleus Maleficarum (the enemies, the elders. Not everyone signed up, but when
+so-called Hammer of Witches) and reaped season upon one of the eldest Fiends — Rustovitch — joined the season of Cainite crop. Meanwhile, we discovered Sabbat, he brought with him the respectability of the
+that our peers and even elders were ready to listen to entire clan. Slowly, our war against the elders ceased, reason, if only because over the last four centuries we’d and both sides came to an understanding. Those who lost many of our Carpathian demesnes. Pushed back did not join us generally excused the mselves from our
+at every front, we did poorly in the struggle against affairs and paid for the ir independence by turning the ir the now-legitimized Tremere; we squandered territory revenant families over to the Sabbat cause. It was a small
+and szlachta on the Ventrue and watched Christianity price to pay for the ir safety, and we benefited greatly destroy our pagan followers. Eastern Europe served as from the Bratovitch’s kennel masters and the Obertus’
+not hing more than a bulwark against or iental aggres- disquieting skill with occult matters. In return, we did n’t
+Clanbook: tzimis Ce
+
+=== PAGE 24 ===
+Following the Convention of Thorns, the Camarilla
+L ’ p
+AmBAChS urpOSe foolishly believed they’d settled the anarch is sue. In the
+[Tzimisce] saw something in Lambach Ruthven following 50 years, how ever, we, along with the Lasombra to consider him worthy of Becoming. Lambach has and the newly christened antitribu, launched a series of
+reputedly seen the Antediluvian twice in recent raids against “Kindred” holdings. It was not hing short times; once when Lugoj “drained” it and a second of war, and while the Camarilla reeled from blow after
+time beneath New York’s streets. Both times, he blow against the Masquerade itself, we still lost territory to outsiders, especially the barbaric Assamites. Finally, survived, even though he saw things he should not
+the Camarilla grasped the nature of the conflict and have. The question, how ever, remains: Why? Unturned the tables on us. Using the ir extensive mortal
+beknownst to anyone, including Lambach himself, influences, the Camarilla besieged Transylvania with he is the Eldest’s chronicler. He is the eyes and ears
+diplomatic censure, trade embargoes and mortal poliof his master and do cuments the clan’s actions while tics. Tzimisce lords suddenly found the mselves bereft
+the Antediluvian remains in torpor. Occasionally, of kine all ies or the support of neighboring villages that when danger is about to befall Lambach, the Eldest
+once feared the m. We prided ourselves as being above imbues him with a portion of its strength or power to
+mortal concerns, so we certainly did n’t expect the blow all ow him to escape and run. Lambach will survive
+to wound us so grievously. until the end times; he will be the last Tzimisce to do mains that had belonged to us for millennia in
+fall to the internal scourge of his sire’s million-fold the counting now went to others. Several of us fled the
+teeth. Until the n, he is truly immortal; the Eldest
+Carpathians to the northern was tes of Scandinavia. We will not let him perish. were not alone either. The Camarilla had routed the
+Sabbat across Europe. By the beginning of the 17th bother the elders anymore. This was not solidarity so
+century, Europe was a new place, and if we had any much as an acknowledgement that we had to stop
+do ubts as to our loyalties, they evaporated when we bid bushwhacking each other. our have ns farewell. Meanwhile, the Sabbat-aligned koldun and Metat S ’
+morphosists understood the Tzimisce’s importance in he ABBAt S this new rebellion. If the Lasombra of fered structure
+S and cohesion to anarchs, the n the Tzimisce had to trugg Le
+strengthen the all iance in some capacity. While this never manifested as an open statement of purpose, By and rea Leehorn, priscus
+various Fiends did direct the Sabbat (through the ir Dracula? Ooh, honey, and where’s the rest of his friends? packs) toward the spiritual nature of Cainite existence You know, Booberry and Frankenberry? Girl, I’m just too and twisted the Inquisition’s piety into the sect’s new damn funny. standard. When packs met, they exchanged ideas and — Mr. Misster, pack priest for the Sacred Band
+rites, and soon, the more popular practices proliferated The Sabbat, still you ng by the measure of Cainites, throughout the Sabbat. The Befouler pack of Worms found an unusual all y in Gunnhild and her progeny who’d helped foster mass Embraces, a precept where no one survived in the Baltic lands for centuries. Accustomed
+vampire claimed patronage over another. The Carpath- to the lap of Carpathian luxury, we did not realize that ian War do gs introduced a nascent for m of Creation in other places, we did not master all we surveyed. This
+Rites (what they called “blood baptisms”), where, like provided us with the catalyst to stop seeing the liberation the old axiom that an entire village raises a child, each of Transylvania as our sole end with in the Sabbat. Until
+neonate is childer to the Sabbat as a who le. Other Tzi- now, we, as Carpathian Tzimisce, believed ourselves misce packs introduced various Trials by or deal and War, the sole contributors to the sect, but with our exile into
+the two methods by which Fiends settled the ir disputes Scandinavia, we encountered our for gotten kinsmen. in centuries past. they borrowed from the not ion of
+Gunnhild, the “Mother of Kings” and Fiendsurvival of the fittest, and this idea played heavily in witch, and her brood had found acceptance among the
+Creation Rites as well; the Embrace did not guarantee wayfaring Gangrel Vikings centuries ago. or iginally a
+subsistence. Soon afterward, we refined the Vaulderie
+Finnish witch, she married Eric Bloodaxe and fought and ensured its practice throughout the Sabbat. Even
+the Christian advance of Olaf Tryggvason before her later, we fostered the new Paths of Enlightenment, Embrace. Although her struggle and use of blood magic
+those contemporary and mutable guideposts in a quickly eventually failed to stop her people’s conversion, she
+evolving world. survived well past the fall of Uppsala, the sacred royal
+Chapter one: a rabble oF Fiends
+
+=== PAGE 25 === t p r
+he uppet OOm
+It’s in some mansion just outside the city. It invited my pack over for a private ritus one night, but I’m telling you, I’m never going back. Grating
+covered the entire ceiling and they never showed us the second floor. In fact, it stayed upstairs as well and
+spoke to us through the grate. I still remember that foul smelling shit that dribbled through the metal
+lattice. The servants who lead us around were all connected to umbilical cords like animated puppet
+strings that snaked up through the ceiling. When it came time to feed, we were supposed to tip our
+heads back and accept what ever dripped do wn. Fuck that, we bolted. lands of Freya herself. Because of Gunnhild’s standing among the local Gangrel who still called upon Odin
+in battle, the Sabbat entered Scandinavia with little difficulty, and we gained valuable all ies in the fight
+against the Camarilla. During our internment in the frozen lands, the
+Scandinavian Tzimisce introduced the Sabbat to the not ion of the Jomsvikings. the se warriors once ranked
+among the Fiend-witch’s entourage, but Gunnhild lost the m in the war against Christianity. Still, the
+not ions of Jomsborg, the training camp erected by the
+Danish King Harald Bluetooth, proved sound. The
+Jomsvikings swore a blood oath (as the Sabbat had do ne) and followed strict codes, rigorous training regimens
+and various rites to strengthen solidarity. While the not ion of a “Sabbat training camp” did not work well
+with the nomadic existence of our sect, new ritae could effectively incorporate the training of fledglings. In
+fact, each pack became a training ground for recruits; so long as one member survived, the Sabbat survived. Thus far, we’d do ne well to introduce various auctoritas ritae for the benefit of the sect as a who le. We failed
+to make the packs cohesive beyond the Vaulderie, how ever. With the help of koldunic and hlaut rituals, and the precepts of the Jomsvikings, the ignoblis ritae evolved. the se rites later compartmentalized the entire
+Sabbat movement, all owing the sect to function like the mythical Hydra. Despite Gunnhild’s hospitality, we knew the
+Sabbat could not remain in Scandinavia. While the
+Turks prepared to sate the ir gluttonous appetites on the Tremere stronghold of Vienna, the Sabbat knew
+this provided the brief distraction it needed to escape its frozen home. We looked elsewhere and cast an eye
+to the New World. Clanbook: tzimis Ce
+
+=== PAGE 26 === t he L ANd OF p Le Nty Unfortunately, while Cardinal Radu and a few other
+elders crossed the Atlantic, the you nger Sabbat who’d
+Again we stood at the prow of the Sabbat while hismade the effort to colonize it considered it home and tory’s storm raged about us. you ng sect members fled to
+protected the ir do mains fiercely; I did n’t blame the m the New World, hoping to earn the freedom that the ir
+either. After claiming we’re all equal, Radu and the elders and the failure of the Anarch Revolt denied the m. others stepped in to take advantage of our hard work. Certainly, many Lupines plagued the Americas’ virgin
+The older Sabbat, Fiends included, suddenly discovered expanses, but at least the Sabbat could fight that threat. sect members no longer welcomed the m in this so-called
+The sect could not wage the so-called revolution in Europe
+“Land of Opportunity.” To further aggravate the matter, openly. Instead, the Camarilla played games of politics most cities were less than a century old and not large
+and intrigue deftly, frustrating the sect by depriving us enough to host a coven of Cainites looking to strike
+of supporters and eating away at our territories. Many out on the ir own. The Sabbat-Camarilla conflict swiftly
+antitribu left first, followed by you ng Fiends. degenerated into the sect’s first civil war, with you ng
+The elder Tzimisce could not stand leaving the ir
+Tzimisce leading the charge. The Americas should have ancestral homes behind, regardless of the ir commitments
+been our hard-earned prize for the work we put into setto the Sabbat. Instead, they encouraged us, the you nger tling her. Instead, we fought over space and resources
+Fiends, to traverse the Atlantic first and of fered us large in struggles reminiscent of contemporary gang warfare. retinues of revenants. It was the least the European
+Mortals became precious commodities when feeding
+Tzimisce who did n’t want to risk the journey could do. thinned the herds. Oh, the history books say that cholera
+This shortsightedness cost us, how ever, for we could n’t and smallpox decimated the smaller cities, but we did
+trust revenants loyal to masters hundreds of miles away; not help by overfeeding and serving as plague carriers. this all owed a fair number to escape into the wilderness. While we fought one another, the Camarilla stepped in
+Still, those of us who survived the two-month journey and entrenched itself in the United States even further. by boat scattered across our new home and carried the
+Such a slap in the face! The Camarilla pushed us out of
+Sabbat initiative with us. It was a vibrant and violent the cities, for cing us to take refuge among the Native
+world, from the native conflicts to the eventual colonial
+American tribes or in the precarious wilderness. independence. We were the re for it all, and we even
+While the Purchase Pact settled the internecine for med several packs to help rout the British Cainites
+fighting, the damage had already been do ne. The Caduring the American Revolution. Heartened by our vicmarilla took root in the United States, with only New tory over the English and hidden Ventrue agendas, the
+York remaining firmly in Sabbat hands. The Sabbat fled
+Sabbat in Europe helped foment the insurrection that into Mexico, can ada and the southwest United States, toppled the Paris aristocracy. Meanwhile, we, who once
+where the Camarilla held little influence. Ironically, the prized our is olation in the secluded Carpathians, realized
+Tzimisce found shelter outside the cities, with groups we preferred the burgeoning American cities. (At least, of subjugated mortals. While we fed from the enslaved
+the you ng Fiends did — some elders still clutched with populace brought over from Africa, our strongest and
+ever more desperate talons to the ir crumbling castles and you ngest packs remained hidden among the southwestern
+inbred boyars.) The wilderness crawled with Lupines tribes of Apache, Navajo, Zuni and Hopi Indians. The
+and potent spirits, and the modern cities bore more in peaceful Hopi, in particular, treated our kind as manifescommon with our sprawling keeps (as well as providing
+tations of the ir wuya, the ir Kachina spirits. We, in turn, stable food stock). played the parts of the ir avatars. We became the White
+Ogre who demanded food lest we steal the ir children. We played the Badger as healer and advisor, the Vulture r g
+emem Beri Ng uNNhi Ld who brought the m winds with our koldunic rituals, the
+Christ, I remember that old witch. She scared Eagle who guided the m out from the Underworld of the ir the hell out of me. I remember when she invited creation myths, and most importantly, we assumed the
+us to watch her perform the rista or n — the blood- role of the Star Whippers, the ir chief Kachinas and sacred eagle. It’s called that because it looks like you’re wisemen. In turn, they never questioned our appearance
+carving eagle wings into the victim’s back. What as wuya and protected us while we rested in the ir kivas you’re actually do ing is cutting the ribs away one by (subterranean chambers below each house that they
+one do wn to the loins. Not enough to kill you, but thought were portals to the Underworld). enough to keep you alive and how ling. After remov- This arrangement served us well for decades and ing the ribs, the torturer reaches in and pulls out influenced how we treated pack members and conducted
+you r lungs. That’s when you slowly choke to death. our rituals. Later, we strengthened our hold in the region during the mortal Civil War. The Dineh, more commonly
+Chapter one: a rabble oF Fiends
+
+=== PAGE 27 === known as Navajo, earned the attention of the United
+States when growing conflicts between settlers and the natives turned violent. After the Union drove Confederate for ces out of New Mexico, they launched a campaign of
+repression against the Apaches and Dineh. For the latter tribe, it culminated when Union for ces blocked the m up
+in can yon de Chelly and starved out thousands of Dineh natives. The army the n relocated the m in a for ced march
+to the Pecos River Valley, leaving the can yon’s pueblo homes abandoned. Several Fiends moved into can yon
+de Chelly with the ir revenants, turning it into a Tzimisce enclave. It’s remained such since the n, even after the
+Dineh returned to the ir ancestral homes. The Dineh are currently the largest North American tribe, with 28,803 square miles all ocated for the ir reservation. Because of this, the Camarilla exerts little
+influence over the are a save through its limited connections on a federal level. Meanwhile, the Tzimisce existing here constitute the largest gathering of Fiends
+in North America. do n’t mistakenly believe the m full-fledged Sabbat, how ever, for the Tzimisce here are
+mostly Dineh now and have little to do with the sect’s conflicts. they do maintain regular discourse with
+Mexico’s Cainites and California’s few anarch Tzimisce, but they keep to the mselves mostly. i
+Nt Othe
+20 C th e Ntury
+By Salem Justice, Bishop of Miami
+Ever hear of the Boys from Brazil? You can’t tell me that do ktor Totentanz or Landulf did n’t try cloning “Der
+Führer.” I hear you guys have a secret camp in Ecuador where old Nazi do ctors sit around all day getting served by blond
+Aryan boys in Speedos. C’mon, you can tell me. Did you guys clone Hitler? At least tell me you got Himmler, man. —Boo, member of Atlanta’s Lawdogs pack
+When the Sabbat earned its name, many Tzimisce remained neutral in the conflict, despite threats to the ir
+unlives by overzealous sect Fiends. the se independent
+Tzimisce for estalled any oaths of sect all egiance by surrendering the first- and second-born of the ir revenant families to the Sabbat as a show of good faith. Everyone
+realized such promises bore little weight in reality. Still, many you ng Tzimisce knew they could ill afford protracted conflict with the ir elders. they settled on the gift of revenants and left the ir oldest members to rot. Landulf II earned his legacy in the 9th century as a
+black magician in the Arthurian grail legends. Named the third most important man in the kingdom of Emperor
+Louis II, he controlled land from Naples to Calabria until the Vatican excommunicated him in AD 875. Rather than suffer under Carpathian influence, Landulf II
+Clanbook: tzimis Ce
+
+=== PAGE 28 === bigoted mortals grew; a defrocked kine monk by the name
+F m
+Le Sh ASKS of Adolf Lanz demanded imprisonment and sterilization
+The Sabbat could claim responsibility for the of “socially inferior elements” and anyone who indulged murders, patroun, but the truth is, nobody in Mexico in sexual relations outside of the ir “race.” Another man, City knows who’s committing the m. From what I Liebenfels, established a temple for his New Templars
+understand, it’s a vendor who wears and sells color- on the Danube and advocated neo-paganism and the ful masks to people in stopped cars at traffic lights. abandonment of Christianity. Secret societies and cults
+As soon as a person puts the mask on, it turns out proliferated in the Germanic states and provided a handful to be alive and digs into his head with bone hooks. of shortsighted Tzimisce with a new nobility from which
+to draw members from and improve the ir own standings. It chews the wearer’s face of f, the n spits out the chunks through its mouth. The mask controls the The introduction of tanks and mustard gas turned
+wearer, for cing him to rampage through the streets WWI battlefields into a perpetual night of chaos and in an or gy of violence. I really do n’t know why this smoke-shielded skies. This mortal-borne Gehenna proved
+Tzimisce is hiding though. I know a few Sabbat who little deterrent to the Fiends the mselves. Many you nger
+Tzimisce slipped deep into the earth when they knew of want to shake his hand. an approaching battle. When they awoke, they rose from
+the blood-soaked soil and found the mselves in a for est all owed an African Fiend who claimed lineage to the
+of the wounded or dying. If the Slavic tribes had once
+Methuselah Demdemeh to Embrace him. As Tzimisce, provided an unending supply of victims and test subjects, Landulf maintained the castle Calot Enbolot in Sicily, the n WWI was a Renaissance of pain and cruelty. The where he studied koldunic sorcery and earned a reputation
+Tzimisce left many a corpse twisted and sheared right on as a torturer among the local populace. Landulf II fostered
+the battlefield, for cing mortals to wonder what terrible the se false accusations, if only to keep the curious away
+weapon inflicted such cruelty. The Masquerade held, if from his have n. Like his peers, he swore fealty to neither
+only because death had become so bizarre and alien in
+Transylvania nor the Sabbat. Instead, he consorted with the new century, than ks to kine advancements. North Africa’s Cainites, and after the Convention of
+Meanwhile, in Anatolia, the first of the 20th century’s
+Thorns, enjoyed the protection of the Giovanni. The genocide-trends began with the massacre of two million
+Sabbat and Camarilla could not reach him. Armenians by the do ddering Ottoman Empire. Eastern
+Landulf reemerged from hiding in the twilight of
+European Tzimisce, such as Sascha Vykos, were well in the 19th century when the German or der Walvater of
+position to pilfer 100 victims here and the re to strengthen the Holy Grail used the swastika, his heraldic device, the ir ghouls, restock the ir dwindling supply of szlachta and
+as the ir standard. While the symbol itself appeared in fill the ir kennels with new experiments. The Tzimisce also
+other cultures, the combination of anti-Semitism, occult agreed to create new revenant families, since only four
+rituals and the belief in a race of “pure” humans proved known lines survived the recent centuries. Ghouls such as
+too enticing to ignore. Landulf encouraged the society the Armenian Kindairjan, how ever, are, at best, decades
+and helped foster its atmosphere of racial superiority by away from becoming revenants, if the process works at all. claiming members as ghouls. Truthfully, Landulf consid To the east, the Bolshevik Revolution gripped Russia
+ered one kine sect as inferior as the next. Whether the and sealed the Tzimisce behind the Iron Curtain. Truthfully, GOWHG spoke out against Jews or Catholics made little
+this proved advantageous to the Old World Fiends of the difference to him. the ir drive for purity and thirst for
+Rus. With the borders heavily monitored and protected, occult enlightenment interested him more. Tzimisce such as Piotr Krezhinsky (childe to Darvag, the
+Although Landulf helped, the German or der and but cher of Rus) did not answer to the Sabbat and went
+its successor, the infamous Thule Society, needed little about enjoying the new political air of repression and terror. to fan the flames of the ir fanaticism and blind hatred. e A
+By the time the Bavarian elite adopted the GOWHG’s Ar Ly meriCA principles, Landulf and a small number of Tzimisce had
+World War II erupted in Europe, which goes with out ensconced the mselves in the or ganization. Most other
+saying. Fiends, such as Landulf II and Nazi proselytizer
+Fiends, already sensing the growing fires of hatred even do ktor Totentanz, waded into the bloody battlefield
+before WWI smothered Europe in choking poisons, with the ir pant legs rolled up, tarnishing our name by steered clear of the conflict. Humanity’s proficiency with
+associating with the Nazis and was teful programs like war had grown considerably, and each conflict not only
+genocide. Stateside, our clan had an entirely different thinned the herds, but threatened the unlives of regional
+set of problems. with out the crucible of war to threaten
+Cainites. Wars and Inquisitions proved the only storms the ir borders, the Americans fluctuated politically and
+capable of cowing the Damned. Meanwhile, the list of morally from one generation to the next. The Sabbat, Chapter one: a rabble oF Fiends
+
+=== PAGE 29 === trying to tap into the pulse of each generation by Em- The Sabbat-Camarilla conflict turned into a paper
+bracing the ir you th, discovered that sect members of war, and many old-guard Tzimisce, affiliated with the one generation became anachronisms the next. sect or not, could not defend the mselves in the se for ums. At first, America lived up to its reputation as the land Instead, they continually relied on Embracing newer
+of plenty. Immigration into the US saw the arrival of over generations of mortals to serve as the ir vanguard, inad450 million European refugees between 1845 and 1914, vertently creating a vast generation gap between the m providing Cainites with a surfeit of vitae. Perhaps foolishly, and the ir progeny. The elders used the you ng Fiends as
+we threw ourselves into the hedonism of the Roaring 20s the ir contemporary proxies but not with out staunch and all owed our numbers to grow unchecked. The sect war resistance. you ng Tzimisce wanted to explore the ir own
+with the Camarilla had quietened for the moment, and unlives and not be burdened by the ir anachronistic sires. many Tzimisce pursued the ir private agendas or basked in As a result, the se neonate Tzimisce gravitated toward the festive atmosphere of America’s Golden Age. The First the independent-minded Sabbat and adopted its more
+World War saw thousands of jobs in northern industrial violent precepts as a means of “threatening” the ir elders. factories open up, resulting in a large population shift After all, the Tzimisce you ng did rebel once before in the of black Americans from the south. Large communities name of freedom and could easily do so again. developed in Chicago, Detroit and Buffalo, with Harlem wwii’ A
+S Fterm Ath itself becoming a mecca of prosperity for hundreds of blacks
+from around the US. Although the Toreador antitribu Hitler’s rise to power brought a twofold invasion might proclaim the mselves as the only patrons of art, across Eastern Europe’s soil — the German advance, folthe fact remained that a number of Tzimisce shared the ir lowed by the Russian pursuit. When the Nazis stormed
+interests. Harlem, styled the “New Negro Capital,” saw the continent, Sabbat Tzimisce feared little. they took the birth of Afro-centric art for ms, including jazz. This advantage of the reign of terror and used the chaos to
+in turn drew many soon-to-be-great musicians including strike at weakened Camarilla holdings. the ir prime ad Duke Ellington, Fats Waller and Cab Calloway. Ethnic vantage lay in the fact that Hitler despised aristocracy, Tzimisce went so far as to sponsor nightclubs or throw rent thus barring many elder Camarilla Kindred from influparties to promote the festive atmosphere and liberal stance encing the regime. Conversely, the Old World Tzimisce toward sexuality (and, naturally, to draw the ir herds from). fit the description of nobility to the letter. Rather than
+Of course, the local Tzimisce of ten clashed with Toreador risk calling do wn the entire German Wehrmacht, they over “proprietorship” of Harlem’s mortal talent, but the all owed the Nazis to plunder the ir keeps for trinkets while
+fighting rarely erupted in the open. Instead, it manifested keeping the ir have ns, true treasure and szlachta hidden. as nightclubs like Gumby’s Bookstore and the Daisy Chain If the Tzimisce suffered little from the Germans, the n quietly competed with one another for clientele or in the the Russians of fered plenty of misery by comparison. The
+occasional “gangland” hit. Red Army fought its battles by saturating the ir targets for
+Unfortunately, the Great Depression saw to the demise days beneath a barrage of artillery. the n they advanced of Harlem’s promise. The government’s so-called laissez faire across the smoldering terrain, dispensing with the remainpolicy gave rise to a disparity between the economic classes ing opposition. The retreating German army for tified itself
+(with one percent of the populace wielding 40 percent with in the ancient keeps between Russia and Berlin. The of the wealth) and upended the social standings of many most powerful Tzimisce managed to obscure or hide the ir
+Tzimisce. A fair number of elders who’d enjoyed nobility for tresses using arcane sorcery, but many met Final Death and unprecedented wealth in the Old World, suddenly when the Russians shelled the ir occupied manses from a
+found the ir assets nearly depleted or gone, while you nger distance. The torpid Shaagra, one of the eldest of the Old
+Fiends, savvy to the economy of the time, used the ir mortal World Tzimisce, burned to ash along with Prague, sending influences to jockey into a position of financial security. shockwaves through fractured Tzimisce society. Still, this did n’t help the Sabbat, which prided itself on its The have ns of many elder Tzimisce also fell under
+independence from mortal concerns. The Camarilla, tak- Communist rule. Old World Tzimisce had lost much ing advantage of the thoroughly corrupt administration of during the war, and Stalin’s madness threatened to take
+President Harding in the early 1920s to buy of f key of ficials away even more. Realizing the ir precarious positions, and politicians, used the ir new friends to harry the Sab- the elder Fiends sent envoys to the ir cousins trapped bat. Police launched daytime raids against our communal behind the USSR’s borders. the ir efforts toward
+or private have ns under or ders to clear out the squatters, solidarity created the or adea League, a mutual defense while bankers for eclosed on our assets under the broken agreement and statement of purpose (autonomy from
+terms of for ged loans. We fought back, but remained on the Sabbat) among Old World Tzimisce. Ironically, the defensive well past WWII. the league flourished because of Communism; Stalin’s
+Clanbook: tzimis Ce
+
+=== PAGE 30 === xenophobia protected the m from the sect by way of bers joined the sect as “diplomats,” advisors, honorary
+restricted travel, and the Tzimisce were reunited with bishops and prisci in the modern nights. Russian Fiends like Darvag and Piotr Krezhinsky for the r ’ F uSSiAS ie NdS
+first time in decades. By the fall of the Soviet Union, the now stronger or adea League resisted the Sabbat’s Piotr Krezhinsky, a survivor of Ivan the Terrible’s bullying with out falling prey to its thirsty packs. In a rule over Russia, played voivode, while Darvag, his sire, show of solidarity, how ever, many of the league’s mem- slipped in and out of torpor. The collapse of Czarist
+rule to the Bolshevik Revolution severed the lines of communication between the Russian Tzimisce and our
+European clanmates. Still, we survived, finding Stalin’s t A
+he trium paranoid regime much better suited to our collective
+It is n’t bullshit; I’ve seen it. The old Fiend owns temperament. While the Brujah focused on the ir
+the high-rise hotel and had it built to her specificagrand designs and aspirations for Communism, Stalin tions. It’s posh and upscale, with a beautiful rooftop
+destroyed churches and persecuted the religious. This, garden. What nobody knows is that the garden sits in turn, robbed the mortal populace of the ir faith and
+atop a hidden atrium that runs the building’s length destroyed much of what was once holy ground, thus and is packed with the Tzimisce’s native soil. She all owing many Damned to act with greater impunity. sleeps where it’s deepest, far from harm. Supposedly, Meanwhile Piotr busied himself by ensconcing a few
+she’s got emergency exits from the atrium into certain Fiends in the Cheka, or secret police, because it all owed rooms. The hotel concierge directs lone travelers us unprecedented intelligence on affairs both with in
+into those suites and never registers the m as hav- and outside the Soviet Union’s borders. ing entered. The old Fiend uses her… well, I guess By the time the Cheka finally became the OGPU they’re arms… to snag the se guests from the ir beds (United State Political Directorate), we had a steady flow
+and pull the m into the dirt with her. Meanwhile, of hundreds of unaccounted-for prisoners and victims the cleaning service steals all the ir possessions when for our herds from the millions thought murdered and
+they clear the room out.… buried in unmarked pits. WWII proved that our clan
+Chapter one: a rabble oF Fiends
+
+=== PAGE 31 === remained as vulnerable as our weakest link: mortals. To else in the world, we would have suffered apocalyptic
+prevent another vitae shortage because of the underfed repercussions for drawing such attention to ourselves. and winnowed populace, many Fiends maintained pri- Not all Tzimisce took interest in the gulags, how ever. vate herds for feeding or vassalage should another war Some you ng Tzimisce found interest with Biopreparat, ever devastate Europe again. Ironically, many mortals the Soviet Union’s biological warfare initiative. Many entered the se arrangements will ingly, because we fed of us knew about the Eldest’s essence with in our own
+the m well and even ensured the m some measure of bodies, and the study of bacteriological warfare spurred comfort compared to Russia’s abject poverty. on arguments of whether we could is olate portions of
+Additionally, some clever Tzimisce also arranged for the Antediluvian with in ourselves. Piotr lead the camp a handful of small gulag concentration camps and KGB of Fiends who sought a way to attack the se can cerous
+prisons out of the 2000 facilities across Arctic Russia to invaders before the Antediluvian awoke. Many also fall into the hands of the ir Bratovitch majordomos. By feared that biological programs could devastate our
+estimates, the early Russian regime incarcerated close to feeding stock if they progressed unchecked. So, to better
+10 percent of its population in the gulags. Vorkuta Camp protect our interests, a number of our brightest members alone killed more prisoners than Auschwitz, though infiltrated the Soviet Union’s Ministry of Medical and
+admittedly over a longer period of time. the se facilities Microbiological Industries, a quiet euphemism for the ir became unrestricted have ns for the Tzimisce to exist bioweapons program under the Main Intelligence Direcopenly with out fear of discovery. Unfortunately, as we’ve torate (GRU). Called Biopreparat, the Russians worked
+of ten discovered, when the re are few restrictions, some to develop new strains and vectors for diseases ranging of our brethren can take the ir proclivities to extremes. from typhus to Ebola. Some you ng Fiends even played
+Conversely, Russia possessed no state agencies to ensure at developing Cainite pathogens that targeted specific the well-being of gulag prisoners. Thus, the Tzimisce still clans, blood viruses that could turn entire populations
+speak excitedly of Tmu Tarakan, the Kingdom of Cock- into our ghouls or even methods of turning viruses into roaches, where prisoners ate a diet of the ir fellow inmates, microbial ghouls. We insured that nearly three generaslept on beds of decaying corpses and drowned in a soup tions of Obertus revenants learned a dizzying array of
+of the ir own entrails. If this had happened anywhere the new sciences including biochemistry, epidemiology, Clanbook: tzimis Ce
+
+=== PAGE 32 === virology and microbiology. Soon, our spies found work mantles and titles with in the Carpathians’ keeps. To
+in hidden facilities at “Rebirth is land” in the Aral Sea Weissrarech, how ever, Communism’s fall brought about and at Solovetsky, the nexus prison camp of the gulags. Egypt’s Eleventh Plague: the refugee flood. Unfortunately, while our ghouls made some ad- Weissrarech concentrates her efforts on the disposvancements, particularly in the field of recombinant sessed population, a group of kine everyone ignores. DNA and so-called chimerical viruses, the Soviet Union Whether her packs raid slum apartment towers in
+collapsed. Suddenly scientists, viral material stored in Marseilles and Berlin, attack West African harvesters the Moscow Institute of Health, ex-KGB agents and in the Italian and English countryside or assault Bosnian
+weapons-grade plutonium all appeared on the international black market. Several key ghouls also vanished t C L
+he Ommu NiSt egACy with the ir research, sending us scrambling to find the m. To date, we’ve had little success.… The West always knew that Communism made
+t ’ little consideration for environmental concerns, Om Orr Ow S but the full scope of that knowledge did not come t to light until after the fall of the Iron Curtain. The
+zimiSCe
+USSR turned Bulgaria, Romania, Czechoslovakia, Poland and East Germany into toxic pits. Now, By Jackrabid, ex-templar factories spill sulfur into the air, creating acid rain
+Hear about the trailer-home caravan roving up and do wn so potent that it strips entire for ests of the ir foliage
+the Eastern Seaboard? It’s a traveling have n for a Fiend and and branches. All that remains of some for ests are
+her entourage of Bratovitches. From the outside, it looks like blackened poles and mountains topped in sulfuric
+a caravan of retirees with tinted windows, Florida bumper mists. Mining and smelting operations release clouds
+stickers and Jesus fish plaques. Inside, it’s a mobile abattoir of metallic particulate into the air, afflicting generaand freakshow museum. they’re like nomadic serial killtions of children with a variety of lung diseases and
+ers, traveling the country and never leaving behind enough mental disabilities. Even after all of this, it is far
+evidence to get caught. It’s true. It’s true. worse in Romania, where coal strip mining turns
+— Bartholomew Diggs, member of the Road Kilt the air black than ks to places like Copsa Mica’s
+nomadic pack. Carbosin Plant. A thick layer of soot covers buildings
+Hitler still lives, or at least his malignant message and trees, creating a landscape devoid of colors. It
+do es. Only a handful of elder Tzimisce participated snows black flakes in the evening, carbon particles
+in the rise of pre-WWII mysticism, but some Fiends saturate the mists and clouds, soiling the very sky, Embraced in the post-war era came to see this as the
+and even sheep are of night’s hue. Sabbat’s acceptance of the Holocaust. Certainly, the se
+Environmental advocates scream pollution, individuals did n’t help the situation when they Embraced but the various governments act too slowly. Both
+glatzen (“baldies” or German skinheads) to “continue the
+Old World Tzimisce and elder Sabbat Fiends find struggle.” Unfortunately, the se same fucking Tzimisce
+the ir once rich and proud landscapes drowning in have supervised a rise in racist Brothers and Sisters in
+physical and psychological oppression. Romanian the decade following the collapse of the USSR. The
+dictator Nicolae Ceaucescu kept his people broken wave of Eastern European refugees instilled venom
+and poor while ravaging the countryside in the name into the you th of Western Europe who, to this night, of industry. Now, ironically, the Tzimisce advocate
+remain bitter over unemployment and degrading social conditions. That anger exploded into racial violence, change, if only because pollution taints the ir herds
+bringing the Tzimisce new generations of followers. through can cer and mercury poisoning, while acid rain destroys its fair share of monuments, including
+Among the new breed of Tzimisce glatzen is Weissthe many ancient Carpathian keeps that Fiends rarech — White Vengeance — a leader of a European
+still dwell beneath. The Old World crumbles away, neo-Nazi pack. She took the time to explain to me this new trend emerging among some of our you nger clan- literally, and the Tzimisce once again find the mmates. She is also childe to do ktor Totentanz, a WWII selves broaching a new are na of experience, that of
+holdover of Nazi “values” and, frankly, an embarrassment environmental concerns. Ironically, the ir opposito our clan. Although she’s barely existed for a decade, tion is a mixture of mortal bureaucratic leviathans
+Weissrarech’s seen Europe burdened beneath 750,000 (holdovers from the Communist era) with a vested refugees escaping ethnic cleansing and poverty. The interest in the factories and the greed of Kindred
+Soviet collapse proved a godsend for elder Tzimisce, who seem to sing the name of Kupala in the ir sleep. who could finally reclaim the ir for mer aristocratic
+Chapter one: a rabble oF Fiends
+
+=== PAGE 33 ===
+Refugee Camps in Croatia, Weissrarech brings with her service to the ir country, why could n’t this minority enjoy an impressive crusade of you ng Sabbat Tzimisce and equal rights? Of course, this proved a watershed is sue for
+antitribu glatzen. To my understanding, the Camarilla as- the nation, with extremist camps for ming on all sides of the signed two archons to locate and eliminate Weissrarech’s color barrier. Groups such as the White Aryan Resistance
+pack, but they’ve had little success thus far. The Sabbat, and the National Association for the Advancement of in turn, supports Weissrarech’s war. White People called for strict segregation, while behind
+Racism is not the purview of Weissrarech alone. It the scenes, more insidious cells for med like blisters. The echoes across the Atlantic in the cries of some American more pseudoscience justified racism, the more outlandish
+Tzimisce. During the 18th century, some packs developed respective claims became. Some groups adhered to the an interest in prejudice after it evolved from religious and Nazi principles that the Aryan race or iginated from the
+ethnic into lerance into “scientific” racism. Hatred adopted mythic is land of Thule. Others adopted a strange fusion a new for m. Although not ions of racial purity and genetic of Hindu-Aryan philosophy, claiming civilization’s cradle
+cleansing were older than harlots and tax collectors, hu- was Aryavarta in India. On the other side of the argumanity learned how to apply rapidly advancing technology ment came black militants calling Caucasians an albinoid toward the industry of genocide. Still, most Fiends remained mutation of the African people or “Yaccub’s children.” A
+uninterested in the white-hooded hate-mongers who smaller segment claimed that since melanin was a superior rode into public attention following the Civil War. The absorber of energies, the n white people were further from
+Camarilla, duped by the ir own propaganda, assumed the ir God (the source of all energy) because they were lacking enemies would relish hiding behind masks and “hangin’ in skin pigment. niggers,” but few Sabbat wanted to be around a group of Militant Tzimisce involved with the se movements
+furious mortals wielding flaming crosses. stayed away from the public marches and press-staged
+Advocates of scientific racism later increased the ir events; instead, they frequented the packed underground numbers by Embracing a group of rioters from the Detroit concerts of Storm und Drang and Africa X, plying the ir
+Race Riots of 1943. President Roosevelt had is sued an craft among the thick and angry you ng crowds. Some executive or der prohibiting racial discrimination in Tzimisce even all owed events to take place on the ir
+factories with military contracts. The influx of 60,000 private property, immersing the mselves in hatred and blacks from the southern states looking for work in the reaping the guests at the end of the evening. Fiends, more progressive North sparked riots in cities such as Abraham included, do minate the small cults and cells
+Detroit, where 35 people died, 500 were injured and an- that search for the purity of the ir ancestors. the se kine other 500 arrested for the murders of African-Americans. will ingly undergo any body augmentation suggested by
+Excuse me; blacks. Fuck Jesse Jackson, not for his skin the Tzimisce in the mortals’ quest to emulate Tzimisce color, but for his politics. But I’m getting carried away. ideals, leaving the Fiends more than happy to impose the ir
+I use pack priest Abraham Jensen as an example visions of perfection. The Blood Brothers for med than ks of a growing substrata emerging with in our clan. Ar- to such physical tampering and mixing of ideologies. It’s
+rested during the riots, Jensen claimed membership in why they’ve all got those fucking bald heads. the second incarnation of the Ku Klux Klan, a hate m p
+OderN rimitiveS group who se fellowship dropped significantly between
+The various hate groups are not the only movements the 1920s and its temporary disbanding in 1944 due
+enjoying Tzimisce attention. While one group plays to lack of interest. Although the Klan resurfaced duron racist ignorance, another is far more interested in
+ing the Civil Rights movements of the 1950s and 60s, approaching those of genuine Metamorphosist inclina Abraham came to see genetic purity as something that tion. We find that in one mortal subculture of particular
+existed beyond the limits of his five senses. He underinterest: the modern primitive. stood how racists could mistake “white” for pure and appreciated the hatred that prejudice sparked. What Modern primitives are displaced individuals who find
+at first appeared to be a minor movement, how ever, difficulty reconciling the ir existence in the se neoteric quickly grew. Many Tzimisce believed Hitler’s ideals nights. Where once tribes and villages provided the se
+died with WWII, but when a returning American GI people with a sense of belonging and spirituality, they named George Lincoln Rockwell for med the American now stalk those circles dealing with sex fetishes and body
+Nazis, the Fiends realized this was just the beginning. alterations (a feeble substitute at best). they haunt places
+Cainites, like Abraham, were in a position to capitalize like Greenwich Village’s underground flesh trade and the on the se nascent movements. darker all eys of Castro Street, where S&M circuit parties
+and piercing and branding clubs push the limits of pain
+WWII served as catalyst for the Civil Rights Movetolerance and impart some sense of accomplishment. The ment. After all, if the government could draft blacks in
+Clanbook: tzimis Ce
+
+=== PAGE 34 === phenomena of body alteration and pain tolerance have spirits of everything. As a result, we know little of the
+grown over the last 20 years. Experts attribute the move- African Tzimisce, but the nights still echo with portions ment to the need for a simpler existence like that found of the ir tale if you listen closely. What I know comes
+in primitive cultures, where one celebrates adulthood with from Landulf II, the very same koldun sorcerer in league tests and rites of passage. To the se individuals, tattoos, with the Giovanni. Unfortunately, we have no way to
+brands and piercings are not only decorative, but also confirm his tales, since Africa remains an enigma. While trophies of endurance and perseverance. It is this state of undoubtedly Fiend, the African Tzimisce (or eggun) seem
+mental alteration that shamans and sadhus experience, the to pursue the ir own agendas and myths. they consider point where pain becomes irrelevant and even necessary to our presence a slight to the ir dignity for some strange
+induce insight and euphoria. We Tzimisce, long acquainted reason and as easily attack us as bid us greetings. with such principles in the search for transcendence, oc- [Tzimisce], the Eldest, deliberately Embraced a casionally encountered mortification cults worshiping the multitude of peoples and tribes when it first left Enoch. various Cainites-turned-gods. Modern primitives, how ever, It chose Yorak because of her — her — shamanistic
+represent a new breed of mortals, will ing to endure extreme wisdom; Lambach proved a survivor in the purest sense, purgation as a show of strength in life. as attested by his presence in the modern nights; the
+Through the se rare and of ten marginalized individuals, Eldest took Byelobog, as wild a mortal as the Eldest had we have uncovered a segment of Western society delib- ever met, to see how that influenced “the White God’s”
+erately searching for torture and unusual punishments to evolution. It chose Triglav the Three-Headed because better test the ir own limits. they use torture as a test of he already believed himself a deity; he cursed the monk
+mettle and view scars as the ultimate badges of honor. Dracon because of his introspective and hermit nature. More than the trendy teens who go for the tribal tattoo The Eldest all owed the brutal and inhuman warrior around the ir arms, the se individuals seek a primitive state of Kartarirya to act upon its whims. Demdemeh, how ever, existence in which suffering defines humanity. Amusingly, puzzled the Eldest. As the first African it had ever met, most mortals also expect the ir sessions to last an evening Demdemeh earned the grand Fiend’s terrible attenand no more. We, being far more patient than that, draw tions. For every harm or injury the Eldest introduced
+out the ir ministrations over months. We Embrace those to Demdemeh, how ever, the mortal turned the tables. who survive or have the for titude to endure week and after The Progenitor would later recall to Yorak and week of torture and still return for more. Lambach that he turned Demdemeh inside out, with his
+No longer limited by the constraints of flesh, some of or gans and bones on the outside and his eyes facing into our new childer seek to redefine the ir very existences by his head. When the Eldest asked him what he thought
+mixing the ir unlives with neo-native and Asian mysti- of the view, Demdemeh calmly replied that such a feat cism. they partake of vision quests using pain as the ir was not hing, given that all wise men had the ability to
+drug, hoping to find the ir totem animals. Others apply see with in the mselves. Impressed with such a strong the Taoist quest for biological alchemy and personal mind, the Eldest Embraced Demdemeh and parted ways. perfection through meditation and internal alteration. Demdemeh returned to the land that would one day be
+Whether they realize it or not, the se neo-pagans, body the Sahara, which, in those nights, was still heavy with artists, modern primitives and human pincushions are swamp and jungle and not yet ready to surrender to the
+fast becoming the new Metamorphosists among the encroaching desert. The tales say he traveled among the latter-generation Tzimisce. the ir quest for change is immortal-tribes of the Sao, Tibesti, those who followed
+genuine, and the ir own alterations hold deep significance the Kagn and the sun-eyed Bachwezi. Known as a fair for the m. Unfortunately, many slip through the Sabbat’s and wise shaman, Demdemeh gathered his herds of
+hands because they believe violence serves a function followers till his too numbered among the larger tribes. (like a signpost on the ir vision-road) and simply killing Africa of this epoch is not the place the world for the sake of killing is an affront to spiritual quests. knows tonight. The great Ticonis Sea covered much
+d of what would become the Ivory Coast, Mali, Niger, emdemeh
+Nigeria, Chad and Southern Algeria. Africa looked like a shepherd’s crook or question mark that began at
+By Molly 8, chronicler for the Librarians pack the Atlantic coastline (just above the Gulf of Guinea), Africa has Tzimisce? ran across the Mediterranean shoreline and do wn the
+— Dezra, Sabbat flunky eastern coast upon hitting the lands of Egypt. Set in
+Africa’s history is one painted in words, and it is this fading sea were the Algerian Ahaggar peaks, which the refore difficult to strain the truth from embellish- for med an is land mass in the Ticonis Sea connected to
+ment. Ancestors become gods, and the gods are the the rest of Africa by a thin is thmus. Demdemeh chose
+Chapter one: a rabble oF Fiends
+
+=== PAGE 35 === she had greater enemies in the or is ha who existed as
+Otem spirits but could inhabit kine to fight her. Aboriginal Tzimisce? Yeah, they’re rare around
+The Yoruba followed a system of singular devotion, New Mexico, but I did meet one once. He looked mighty faith and even stronger ethics. As a monotheistic
+normal till he opened his shirt up. A line of faces ran belief, it proved as compassionate and upstanding as any
+do wn the length of his body and jabbered on inces Christian ethic. Before slavery ripped Africa’s heart out, santly. We called him Totem, for obvious reasons. the ajogun Yoruba warriors fought Sycorax and the cultic
+“followers of the Kagn,” harrying the m across Africa. the se lands as his do main and settled the re with his The ajogun proved troublesome (and still do) to the logrowing tribe, to better learn his new nature. cal Fiends. Unlike Sycorax and the eggun, the ajogun are
+Demdemeh’s rule was not easy, for the Nile had its entirely of African heritage and despise the interference own monsters that challenged the Tzimisce’s presence. of Cainites, even if they are of African extraction. Still, he learned to speak with the marshland crocodiles for ced into centuries of wandering and little peace, and for m hulking reptilian beasts called mokele and the ir Sycorax eventually received satisfaction when European
+baboon servitors, the naglopers. Protecting the people of slavers tore West Africa asunder for the ir trade. After the the Ahaggar, Demdemeh built the great city of Khamissa Portuguese kidnapped 1.3 million slaves from the Angolan
+to humble the Egyptians. Unfortunately, the Eldest’s coast alone, Yoruba was in shambles. Slavers captured her touch afflicted Demdemeh over the centuries with a people by the village-load, who could do little against the
+hunger for more than just blood. He feasted on banquets white locusts. If the ajogun despised outsiders before, the of flesh and became strange and alien to his own people. slave trade deepened the ir hatred greatly. A row of gills covered his face like a grill, and he possessed Sycorax and her ilk may have survived the ir woes
+no eyes, nose or mouth. Only his childer understood the with the Yoruba, but the ajogun proved a greater enemy. whispered, incoherent sentences that he spoke. By this point, Demdemeh had awoken from torpor and
+By this time, the great Ticonis Sea was drying up came to the aide of his daughter, but even he could n’t turn and becoming swampland, while the Sahara swept into the battle in favor of the Fiends. The ajogun commanded
+the land. The people of the Ahaggar fled, following the very spirits of the land and turned the jungles against those tribes who’d abandoned the fleeting paradise of our brethren. The conflict for ced Demdemeh and Sycorax
+the northern coast. The mokele rebelled against Dem- into treaties with “white” Cainites who traveled with demeh and escaped into the soft mud; they slipped the traders, but the se all iances were rarely to the eggun’s
+into the swamplands after nearly decimating Khamissa. benefits. Tired of fighting a divisive war, Demdemeh and
+Meanwhile, the naglopers vanished into the night and a small number of followers retired into Kenya’s Great traveled south, far from the clan’s reach. Demdemeh Rift Valley, just east of Lake Victoria. While Sycorax
+finally retired to a haunted mountain city of virtually eventually fell to the ajogun, the remaining African no inhabitants save loyal ghouls and his childer. Tzimisce ensconced the mselves into regional pockets
+S close to the coastal strips and cities, where they survive yCOr Ax
+to this night. While Landulf II claims the conflict with
+Demdemeh fell into the sleep of ages in a lake deep the ajogun is less severe, how ever, the se native undead beneath the Ahaggar Mountains. Finally free from his still prove troublesome to our interests. Whether they are
+watchful eye, his preeminent childe, the witch Sycorax, Cainites or otherwise has yet to be ascertained. led the remaining eggun south across the now-dried
+Ticonis seabed. She left her sire in the care of his last Art AriryA loyal ghouls, the fierce Tuaregs, who se descendents
+remain in the region into the modern nights. By Devinder Bhalla, priest of the Split Lip pack
+Ratti-Ben? I believe it means “Sister of Blood.” She’s
+Sycorax intended to rule over the Nok cultures the childe of Kartarirya. I met her recently and was stunned
+and the already established city of Ile-Ife as queen. She by her appearance. She’s covered in skin swatches with a
+found her ambitions blocked by the arrival of nomads different tattoo on each patch that she’s collected from her
+called the Yoruba, how ever. the se people had lived in victims. She’s a quilted beauty. Egyptian lands for some centuries already and knew
+about the depredations of Cainites. the ir leader, King — Laika, Tzimisce koldun
+Oduduwa, believed in the one-god Oludumare and his Kartarirya’s existence extends the length of the Indian servitors, the or is ha. Unluckily for Sycorax, while King subcontinent’s history, making it among the eldest and
+Oduduwa’s faith proved a strong foil to her ambitions, most powerful of our clan. It spent its earliest centuries with the Harappa culture and later with the Vedics who
+Clanbook: tzimis Ce
+
+=== PAGE 36 === brought Sanskrit into the region. It did not coexist with growing Cainite presence. The Brujah, already familiar
+the m peacefully, how ever, for the bloodthirsty Kartarirya to the region through the ir influence in Mesopotamia, drew the hostilities of the growing Rroma people and first arrived en masse when Alexander the Great’s armies a Nosferatu Methuselah who’d settled into the region. swept through Hindu Kush and the Afghan Plateau. Despite some conjecture, the region’s Tzimisce never When Alexander died on his return journey, the Greek
+inspired or emulated the multi-limbed avatars of the Hindu garrisons found the mselves cut of f from the ir homes and gods, though not for a lack of trying. Kartarirya tried im- remained behind. A few Brujah stayed as well, eventually
+personating Karttikeya, the god of war, only to discover the Embracing from the indigenous people. The Gangrel
+Brahmans wielded the ir faith as weapons and saw through who rode with the Mongol hordes proved troublesome such artifice. Surprisingly, in its search to find worshipers with the ir continued raids against the regional villages
+among the growing Vedic pantheon, Kartarirya came to and towns, but eventually, the Indian culture absorbed understand and appreciate the ir religion. The multi-limbed the m as well. The Toreador came with the French
+divinities represented multiple states of beings, interpreta- colonization of India in the 17th century, though later, tions and personalities. While the divinities were certainly a French-Indian Tzimisce by the name Grandmere Kale terrifying to behold, the Indians accepted the complex and ousted the Toreador from the is land of Reunnoinnais and
+of ten conflicting gods and precepts as natural. Everything came to live deep in the heart of its do rmant volcano. and everyone had the ir place and moment in time. En- Her do main became tsy laosana, a Madagascar phrase for amored with the concept of multifaceted existence and “a place from which you never return.”
+perception, Kartarirya geared its transcendence toward The Ventrue came well after the East Indian Comthat effort. Instead of seeking worship, Kartarirya sought pany had established her monopoly over the region, but to remold itself into a creature that could exist in multiple they proved of little concern to the local Fiends until
+states of awareness simultaneously. the British suddenly went from a trading company to
+Kartarirya fashioned the yakshi, demons by kine the ruling oppressors. The one place that remained perception but horribly altered szlachta in reality. In the beyond all outside influence, how ever, was opulent
+millennia following its arrival into the Indus Valley, Kar- Hyderabad, a city blessed with Indo-Muslim heritage. tarirya’s childer and yakshi schemed and fought against the From the 19th into the early 20th century, Hyderabad
+Chapter one: a rabble oF Fiends
+
+=== PAGE 37 === played the exotic port of call for the world’s richest
+t F d mortals and Cainites. Toreador aristocracy who’d seen he AteOF emdemeh
+A ’ t
+ANd FriCAS zimiSCe the ir world shattered by the French Revolution flocked
+I think we realized something was strange back in to the City of Palaces and its unique architecture that
+1967, when seven people in Marburg, Germany died drew Muslim and Indian influences together effortlessly. of a new and mysterious infection. As it turned out, High society, both sophisticated and exotic, intrigued
+a vaccine manufacturer called Behring Works used vampires of all persuasions. Even the Ventrue could n’t
+contaminated African green monkeys taken from the resist attending her courts and processions. Some even
+border near Uganda and Kenya for research. In 1970, suspect the Khazars finally settled in what became Hy- the University of Marburg published a paper on the derabad, lending an air of timelessness to its mystery. bugger and the world gets its first taste of filoviruses
+Of course, such beauty never lasts. Hyderabad’s and this little bastard called Ebola. Russia’s Main
+Directorate of the Council of Soviet Ministers, better patron was Omasam, a Rroma of Paigah nobility and
+known as our boys in Biopreparat, immediately jumps among the richest of the maharajahs. Omasam fought
+in with both feet. they send virologists to Mount against Tzimisce inclusion in the local courts at every
+Elgon and the Rift Valley, looking for the host species turn and even employed local murshad magicians to
+that or iginally vectored this disease. Not only do they cast spells on families with Tzimisce affiliations. This
+find not hing, but the team also vanishes. That’s when for ced the Tzimisce’s hand in the region, relegating some of Piotr’s boys put two and two together and
+the m to Embracing low-caste members after Omasam remember the legends of the Methuselah Demdemeh had the ir aristocratic ghouls murdered in the ir beds. and how he vanished with a few followers in — you
+Nobody realized the full repercussions of his actions got it — the Great Rift Valley. until well after India’s independence, when the caste Over the years, the CDC, USAMRIID and system itself degraded. Biopreparat are running around hot zones when ever
+Ebola suddenly appears. With the fall of the Soviet r -B, “S B ”
+Atti eN is terOF LOOd Union, I finally get a chance to talk to Piotr and find out what he knows about the se hemorrhagic viruses
+Ratti-Ben represents a changing consciousness cropping up. Long and short of it is Biopreparat, after
+in India, one Mahatma Gandhi would have mourned mapping out local hot zones and do ing extensive
+had he known the future. It began in August of 1947, groundwork in the region, thinks the virus or iginated during India’s partition into two nations: India and in Mount Elgon’s Kitum Cave on the Uganda-Kenyan
+Pakistan. The previous years saw friction and outright border. One case actually involved a British expatriate hostility between Hindus and Muslims, and Kartarirya getting sick and dying from Ebola after visiting the
+and its childer anticipated the worst. When arbitrators cave. Kitum is the remnants of a petrified for est —
+I’ve been the re — with hardened trees making up announced the borders at the last minute, 12 million
+part of the rock walls. Elephants fucking go the re to
+Muslims, Sikhs and Hindus scrambled to find the ir die. It’s the creepiest place I’ve seen, and I’m pretty
+respective sides of the borders using the only for m of sure I did n’t see it all. Something was hiding in those
+available mass transit, the train. Unfortunately for the se caves. Something hidden, but… tangibly strange. travelers, the se aging locomotives passed through the Anyway, getting back to Piotr; his specialists think territory of one side or the other. of ten times, trains that the Ebola they’ve found in various outbreaks
+would arrive at stations like Lahore — that served as the is a poisonous by-product of something larger. Piotr prime artery for travel both ways — with all its passengers called it ghoul bacteria, but he could n’t be sure. What they found in Kitum Cave, how ever, is fluid
+but chered and massacred. Over one million people died and won’t stay locked do wn. they’re not sure what
+in the Independence Day rioting, and while this was a it is exactly, but they have a fair idea. mortal is sue, the Tzimisce certainly contributed to the
+Here’s what our Russian friends think, and chaos with night’s arrival. remember, I’m just the messenger. they think Dem With Kartarirya in torpor, it fell to Ratti-Ben, demeh transcended all right, but not in the way we’d
+Kartarirya’s childe and a practitioner of baha mati black expect. Piotr believes he obliterated himself into magic, to continue its agenda. Unlike many with in her viral for m, the n used his own childer as petri dishes. brood, Ratti-Ben could best be described as a terrorist they found that protean viral sample in Kitum on
+a dying elephant. Piotr thinks the Methuselah is trying to usurp the rule of the Rroma and oust the Veninfecting the local wildlife (“riding elephants” he
+true and Toreador from the Indian subcontinent. Her called it) and occasionally vectoring Ebola into the
+clan, long the underdogs in India’s political games and populace. This elephant graveyard shit is Demdepower plays, of ten resorted to blatant acts of violence meh reuniting himself with part of the who le. He’s
+to keep the other clans preoccupied with the backlash. becoming part of the Eldest, mark my word. Clanbook: tzimis Ce
+
+=== PAGE 38 ===
+With the other clan’s attentions diverted elsewhere, the dissatisfaction of the populace, how ever, the se low-caste
+Fiends used the diversions to launch a flurry of coups individuals are of ten members of or ganized crime. Some and assassinations to undermine the authority of adver- political can didates have criminal records a mile long, sarial Cainites. During the Independence Day rioting, employ armed goondas thugs to protect the m from assasfor instance, the Fiends used the night trains as mobile sins and even use the police to of f the ir rivals. Bribery is
+but cher shops. they traveled the length of the country, the most effective method to gain the support of a village stopping long enough to take on new passengers, before chief and all the voters in his district. India’s politics suffer
+murdering the m en route to the ir destinations. from systemic corruption, and the local Tzimisce, long
+In the 20th century alone, Ratti-Ben and her progeny the supporters of campaigns of terror, gained substantial ensured that states in Northern India stayed violent and political presence than ks to the ir patronage of the Dalits. dissatisfied, to undermine regional Rroma rule. With the As result, the Fiends have destabilized the holdings of
+destruction of the ancient Rroma, how ever, the Fiends political enemies and grow as India’s preeminent clan. started a trend that is reversing India’s advancement. With the Ravnos gone, the Tzimisce possess un The Tzimisce supported the Dalits, once known as precedented influence and prestige in India. As result, the untouchables, in attacking the Raj Brahman caste many Tzimisce employ envoys to negotiate with the ir throughout this past decade as evidenced in states like distant cousins in an effort to use India as the staging
+Bihar, where the caste-strife resulted in the murder and ground for the Sabbat’s crusade into Asia. With Karmassacre of entire villages. Ironically, the lower castes are tarirya in torpor, Ratti-Ben may well join the Sabbat, acutely aware of the changing world around the m, than ks bringing many Fiends with her and giving the Sabbat to television and newspapers. Now they want more, and both a nation ranked seventh as an industrial power
+over the last two decades, they’ve been getting it. The and with a population of 843 million potential vessels
+Dalits can elect the ir own can didates into national par- — or Cainites. liament, and the ir influence grows steadily. Much to the Welcome to Kali Yuga. Welcome to the Age of Kali. Chapter one: a rabble oF Fiends
+
+=== PAGE 39 ===
+Clanbook: tzimis Ce
+
+=== PAGE 40 ===
+C t: h Apter wO e
+gO ANd e
+vOLutiON
+In the se circumstances I decided that the only safe thing for me to do was go for myself. It became clear that it was possible for me to take the initiative: instead of simply reacting I could act. I could unilaterally — whether anyone agreed with me or not — repudiate all all egiances, morals, values — even while continuing to exist with in this society. My mind
+would be free and no power in the universe could for ce me to accept something if I did n’t want to. But I would take my own sweet time. That, too, was part of my new freedom. — Eldridge Cleaver, Soul on Ice
+c w C f C t o t a e r t h f o r i r l u n o a r t p i a y m h s h M r d o L i s. n n i m I o e e c I I t l i w e e s s h h m t d t f r v e.. e m o e p e t i e s m e D M r t l g h a r e a o L h l e y u c r r r e n i p s a e f t t s s a o s l s o a t e a a h e l s i n a a s l n l l y n l t o l o a e a c u y s h l n y o e m e d h h, l s u m a, e t n l t s: b a t o e y t t h o m a k r v h h t t w I i m a n n h h e n e e a fi n d m o o a? e g c r a S w n r. o n y s g a s w N n o I t t a r a d o a h s, w f a b o h i u o a e y m t n t f e b a w h m h v c o d s a s y a h a v u e a t o e m t e n t. t u o d d h. a t f o i T b s h a I a u l t t e t t e y n p t t h h n e s r h i y l s p e e e t s e u a o e o s e s u e s f s v i l E r u e n r e r e fi o i i v n p n z s n s u e b a l c t s d i l a r l i e o n e t o a a c t l m n … h n t o w h e n i s. f e n e s t i e e v o s h E t o m m w e i i i i w f g n o t z s l o y a t u e? i u r C s h e l t s s a l s t i l y h a H k d l a i o T e l t r, s d. e u i s i e p a n m t I I o e r. y h v u e e w e o O t i ’ a e m h d s e b t i u e k m a e o t l y g e r n d l i v s i r o e e n v e r n l e e u s s a y s i E o a n s b e t u t n — h s n b h n g e n d t l f e e g e t s a e a t e c c t e m e i l a k e m h a r: l p e i r d r e s i e v u I u, l a a h e t s y d m n o a n h n e w of f e a d n i a u e r I n t n n a c N i w n, r h l g o d i n y a e l a e t p s e e n h m y n S C a y w o t i t e n d e p w n o a a a y o e p Y g p r c n t d o i r e s h a t e s r u r e o i t o s,, e i n f a r o r s s — t f a i t g O k e i h s d u h t n o a h a i y o s e C, d l e, r u s n o. o s d w e u c u g t T i: I e t h p n r W h y e n M o h e l h o f? d k a m e i w l a t a i y t o i D t v y n a n h r n h i e a e d m i l e g a t c n n d n i h u s s e c t d o c h o s a t i l a f y i a l d a a s i c y t d i s n t t f e n i n l o n h e e m e r o u. a t p a e a o p o o w W e s e n f k e f l s l w n d f i c o u n e o C l e o n a a c i i l l o h d r a t g i l g w l i h a o e t a c s e u t t f e s t h r h u n o C a e t e t t d r c h c o s y h B o T a o h h u a e of u e i i n u r t t n d z g y l S s i o i w o l h r i e h h t o m e u u l e o a d a e f s m c d i v h b e s h g d e n e b o c i. w o - a d e - e. t e s, a b w er a. T D Y ke h n o e o u e d m n m o o w t u r t s w i a l t l a l u s s p n t c r e d a o e a v n r e n s d t o y a t e o h n s u e t d r r w o o c y u r e o n t r n h t w u g e r. w o y r o l o r d n l d a l e s n a i o r t w n i i s, n o g n l o d h w i o s n t o o e r r. e y l s — e m t y o o l e m ss u o c n h s h w as il l h a b p e p lo e s n t e d on d y u o r u in. g L i y s o t u en r 7 cl 0 o 0 s - e y ly ea t r o s E lu z m ra -, and W kee i p th i o t u f t o w r a a s s t i l n o g ng m a o s r e y i o n u k w on is h y. o u, on to the first lesson. — Troilus Cressida
+Chapter t Wo: ego and evolution
+
+=== PAGE 41 === t N
+he ightSOF In a way, the se modern nights are the logical consequence of our Father’s outlook. He sought to become y
+the Ou Ng something great, a being on par with the Creator perhaps or a being enlightened enough to be free of His rules. A Fiend in California Embraces and diablerizes serial The you ng ones call this “ego.” Ego is Tzimisce’s ideal, killers, collecting the ir murderous souls. The regent destroyed pride as a way of being, the elevation of the one above
+a pack in Mexico City for burning do wn a Grimaldi estate. A the rabble. The mortals of the past few centuries have
+Tzimisce sire and childe sold the ir souls to Hell in exchange co-opted our ideal as the ir own. they have declared for the location of a sleeping Cainite with old blood in his God dead. the ir governments make a show of treating
+veins (perhaps this is why you have awakened, old one?). citizens like “individuals,” entitled to certain rights. It is
+The clan you once knew, the clan of voivodes and koldun, is not some academic subject for the m, but a way of mortal a dusty painting hanging in some elder’s closet. Even Cezar life; still, the bounds of pride, which a Germanic do ctor
+Satnoianu’s brood huddles in the all eys of the New World named “ego,” have been described and debated by the ir like beggars. Some Tzimisce keep the old ways, but most of scholars for almost a century. In the ir new self-importance, the m now squander eternity on dancing through bonfires, the se generations understand little of convention, status
+gorging the mselves on ostentatious blood-rituals, and the n or protocol. Rude childer, blood-smeared surgeons and going about what ever business they please, clan and sect be fire-dancing witches have replaced voivodes, zhupans and
+damned. they call the mselves “Fiends.” koldun. Undeath is no longer a curse or an obligation; it is a punishment. For the active, it is a challenge. A threat. the se are you r clanmates in the Final Nights. Although the modern generations of Tzimisce reflect
+How will you deal with the se childer, old one? Even the mortal world, they still reject it as uninspiring, mundane, as mortals, they wielded power that you would consider
+naïve or metaphysically inferior. Humans, to most Fiends, miraculous. they can talk over continents — the voivode are little more than food. But the progress of the mortal
+in Mexico City can speak to the Cardinals of the Lands world makes more demands on the Children of Caine than
+Beyond the for est as if they stood face to face. they have it did when it wielded swords and feared demons. We rely
+access to a book called the Internet, a book that all ows on our breathing servants more than ever, as you shall see. modern folk to search, if not directly access, the who le of
+the ir accumulated knowledge. Through the ir public schools, t F u he ACtSOF NLi Fe
+the modern masses understand the ir world better than the wisest seneschals of you r time. If you find any advantage to awakening in the se
+vulgar times, it may be that the manners of the se reck And they conduct the mselves in the most informal less childer are unsophisticated and simple to learn. As I
+ways. Kings are rare in this time. The Greek’s democracy suspect it was in you r time, demeanor means more than
+is the rising vogue. Corporations control economies. the ir one’s words when dealing with another Cainite. I’m sure
+weapons are the province of gods. they possess things that you knew when to play the wolf and when to play the
+will burn you, you r have n and you r city, old one, in one foul cub, old one? Still, most of the you ng Tzimisce, those
+conflagration. Be careful where you take you r sustenance — not stuck in the ways of you r time, rely on few for malithe mortals have eyes that watch the most hidden places. ties when conducting the ir affairs. Those few who could
+The mortals who now join you in undeath were born into recite the ir lineage do not, and no voivodes are available
+this world; you will never learn even half the truths they to hear oaths of fealty. have always assumed. I will of fer you examples of the ir informalities. If
+Although they are you ng, the modern generations they anger you, remember that few teach our ways in this
+sustain two sects larger than the undead population you r time. Remember that they would snuff you en masse for
+Old World ever achieved. A charter of Traditions binds the standing against the m, as we did with the Eldest. Camarilla, a league that claims to speak for every Cainite
+in the world. How could a relic from our fractious past even h u e AdFir Sti NtO Nde Ath
+conceive of that? Tzimisce do n’t “select worthy mortals” for the Em Both sects contain legions — what ever laws you folbrace. No such thing exists. Family name, education and lowed in the Carpathians, when our numbers were small
+status remain considerations, but they are no longer the and every childe knew his great-grandsire, are obsolete. prerequisites you remember. The Fiends pick mortals with
+While the Sabbat lacks the strictures of the Camarilla, it the potential to become something great in undeath — to
+also maintains something like loyalty among its members. become a leader among the ir kind, tear do wn the Cama Because of a blood-sharing ritual called the Vaulderie, rilla or uncover a new principle of Metamorphosis. Fiends most of you r cousins are now more Sabbat than Tzimisce. Embrace for the same reasons other Cainites do — com The Mongol horde still threatens to overtake you, old
+panionship, assistance, prestige — but most of the m require one. they share you r Blood. that spark, that predestined ego. Genius is n’t enough. Clanbook: tzimis Ce
+
+=== PAGE 42 ===
+To become Tzimisce, a person needs the drive to do t wO h and FuLS OF d irt something impressive. Some Fiends might have become I have felt the soil of the Old World in my hands, presidents, inventors, artists or entrepreneurs if the ir lives old one. At first, it seems cold and viscous. the n you
+were n’t cut short by the Embrace. Yes: The history of the squeeze it between you r fingers, and you realize that it world might have been very different with out our kind. is wet. Not wet like mud, not some weak ooze, but like
+But ego expresses itself in other ways — the serial sandy clods of red dirt that have consumed 10,000 years killer who murders 13 people to accommodate his abuse of rain. As it crumbles, you realize that you r gloves are
+as a child. The pervert with the courage to indulge his wet, and later, they will smell a bit rotten. The soil taste for blood, despite society’s taboos. The scientist who resembles our clan, old one. It is fallow. We remain atcreates a new disease to wipe out particular tribes in spite tached to it, though the se modern Tzimisce rest most
+of his profession’s ethics. The atheist who writes screeds easily in the soil of what ever homeland they claimed as against the faith of others to subdue his own skepticism. a mortal or a place important to the ir ego — the soil at
+The heroin addict who hates the world for driving him the ir childhood home or the dirt of the ir intended grave. to the needle. Each is you r grandchilde, eight genera- But they do not call this addiction a weakness — it tions removed. symbolizes the Fiend’s connection to the ir so-called
+Following the Embrace, some Tzimisce childer spend homeland. At least, that’s how some Tzimisce regard the ir many years under the wings of the ir sires, sometimes dependence on the ir native soil. do es one as old as you
+the ir entire unlives. Traditional Fiends instruct the ir recognize this curse? with out at least two handfuls of dirt childer in every aspect of the Curse of Caine and in the from a place important to the m as a mortal, Tzimisce grow
+conventions of the Sabbat and Clan Tzimisce. After the weaker until they spend a full night surrounded by the ir first few years of this wicked education, most Tzimisce precious soil once more. Wise Tzimisce keep much more
+see the concerns of the ir mortals lives as irrelevant than two handfuls around. Some do n’t feel safe unless memories and stand ready to destroy the Antediluvians they have a do zen crates of the stuff hidden all over town. and the ir Camarilla proxies. Perhaps you could answer a question for me, Me Tzimisce sires of ten number among the most objec- thuselah: Are the Tzimisce territorial because the ir
+tive of teachers. While some Cainites tell the ir childer weakness complicates migration, or is it a punishment exactly what they want the m to know and lie about for the ir possessiveness? Noddists cite myths in which
+the rest, most Fiends prefer honesty — brutal honesty. Caine curses the entire line for the feudal outlook of its
+Survival leaves no time to make up stories. Tzimisce founder. Koldun believe the weakness is a debt to the sires quickly destroy childer who can’t deal with the land-spirits of the ir native do mains, who se power aftruth or fail to realize the ir potential. fects all that falls under the shadow of the Carpathians. Exceptions — Tzimisce who come into undeath Few truths arise where myths and spirits are concerned. through mass Embraces usually learn the facts of unlife Some Tzimisce have it worse than others. A very small
+from the ir packs. And the dangers of being Sabbat — number, born continents away from Eastern Europe, actucrusades, Fire Dancing, Monomacy — or phan many all y need dirt from the soured lands of the ir ancestors. In
+Tzimisce. Far too many Panders — the Caitiff clan, the modern nights, few Tzimisce realize what such childer old one — can blame the Fiends for the ir plight, most require and destroy the m for the ir apparent weakness. Those
+of the m failed experiments or luckless bastards who sires who know the old secrets of the ir clan or discover the somehow survived the suicide missions for which they truth in time to help a fading childe actually revere the ir
+were dragged into undeath. progeny for the ir special connection to the Old World. Can
+Finally, the Tzimisce Embrace has a way of changing you imagine, a Tzimisce sire serving his childe? With the people. Even those Embraced haphazardly during crusades modern reemergence of Koldunic Sorcery, ancient koldun
+tend to enter unlife somewhat distorted. What is it that of ten seek out the se you ng Cainites in or der to teach the m turns a mortal — an animal that uses religion and morality the ways of the ir art. they keep plenty of Old Country
+to convince itself it’s not an animal — into a blood-bathing soil on hand to entice potential apprentices. demon who seeks evolution through Metamorphosis? B, O J
+LOOd ur Ai Ler
+Perhaps it’s a quality of the Blood, but more likely it’s the intensity of the Tzimisce unlifestyle — aside from the According to our own legends, the Eldest was the
+fact that they’re undead, having a blunt sire explain the first Cainite to discover the blood bond. In some versions war against the ancients while bonecrafting the ir skulls (in which the Crone is conspicuously absent), Caine
+is enough to make most mass-Embracees want to crawl himself is ignorant of the power of his own Blood until back into the ground. Loss of identity is an understandable his grandchilde teaches him its use. Whether this is truth
+fear, but some find it preferable to viewing unlife through or propaganda, throughout history, some Tzimisce have human eyes. Regardless, even the best people can emerge considered the mselves masters of the blood bond, with
+from the experience ready to diablerize the ir way to Caine. the revenants and ghouls to support those claims. Chapter t Wo: ego and evolution
+
+=== PAGE 43 ===
+That our clan was responsible for the greatest innovaO r: ptiONAL u Le tion in the use of blood bonds is more than a myth. When F B B
+LAv Ori Ng LOOd ONdS the you ng Tzimisce of the Old World rose up against the ir
+If a Tzimisce attains a Path rating of 8 or more, elders, packs of rebellious childer sometimes pooled the ir the Fiend can manipulate his blood bonds to instill
+blood into a bowl liberated from a wealthy voivode or the particular desires or emotions with in his thralls. At
+skull of a fallen elder. Each member of the pack drank from the time of the third sip, the Tzimisce must have
+the container as a sign of solidarity. Packs that engaged in this practice displayed decidedly unvampiric tendencies: a specific quality in mind, but the quality seldom
+loyalty to the ir fellows and even will ingness to sacrifice the ir manifests unless the circumstances of the relationunlives for the ir brothers. When combined with koldunic ship, and perhaps the blood sharing itself, could magics in a ritual that for eshadowed the Sabbat Vaulderie, logically result in the intended dynamic. A ghoul
+the se packs destroyed the ir blood bonds to the ir sires and who’s been locked in the dungeon of a do mitor who proved immune to attempts to restore it. never leaves his lab, for example, probably can’t be
+Even before the Anarch Revolt, Tzimisce with ad- made to feel especially jealous. vanced understandings of the Paths of Enlightenment If the situation all ows, roll the regnant’s Path ratcould cause those enthralled by the ir blood to experience ing (difficulty equal to the thrall’s will power). The particular emotions or desires. the se Tzimisce understood number of successes indicates how fully the thrall’s
+how to subdue the ir Beasts to such a degree that they could bond has the quality desired by the regnant. One sometimes master the base impulses of the ir thralls as well. success indicates a vague feeling that occasionally
+Most regnants have little say in how the thrall influences the thrall. With five successes, the quality expresses the mockery of love instilled by the blood is the defining element of the thrall’s relationship
+bond. Those of our kind who knew how to influence with his regnant. This context lasts until the bond the bond, how ever, could make the ir thralls feel violapses or the regnant instills a new emotion. On a
+lently jealous, obsequious, reverent or even fearful. In botch, the regnant assumes the emotions meant
+the Final Nights, a few Tzimisce sufficiently stalwart in for the thrall. the ir Path of Enlightenment can create the same effect. Although most Fiends who possess this abil Perhaps I want something from you after all, old one. ity consider it a power unique to Tzimisce blood, N ever e At y Our O wN Cainites who have diablerized a Tzimisce or even
+shared a significant quantity of blood with a Fiend
+Many Tzimisce refuse to diablerize members of the ir could conceivably develop this control over the ir
+own clan, if they indulge in the Amaranth at all. This perplexes other Sabbat, who widely regard diablerie as thralls, at the Storyteller’s discretion. a vehicle to power. It could not be, they say, that the
+blood is used. Some Metamorphosists fear that such an clan has such internal loyalty. arrangement might lead the m astray from Azhi Dahaka. When questioned, some Tzimisce relate the story
+Tzimisce who eschew Vicissitude almost never diablerize of Luther Wexler, a diablerist who met an unenviable
+Cainites with the disease for fear of contamination. Other
+Final Death. A year after Wexler consumed the soul of
+Tzimisce, protective of the ir egos, recoil at the thought his sire, he bragged about the destruction of his sire to
+of another entity dwelling inside the m, influencing the ir his pack while they shared blood. Before the bowl made
+thoughts. Fetishes aside, most Tzimisce prefer remaining its way back to the pack priest on the other side of the
+a weaker but self-made Cainite to becoming someone’s fire, Wexler and all the packmates who had tasted his
+mighty puppet. The fact that mass-Embraced Fiends who blood stood up at once. the ir eyes widened like those of
+lack the knowledge of our clan’s values and diablerie’s frightened animals. Bloody specters climbed out of the ir
+true nature do n’t share the ir brothers’ compunctions mouths and sloughed of f the ir skins, which fell away in
+lends credence to this the or y. neat puddles like dropped robes. The specters met in
+This is not to say that Tzimisce never practice the fire and became flesh, the n ran of f into the night. diablerie. Some accept the teachings of the ir sires but
+The survivor who spread the account was supposedly a attempt to avoid complications by destroying all sources
+fledgling who had yet to partake of the Vaulderie with her of the ir intended victim’s self-worth; when they finally
+new pack. The rest of the Sabbat remains unconvinced. diablerize the victim, his soul is broken and longs for
+The Tzimisce distaste for diablerie might be attribobliterating quiet. Others actually relish the idea of uted to several factors. Traditional Tzimisce sires of ten
+becoming eternal prisons for the souls of the ir enemies. warn the ir childer that when they drink a Cainite dry, Some accept the risks, hoping the power is worth the they also drink her soul. Strong souls can linger after the
+price. Few of the you ngest Tzimisce, which is to say
+Final Death, and some want a say in how the ir potent much of the Sabbat, see any danger in diablerie. Clanbook: tzimis Ce
+
+=== PAGE 44 ===
+OyALtieSOF
+C the LAN
+If not for you r torpid absence from the world, I have little do ubt that you would have been destroyed during
+the Anarch Revolt. Those as old as you cling to the past, and judging from you r descendants, I suspect that you would have preferred Final Death to equality with you r
+childer. Still, you r slumber has saved you, and wisely, you have accepted the clan’s new loyalties, though I do ubt
+you understand the m. Blood such is you rs is too valuable to our cause, even if it slushes through the veins of a
+creature that can not turn on a computer or read a clock. t S S? he OuLOFthe ABBAt
+“If Clan Lasombra is the heart of the Sabbat, Clan
+Tzimisce is the soul.” Sabbat members resort to this trope so of ten that I would not be surprised to learn that
+they were the first words you heard upon awakening. Do the se of ten-repeated words actually mean anything? To dissect this metaphor: Clan Lasombra lends the necessary hierarchy to the sect. It’s the “heart” because
+with out it, the body, the sect, could not function. In this way, the Lasombra live up to the ir self-proclaimed
+role as the ir “brother’s keepers.”
+But even if the Lasombra literally keep the blood flowing, the Tzimisce make continued existence worthwhile. We’re the “soul” because we attend to the higher spiritual and intellectual demands of that continued existence. The Lasombra keep the Sabbat alive, and we tell the sect
+what it should do with that vigor. If the Lasombra tend to be ducti, cardinals and archbishops, Tzimisce tend to
+be prisci, pack priests and members of the consistory, the group that advises the regent. But the difference is n’t that practical. The “soul” is
+just as necessary to the functioning of the body, or sect, but in a way that’s less concrete. The Tzimisce have accomplished much in the ir spiritual role. The Packs: The Sabbat or ganizes itself into small
+packs united by the Vaulderie, a blood-sharing ritual that bonds packmates to one another. When they rebelled
+against the ir elders, Tzimisce for med the first crude packs and invented the process that later became the Vaulderie. The pack structure is responsible for what ever unity the
+sect enjoys despite the ir lack of laws or common heritage. And Cainites are nocturnal predators unnaturally suited to is olation. That we have cobbled a semblance of
+society among such creatures ranks among the greatest accomplishments of the children of Tzimisce. The Paths of Enlightenment: It’s easy to think of
+the Paths as abstract moralities, but they serve a very practical function: preventing Cainites from succumb Chapter t Wo: ego and evolution
+
+=== PAGE 45 === ing to the ir Beasts. Back when even Cainites looked to Final Nights. My generation did n’t object to the elder’s
+Heaven or Hell to preserve the ir souls (to which did you power on principle, as some vainglorious Brujah do. We look, old one?), a few Tzimisce sought Metamorphosis. objected because we did n’t hold power ourselves. As such, Individuals who made a point of transcending the ir for- the clan resurrected on Kupala’s Night (if not all of its
+mer humanity had to develop ways to stifle the ir Beasts members) still acknowledges the hierarchy of the Sabbat while still becoming inhuman. Those who did n’t turn and retains a semblance of its for mer or ganization as well. to Metamorphosis borrowed philosophies developed by The Voivode of the clan is traditionally the most
+other Cainites and turned the m into full-blown Paths of powerful active Tzimisce in the world. This was the role of
+Enlightenment. While most Sabbat wallow in the worst the Ancient itself — in the first nights, its authority was of the ir for mer humanitas, we have developed more useful unquestionable. When Tzimisce fell into torpor, Yorak
+approaches to undeath for the enlightened few. with out assumed the position of Voivode. He set the standard that the moral instruction of the Tzimisce, the entire Sabbat all succeeding Voivodes must meet. In the modern nights, would be a slavering, monstrous horde. More so, anyway. this standard is interpreted as an advanced understanding
+The Ritae: Many of the Sabbat’s ritae have the ir or igins of both Koldunic Sorcery and a Path of Enlightenment… in Tzimisce practices. A ceremony that was used in you r and the unreserved endorsement of the clan elders. nights of relevance to confirm new voivodes, for instance, Why would our clan’s figurehead rely on such esoteric
+inspired what is now the Blood Bath. When a new voivode principles? Perhaps you can answer this better than I, old annexed a demesne, those of or dependent upon the Blood one. Few Cainites follow the Paths of Enlightenment, and
+who existed in that region — Cainites, revenants and pre- koldunism is almost unheard of outside our lineage — why sentable ghouls — attended a coronation. The new lord sat the n do we demand such unconventional prerequisites? before a large bowl, and each of his subjects approached him, If they are not some lingering dictate of the Eldest, attested that he was the undisputed ruler, the n filled the the n I am inclined to blame history. I have heard that
+bowl with as much of her own blood as she could with out Yorak was a koldun, perhaps the first koldun. It could be losing consciousness or self-control. that he knew his art would dwindle as the world aged and
+After all of his subjects made the ir contribution, the established a precedent that our clan would need in the new voivode held up the bowl and is sued a warning to those Final Nights. the n again, it could be that other Voivodes
+who would question his power. Mirroring an even older merely seek to prove to the ir followers that they are like pagan ritual, when the new voivode reached the violent peak the venerable Yorak. Despite what the medieval Metamorof his ceremonial threat, he threw the bowl into the air, phosist texts record, I do ubt that the Tzimisce profited so
+drenching his assembled servants in the collected blood — a greatly under his guidance. His rule was long past even demonstration of what would happen if they defied his rule. before the European Dark Ages. Only an ancient creature
+When the Tzimisce adapted this ritual for use with in like you rself could give us a more accurate account.… the Sabbat, they reversed its intent and mocked the or igi- As for the requirement that a can didate follow a
+nal. When a new Cainite fills a high position with in the Path, my own the or y is that it was added after a technical
+Sabbat — cardinal, archbishop or regent, perhaps — she disagreement among the Tzimisce elders who must supbathes in the collected blood. If the or iginal splashing port any aspirant. You may have heard the name Sascha represented the price of insurrection, the Sabbat’s Blood Vykos — did news of the Tremere-Tzimisce conflict reach
+Bath represents the assumption of responsibility for poor the mountains under which you hid? Even before you r leadership. The ruled threaten the ruler. Although the as- 700-year leave, Sascha worked against the Antediluvians; sembled still swear the ir loyalty in the modern nights, they the siege of Atlanta was its latest contribution — or was it
+receive praise and advice from the newly titled vampire was hington, DC? In any event, it told me that advanced rather than swearing never to question her leadership. understanding of a Path became a precedent after a dispute
+The Sabbat has surely profited from our hand-me- among some elders about whether the previous Voivode do wns. The ritae (despite the bastard Latin preserved by was fully in control of his Beast. Many Tzimisce from the
+ignorant Lasombra and you ng Tzimisce’s lazy tongues) Old World regarded frenzy as base, uncouth, animal-like. provide unity with in the sect, maintain morale and all ow Elders from the Old World saw the New World “elders’”
+Cainites to experience fully what undeath has to of fer in support of this ravenous Voivode as proof that the New spite of its curse. World could not pick a worthy Voivode. Although perhaps
+only five Cainites were involved in the dispute, those t t h
+he zimiSCe ier ArChy few were the eldest of Mexico City, a cabal that can still
+Although the modern incarnation of the clan de- blackball any potential Voivode, even if they can no lonfined itself in the rebellious fires of Kupala’s Night, we ger seat one on the ir own. The preference for a Voivode
+Tzimisce hardly discarded our right to rule, even if the to follow a Path of Enlightenment was proposed by the word means something different in the context of the New World contingent — an effort to correct the ir earlier
+Clanbook: tzimis Ce
+
+=== PAGE 46 === mistake and complicate the Old World’s argument against Clan are exceedingly ancient — perhaps they know some
+the m. As Sascha says, it was a way to prove that a future lore of which the rest of the clan is ignorant. Scholars can didate was master of his Beast, proof against the Old have contrived all manner of unlikely the or ies to explain
+World Tzimisce’s accusation that the New World elders why the se “Old World” or “Old Clan” Tzimisce reject were appointing another rabid do g to the post. the fleshcrafting arts, but the Fiends in question are n’t
+Adopting a Path requires the will and rigor to oppose talking. In fact, they’d prefer never to talk to the ir clan at you r baser urges. It is, the refore, a rare act for a Cainite. the n, all, but holding the ir noses and joining the Sabbat seems
+as now, most Tzimisce want a Voivode who is disciplined… preferable to fending of f the fangs of our hungry cousins. …and obscure. In the Final Nights, most Tzimisce As the name applied to the ir branch of the clan imregard the ir Voivode like lapsed Catholics might regard the plies, many of the Old Clan Tzimisce maintain demesnes
+Pope — they get furious if they hear him insulted, but they in Eastern Europe and continue to manage the ir holdings do n’t exactly agree that he’s infallible. The current Voivode in the medieval fashion (if less openly). The Cardinals
+may be the last. Her name is little known with in the clan, of the Land Beyond the for est hesitate to make many almost unheard of with in the larger sect. Her voice do es demands on this uneasy relationship, but the Sabbat
+not carry beyond Mexico City. And she is ignorant of can rely on occasional assistance from the Old Clan, koldunism. If the Ancient still exists, it is surely dissatisfied. particularly in Romania — that is what the world now
+No do ubt this news distresses you. At least the zhupans calls you r homeland, old one. still exist — they bear the duties once expected of our Old Clan Tzimisce have mastered Caine’s gift of titular leader, maybe because the ir status is earned rather mental do mination in place of Vicissitude. they consider
+than or dained. the se are the wisest (not necessarily oldest) the mselves to be the clan’s aristocracy, a family that still members of the clan — in the Final Nights, they remain conducts its affairs in the ancient Tzimisce way. the ir
+the most conversant in the lore of the Tzimisce. the ir witches still know the most obscure ways of koldunism. knowledge, as well as the ir prowess in battle, proves they The Old Clan still practices the ceremonies of coronation deserve the ir title — before a Fiend can be considered a and rites-of-passage for childer. The ritae are abhorrent to
+zhupan, he must first master the zulo for m. At least one of the m. Perhaps you would find more identifiable company the ancient ways still endures, Methuselah. among the ir ranks, old one. Some Tzimisce still claim the title of voivode, though C d
+hi LdreNOFthe rACON the ritual of for mal recognition no longer exists. the se
+The Children of the Dracon trace the ir roots to voivodes, not to be confused with the Voivode of the en Constantinople, though Noddist scholars disagree on
+tire clan, appoint the mselves and enforce the ir claims as whether this history is genuine or was later co-opted to
+best they can. they fulfill an obsolete function that was lend credence to the group. Members of the Children, the heart of the Tzimisce feudal ideal — oversight of a
+also called “Dracons,” claim to be descendants of the first demesne, or do main. childe of Tzimisce. Most Tzimisce who claim the title enforce do main
+This knightly or der of Fiends exists so that Clan over a particular stock of mortals, usually a neighborhood
+Tzimisce may atone for its sins. Dracon’s Children believe or small city. The voivode of Athens, Georgia (surely a
+that the clan as a who le committed some grievous error at laughable title to the Old World Fiends) claimed do main
+a critical point in its history. The Dracons reject Koldunic as the only Cainite who makes his have n in that town after
+Sorcery — maybe Kupala’s Night was the error in questhe siege of Atlanta. The voivode of Miami can enforce his tion. If so, why did they join the Sabbat? Perhaps because
+claim only in Little Havana. the ir founder instructed the m not to abandon the ir clan. F ACtiONS A mONg F ie NdS Instead, they now oppose almost every decision made by the clan Voivode or enacted by several influential elders, Not every childe of Tzimisce aligns himself with
+seemingly for the sole purpose of being contrary, but this some faction, the Sabbat included. Aside from do zens
+seems unlikely. they voice this opposition through the ir of packs, Metamorphosist schools and Gehenna cults, continued involvement in the Sabbat. The Children of
+the Tzimisce have also or ganized the mselves into several the Dracon produce legions of templars and claim a few
+large factions with in our clan. European bishoprics. they are excluded from the Black t he O Ld C LAN Hand, how ever, and no Dracon has ever served as the
+Voivode of Clan Tzimisce. do es this branch of the clan cling to the oldest ways of
+The rather arbitrary opposition to any policy endorsed the Tzimisce, or are they something akin to puritan radiby the clan troubles many Tzimisce because the Children’s
+cals? Accounts conflict, but at some point in the ancient motivations are not entirely clear. One rather ancient
+past, a segment of the clan either refused or denounced
+Metamorphosist suggests that evolution is a response to the “defilement” of Vicissitude. Some members of the Old
+Chapter t Wo: ego and evolution
+
+=== PAGE 47 === a threat — perhaps the Children spur the entire clan’s t he r OmANiAN L egACy F Ou NdAtiON
+advancement by providing the requisite resistance. An- You may recognize some of the names on this other popular the or y is that this perpetual opposition is a foundations’ board of trustees: Bratovitch, Obertus, punishment for the clan’s great mistake. Sascha Vykos, a Grimaldi, Zantosa. The last you know, though you
+for mer resident of Constantinople, will tell me only that might not immediately recognize it — a corruption of
+“Dracon is dead to me. His so-called Children make a the name Szantovich. mockery of the ir purloined heritage.” the se names represent the four remaining revenant
+The Children of the Dracon or ganize the mselves families of any size. During you r slumber, they came to much like a monastic or der, with “scions” establishing serve the Sabbat. I will explain this later. For now, it is
+monasteries made up primarily of the ir own broods. enough to know that our clan still draws many neonates
+The monasteries coordinate the ir activities through from the ranks of the se four families. the Hagia Sophia, a Dracon Vatican of sorts somewhere
+The Romanian Legacy Foundation is composed of around the Mediterranean. The scholarly wing of this
+Cainites who sprang from our revenant houses. Although or der, the Akoimetai, is drawn almost exclusively from a
+the board of trustees is composed of proven ancillae, the branch of the Obertus revenant family, though this family
+foundation is made up mostly of you ng Tzimisce. Those who produces some knights as well. Tzimisce not descended
+still draw childer from the revenant houses rarely welcome from a scion are rarely all owed to join, and even those
+the ir chosen to undeath with a shovel in the face. The Rowho do are referred to as “carrion” and never granted manian Legacy Foundation gives the se new children a more
+full understanding of the meaning of the 12 legacies that cultured introduction to undeath. Foundation members from
+this sect-with in-a-sect abides. Children of the Dracon all over the world fly to cities like Boston, Rio de Janeiro, also tolerate the existence of thin-blooded Cainites
+Amsterdam or or adea for “conventions.” the se convenwithin the ir ranks, a trend that disgusts conservative tions are actually rites of welcome for the se Cainites-to-be. elements with in the clan. Fifty or so members meet at the have n of the host, or
+Before the Embrace, the Children leave the monasat a revenant estate, and engage in the bloodiest of Sabtery to study the “12 legacies” — precepts of the or der bat bacchanalia. Mortals hang from the ceiling, dripping
+— with various enclaves across the globe. the n, they blood into enormous urns that are later overturned at the
+return to the ir monastery of or igin to be Embraced. If tops of stairways, the host’s demonstration that blood is
+the initiate is an Akoimetai, he is entrusted with one available in abundance. The blood is usually consumed
+volume from the Library of the for gotten. If a knight, he before the stroke of midnight. Relatives who have n’t seen
+is charged to carry a letter in an envelope he is for bideach other since the last convention share the Vaulderie. den to open, sealed with the mark of Dracon himself, No entertainment is excluded, if it strikes the host’s fancy. to some other Fiend elsewhere in the world. Confirmed
+Even if no revenants are inducted through the foundain the or der, the new Child of the Dracon departs to tion one year, various members host at least two or three
+establish himself with in Sabbat society. such gatherings to maintain ties with the or ganization. In the modern nights, the have n of the scion is
+Just before morning, the new childer are Embraced the “monastery” for any given cell, and no one but the
+while they are drunk, exhausted and, quite likely, weak from scion and perhaps a member of the Akoimetai makes
+loss of blood. If they do not leave with the ir sires the next the ir permanent have n the re. The Children prefer that
+night, the fledglings are assigned to a sponsor, a member the ir ranks remain involved with the sect rather than
+of the foundation who’s probably no more than a few years cloistering the mselves. Some Dracons aspire to follow
+dead herself. Because the fledglings are of revenant blood, the Path of Metamorphosis or the Path of Honorable they probably understand quite a bit more about undeath
+Accord, though elder members and a few you ng prodigies than the ir once-mortal peers. If they are to be instructed
+claim to follow a different Path unknown to the Sabbat by a neonate, only a for mer revenant will do. at large. The Akoimetai observe a variety of ignoblis ritae, Although the se sponsors can teach the ir students
+but most Children refuse to take part in any ritae they how to deal with the undead condition, they give the ir
+believe to be derived from koldunic practices. charges something far more valuable: an introduction to
+Prominent Children are sometimes granted unique the society of the Damned. Sponsors show the ir charges
+titles and serve specific functions with in the or der. Some around the city, introducing the m to the ir fellow Tzimisce
+educated Tzimisce may recognize the titles Keeper of and perhaps other members of the Sabbat as well. The
+the Faith and the Gesudian, though more obscure titles sponsors show the ir students the best are as to feed and
+exist as well. My own knowledge fails here, as well; I the locations where significant ritae take place. The new
+have no idea what duties or benefits the Keeper of the
+Cainites receive the welcome to undeath that a worthy
+Faith or the Gesudian perform or enjoy. revenant should strive to earn. Clanbook: tzimis Ce
+
+=== PAGE 48 ===
+Why do es this family affair require such a misleading The majority of revenants brought into undeath are n’t name? The foundation requires a degree of publicity, associated with the Romanian Legacy Foundation. Still, since another of the ir purposes is to locate branches of some of our clanmates see the or ganization as a way to
+the ir families or of the families that supposedly vanished maintain our old traditions, even though our revenant or no longer serve the Tzimisce. The name is for the aristocracy is spread so thinly across the world. Even
+sake of America’s tax collectors, to who m the foundation revenants who were n’t inducted into the foundation at represents itself as a “nonprofit genealogical or ganiza- the ir creation can join, provided they survive the remetion.” Mortals who see the ir classified advertisements dial initiation rite, about which the less said, the better. for “conventions” or find the right page in the book of N
+eOFeudALi StS the Internet can petition for membership. they must
+More a sensibility than a movement, the neofeudalists submit the ir family trees to be considered. The scholars
+are those Tzimisce who seek a return to the nights when affiliated with the foundation scour the se submissions
+the we ruled kine as kings ruled serfs. they of ten claim for any relatives to our revenant families. vast tracts of do main, sire large broods of childer and
+Somewhere, a child bearing an Anglicized name defend the ir possessions with a territorial fury that would
+grows with our blood coursing through her veins. Her do the ir Ancient proud. For neofeudalists, relying on the ir
+blood may be too watery for her to be considered a own resources rather than the Sabbat’s is a point of honor, revenant, or maybe not. Regardless, the Tzimisce blood
+especially since they find the mselves at odds with the ir own with in her no do ubt makes her an exceptional mortal. If
+sect as of ten as they do the Camarilla. Some Fiends regard she is like most of the cousins located by the foundation, neofeudalists as anachronisms. Others see the m almost like
+she is emotionally disturbed in some way, given to fits of folk heroes reclaiming some lost native pride. Most archdepression or indulging in the torture of cats, perhaps. bishops, how ever, would prefer Lupines infesting the ir cities
+Despite her haunted life, she could grow up to be a bold to having a neofeudalist move in next do or. Few survive
+leader, a fiery priest or an ingenious scholar like many in the Final Nights, and fewer still survive for very long. of our distant relatives. If the foundation locates her in
+e time, she may be fit to receive the Embrace rather than xSANgui NiStS
+die as an exceedingly old and talented mortal. A blood cult exists with in Clan Tzimisce. Unlike most such cults, awash in oceans of vitae, the Exsanguinists
+Chapter t Wo: ego and evolution
+
+=== PAGE 49 === have invented a do zen or so ignoblis ritae to avoid drinking fear the power of men. He was an impatient, bitter corpse
+blood for as long as possible. they consider feeding the who saw the Jyhad in everything, much as I’m sure you act of an animal, not a deathless being on the threshold do now that you’ve reawakened to this alien time. His
+of something greater. paranoia led him to be an impatient Cainite. Now that
+Thought to be an of fshoot of a school of Metamorpho- it is time to discuss the other lineages of Caine, I quote sis, the Exsanguinist cult teaches methods of meditation from my fondest remembrances of my twice-dead father
+meant to build up the ir endurance as they go for increasingly — his rants — rendered as best I can remember the m. longer times between feedings. they seek to distract the mA
+SSAmiteS selves from the ir hunger by any means, usually by leaping
+Do not speak to me of the Assassins! I despise the m headlong into what ever Sabbat cause strikes the ir fancy. and the ir filthy paynim ways! Oh, how they fright my
+Some proselytize, but most Sabbat are too bloodthirsty for heart with the ir lethiferous stares! Are they Cainites at
+the ascetic existence. all? The Children of Assam have more in common with
+Exsanguinists perpetually skirt the edge of ravenous the soulless dead of the or ient, I say, and the ir nature
+frenzy. they’re given to making wild, fanatical declarations convinces me that the Black Hand will betray our Great
+about the nature of undeath and reacting extremely to
+Effort. Why suffer the m at all? If some unpleasantness changing circumstances. Upon the capture of a Camarilla
+demands expendables, do the Lasombra not suffice? infiltrator with in the city, one Exsanguinist bishop in Tijuana
+And when they enter a home, they for get to wipe declared that Central America would fall with in the hour, the ir feet. Perhaps you are an Assamite, childe? set his robes on fire and consumed the spy and himself in a
+flaming embrace to emphasize the dire nature of the predica- B ruJAh
+ment. While a few Exsanguinists are placid buddhas, most
+After dealing with the m — a labor regretfully necesare lip-biters ready to frenzy at the slightest provocation. sary given the prominence they attained since the Third t A Civil War — I am inspired to sponsor missionaries to the ir
+zimiSCe Ntitri Bu was telands, to teach the m that immortality is more than
+Those Cainites who have broken with the ir parent clan, dancing in filth and feeding indiscriminately. The Beast especially those who se cousins have joined the Camarilla, rules the m utterly. A clan in need of discipline, the se
+fancy the mselves antitribu and refer to the mselves as such. Brutes. It must reassure the m to reinvent the ir mighty
+Tzimisce have no need for such vanity. Since you r time, do mains of old in every urban was teland to pollute. most Tzimisce have regarded the ir clan as an unlifestyle, rather than a family to appease. Tzimisce have a reputation S L erpe NtSOFthe ight
+as ruthless, inhuman deviants because some aspire to be just
+Despite our nature, we must be honest with one that, not because we bear some affiliation with our brothers. another: Tzimisce is a clan of rarefied tastes. Passions
+As such, more of the clan exists independent of the Sabbat such as we know are only available in a seller’s market. I
+than we like to admit. Some rule demesnes and acknowledge know that you are not religious. the n hie to you r Path, no authority but the ir own. Groups of Tzimisce descended
+and eschew the ir seductions! from one ancestor, like the ever-shrinking or adea League, At the Palla Grande, I am of ten disposed to lecture the associate only with the same few relatives. Most, like the
+you ng. I implore the m to feed of ten, for bid the ir ghouls
+Old Clan, give lip service to the Sabbat and go about the ir to touch the ir dinners and never believe the Serpents of
+business with out regard to sect. the Light are any different from the bastard line which
+Even though many Fiends are independent, few assospawned the m! the ir ultimate ambition is everything ciate with the Camarilla. While most of us are ultimately
+the Sword of Caine would prevent. Can we chance that beholden to our dwindling humanity, the sect’s emphasis
+the Cobras are sincere in the ir devotion to the cause? on humanitas do es not suit us. Truth be told, old one, most g
+Cainites are too proud to acknowledge that we hide from ANgreL mortals, abuse the ir institutions in the gentlest ways and do Did you know the se do gs come in two breeds? What
+not harm our fellows lest our cities become disorderly. Every new face will Caine’s curse show us next? Ah, but you
+Cainite must do the se things to survive for long, but most flatter me. No, I can not claim the credit for this bifurca Tzimisce would be embarrassed to admit it. I would have it tion — that belongs to another of our line. But you asked no other way, ancestor — why prattle on about weaknesses me what I think of the m, and the answer is “little.”
+when immortality is at hand? Yet, I would suffer a Hunter will ing to teach the rudiments of his earthy gifts. p t -d
+re Judi CeSOFthe wi Ce e Ad h S
+Ar BiNgerSOF KuLLS
+You missed generations of descendants in you r slumber, old one. My sire for instance — he was an anachronism I have met only one, and at first, she seemed demuch like you rself, though even he understood enough to lightful company. Very knowledgeable about our kind. Clanbook: tzimis Ce
+
+=== PAGE 50 ===
+I advise you to seek one out in all has te. You are inex- r AvNOS perienced with the m? Well, do not make my mistake A shame, really. Too much has been made of the
+— when supping with a Lazarene, never of fer to repair antagonism between our clans. I think of the m fondly, her visage. That faux pas has depleted my kennels and myself. Yes, they are renowned as rude guests, but they lead to some unfortunate complications in the conduct are n’t stupid. Our power was once so great that even the
+of my ritae. I fear I shall never lead another Vaulderie. Gypsies asked permission to pass through our lands, and the villagers were too busy running the m out of town
+ASOm BrA to rally mobs against us. A pity they are so far spread
+Was it not the Tzimisce who built the Sabbat? Did we now — imagine altering you r surroundings to match
+not bring our elders low? Did we not shatter the blood bond? the alterations you’ve made in you rself! Who, do you think, conceived the packs? Why, we even gave freely of our sorcery that any True Sabbat might know S ALu Bri
+the ritae! And from the shadows, they stole the throne on they despise the Usurpers, and that is enough. I which we should rightfully sit. Yes, it’s true they vanquished will of fer the m any aid I can. the ir Ancient first, but damn it, we showed the m how—
+t or e AdOr
+Well, no, I can’t say they’ve do ne a horrible job, I would set myself ablaze if I knew that one of the se merely an inadequate one. But we are a clan of lords. errant children would nurse me back to health. If the
+Why, the n, are we content to play advisors? It is for
+Vaulderie did not prevent it, I would bind myself to one me a most unpleasant rumination, and I would rather
+of the antitribu, for they are exceedingly good at certain focus on my experiments. the ir do mination frees us to
+acts I’d like to experience regularly. After my visit to pursue our curiosities, after all. Montreal last winter, you can not convince me that the
+m ALKAviANS Toreador do not seek the ir own for m of Metamorphosis. The Malkavians were the architects of the Tower of t
+remere
+Babel, I believe. they built an edifice that revealed the
+The strongest clan of the modern nights — proof of world from on high, as Heaven sees it. But the kine-god, the utter depravity of our times if ever I saw it! Thieves! ever jealous of the Children of Caine and the ir power
+Usurpers! they are so strong only because our blood to exist with out Him, destroyed the tower and garbled
+colors the ir veins! Seeing the ir preeminence, do you the tongues of its creators. The Malkavians have seen
+wonder why the Tzimisce feel as though they’ve been
+Heaven, but they can not describe it to others. Each robbed? Do not suffer a witch to live! speaks his own language, which we call madness. v
+N e Ntrue
+OSFer Atu
+Were we in charge of the ir ostentatious league of
+My skin seems to have come of f in the bath. Could
+“Kindred,” our subjects would praise us as worthy leaders, you fetch my robe? Yes, the Nosferatu would be jealous of not share our table and whisper curses when we turn our
+me indeed. Sadly, the re is no helping the poor creatures. backs! they understand the duller portion of governance, I would cure the m were I able, but the ir curse proves and I would have one as my seneschal, but they weary me
+so tenacious. Perhaps it comes from Tzimisce itself, so with the ir “consumptive choices” and “considered political
+old and powerful is its nature. judgments.” Fetch a bucket! The blood with in me rises! How could it be that they joined the Camarilla at all? Surely, the ir cause is ours as well. When the most
+A final gem for you r edification, old one: ancient creatures of the ir line resurface, I have little do ubt that they will flock to the Sabbat like rats escap- t L
+he upi NeS ing a flood. I have an unerring intuition of such things. I have undertaken quite an extensive study of the
+p shapeshifters. the ir classification proved difficult, since and erS
+they breed like Brujah sire. We have, how ever, is olated
+Oh, I see the ir use, but something with in me sickens several species: The North American Glassgnawer clan, at the tolerance they now enjoy. Would a mortal mother
+for instance, is known to populate the cities, but the ir all ow a child to live if it were simple or deformed? Of
+of fspring invariably begin life deformed. Such cubs are uniwhat use would it be? In older nights, we treated the versally infertile. How do they propagate? It is a mystery. misbegotten with that same objectivity. Now we call
+The Black-Star Walkers, kin to the Shadowed Lord the m “Panders” and recognize the m as a clan. I do not
+clan that harried us in the Carpathians, mate with no such understand the se sentimental times. complication, arising as they do from packs of or dinary
+Did you know that one is now bishop of some city wolves. A colleague believes that an of fshoot of the ir line, in the New World? Gehenna draws nigh indeed. one indigenous to the Scandinavia, worships the trickster
+Chapter t Wo: ego and evolution
+
+=== PAGE 51 === god Loki. I reject this the or y, for I find it inconceivable
+that such beasts practice anything resembling a religion. p
+AthSOF e
+NLighte Nme Nt
+In the se modern nights, old one, most Cainites do n’t survive undeath for more than a decade. they have little
+time to learn anything of importance. the se reckless, unlucky you th earn no understanding of our state — too many fall to the ir Beasts with in nights of the ir creation. Among the few who survive, and the fewer still who
+come to understand something of the Curse of Caine, the most determined follow tenets based on understandings
+of undeath that they claim checks the ir Beasts. Do you remember the Metamorphosists? they are the clearest example that’s with in you r arthritic grasp. they seek to undergo some transformation that dwarfs
+even the change from mortal to Cainite. the ir methods spread like curses among black magicians. Masters teach
+students, childer imitate sires, zealots preach to any who would listen, and the curious always find a way to
+learn. Some believed the Metamorphosists were possessed, mad or foolish. Some feared the ir intimidating for ms. But my sire’s sire, you r great-grandchilde Conrad
+Bukouskei, once told me that the ir numbers were small. Few Tzimisce had the discipline to seek Azhi Dahaka. Such things change slowly, but Metamorphosis is not the only Path walked by our kind. Others see enlightenment in the eyes of a fresh corpse or in the catholic pursuit
+of Caine. Some drown the ir Beasts in dutiful supplication, like the knights of you r time. A few succumb to heresies like soul-pacts with the Devil or the emulation of Lilith. t p m
+he AthOF et AmOrphOSiS
+How best to explain the modern Path to someone who’s never read Darwin…? Those who follow the Path
+of Metamorphosis seek to climb closer to Heaven and farther from humanity, though few of the m believe in such a place. Unlike the Eastern Buddhists imitating Siddhartha, Metamorphosists have few role models in search of Azhi
+Dahaka, the name given to this higher state by the eldest of
+Fiends. Azhi Dahaka is not some Nirvana where the Metamorphosist achieves oneness with the universe, but rather the opposite — to undergo Metamorphosis is to completely
+separate oneself from Creation, to be a self-sufficient will in a universe that holds no more power over the ego. Some believe so, anyway. Metamorphosis is a lonely
+pursuit. Many Fiends on the Path refuse to share the ir wisdom or even mislead those who seek it. Can you imagine a paranoid sire teaching his childer “secrets” that invite the ir
+own Final Deaths? My own sire once told me, “Anger is the judge among the undead. If another Cainite enrages you, he
+Clanbook: tzimis Ce
+
+=== PAGE 52 === v m
+iewSON et AmOrphOSiS
+Eat, sleep, shit, fuck, die — what a list of chores! The Embrace delivers us from this drudgery, but still, we have our bad habits. Blood for one, and betrayal. Metamorphosis surpasses the Curse of Caine. Metamorphosis is the end of necessity, the unfettering of the ego. — Peter Plogojowitz, Exsanguinist
+The Path has no definite end. Metamorphosis is a sojourn. It’s perpetual transition. Most people die like they live, waving the ir impotent little fists in the face of the universe. Not me. I’ve got places to go, metaphysically speaking. I do n’t look up to the stars in the sky. The stars look up to me. — Arnod Paole, advisor to the Voivode
+When you’re safe in you r own have n, surrounded by furniture you’ve built you rself — that’s Metamorphosis. Right now, I’m into working with lots of different materials. Children’s bones are very malleable, but they do n’t bear much weight, so you have to use a lot of the m. I’m very happy with this fainting couch
+I just finished; it cries when you sit on it, but I’ll show it to you if you like. — Ahriman Berney-Scott, feng shui enthusiast
+No one can show you Metamorphosis. The condition is, by definition, lofty. And once you achieve it, I can only imagine that describing it would be like explaining parliamentary procedure to a murder of crows. I hesitate to call such a state “transcendental,” since the word bears so many limited mortal not ions. But I assure you — Metamorphosis is utterly inhuman. — Troilus Cressida, ductus of the Golgotha’s Nails pack
+After discarding all vestiges of humanity, one becomes Tzimisce itself — Azhi Dahaka. — Laika, Tzimisce koldun
+Chapter t Wo: ego and evolution
+
+=== PAGE 53 === of fends the predator with in you.” That was the least of his concepts, imitating many-armed Hindu gods or molding
+lies, though I hope he found Azhi Dahaka under my fangs. the ir bodies into for ms accordant to feng shui. Some Metamorphosists are n’t so stingy with the ir Others ignore the physical element and, instead, discoveries. A few traditionalists still remember the times seek to exploit the peculiar nature of undeath. Some when Metamorphosists were the roving sages of the clan such Metamorphosists feed only on the ir fellow Cainites, and met at “Black Churches” to consult the ir enlightened believing that an aversion to mortal blood is a sign of
+fellows. Noddists have since usurped the learned reputation metaphysical superiority. Some believe that following of the Metamorphosists — among the you ngest of Cainites certain precepts, such as “learn the characteristics of
+exploring the modern Paths, self-mastery is less popular all stages of life and death,” will lead the m to a reward than the power of Caine. But teachers still exist in the similar to that mythic Golconda. more populous cities; some followers have even for med Metamorphosists of ten face a different problem from
+“schools” of Metamorphosis to test the ir the or ies, learn those who walk other Paths: Rather than struggling to upfrom the ir peers and transmit the ir techniques to the you ng. hold the tenets of the ir Path, Metamorphosists struggle to
+For most Metamorphosists, physical change precedes discover just what those tenets are. Azhi Dahaka is a poorly lit spiritual change. Some believe, despite the obvious road. While many Fiends encounter similar difficulties, the
+evidence of the ir undead existence, that no creature for ms the se difficulties take depend on the Metamorphosist. possesses a soul and that the Curse of Caine represents A Fiend attached by bloodsucking tentacles to his ghouls flesh run rampant, flesh liberated from the obliterating interprets the denial of his feeding urge differently than a
+cycle of life and death. Others hold that the soul is just Fiend with no mouth would. Metamorphosist philosophy the body summarized. The diehard evolutionists (ask is so diverse that informal schools have sprung up all over
+Ezra) believe that they must suit the ir bodies perfectly to the world. the se schools debate the matter eternally and the ir environments, usually to the nighttime metropolis instruct the ir students in the ir findings, each espousing a
+and the ir suspicious prey — human and Cainite alike. slightly different Path of Metamorphosis. Regardless, most Metamorphosists rely heavily on the t L p
+he eSSer AthS fleshcrafting arts of our clan to affect the ir transformations. I do not know what the se Metamorphosists were Metamorphosists constitute but a small portion of
+like in you r day, ancient one, but in the Final Nights, Clan Tzimisce. The vampires of the Sabbat know other they seem to take what ever for m they please. My sire, Paths of Enlightenment. We Tzimisce invented the m, himself the childe of an Exsanguinist, saw self-sufficiency or so we say. as the precursor to enlightenment — a lofty goal for a Actually, the re must be some truth to this claim —
+creature that depends on the life-blood of kine. He made Tzimisce, more than any other clan, tend to discard the ir increasingly esoteric attempts to mold himself into a being humanity in undeath; the conditions we’re Embraced into
+that sustained itself efficiently. At first, he fashioned… of ten make it irrelevant — what’s human about searchtentacles, that’s the closest word to what they really were, ing the spirit world for slumbering elders or performing from his lower intestines, each with its own mouth full experiments to determine what happens to the souls of
+of incisors. He kept himself attached to three ghouls at aborted fetuses? But Tzimisce bow to not hing, not even all times, constantly ingesting the ir blood. He quickly the Beast, so the most tenacious turn to various Paths to
+abandoned this for m — even the hardiest ghouls dried deal with unlife. “Invented” is hyperbole, but inhuman up under his ravenous appetites. Instead, he crafted leaky packs of Tzimisce were probably among the first practitiomembranes in the backs of his childer. Each night, he sent ners of the se ethical monstrosities. My research suggests
+us out to feed. When we returned, he attached his hungry that you missed this development by less than 200 years. tentacles to us and claimed our blood for his own. Though
+A few ignorant or abandoned exceptions exist, but the regular infusion of our blood made him a do ting sire, we Fiends have the fewest adherents to Humanity of any
+I showed him that his of fspring were not mere extensions clan. If not Metamorphosis, the n, as some Exsanguinists
+of his undead or ganism. Such is but one example of the call the m, one of the “Lesser Paths.”
+changes Metamorphosists inflict on the mselves. t p C
+Metamorphosists see potential in the undead for m. he AthOF Ai Ne they strengthen the ir bones to weather crushing blows Many Tzimisce Noddists take a particular slant
+or sharpen the m into pikes for impaling enemies. they toward the ir investigation into the unlife of Caine — relocate the ir vital or gans to make the ir digestion of they do to the or ies what Vicissitude do es to flesh. To an
+blood more efficient. they improve the ir eyes and ears outsider, it might seem like they value the esoteric and to make the m more sensitive to changes around the m. the implausible over the accurate so that they may outdo
+Others rearrange the mselves to conform to more esoteric competing scholars (the Tzimisce who gain the highest
+Clanbook: tzimis Ce
+
+=== PAGE 54 === understanding of this Path must be patient indeed, given
+the ir low opinion of Noddists from lesser clans and the
+Path’s tenet of sharing what one knows with fellow scholars). Usually, the unlikely nature of the ir conclusions is a product of the ir particular outlook. The Fiends are n’t
+playing word games or trying to amuse anyone. they seek not hing less than the power of Caine itself. While some Noddists squander eternity digging in the
+dirt or squinting at fragments of ancient scrolls, Tzimisce in search of Caine favor diverse approaches — conversations
+with elders or spirits, memories stolen through diablerie, bloodletting vision quests, the composition of dramas and stories to explore the ir history, sojourns to the Middle East
+and, yes, when appropriate, archaeology and library research. One circle of Tzimisce Noddists known as the Reclaimationists contradict some Fiends’ preference for cautious diablerie. Not content merely to know Caine’s
+nature, they “reclaim” it by diablerizing the ir way through the generations to reach the stature of the Dark Father. The
+Reclaimationists consider Cainites who rely on mortal blood to be weaklings. they drink only Cainite vitae if
+they can. Reclaimationists take any opportunity to sate the ir appetites and of ten find the mselves leading Wild
+Hunts or War Parties. Some spend the ir unlives in the zulo for m, more comfortable in the ir “natural” state, ready
+to partake of the Amaranth with but a moment’s not ice. t p C he AthOF Ath Ari
+Tzimisce who follow this Path set out to become the most potent material agents of the evil creator of reality. they craft the mselves into for ms as powerful and twisted
+as any Metamorphosist but do n’t concern the mselves with the spiritual baggage of the ir transcendental relatives. To
+Albigensian Fiends, Auspex distracts Cainites with the ephemeral qualities of the good creator, but Vicissitude
+is an end in itself, not some road to a higher existence. Physical power suffices. Fleshcraft all ows the m greater influence of the material world, which, according to the
+Albigensians, is the Cainites’ milieu. Fiends walking the Path of Cathari all but worship the zhupans for the ir mastery of the zulo for m. Becoming strong and intimidating beasts also ensures the ir
+survival. Many Albigensians believe in reincarnation, and if anything disgusts the Tzimisce, it’s the prospect of becoming mortal again. The Path of Cathari has much to recommend itself
+to childer raised by traditional Tzimisce sires — utter selfishness, vice and wealth for its own sake and revelry
+in the abandon of frenzy. t p d S he AthOF e AthANdthe OuL
+In a way, the Tzimisce have always been Necronomists. Since the ir first nights, the Fiends have had those among the m who made a study of death and limits of
+Chapter t Wo: ego and evolution
+
+=== PAGE 55 ===
+F g u: S m r Omthe r OuNd p t OryteLLi Ng et AmOrphOSiS
+Given the possibilities of Metamorphosis, Storytellers should approach this Path a bit differently than others. In game terms, Metamorphosis is n’t about starting with a high Path rating and avoiding descent into the jaws of the Beast with in. It’s about starting near the bottom and hunting any information or developing any technique
+that will all ow the Cainite to progress. In one sense, be flexible with the Hierarchy of Sins, because seekers of Azhi
+Dahaka find different ways to implement its abstract ideals. But do n’t let the m get away with anything — the ir progression along the Path should build upon what they have learned before. they can unlearn some elements
+but not with out questioning the ir actions (i.e., making many Virtue rolls). Finally, Storytellers and players should keep in mind that a rating in the Path of Metamorphosis do esn’t necessarily represent how close a Cainite has come to the Azhi Dahaka. All it represents for sure is how well the ir
+beliefs subdue the Beast. A i g
+N NFeri Or OLCONdA
+If the Path of Metamorphosis ends in Azhi Dahaka, the n a Storyteller might wish to explore a story in which a character attains this state. What happens? Rules-wise, higher existences are tricky because hard-and-fast
+guidelines rob the accomplishment of its mystery (“If the character sees God, she may ask him 1d3 questions”). Metamorphosis raises the same is sues as Golconda: If it’s possible in you r chronicle, how do es a character accomplish it? By some accounts, undeath all ows for only one definite state above vampirism. By others, it
+depends on the individual. What if Azhi Dahaka is just a metaphysical dead end, some change that confers a few benefits but is ultimately just advanced vampirism? how ever the Storyteller decides to handle this question, achieving Metamorphosis should be more than
+earning a Path rating of 11. Certainly, any can didate for Metamorphosis must adhere faithfully to the Path, though some Tzimisce consider its precepts limiting. The character might gain higher ratings ceilings than his generation normally all ows (maybe 7 rather than the 10 all owed by Golconda). He might acquire advanced
+understanding of Tzimisce Disciplines. Maybe Golconda is n’t just a myth, and Metamorphosis is Golconda. Keep in mind that that the Path predicates itself on being utterly inhuman and, ultimately, unlike the Curse of Caine — do es the character still need to drink blood or fear sunlight and frenzy? A final not e: Since the state
+is so alien, it almost certainly causes several derangements and may well make the character unsuitable for play. Would a Cainite who just achieved a higher state of existence have anything in common with her for mer pack? If you’re playing a character who might achieve Metamorphosis, talk to you r Storyteller and discuss whether it would enrich the story or just snatch you r character away at the moment of his ascension. pain. The modern for m of this study, codified into the of worth to give the se skull-faced warlocks when they
+Path of Death and the Soul, bears the mark of the se an- escaped the ir imprisonment. Such old Cainites had cient experiments. Most Cainites have little do ubt that more to of fer the Sabbat than the Sabbat had to of fer
+Fiends conceived this Path — its design is unmistakably the m. Certain Necronomists had an understanding of
+Tzimisce — although every Cainite ponders death in his the soul that impressed even this clan of death. Many own way, the Necronomists regard it so… scientifically. Lazarenes, versed in the oldest philosophies of the
+Necronomists tend to disregard conventional undead, converted to the Path of Death and the Soul. moralities in the ir study of death. In the most violent The exchange of knowledge between the two groups
+Sabbat cities, the local Necronomists are more than has yielded more than academic benefits. With the threat happy to collect any corpses left over after a Blood Feast of such venerable Cainites behind the m, some Necronoor indiscriminate feeding. Some are n’t above trading a mists, for merly regarded as distracted intellectuals, have
+favor to a Cainite skilled with Necromancy in exchange risen to become ducti or bishops. One was even confirmed for the chance to ask the ir cadavers a few questions. The through the Blood Bath as a priscus, who now exploits
+most knowledgeable seek out Noddists for information his travels as an opportunity to study fatal calamities all on the Cappadocians, an extinct clan that supposedly over the Western Hemisphere. He’s dug through collapsed
+understood the mysteries of life and death. buildings in earthquake-shattered Mexico and picked
+Though small in number, the Necronomists, the smoldering skulls from for est fires in Colorado. I spoke majority of who m are Fiends, have enjoyed increasing to him at the last Palla Grande; he now seems bent on
+power in recent nights because of the ir association with persuading the regent to for m closer ties to the Giovanni the Harbingers of Skulls. Few Cainites had anything clan — his investigations have lead him to believe that
+Clanbook: tzimis Ce
+
+=== PAGE 56 === the family has some grand design that could benefit all
+of Caine’s children. t p e r he AthOF viL eveLAtiONS
+Soul, self, identity, ego — what ever it is, it’s precious to the Tzimisce. Few, the n, throw away the ir most valued possession — the essential freedom of the ir
+existence — for what ever temporal power Hell’s con men are pushing this week. not hing’s worth a Tzimisce
+soul. A Fiend desperate enough to resort to infernalism is beneath contempt. Of course, making a deal with the Devil is not always the same as selling him you r soul. Kupala’s Night
+comes to mind.… t p F h
+he AthOFthe erAL e Art
+The Path of the Feral Heart demonstrates the generational divide that grows between Tzimisce neonates and elders. Although older Fiends can not believe that
+you nger Cainites can master the Beast with out a moral education, Tzimisce Embraced in the Final Nights —
+especially those nomadic packs that move from city to city — embark on the Path of the Feral Heart under
+the tutelage of many different Beasts who, like itinerant preachers, seek converts during ritae or crusades. for tunately, most of the ir would-be students are too you ng to
+exist by such an esoteric philosophy. Some learn to act like Beasts, but few master the Beast with in. But to the you ng urban predators who do take up
+the Path in earnest, the Metamorphosis espoused by the ir elders is superstitious nonsense. the se neonates
+believe that being a Cainite is already, in itself, a higher state of existence. The secret is not to transcend the
+Curse of Caine, but to master it. Only the rare Tzimisce advances far along this
+Path. But in some cities, particularly in Mexico, gangs of Tzimisce, most of the m veterans of the Second Sabbat Civil War, embrace the Feral Heart. they remind
+me of the packs that razed Thorns on the night of the infamous convention. they share the ir blood with Assamites and Brujah and all manner of mongrel Cainites. t p h A
+he AthOF ONOrABLe CCOrd
+Few Tzimisce outside the Children of the Dracon follow the Path of Honorable Accord. Those who do
+are usually neofeudalists or the childer of traditional
+Fiends who joined the Sabbat out of necessity rather than sympathy. To some Fiends, bravery, hospitality and
+punishment of the dishonorable are assumed behaviors, not a philosophy that requires great focus to uphold. But voicing this opinion to Tzimisce Knights can be perilous — the small number who still exist are usually
+very well connected to older powers with in the clan. Chapter t Wo: ego and evolution
+
+=== PAGE 57 === t he p Ath OF L i Lith you may remember, the ir loyalty to our clan remains
+Cast out of Eden, you say? Pain is the greatest unquestionable, excepting the odd rebellious child. teacher, you say? Ultimate freedom and self-discovery, Since you r time, at least, revenants have served the too? If not for the fact that the Path is considered hereti- Fiends as caretakers, advisors, warriors and potential
+cal even with in the Sabbat, and that the Path rejects childer. Though the mortal life span has lengthened temporal wealth and power, Clan Tzimisce might have during you r slumber, revenants still live far longer than
+become Clan Bahari by now. Still, is it any surprise that mortals — some revenant children know the ir greatindividuals from a clan characterized as a bunch of mad great-great-great-great grandmothers. The members of scientists, Metamorphosists, perverts and scholars of each family still share a particular weakness of the blood. eldritch lore might be attracted to the Path of Lilith? Different families exhibit different aspects of Caine. Lilin Tzimisce are the eccentric vanguard of our Perhaps you can tell me how the se revenant families
+eccentric clan. the se Fiends usually combine the most come to be? We have little to go on in the se modern respected pursuits of the clan with the ir maligned fol- times. According to Wallachian folklore, some families
+lowing of Lilith. they hunt do wn lore with a curiosity were so evil that anyone who shared the ir name was to rival any Noddist, raise the ir childer with the care of cursed to serve devils. Since the se families owned and
+the most dutiful sire and seek an understanding of the cultivated so much of the tainted soil of the “land beyond universe that exceeds the ambition of all but the most the for est,” some koldun believe that that they became
+obsessive Metamorphosist. To date, bloody disagree- bound to the ir holdings by greed or obligation. More ments between Lilins and those who revere Caine keep scientific Fiends, like myself, believe that the constant
+the numbers of heretics to a minimum. ingestion of Tzimisce blood from birth to death for so many generations created the revenants. But Assamites
+t p p i v he AthOF OwerANdthe NNer Oi Ce and Giovanni, with do mains in lands untouched by
+A Lasombra named Lord Marcus claims to have indigenous land-spirits, have supposedly created the ir developed the Path of Power and Inner Voice in the own families; how many ways can one make a revenant? 16th century. Is the re anything the Lasombra won’t The mystery of the ir or igins pales next to the mystery
+steal from the Tzimisce? of the ir name. “Revenant” means “one who returns.”
+Look at the tenets of the Path — what Keeper has When do revenants ever “return”? Perhaps they do so ever respected a superior or waited until he faltered each generation with out needing new Blood. before usurping him? The standard explanation from the patriarchs of the
+Although some Tzimisce Unifiers are neofeudalists, families is the tale of a servant. His last name depends on most Fiends who follow this Path preserve the outlook who’s telling the story. He was so useful to his lord that the
+rather than the trappings of the Transylvanian voivodes. noble wanted him to “return” again and again until the
+Driven by the ir Path, Fiend Unifiers are among the most end of the world so that he would always have a capable powerful Tzimisce in the Sabbat. they seek any position servant. His descendents were the servant’s vehicle to
+of authority, whether secular or spiritual. The numbers immortality. Some heretical Bratovitches tell a slightly difof pack priests and prisci who follow this Path rival the ferent version of this story in which the family receives the numbers of Unifier bishops and ducti. Blood in exchange for teaching the Tzimisce Vicissitude. A not eworthy portion of the clan’s strength lies in Though some of our clanmates have grown tired of
+the Unifiers — it is a great innovation of the Sabbat’s the revenant experiment and would see the m destroyed that the ir most power-hungry members are also bound to as a threat to our sect’s secrecy, the families still have
+respect the ir betters and treat the ir underlings well. While the ir uses: they provide reliable hospitality to traveling our clan is hardly the meritocracy that some make it out Fiends. they produce the most suitable agents for dealto be, the Unifiers keep the Tzimisce tough and lean. ing with the daytime world — szlachta are too warped, Acquiring power is n’t enough — one must also keep it. vozhd are useless outside the ir capacity as behemoth war
+machines, and ghouls unfamiliar the clan’s ways are you ng r
+eveNANtS and ignorant — they require too many years of remedial education. Revenants can exploit un-Blooded relatives of
+At least one aspect of our clan has endured: the the ir families as well — though they are not revenants, servitude of the revenant families, those mortal lines the ir heritage makes the m exceptional mortals (more that have borne our blood for so long that they no than a do zen members of the 143-seat Romanian Senat
+longer require its constant infusion. If the mortal are rumored to be related to a Bratovitch or Zantosa). world frightens you, old one, seek protection from the Given enough time, who knows how advanced a species revenants. Though the ir numbers are far smaller than they can become? Finally, the revenants record the his Clanbook: tzimis Ce
+
+=== PAGE 58 === tory that most of our clan is unconcerned with. In the When the Tzimisce anarchs rebelled against the ir
+ignorant Final Nights, a few Obertus know more about sires, the Bratovitch revenants sided with the voivodes. It the clan than many Fiends the mselves. really was n’t a tough decision to make — some of the clan’s
+Four revenant families and several minor lineages most powerful elders were Bratovitch, and every child of have endured to the Final Nights. Some of the families the family had been told from birth that disobeying the ir
+have met the ir fates, old one. Larger families absorbed the masters was the only sin they were not all owed to commit. Narov and Ruthvenski. The Obertus, fearing a similar But the Bratovitches had n’t reached such stature fate, use a surprisingly primitive method to ensure bal- through suicidal obedience. When it came time to switch
+anced numbers of male and female of fspring so that too loyalties to the anarchs, they knew how best to make amends. many daughters won’t marry away the family name into they slaughtered every Bratovitch child who had been born obscurity. The last names Vlaszy and Khavi are n’t entirely since the revolt began. No you ng revenant would remember
+lost, but they are preserved only in revenants who received that the family had served anyone other than the anarchs. the Embrace. Another three families are so hated that the Even in the Final Nights, the family serves the rebels, few Tzimisce who remember the m refuse to speak the ir we who now call ourselves the Sabbat. Although Bratonames. It pains me too much to even write the m — no vitches are rarely lords of demesnes any longer, they have do ubt you already suspect the ir names. retained the bestial features of the ir ancestors — heads
+B r AtOvit Ch too big for the ir hunched bodies, mouths with too many
+Colorful as peacocks, unclean as swine, mean as rabid teeth, tiny eyes arranged a bit too close together to avoid do gs — the Bratovitches in a nutshell. they live out the ir not ice but that nonetheless warn of a can nibal intelligence. extended lives on the ir dilapidated plantations in the South While the Bratovitches have for ever lost the noble
+and rural estates in the hills of the North. Surrounded by status of nights past, they remain useful to us. Many quaint but dusty antiques, families of Bratovitches work estates harbor kennels of hellhounds. the ir keepers
+together, eat together, fuck together, tend the hellhounds breed do gs for size and ferocity, the n feed the m meat together and serve our clan together. Family is everything laced with Tzimisce vitae. The Bratovitches fleshcraft
+to the Bratovitches, even if all that togetherness leaves a the resulting monsters to meet the needs of the ir clients, few of the m paralyzed and/or knocked up. usually the Tzimisce who do nates the blood or high The history of our clan is the history of the Bratovitch ranking Sabbat in need of loyal and alert guardians. family. In feudal Europe, Bratovitches ruled many eastern Not every Bratovitch tends the hounds. Although demesnes. If the land was at war with its neighbors and the most traveling Fiends would rather dig the ir own temserfs smiled when they died, chances were a Bratovitch porary grave than take shelter at a Bratovitch estate, held power. Though more Tzimisce in those nights bore the revenants of this family also serve as guides and
+the name Szantovich, Bratovitch Fiends constituted the trackers through the countryside. In the modern nights, majority in what is now Poland and along the border be- few Tzimisce traipse through the woods. When they do, tween Transylvania and Wallachia. By the ir own account, they want someone at the ir side who knows how to avoid they were the first revenant family, or at least the first the Lupines. And when it comes to a rural manhunt, the
+Tzimisce did n’t destroy with in a few years of its creation. Bratovitches and the ir bloodhounds are bred for the job. Chapter t Wo: ego and evolution
+
+=== PAGE 59 === g rimALdi town crier, old one). The tabloid ran the story two days
+I’m not sure that you’ve dealt with the Grimaldi later, and the world viewed it as a sensational fairytale. Her
+— they became a Blooded family only a century or two police contact “misfiled” the report. When it resurfaced before you fell into torpor. But I’m sure you dealt with several weeks later, the story was already old and, because
+Radu Bistri, the spokesmen for the Old World voivodes. it appeared in a tabloid first, already dead. Radu brought the family into the Blood to strengthen Still, some of the moral uprightness for which the the clan’s ties to the mortal world, and they continue family was Blooded has with ered under our care. Though
+to fulfill that role today. they understood the new the ir children are of ten sent to the best private schools, economy that was overtaking Europe at the time. A few they are expelled far too of ten for aggravated incidents of Radu’s contemporaries wanted to use the Giovanni ranging from ear biting to hostage taking. And a few
+family instead, but — oh dear. Ask Ezra what happened upstart children reject the ir family’s purpose, denouncing to the Cappadocians while you slept — Radu insisted the ir family’s for tune and the ir Tzimisce masters. they
+on the Grimaldi because the Giovanni had a reputation try to live as true mortals and make a great show of just as thieves and do uble-dealers while the Grimaldi were how human they are by helming charitable foundations
+regarded as upright and honest merchants. or becoming do ctors or cut-rate attorneys that speak for
+Even in the Final Nights, the Grimaldi continue to the poor. the ir parents are sometimes too sentimental involve the mselves in the mortal world where we would to deal with the m properly, though, than kfully, even the
+find it distasteful. with in the cities that house the ir most rebellious Grimaldi understands circumspection. compounds, the Grimaldi have access to the highest Despite a few errant children, I have no do ubt that mortal powers — positions in government, industry or the Grimaldi are the most loyal of the revenant houses
+the media. Though some Grimaldi claim this authority and that they will serve us until Gehenna arrives. Aldirectly, more of ten they advise it. Grimaldi advise may- though they work in the interests of the Tzimisce first, or s, editors in chief and board members of corporations. the family is at the disposal of the Sabbat at large. Every they marry those they can’t advise. Grimaldi and Grimaldi is blood bound to a member of the Sabbat, Kennedy mingle the ir blood in America — Grimaldi and not necessarily a Fiend, at an age convenient to the
+Duckworth in England. The high positions of the Grimaldi Cainite. the se Sabbat usually hold some authority revenants are useful to the Sabbat, but far more useful — a bishop, archbishop, priscus or the odd ductus or
+is the ir connection to those who share just a bit of our pack priest of a famous pack. The regent even keeps a blood, the distant relations who profit from the ir superior dedicated Grimaldi retinue in Mexico City to apprise
+breeding but remain ignorant of the ir august heritage. her of goings-on in the mortal world. The Camarilla upholds a Tradition known as “the If anything will challenge the Grimaldi’s loyalty in the
+Masquerade” — a pact among Cainites to keep the ir next few years, it will be the regent. One of the patriarchs existence hidden from humanity. Though some factions of the family, bound to me 200 years ago, reports that
+in the Sabbat find the Camarilla’s obsession with hiding the regent no longer bonds the children of the estate and to be distasteful, we maintain our own Masquerade out refuses to feed her blood to the older retinue, though she
+of good common sense. Since you survived the Inquisi- has been far too eager to do so for the past several years. tion, I’m sure you understand this better than I. My revenant suspects that her blood has turned to water, perhaps, or that she has contracted our clan’s particular
+This revenant family’s most important service to disease and wishes to keep it a secret. us is to keep mortals ignorant of the Curse of Caine. The Grimaldi sustains our Masquerade when ever some O
+BertuS reckless childe threatens to reveal us to the mortal
+The smell of a clean room always takes me back to world. An injudicious rumble with another pack, a
+the first time I visited an Obertus estate. I remember that sloppy feeding or a sighting of a Cainite using a Gift of
+the air riptides over untextured hardwood floors that of Caine — the Grimaldi have concealed the se and other fer no sanctuary to dirt. This dry air (the Obertus regard
+truths from the kine. humidity like we regard an uninvited guest) surfs over texts they bury the most obvious evidence of Cainites in the
+stolen from the Library of Alexandria, sold or do nated to most mundane ways. A few years ago, a mortal in Boston
+monasteries in Old Byzantium, again stolen from or thodox witnessed one of our clanmates assume the blood-for m
+cathedrals — in that unmentionable time when the family and was h over a car, drowning those inside. A respected
+fled Constantinople to places like Bucharest and or adea reporter who do es not go by the name Grimaldi but is of
+and Sibiu — centuries later shipped in watertight trunks the Blood nonetheless received the police report with in an
+to the New World, packed with the care of a family that hour of its filing from her lover in the police department. has witnessed history through a looking glass. the se texts
+She called her contact at a national tabloid (a disreputable adorn the libraries of the Obertus — dustless, preserved, Clanbook: tzimis Ce
+
+=== PAGE 60 === eternal despite the ir ancient or igins. Not even the Chil- “Obertus,” or “the hidden,” have served the Tzimisce
+dren of the Dracon may touch the se perfect works unless since the nights of Constantinople as monastic clergy, they was h the ir hands and the ir servants surrender the ir keeping the faith that the Byzantine Cainites had built cigarettes. In the se matters, Obertus are obedient but around the mselves. Only the family itself knows how it
+insistent. the ir estates are very clean. came to Eastern Europe. Although they weathered the
+Most Fiends know that a fourth revenant house serves early Tremere-Tzimisce struggles, is olated scholars were of the ir clan, some house of scholars that occasionally research little use in the nights of the Anarch Revolt. The eldest
+obscure subjects for the ir masters. The koldun scratch revenants of the Obertus, erudite historians of generational the ir heads — they do n’t remember instilling the Blood conflict among the undead, must have known that history
+in the m; the lineage must be an obscure one. (Mexico favored the childer. they sided with the nascent Sabbat
+City hosts a Bratovitch estate, a Zantosa estate and two against the ir elders and, a bloody century later, abandoned compounds full of Grimaldi, but no House Obertus.) A the ir manses and monasteries in favor of the New World. few Tzimisce — the Voivode, the prisci, some Noddists, When the Sabbat began its migration to the Americas, Metamorphosists and the odd Lilin — know this family the ir learned servants were at the do cks to welcome the m. as the Obertus, revenants who serve as keepers of books, Throughout New England and both South and Centexts, artifacts and records that the clan has accumulated tral America, estates of Obertus prosper in quiet fishing
+over the centuries. Toward the end of the ir lives, some villages and out-of-the-way hamlets, home schooling
+Obertus write books of the ir own to add to the collection. the ir children in the names of our hoary clan and its
+The Children of the Dracon know the Obertus even more history. The older generations, weary of child rearing, intimately — the family serves the m not only as archivists, continue the family’s studies. The you nger Obertus, the but servants, protectors and the ir primary source of childer. do ting parents, await the night when the ir child finally
+Dracon or no, the dutiful Obertus assist any Fiend “sets her mind on something.” And if a few wayward who may have need of the m. Such aid is a necessary dis- progeny can not find a study worthy of obsession… well, traction that devours centuries. Most of the se revenants, someone’s got to do the was h. in the family’s obsessive way, would rather reread tomes
+ANtOSA they’ve already studied 50 times, playing cat-and-mouse
+Sex on rooftops. White slavery. Heroin injected with details they did n’t know to look for a decade earlier. under the tongue because most of the veins — fucking
+Most members of the Obertus family develop an revenant veins — collapsed. Penthouse snuff films. obsession to which they dedicate the centuries. Most, Murders of the rich and famous. Highballs and piano
+instructed in the barely explainable nuances of the wire. Children mowed do wn by hit and run. Working
+world of Cainites since birth, fixate on supernatural girls taken by the ears. A thousand in cash for the cop to
+studies — many explore the Curse of Caine, studying look the other way. The most powerful men in America
+ancient genealogies or writing treatises on why certain gone totally sideways for a week and three days. Football
+clans are more adept at subduing minds than others. in traffic and an appetite for horse meat. STDs passed
+Many investigate more obscure topics: wizards, Lupines, around like joints. Dance to death. extinct mystery cults and the end of the world. the se sins are more familiar to you than they may
+Do not think that the ir loyalty is universal: A member sound, old one. Sins of excess do minate the New World, of my pack, an Obertus in life, tells me that a few of her
+and the Zantosa are addicted to the m all. they are the relatives, not the you ngest or the oldest but a group that
+Szantoviches you may remember, the aristocracy of the came of age when Social Darwinism was an acceptable
+Old World that never met a temptation it did not suctopic for Sunday dinner conversation, prepare the way cumb to. If the book of the nailed kine-god condemns
+for Homo sapiens to become Homo obertus. Evolution it, somewhere, a Zantosa treats it as sacrament. results from climate changes and other selective pres Although I no longer see the appeal of such a lifesures, but the se Obertus for esee no great calamity — no
+style, I know that mortals enjoy such things. Perhaps
+Armageddon, Gehenna or World War III. Thousands it is a weakness of the Zantosa blood that they for m
+of small calamities will suffice. Smog, AIDS, democratic habits so quickly. capitalism, crank, automobiles, asbestos and super-sized
+Mc Donalds meals already cull the weak. This environ- Although some of my peers believe that the ir usefulness ment favors the hearty. To survive the modern nights, it to our cause has passed, the ir playfulness endears the m to
+helps if you r mother and father can of fer you the Blood me. they have already taken the first step to transcending of Caine. In that regard, the Obertus have what it takes the ir humanity. they discard the usual mortality that most
+to endure. The sages shall inherit the Earth. kine bear chained to the ir ankles. Some of the m even follow the Path of Cathari, a debauched road that few Cainites
+For the conceits about being a well-Blooded family, can traverse with such success as the se demi-undead. it’s do ubtful that the ir ancestors were related at all. The
+Chapter t Wo: ego and evolution
+
+=== PAGE 61 ===
+Many of my fellow Sabbat would prefer never to deal been seen for at least a century, some children of Tzimisce with humanity. the n let the Zantosa deal with the kine, still know (instinctively, my sire once said) the name vozhd. I say. Although they of ten succumb to addiction, they
+g t h OuL empLAteS
+maintain valuable connections to the mortal world. I have of ten found it true of humanity that the more powerful Below are templates for the most common types of ghouls
+the kine, the more he is ruled by unusual passions. The that serve Clan Tzimisce. Some ratings differ slightly from
+Zantosa know such people; they throw parties for the m at those published in other supplements. Different Tzimisce the ir estates in New York and Mexico City — the jet-set build different ghouls. Besides, if the player or Storyteller has
+Arab sheik that snorts a significant fraction of his country’s time, individual ghouls should probably be customized — a
+GDP up his nose every year. The Viacom CFO who always “generic” ghoul is no more realistic than a “generic” Cainite. has that thing up his ass. The mob capo who of fers a share of In a pinch, use what ever templates you prefer. the rackets in exchange for a mistress named Zantosa. The h
+editor of the New York Times who collects photos that his eLLh OuNd paper would never, ever print. The Senator who staffs his Hellhounds are large do gs, mostly mastiffs, made ghouls
+meth lab with you ng girls from Indonesia and Paraguay. to serve the Tzimisce. In the Dark Ages, Tzimisce took all ow the se humans to indulge the ir passions discreetly, advantage of the hellhound’s animal awareness and bred
+and you are the ir most valuable association: the ir dealer. ferocity to protect the ir have ns. Bratovitch revenants conI have heard that in you r time, old one, more Tzimisce tinue to breed the m and sometimes use the ir fleshcrafting bore the name Szantovich than any other. Although skills to give the ir do gs larger fangs, stronger muscles and, some of our clanmates still grant the Zantosa undeath, through a technique known to the oldest Bratovitches, the family now produces neonates for several clans of the keener eyesight and sense of smell. Sabbat. The Toreador antitribu, the Serpents of the Light Physical: Strength 4, Dexterity 3, Stamina 4
+and a few of the Hungarian Ventrue antitribu lineages now Social: Not applicable draw childer from the family that was once practically Mental: Perception 5, Intelligence 1, Wits 3
+synonymous with our clan. The Toreador antitribu appreci Abilities: Alertness 4, Athletics 2, Brawl 4, do dge 3, ate the smoke-it-or-fuck-it lifestyle of the Zantosa. The
+Empathy 1, Intimidation 4, Stealth 2
+Serpents of the Light, like the ir parent clan, are hypno Disciplines: Potence 2 tized by corruption and vice, and the Hungarian Ventrue
+will power: 6 are reminded of the ir Old World nobility when ever the
+Blood Pool: 4
+Zantosa release more peasants for the hunt. Attack: Bite/5 dice, Claw/3 dice g
+h OuLS Health Levels: OK, OK, -1, -1, -2, -2, -5, Incapacitated
+Although a vocal portion of the Sabbat views reliance S zLAChtA on mortals as a sign of weakness, as I’m sure Cainites of In the Final Nights, szlachta has become a catchall term
+you r time did, many of the sect’s members share the ir for ghouls fleshcrafted for use as bodyguards. Fiends mold blood with humans and even less impressive species. The the se creatures to be soldiers or guardians, so they have any
+Tzimisce are no exception — although most of us prefer to number of spikes, claws, serrated protuberances and other use revenants for more complex tasks, the clan has a long bodily implements of destruction. The template below dehistory of relying on mortals as soldiers, bodyguards, but lers scribes just one variety of szlachta — most Tzimisce with any
+and test subjects. Given our mastery over the animal king- skill at fleshcrafting give the ir ghouls signature deformities. do m, we are not above using beasts, especially predators. Some also mark the ir property like a rancher marks cattle. It is a common conceit that few Tzimisce ghouls es- Humanoid Szlachta cape the ir servitude unaltered — that the ir modifications
+Physical: Strength 4, Dexterity 3, Stamina 5 for ever distinguish the m and fit the m to the ir tasks. While
+Social: Charisma 1, Manipulation 1, Appearance 0 this is certainly true of some of our brethren, the entire
+Mental: Perception 3, Intelligence 2, Wits 3
+Cainite enterprise would be uncovered and extinguished
+Abilities: Alertness 3, Athletics 1, Brawl 3, do dge 2, if every Fiend lead an army of szlachta how ling through
+Melee 1, Stealth 2, Survival 4 (Tracking) the night. Some Tzimisce fleshcraft the ir ghouls, but this is
+not able in that we are the only Cainites, as a clan, capable Disciplines: for titude 1, Potence 1 of performing such modifications. Virtues: Conscience 1, Self-Control 3, Courage 4
+That said, the arts of Vicissitude have not been lost Morality: Humanity 2 while you slumbered, old one. When it comes to our ghouls, will power: 4
+not even the you ngest Fiends have been able to completely Attacks: Most szlachta have bony protrusions, spikes discard our traditions. Although, to my knowledge, none has or teeth that cause lethal damage. Clanbook: tzimis Ce
+
+=== PAGE 62 ===
+Health Levels: As per the mortal stock from which they were drawn. This is typically the normal seven health
+levels possessed by any (once-) human being. Animal Szlachta
+Physical: Strength 4, Dexterity 3, Stamina 4
+Social: Not applicable
+Mental: Perception 4, Intelligence 1, Wits 4
+Abilities: Alertness 3, Athletics 2, Brawl 2, do dge 3, Empathy 1, Intimidation 2, Stealth 3
+Disciplines: for titude 1, Potence 2 will power: 2
+Attacks: Bite/5 dice, Claw/3 dice
+Health Levels: OK, OK, -1, -1, -2, -3, -5, Incapacitated. v
+Ozhd
+Vozhd are gigantic amalgamations of ghouls, at least two stories tall and weighing almost six tons. the ir very
+bodies are implements of destruction, covered as they are with mouths full of razor-sharp teeth, six-foot bone spikes
+jutting out at every possible angle and tentacles to draw prey into the ir reach. the se creatures have little intelligence, are not oriously too enraged to control reliably and have
+but one use: to destroy everything in sight. The creation of such a monstrosity requires at least 15 creatures, though some include well over 30. The Obertus
+library in New York City houses an account of a vozhd created from 100 ghouls contributed by six different Fiends. Animals, as well as humans, can be used to create the se beasts. In the Old World, most Tzimisce who knew
+the proper rituals used wolves, goats and falcons, even the horses and livestock of the ir subjects when other animals
+were scarce. Few Tzimisce know how to create vozhd in the modern nights, but among the packs of Mexico City, rumors persist of titantic monstrosities composed of human bodies mingled with household pets, sea creatures
+or thousands of smaller animals such as rats or snakes. To create a vozhd, the Fiend fleshcrafts the ghouls together into something like a cohesive entity. Perhaps she for ms all
+the ghoul’s skeletons into one structure the n wraps it with the ghouls’ flesh and or gans. Though the process can take months, the Fiend must hurry because the se broken creatures, not yet
+one entity, require constant infusions of vitae to prevent death from shock. Still, a certain amount of prolonged suffering is
+necessary to give the resulting vozhd the proper rage. Once the construction is complete, the Tzimisce feeds the ghouls a concoction of blood drawn from each of the m, in effect creating a blood bond among all the minds that will
+eventually become the vozhd. Building upon this bond, the
+Fiend must coalesce the Beasts with in into a single, albeit mad and imperfect, Beast. Traditionally, a koldunic ritual
+creates this effect, though the ritual is almost unknown in the modern nights. A few Tzimisce have gained such a
+sophisticated understanding of the Animalism Discipline that they can bring about the same result. Chapter t Wo: ego and evolution
+
+=== PAGE 63 ===
+Even at the height of the clan’s do minance in the
+Old World, few Tzimisce knew the proper ritual and S ervANtS OF the B LOOd fewer still resorted to the creation of such uncontrol Below are the Disciplines that the various revenants
+lable wrecking machines. In the modern nights, even have access to and the weakness that afflicts each family. the most learned Tzimisce elders can count the number
+For more information on revenants, see the Guide to of vozhd they know to exist on one hand. the Sabbat (pp. 216-219) and Ghouls: Fatal Addiction. Physical: Strength 8, Dexterity 2, Stamina 6
+Bratovitch
+Social: Not applicable
+Disciplines: Animalism, Potence, Vicissitude
+Mental: Perception 1, Intelligence 1, Wits 2
+Weakness: The Bratovitches are a tempera Disciplines: for titude 4, Potence 6 (not e: immune mental bunch. the ir impatience rivals that of the
+to all powers of do minate, Presence and Animalism hotheaded Brujah. they tend to upset or of fend
+below five do ts) well-adjusted mortals with the ir rabid demeanor. will power: 10
+Raise the ir difficulties to resist frenzy by two. Blood Pool: 20/2
+Grimaldi
+Health Levels: OK (x5), -1 (x5), -2 (x5), -5 (x3), In Disciplines: Celerity, do minate, for titude capacitated
+Weakness: Grimaldi serve not just the Fiends, Attack: Strike/8 dice + Potence; Bite 8 dice, automatic but the Sabbat at large. To ensure the ir loyalty, every
+on the turn after a grab; Crush/6 dice + Potence, conmember of the family is blood bound to a True Sabbat strict the reafter
+of some authority. Multiple Attacks: Vozhd receive 10 extra dice to divide among multiple attack dice pools, though no individual Obertus
+attack may exceed the vozhd’s usual Dexterity + Brawl Disciplines: Auspex, Obfuscate, Vicissitude dice pool Weakness: A family of unbalanced intellectuals, Abilities: Alertness 5, Brawl 2, Intimidation 6 most Obertus have obsessive/compulsive disorder
+not e: At the Storyteller’s discretion, the sight of a vozhd may (Vampire: The Masquerade, p. 222) or a similar call for a will power or Rötshreck roll or a Wits + Occult intellectual derangement. roll (difficulty 10) to avoid a spontaneous derangement. Zantosa
+d Disciplines: Auspex, Presence, Vicissitude erANgeme NtS
+Weakness: Zantosa make easy marks for tempta Many Tzimisce treat the ir ghouls like painters might tion. Members of the family can not spend will power
+treat can vases if they were free and available in unlimited to resist supernatural enticements to pleasure. Regardsupply. Few Tzimisce consider the psychological damage
+less of the source of the temptation, a Zantosa must the ir experiments cause. Serving the Tzimisce, or worse, succeed on a will power roll (difficulty determined
+serving as the ir lab rats, causes some ghouls to develop by the Storyteller) when ever he particularly enjoys
+severe mental disorders. Ghouls: Fatal Addiction lists some an experience. Failure indicates that the Zantosa
+ghoul-specific derangements. Included below are three derangements that Tzimisce ghouls have a particularly high becomes addicted to the experience and obsessively
+risk of developing. With the exception of Sexual Dysfunc- seeks to relive it as of ten as possible. tion, the se derangements are also appropriate for Cainites. Revenants have a high risk of developing the se stage in all situations. they affect extreme but shallow
+derangements, not only because of the ir contact with emotions or behave and dress provocatively. Each scene, a
+Tzimisce but the ir abusive childhoods as well. A revenant histrionic ghoul must spend a point of will power to avoid
+who grew up knowing that her father would bite of f one seeking the spotlight in some way. If his quest for recogniof her fingers every time she misbehaved might become
+tion is unsuccessful, he can not spend will power; raise his histrionic in the search for affection. Or she might have
+difficulty to avoid frenzy by three for the rest of the scene. flashbacks of the night daddy bit of f her pinkie for dropping
+Vampires develop this derangement as well. A childe a plate. She might be unable to trust a lover because of her
+might subconsciously rebel against the indifference of father’s mistreatment. If she eventually becomes a Cainite, a sire. An old Cainite who lacks the status implied by
+she will most likely carry the se scars even into undeath. his age might become obsessed with being not iced. A h is triONiCS Nosferatu might overcompensate for his hideous appear Some ghouls sublimate the ir urge to escape or believe ance or even for spending too much time Obfuscated. that the ir new powers entitle the m to a certain amount of Players beware: This derangement is n’t a license to hog
+attention. Ghouls who develop histrionics must be center every scene, the n write it of f as roleplaying. Histrionics are
+Clanbook: tzimis Ce
+
+=== PAGE 64 === hypersensitive to the opinions of others, not oblivious to the such a condition might have on a ghoul’s relationship
+glares of the crowd as they enact some slapstick melodrama. with his or her partners. Histrionic cases are pathetic, and most people recognize
+K S the m as such the first time they flash the ir shit-eating grins OLdu NiC or Cery
+or refuse to leave the stage. A histrionic might latch onto one person the entire evening and pester her for every ounce Koldunic Sorcery used to be the province of a few
+of attention. He might become sullen or leave in a huff if he Old World koldun. Now, the art trickles do wn through the believes that someone has upstaged him. If you r Storyteller generations. Even a few neonates know the ways. all ows this derangement, roleplay it as the emotional disorder Why have we resorted to teaching children our magic? it is rather than an excuse to be obnoxious. It depends on who m you ask. The current Voivode believes
+p -t S d that the old koldun did not volunteer the ir wisdom. Instead, a
+OSt r Aum AtiC treSS is Order pack stole the ir secrets and disseminated the m haphazardly, Post-traumatic stress disorder (PTSD) arises in reperhaps to deprive some elder the fearsomeness he wielded as
+sponse to severe trauma such as combat, rape or servitude the proprietor of for bidden knowledge. Members of the conto a Tzimisce. A ghoul who has been the subject of his
+sistory think that the destruction of the clan’s most powerful master’s latest experiment with superdermal bone art or
+koldun prompted the surviving sorcerers to find students, lest witnessed his hungry master devour his mortal family
+the ir craft disappear just as Gehenna unfolds. might develop this derangement. PTSD can even afflict
+Koldunism has always been a you ng Cainites’ art, vampires, perhaps those who survived a Lupine attack or though when it was last widely practiced, long before you
+awoke one night to find the ir have ns on fire. fell into torpor, the you ngest Cainites were members of
+Symptoms manifest as recurrent, debilitating flashthe Sixth Generation. Neonates, wide-eyed and newly backs and extreme avoidance of situations likely to
+undead, cling to no myopic opinions about the nature recreate the initial trauma. The player of a ghoul or Cainite
+of reality and have yet to for tify the ir emotional walls afflicted with PTSD must spend a point of will power for
+against the spirit world. The voice of the land speaks her character to enter such situations. If compelled by a
+more clearly to the you ng, as it did to Lugoj and Velya. blood bond or other for ms of control, the sufferer’s player
+Koldunic Sorcery hinges on five major paths, or ways: can not spend will power to gain automatic successes on the Ways of Earth, Fire, Water, Wind and the Spirit. The
+any rolls, and all of the character’s dice pools are halved
+“obscure ways,” the paths known to few koldun even in
+(round do wn). In any circumstances, botched will power blood magic’s nights of prominence, have resurfaced amid
+rolls or other stimuli deemed appropriate by the Storythe koldunic revival of the Final Nights. As far as the clan teller induce flashbacks of the traumatic episode with the
+Voivode and other Tzimisce elders know, no ancient koldun same penalties described above. Ghouls laboring under
+has risen from torpor to teach the se ways anew. Rather, it this disorder are typically disposed of by the ir do mitors. the neonates, the dwindling legacy of Caine, that have
+Clan Tzimisce requires servants made of sterner stuff. resurrected the se dead arts. Some Fiends believe that the
+S exuAL d ySFuNCtiON you ng koldun learn from the spirits the mselves. A ghoul who spends any time in the thrall of a As the number of koldun grows, the ir ritual repertoire grows
+Tzimisce do mitor is likely encumbered with a variety as well. Noddists unearth for gotten rituals every few months, of sexual dysfunctions. Female ghouls typically develop but even this pace fails to satisfy some of the new koldun. A few vaginismus, involuntary contracting of the vulval and prodigies now work to inventing rituals of the ir own. rectal muscles preventing penetration, or dyspareunia, t w S
+he AyOF or r Ow severe pain during intercourse. Males, if not rendered
+completely impotent, sometimes fixate sexually on acts From Kruchina, a goddess of mourning depicted as a favored by the ir do mitors. All such conditions are likely to perpetually weeping woman, to Likho Odnoglazoye, the
+instill an extreme aversion to sex, further separating ghouls emaciated one-eyed hag who represented privation and from the lifestyles they lead prior to the ir servitorship. suffering, the pantheons of Eastern Europe brim with deities
+Before all owing this derangement, Storytellers overseeing starvation, misery, misfortune, bitterness and should consider whether its inclusion will make any death. Whether the gods hear the ir names or the spirits
+players uncomfortable. Many people prefer not to ex- merely attend the ir mention, a koldun who understands the plore such personal is sues in detail, especially during a obscure Way of Sorrow can invoke the most dismal powers
+game. Although the setting is a suitable venue for such of the divine. This way pays no heed to gods of revelry or unpleasantness, you can challenge you r players with out plenty, only those who se attentions promise tragedy. resorting to poor taste. the se caveats in mind, this de- Like the Way of Fire, the Way of Sorrow is governed by
+rangement can be played with out mentioning graphic the koldun’s Manipulation, but the difficulty for each of the details — Storytellers can extrapolate the likely effects powers is the victim’s permanent will power rather than the
+Chapter t Wo: ego and evolution
+
+=== PAGE 65 === usual 4 + the level of the power. In addition, a victim may spend
+a point of will power to overcome a particular effect of this way but is still vulnerable to subsequent uses of the Discipline. A final not e: Dealing with for gotten gods requires
+propriety, especially those who govern such bleak concerns. If invoked incorrectly, the Way of Sorrow turns on the koldun. On a botch, the Fiend suffers the effects
+of his own power as if she had scored five successes. MET Systems: When you invoke any level of the
+Way of Sorrow, you spend one will power Trait and make a Social Challenge against you r opponent (and use the
+Koldunism Ability for retests). If you r enemy successfully overbids against you, though, you suffer the effects for five
+full turns. Generally, if an effect lasts for a number of turns, it takes effect as soon as you use it and lasts based on you r turns — that is, if you invoke a power on an enemy for one
+turn, it takes effect as soon as you finish the challenge and lasts until the beginning of you r next turn. Count based
+on full turns, not on actions, just in case you have multiple actions in a turn (such as from Celerity). The opponent may
+expend one will power Trait to resist an emotion-influencing effect of the Way of Sorrow, but this do es not grant immunity
+to the Discipline; that is, the target may shrug of f a given effect, but could be attacked with it again in the next turn. • t F N
+he ru Str AtiONSOF e Stre ChA
+Named for the goddess of grief and failure, this power all ows the koldun to rob an opponent of his resolve. The
+koldun’s stare saps the target’s will to struggle. Although the victim is overcome with a resigned pessimism or feelings of defeat, he can still take action to resist the koldun, including combat, but only in a half-hearted or fearful way. He musters none of his usual passion or determination. System: The koldun’s player spends a will power point. Roll the koldun’s Manipulation + Koldunism (difficulty
+equal to the victim’s will power). For one turn per success, her target’s player can’t spend will power points to activate
+Disciplines or gain automatic successes. In storytelling terms, the victim might also lack strong motivations or convictions for the power’s duration (“What difference do es it make?” or
+“I just do n’t care anymore”). For this power to be effective, the koldun must make eye contact with her victim. MET System: Make eye contact with you r subject, and perform the usual expenditures for the Way of Sorrow (if you
+have problems with people going to ridiculous lengths to avoid eye contact, you should look into what ever solution
+you’ve opted for do minate). If you best the target in a Social
+Challenge, the n the victim can’t use any will power Traits to activate any Disciplines until you r next turn. When you r
+next turn comes, you may (as a reflexive action) expend a
+Social Trait and test again to sustain the power against the opponent (assuming it succeeded the first time); you do n’t
+need eye contact to maintain the power in this fashion. Once you fail a successive Social Challenge or decide not to maintain the power, it ends immediately. Clanbook: tzimis Ce
+
+=== PAGE 66 ===
+O pri ChNi Ki Tzimisce took the m in and used the m as vassals over the remaining century. Surprisingly, the Oprichniki
+eventually became revenants, even though they never once served upon the Carpathians’ blighted soil. Fiends
+the or ize the Oprichniki cursed the mselves by serving
+Ivan the Terrible, though this is more fable than fact. Even before the rise and fall of the Iron Curtain, the Oprichniki were a well-kept secret, especially from the you nger Transylvanian voivodes. The Russian Fiends
+desired the Oprichniki to be the ir henchmen and majordomos, whether they served as vassals, intermediaries, mouthpieces, bodyguards or cutthroats. As such, the
+Tzimisce train the Oprichniki from birth to fulfill a variety of assignments and duties. Since the collapse of the Soviet Union, the Tzimisce
+are finally free of both Brujah idealists spouting proletariat rhetoric and the superstitious elders of the Camarilla
+casting dubious eyes toward the obviously exceptional skulkers in darkness maintained by the Fiends. With the
+borders relatively open, the Oprichniki remain hidden from the majority of the clan, serving independent Russian
+The Oprichniki, the vassals of Russia’s Tzimisce, can Tzimisce and those affiliated with the or adea League. trace the ir or igins do wn to the year. It was 1565 when Disciplines: Animalism, Obfuscate, Vicissitude
+Ivan Grozny — Ivan the Terrible as history would later Weakness: The Oprichniki drawback manifests lament — divided his Russian kingdoms and named his more as a curse than a weakness. All revenants from this
+secret militia after his principality Oprichnina. During family, regardless the ir ethnic background, suffer at the those years, the se mortal mercenaries served as cut- hands of at least one ghost as per the 3-pt. Supernatural
+throats to a mortal devil; only Vlad Tepes could match Flaw Haunted (see Vampire: The Masquerade, p. 302). Ivan’s reign of blood. The Oprichniki, in turn, carried Russian koldun believe the ghosts are the victims of out Ivan’s or ders, performing acts of terror against the Novgorod, a Russian city that the Oprichniki decimated
+populace, flaying anyone who complained too loudly in the ir mortal years. Ivan’s assault against Novgorod and boiling the czar’s enemies. resulted in the murder and torture of thousands of in The Oprichniki barely survived the reign of Ivan nocent civilians, a crime the revenants carry with the m. the Terrible, for they suffered his ministrations as well. Even if an Oprichniki finds a way through Disciplines or
+He turned the m upon each other in his final years, magic to rid himself of his ghost, another always takes and only the vilest of the ir lot survived. The Russian its place. Thus, the curse for ever follows the revenants. Chapter t Wo: ego and evolution
+
+=== PAGE 67 ===
+•• t i K like, the concentration required for initiating any Mental he NSu LtSOF rivdA
+or Social Challenge becomes impossible. You may extend
+Any Fiend worthy of the name can spit out a tellthe power with additional reflexive Social expenditures and ing insult. But with this power, Krivda — a goddess of
+tests, as described for The Frustrations of Nestrecha. Each turn hatred and bitterness — ensures that the remark of that a vampiric opponent spends under this power results in
+fends, enraging the recipient. In the Tzimisce-Tremere the loss of one Blood Trait due to copious weeping of vitae. conflicts of nights long past, koldun carried Krivda on
+the ir tongues, inciting the ir Usurper opponents to frenzy. •••• t he m is for tu Ne OF C herNOgOLOv they preferred to deal with angry fangs instead of cal With a declaration that a person is do omed or destined
+culated Thaumaturgy. This is a dangerous power to use, to fail, the koldun summons the attention of Chernogobut it can unbalance a physically weak opponent who lov — the silver-mustached god of misfortune — to her
+has access to powerful Disciplines or could be used to victim. Under Chernogolov’s unlucky gaze, he is hindered
+embarrass a Cainite by causing him to frenzy in public. in everything he do es. If he fails, he do es so spectacularly. System: After her player spends a will power point, System: The koldun’s player spends a will power point the koldun insults the target in the most of fensive and
+and rolls the koldun’s Manipulation + Koldunism (difficulty humiliating way she can conceive. The koldun’s player rolls
+equal to the victim’s will power). For one turn per success, Manipulation + Koldunism (difficulty equal to the victim’s the target automatically loses two successes on every roll
+will power). If the roll is successful, the target flies into an uncontrollable rage and assaults the koldun. If the target is
+a vampire, he must immediately roll to resist frenzy (dif- t he Q uiCK ANd d irty g uide tO C re Ati Ng ficulty 5 + the number of successes on the activation roll). g h OuLS ANd r eveNANtS
+MET System: Address you r victim with some sort of Here’s an abridged version of the character creoffensive curse as you expend you r will power and make ation process for ghouls and revenants. For complete you r Social Challenge. You must roleplay some for m of insult information and new Abilities, Backgrounds, Merits
+and of fense — if you do not, the power fails automatically. and Flaws specific to ghouls and revenants, see Ghouls: Older Tzimisce might lay out positively Biblical-sounding
+Fatal Addiction. curses, while you ng Tzimisce could flay the ears with a
+• Step One: Character Concept gangbanger’s lingo. If you perform appropriately and win
+Choose concept: ghoul or revenant. the Social Challenge, you r target immediately flies into
+(Revenants only) Choose a revenant family. a rage and attempts to attack you. In his next turn, you r victim must make some sort of physical attack against you • Step Two: Select Attributes
+if at all possible. If the foe is a vampire, he may resist with a Prioritize categories: Physical, Social, Mental
+Self-Control Virtue Test (difficulty of 4 Traits), but if this fails, (6/4/3). enters frenzy (which typically lasts at least five minutes). • Step Three: Select Abilities
+••• t w K Prioritize categories: Talents, Skills, Knowledges he eepi NgOF ru ChiNA
+(11/7/4). The glare of a koldun can make someone so miserable that they do not hing but cry. This power do es more than • Step Four: Select Advantages
+spill a few tears — it causes hysterical bawling, wailing Choose Backgrounds (5), Disciplines (Potence and gnashing of teeth. Some depressing not ion overcomes 1 and one do t in another Discipline, see below) and
+the victim. Vampires might mourn the ir lost humanitas or Virtues (7, or 5 for Sabbat ghouls and revenants). the passing of lovers who died long ago. Sometimes the Ghouls: Choose a Discipline known to you r do mitor. source is more nebulous — koldun believe that it imparts
+Revenants: Choose a family Discipline. the collected sorrow of the ir demesnes’ sickened soil. • Step Five: Finishing Touches
+System: The koldun’s player spends a will power point
+Record Virtues, Humanity/Path of Enlightenand rolls the koldun’s Manipulation + Koldunism (difficulty ment, will power and Blood Pool. equal to the victim’s will power). For one turn per success, the target is overwhelmed by intense misery and cries uncon- Spend freebie points (21), all freebie costs are the
+trollably. Actions that require concentration are impossible same as for vampire characters except that Disciplines for the power’s duration. Cainites lose a blood point each cost 10 per do t. turn as copious amounts of vitae stream from the ir eyes. not e: Revenants produce one point of vitae per
+MET System: Make you r Way of Sorrow test against evening. This blood can not create vampires, ghouls one opponent; if you win, the subject is overwhelmed with or blood bonds. Revenants have a maximum blood
+misery and breaks into hysterical sobbing. Although the pool of 10, plus one for every full century she’s existed. target might still be able to run away, defend himself or the
+Clanbook: tzimis Ce
+
+=== PAGE 68 === he attempts. Botches experienced under the effects of the priestess who spoke until the Sabbat’s cause sang through
+Misfortune of Chernogolov should be especially disastrous. my veins — though I am one this jealous generation would
+MET System: When you call do wn The Misfortune destroy, had I revealed my age. Even you r Ezra has impressed of Chernogolov and speak an appropriately do om-saying me. Its craft would make the Black-Churchers jealous. phrase, you r opponent immediately suffers a two Trait But such is the extent of my generosity with others. penalty on initiating and resolving any challenge. Thus, I shall be far less generous with you. You treated me conthe enemy must risk at least three Traits just to enter any temptibly as well and wrote in such familiar tones. Do you
+challenge and loses every additional Trait risked on a think this is my first time to awaken from a long sleep? For failed challenge. Furthermore, the subject is more likely this shabby treatment, I keep you r childe. Next time, I will
+to fail any test due to the penalty Traits. This is cumula- feed you to it piece by piece. Those who suffer undeath tive with injury or other penalties that inflict the victim. after my Blood should treat me well. You have many things to do, grandchilde. I have always
+••••• t S m he t Arv AtiONOF are NA
+known that a Cainite’s years are measured in the mastery
+By invoking the wife of Kupala, the koldun summons of his Disciplines. Mortal vogue means not hing to those
+the cold and starvation that is the do main of Marena. A who can walk the spirit world and subdue the hunger of
+frosty gale blasts the victim and leaves him emaciated as if wolves. You have responsibilities as my descendant. First
+he had just survived the coldest of winters. The frostbitten among the m is to be worthy of my Blood. Until you r
+and starving victim clings to (un)life, usually in no condimastery matches my own, you would do well to fear me. tion to contradict the koldun. The cold symbolizes of the
+In answer to you r question, I looked to Hell. passage of time in harsh conditions. — Methuselah
+System: The koldun’s player spends a will power point and rolls her Manipulation + Koldunism (difficulty equal A NimALi Sm
+to the target’s will power). For each success, the victim
+When Tzimisce became master of the beasts, it betakes two levels of bashing damage that can be soaked came master of the land. So do not greet the animals like
+normally. In addition to this damage, vampires lose one a fellow animal. Greet the m like a king coming to court. blood point for each of the koldun’s successes — healthy
+So too the Beast with in, which every Tzimisce should prey was scarce in the Eastern European winter. master. I have read of you r Paths of Enlightenment and
+MET System:: Invoke the name of Marena, and find the m too demanding for most of our kind. What the
+make you r Way of Sorrow challenge against the victim. If few can accomplish with obscure philosophies, the many
+you win, the subject suffers two levels of bashing damage can accomplish with this gift from Caine. (one in compressed scale) and, if a vampire, loses one Blood
+Our own Animalism eases truck with peasants. Those
+Trait. Additionally, if you have more Social Traits than the who have practiced it are soothing to animals, and such
+opponent, you r effect may be more lethal: For every two soothing is the stuff of mortal terror. Animals are inconsistent
+current Social Traits that you have over you r victim, score things, accustomed to fright at anything because that is the ir
+another two health levels of damage and one Blood Trait nature. Even a child can scare a cat. Far more terrible is the
+loss. (If you r opponent has more Social Traits than you, man who bends do wn so the wolf can lick his face. Mortals the re is no penalty other than the possibility of an overbid.)
+are more consistent. If no animal avails itself, find the haughty man among the m, the one that mortals fear, and Cow the
+Enough, Methuselah. I have said enough. I leave
+Beast with in him. His entire village becomes do cile as well. you to the fate the modern nights hold in store. Cainites do not bow so easily, and such power is useless
+O d against the m. If you can, call beasts to you r aid, but mind the r is Cip LiNeS
+that wolves do not scare the m. Far better to escape in the flurry of 100 birds and leave the wolves to harry trespassers
+Troilus Cressida: away from you r lands. Oslo is a shithole. After receiving you r letter, Methuselah
+Ezra tells me that you seldom leave you r have n. As it wished to reply. He dictated, I translated. I’ve cleaned up his idiom
+tells me, you r many mouths leave you unpalatable to the where I could. His fangs are so dull, sire…. Please send for us soon. mortals you hide among. the n use the beasts to be you r
+—Ezra eyes in the living world. Ravens are clever observers, and
+Descendant: any do g can follow a scent. If you can Subsume the Spirit
+In the fulfillment of you r Blooded duties to me, you of the creature, the n you will have no need to extrapolate
+have denied this you ngest generation the ir due. You wrote from the simple reports that animals by nature give. But
+of the m with such contempt. I have moved among the m when you ride a beast, ensure that you have ghouls or
+and witnessed the ir ways. they are hardly the “Mongols” childer to watch you r slumbering for m. Ensure that they
+you describe. I have met do ctors and men of science, a pack do not want to taste you r blood. Chapter t Wo: ego and evolution
+
+=== PAGE 69 ===
+A u Spex its attachment to the world of mortals, you r craft can render
+him a pariah among his kind. Likewise, a ghoul that is too
+When Tzimisce learned to see the world as it is, he weak to tote you r bales, remold him for strength. In such a
+became a seer worthy of Caine’s not ice. The blood of way is the master kept happy and the servant all owed to live. the greatest prognosticator sustains every Tzimisce, and
+I have survived through times when I had Tremere when last I awoke, those of us with the sight were given
+blood in my mouth every night. In those nights, the to visions as our Founder was. fearsome fared better than the beautiful. Serrated bones
+Our ability to see is what lends us advantage against the to saw through the chest into the heart and fat padding
+lesser clans. You will understand that it is the greatest gift Caine the vulnerable places looked unseemly, though I owe my
+bestowed on us the first time a shadowed Nosferatu intrudes continued existence to the ir use. But I do not understand
+in you r manse. And disturbances in the secret for ces around the modern enchantment with twisted monstrosity. I have
+us confuse Toreadors and Malkavians. the ir brains are awash seen creatures of such beauty that they inspire worship
+in madness, and the swirls of secret for ces overwhelm the m. A among mortals. Do you realize the glory of perfect sym Tzimisce, naturally focused and aware by Blood, can use this
+metry? The best Tzimisce find symmetry of another sort confusion for escape or a final blow cheaply earned. Beware
+— for ms built for both beauty and destruction. But when that Tremere are similarly focused and aware. one has mastered the zulo for m, one can err toward beauty. Ezra has told me that you r lab overflows with experi No matter how prepared for love or war, Tzimisce
+ments in progress. If so, you have no do ubt already realized should strive to become simple blood. If a Tzimisce can
+the benefits of sensitivity. One needs to feel the texture achieve the bloodform, no stake can pierce his heart. The
+of one’s sculpture’s skin and hear the discordant pitches smallest crack is an open do orway. A Tzimisce trapped or
+of a tortured scream. Likewise, any gaps in you r learning imprisoned for weeks can sustain himself on his own for m. can be filled over time by scouring the thoughts of those
+To was h over a mortal can inspire a whimpering panic, if who already know the methods, adding the ir knowledge
+not death from sudden fright. A Cainite likely frenzies. to you r own. Embolden you r will — most things worth
+The you ng ones I have spoken with tell me that “Vknowing reside in the heads of Cainites. positive Licks” develop the Eldest’s own reliance upon
+Long, long ago, before my first slumber, the childer his “ego.” I prefer my own terms: How much greater is
+of Tzimisce’s childer held duels among the mselves in the the Cainite who bears an Antediluvian! spirit world, wagering the ir own blood on the outcome. Get to work, Troilus Cressida. The time approaches
+I have always regretted that this practice did not endure when I come to test you myself. beyond the rise of the Muslims. Although too few possess
+such mastery, the spirit walker must be prepared to answer d p is Cip LiNe OwerS
+when a Tremere comes slicing after his silver chord. e A (v L S ) v CSt AtiC gONy i CiSSitude eveL ix
+i CiSSitude
+For a Tzimisce who can experience Ecstatic Agony, When Tzimisce achieved enlightenment, it became pain becomes power. The more wounded he is, the more
+the vitae that now rests in you r veins. potent he becomes. The Fiend delights in every slash, punch, So do n’t be sloppy with it. Our clan alone was gifted bullet or burn and channels his pain into physical prowess with this power because Tzimisce hands are never un- or incredible displays of Caine’s Gifts. trained. We alone possess the resolve to move beyond
+System: After the player spends two will power points, competence to mastery. But one must be fast as well as the character becomes even more powerful when experienccapable — a crude rending of flesh is a distraction, a rib
+ing pain. For all non-reflexive actions involving a Physical through the heart is as good as Final Death. Attribute or use of a Discipline, add his wound penalties to
+In the se modern nights, even the you ngest has access to the dice pool. For example, add two dice at the Wounded the most complete anatomical understanding; though our health level. As the character heals, this bonus wanes. Treat
+clan sometimes learned such things long before the mortals Incapacitated and Final Death normally. This power lasts and understood some truths that mortal science is not yet of for one scene. a mind to accept, the crafters of my early times lacked this
+MET System: You must spend a will power Trait to precision. they understood how muscle attached to bone, but
+activate Ecstatic Agony. For the duration of a scene, you gain even I gawk at the simple intricacy of the you r lately discovered
+two bonus Physical Traits for each health level of damage you
+“nervous system.” In this regard, I almost envy the you ng…. suffer in combat; you can raise you r Physical Trait pool above
+On to a more practical matter: Vicissitude is the best whip you r normal generation limit. Heal you rself, and you will lose that a do mitor can brandish at his ghouls. The threat of altera- any and all bonus Traits earned through this power. If you
+tion suffices for most. If some of fense requires punishment, mar possess any ability to ignore the wound penalties you receive the vain and shorten men of stature. When a ghoul persists in in combat, you gain no added benefit from Ecstatic Agony. Clanbook: tzimis Ce
+
+=== PAGE 70 === e ye OF the S zLAChtA (A NimALi Sm L eveL S ix ) into you r very psyche. Like the protean Dracon, you are a
+whirlwind of temperaments. Unlike multiple personalities, Any Fiend who’s been around for a while knows how which gives you more than one identity, you are the same
+to possess a lowly beast, but a few can ride any ghoul who person but with different and changing Natures. Essentially, shares the ir blood. By locking eyes with the ghoul (and
+you either have no anchored sense of self, or you’re so muyes, both parties must have eyes), the Fiend can transfer table that you can be anybody. At the beginning of each
+his soul into the creature, while his body falls into a state story, until its conclusion, you may choose one Personality
+resembling torpor. Although some Tzimisce consider such
+Archetype to function as you r Nature. This do esn’t change intimate contact with the ir servants distasteful, sometimes
+you r identity; it simply alters the way you perceive situations it’s necessary to calm a rampaging vozhd in a disposable vesand how you deal with others. You also regain will power
+sel or to “fleshride” a ghoul who can speak and open do ors. according to you r new Nature and may be affected by other
+System: Use the system for the Animalism 4 power effects or Discipline powers as per you r new Nature as well. Subsume the Spirit (Vampire: The Masquerade, pp. MET System: At the start of each game session, you
+148-149). may choose a new Nature. how ever, the Storyteller may, MET System: You can impose you r indomitable will at his leisure, call you over and swap you r present Nature
+onto one of you r ghouls by spending a will power Trait, for a new one to act out. the reby merging the two souls together. Each Mental
+Trait you spend increases the strength of this connection, h A
+AveN FFi Nity lasting for one night. (3- pt. S uperNAturAL m erit )
+1 Trait Simple Possession Caine’s curse resonates strongly in you r bones, but it
+2 Traits Can use Auspex possesses a proven advantage. You are connected to the soil of you r prime have n, granting you an extra die to all
+3 Traits Can also use Animalism and do minate dice pools when you operate the re. It also acts as a mystic
+4 Traits Can also use Vicissitude beacon to you, all owing you to home in on its location
+5 Traits Can also use Koldunic Sorcery, Necromancy with a standard Perception + Survival roll (difficulty 6), and Thaumaturgy +1 difficulty when a state or country separates you; +2 if you’re halfway across the globe. This applies only to
+m F eritSANd LAwS you r prime have n and to none of you r auxiliary shelters. Whether Tzimisce like it or not, they carry a germ MET System: You must first spend a Mental Trait and
+of the gestating Antediluvian inside the m. Between it, engage in a Simple Challenge with the Storyteller. If suc Vicissitude and the ir of ten-strange habits, the re are unique cessful, you will earn a bonus Trait in all challenges initiated
+Merits and Flaws to personalize each Fiend. As always, with in you r have n, as well as feeling a spiritual tug from the this section is entirely optional and pending Storyteller direction of you r have n. If you r have n is a goodly distance
+approval. This information is not gospel or do gma. away, such as in another city, the n the Storyteller may decide to have you make a Hard Test and spend a will power Trait
+p t (2-. p m )
+AiN OLerANCe pt hy SiCAL erit rather the n a Mental Trait, to reflect the strong mystical
+Maybe you’ve deadened you r nerves through Vicissitude. connection you share with you r distant prime have n. Maybe you’re a tough bastard. Maybe it turns you on. Regardless, you ignore one-dice wound penalties. That is, at Hurt r eveNANt d is Cip LiNeS
+(3-. S m ) or Injured, you suffer no wound penalties. You still suffer full pt uperNAturAL erit
+wound penalties at Wounded and below. You must have a The ties to you r revenant family stayed with you well
+Conviction or Courage rating of 3 or more to take this Merit. past the Embrace. As such, the Disciplines that were innate
+If you possess the advanced Vicissitude power Ecstatic Agony, to you as a ghoul have remained so as Cainite. At character you gain no additional dice until you are at least Wounded; creation, select the ghoul family from which you hail. Inyour indifference to pain deprives you of its power. stead of the Tzimisce’s standard complement of Animalism, MET System: you r body is hardened to pain, possibly Auspex and Vicissitude, you instead draw from you r three
+because you r nerves just do n’t convey the se adverse feelings family Disciplines for you r starting all ocation (though you or simply because you’ve experienced suffering and torture may buy other Disciplines with freebies, as normal). Also, you
+beyond comprehension and it has pushed you beyond the learn you r family Disciplines at the cost of a clan Discipline. average tolerance. As such, you ignore penalties at the Bruised It’s either or, how ever, meaning you can not buy both the
+Health levels. Tzimisce and family powers at clan cost unless they both d ’ t share a particular ability like Vicissitude. rACONS emper Ame Nt
+(3- pt. m e NtAL m erit ) MET System: You must first clear the heritage of you r
+Taking the not ion of Azhi Dahaka to new levels, you’ve revenant family with the Storyteller before purchasing this emulated the permutable nature of change and evolution merit. With Storyteller approval you may, at character
+Chapter t Wo: ego and evolution
+
+=== PAGE 71 === creation, take the three innate Disciplines of you r revenant r eveNANt w eAKNeSS
+(3-. p F ) family instead of those of the Tzimisce. Any Discipline not pt hy SiCAL LAw
+of you r revenant family, even ones passed on through the You were once part of a revenant family. Following the blood of the Tzimisce, must be purchased as is out of clan. Embrace, you suffered the do uble-whammy of you r clan’s
+weakness and you r revenant family’s limitation; whether it’s
+A S d
+NCe StrAL OiL epe NdeNCe
+(2-. S F ) the Bratovitch’s propensity to fly into a rage, the Grimaldi’s pt uperNAturAL LAw
+blood bond to the Sabbat, the Obertus’ instability or the
+Dependence on the ir native soil hampered the Tzi Zantosa’s weak will. The Storyteller might also let you misce’s flight from Eastern Europe. Even a few childer sired
+manifest a weakness from a lost or destroyed revenant line. elsewhere required the soil of a homeland they had never
+This could add mystery to you r background and all ow for visited, making the m particularly vulnerable to enemies
+a bit of genealogical detective work. who knew of this weakness. In the modern nights, rapid
+MET System: As stated above, you suffer both the transportation makes such a threat much less severe, but
+weakness of you r clan as well as you r revenant family limitaeven childer sired generations after the ir ancestors relocated tion. You should work with you r Storyteller if you decide to
+occasionally manifest this Flaw. manifest a limitation of a lost or destroyed revenant line. The will of the spirits from the ancestral Tzimisce homeland weighs heavy on you r blood — soil from a place C ONSumptiON (5- pt. p hy SiCAL F LAw )
+important to you as a mortal won’t do. You actually need Portions of the Antediluvian are not only with in you, two handfuls of the tainted Eastern European soil of the they’re active and act like a can cer that devours you from the
+Tzimisce homeland. Ancestral Soil Dependence most com- inside out. you r very blood is wrought with a corrosive, fleshmonly manifests in the childer of koldun and the branch of eating bacteria. At the beginning of each evening, you suffer the clan thought to be descended from Yorak. Characters one health level of bashing damage that can not be soaked nor
+Embraced in Eastern Europe can’t take this Flaw (they’re healed with blood. The only way to counteract the effect is by already dependant on the local soil). ingesting one-tenth of you r body-weight in flesh to supplement
+MET System: you r dependence on the magically rich you r depleted carcass. Whether you kill and devour the skin and diseased soil of Eastern Europe is so severe that, until you from humans or raid the biohazard containers of liposuction
+are in possession of two handfuls, you will suffer a two-Trait clinics for siphoned fat, you need you r ration of human flesh penalty to all challenges. in or der to survive. If you try and ingest this macabre meal
+before damage is do ne, you’ll simply vomit it out like any other
+S (2- 4-. p F )
+CArFACe tO pt hy SiCAL LAw food — this do es not impart the benefits of the Eat Food Merit. You’re a walking mess of scars. Although you heal
+MET System: When testing for blood at the begindamage with Cainite efficiency, the manner in which you ning of each game session, you suffer a level of bashing
+do so is all too human. For some reason, the regenerating damage that can only be healed by ingesting mortal flesh, flesh returns as scar tissue. Vicissitude do esn’t help; in fact, it
+enough to replace the fleshy tissue depleted from you r body aggravates you r condition with stretch marks and cicatrices
+as a result of this Flaw. You can not pre-empt the effects anywhere you r skin breaks. While this do esn’t hamper you
+of this corrosive bacteria by ingesting human flesh before physically, it do es affect you r interactions with other people. the damage is taken; with out the Eat Food Merit you will
+For 2 points, all Social roll difficulties increase by one. vomit out this flesh like any other food. If you purchase Scarface as a 3-point Flaw, you r face and
+S h body are so horribly blemished that you r Appearance rating iCKi Nthe e Ad
+can never exceed 2. This is in addition to the limitations
+The unlifestyle of the Tzimisce puts the m at high risk mentioned previously. As a 4-point Flaw, the swath of scars is
+of developing various derangements. Botched experiments, thick enough to hinder you r actions through skin-resistance. repeated indulgence of the ir perversions and the intensity
+All Dexterity roll difficulties also increase by one, in addition of the ir Embraces conspire to twist the ir personalities. to the other penalties this Flaw imposes at lesser levels. You
+When the Storyteller determines that a Tzimisce should can ignore this penalty for one specific action by taking one
+gain a new derangement, consider the lists in Vampire: level of (unsoakable) bashing damage; essentially, you’re
+The Masquerade (pp. 222-224), Guide to the Sabbat (pp. tearing the scar tissue for greater range of motion. Once you
+161-163) and the list included below. If the Storyteller heal that damage, how ever, the penalty returns. all ows, many derangements from Clanbook: Malkavian
+MET System: As a 2-point Flaw, you suffer the negative or even Clanbook: Tremere might also be appropriate. Social Traits: Scarface x2 that must be open and not oriously
+A presented, on a badge or post-it. As a 3-point Flaw, you r g OrAphOBiA
+Social Traits may never exceed five Traits, and as a 4-point Agoraphobia literally means “fear of open spaces,” but
+Flaw, you suffer the negatives of the lesser levels, as well the translation is misleading. Called “Mad Scientist’s Disease” as suffering a one Trait penalty to all Physical Challenges. by you nger Tzimisce, agoraphobia manifests as an extreme
+Clanbook: tzimis Ce
+
+=== PAGE 72 === aversion to places the sufferer fears he will panic. Sometimes
+the derangement is attached to a few locations, but generalized agoraphobics avoid situations in which escape is difficult (an
+airplane at 30,000 feet) or embarrassing (making a speech). Agoraphobics do n’t volunteer for situations that they fear might cause anxiety. Unless supernaturally compelled, agoraphobic vampires must succeed on a will power roll
+(difficulty 8) to leave the ir have ns each evening and must spend a point of will power to enter a situation from which
+escape will be difficult or embarrassing. If the character fails any will power roll during a scene that takes place in such a
+situation, the character must spend a point of will power or flee. Vampires can ignore the se constraints while in frenzy. The territorial nature of many Tzimisce makes this
+derangement relatively common with in the clan. No do ubt the world is scattered with at least a handful of agoraphobic
+Cainites driven into torpor from lack of blood. A S A
+Cute ANguiNAry ver SiON
+This derangement, unique to the undead, involves a persistent fear that any source of vitae is dangerous. Explanations vary some vampires fear drugged or contaminated
+blood, the wrath of God or the presence of a blood-borne
+Antediluvian. Regardless, unless the vampire is frenzied, the player must succeed on a will power roll (difficulty 8) each time he feeds. will power can not be spent on this roll, and a botch indicates that the vampire is so revolted by the
+prospect of feeding that he vomits up half of his blood pool. Acute sanguinary aversion usually leads to a starve-and frenzy pattern, with the vampire avoiding feeding until he loses control. Instead, the vampire might develop highly
+ritualized feeding methods that involve obsession with repeated, largely arbitrary behaviors that must be observed
+before the Kiss is performed on a particular source of vitae. He might read a passage from the Book of Nod before feeding or drink blood only from a particular individual. In any case, if the feeding results in a Conscience
+or Conviction roll, increase the difficulty by one. t N F he Ami NgOF ie NdS
+Here’s a list of some typical Slavic names, along with a few ideas for surnames, many of the m
+Romanian. When naming Fiends, keep in mind that the higher the generation, the less likely the
+Tzimisce was born in Eastern Europe. Males: and rej, Boleslaus, Conrad, Dimitri, Florian, Ivan, Jan, Karel, Ladislas, Marika, Nikolas, or el, Pavel, Rurik, Sandor, Tibor, Volodya, Wenceslaus, Zarek
+Females: Chessa, Dannika, Fanya, Gavrilla, Hana, Ikla, Jan, Katarina, Ljudumilu, Miesha, Nadezhda, Radilu, Sonja, Terezia, Valeska, Zorana
+Surnames: Cerveni, Constantinescu, Cunescu, Diaconescu, Iliescu, Ionescu, Manolescu, Marko, Mohora, Patriciu, Roman, Tabara, Vasile
+Chapter t Wo: ego and evolution
+
+=== PAGE 73 ===
+C d
+Om BiNAtiON is Cip LiNeS
+Some Cainites competent with two or more and change five different facets with five will power
+Disciplines can combine the m to create new powers. Traits. The changes made to you r aura are undetect Tzimisce rarely learn the se techniques spontaneously. able in Auspex Challenges; the appearances of Soul
+Koldun, innovative Metamorphosists and survivors of Decoration last for a night. the bitter rivalry between the Tremere and Tzimisce — You may also manipulate the auras of other Kindred and the ir childer, too, perhaps — might be convinced or kine by spending a will power Trait and succeeding
+to serve as teachers. in a Static will power Challenge. S d (A ••, O In MET, this power costs 6 Experience Traits. OuL eCOr AtiON u Spex BFuSCAte
+••, v •••) i CiSSitude p S (p ••••, Ater zLAChtA r OteAN
+The aura is a byproduct of the body. Change the v i CiSSitude •••) body, change the soul. The body’s experiences can be Some Tzimisce combine the Protean power to
+summed up in the aura, but this phenomenon is the turn into an animal with the possibilities of Vicisproduct of physical for ces. By fleshcrafting certain situde. for ces of chaotic change surge through the locations on the body — chakras, joints, erogenous Fiend’s body, for ces he must direct while experiencing
+zones — a Tzimisce with this power can “paint” what- bone-breaking pain. When the Tzimisce can bear ever aura he chooses. Auras summarize the individual, the strain no longer, the body settles into the Pater
+revealing mood, the stain of diablerie and the Curse Szlachta or bogatyri for m — so named by Tzimisce of Caine. When under the gaze of perceptive eyes, anarchs to insult either the ir servants or the “elder
+sometimes it’s better to conceal such things. valiant champions” who served the anarchs’ sires. System: After spending three will power points, In the modern nights, this power is still known to the player rolls her character’s Perception + Empa- a few Tzimisce, who sometimes use it in contests of
+thy. The difficulty of this roll is equal to the subject’s improvisational fleshcrafting. will power — stronger personalities resist alteration. System: Spend two blood points and roll Stamina
+The number of successes indicates how completely the + Medicine (difficulty 7). The change takes (5 - the aura can be changed to the Tzimisce’s specifications. number of successes) turns to complete, during which
+1 success Can alter shades (pale or bright) the Tzimisce can only how l, drool vitae and writhe. The
+2 successes Can alter the main color character can rearrange his Physical Attributes (one
+3 successes Can alter psychological state (frenzied, do t per success), but no Attribute can exceed the limit psychotic, etc.) imposed by generation. The player can describe what
+4 successes Can conceal or falsify diablerie and sort of alterations he wants to make, but the process is magic use difficult to control. In the end, the Storyteller is the final
+arbiter, choosing one physical state for the character in
+5 successes Can conceal or falsify natural condibogatyri for m or certain Vicissitude modifications such tion (vampire, shapeshifter, ghost, as bone spikes, spine-saws, etc. Botches earn what ever
+etc.) physical Flaws the Storyteller chooses, maybe perma The deception lasts one night per success. Durnent ones. The change lasts for one scene. ing this time, the aura do esn’t change to reflect new
+Example: The player of Csikos the sz spends two blood conditions in its owner. points and earns four successes on his Stamina + Medicine
+Keep in mind that the se are changes only to the roll. Csikos the sz spends one turn changing into the bogatyri
+aura, not the subject herself. At the Storyteller’s discreform, during which he struggles to rearrange his muscles and tion, the subject may feel token emotions to match her
+body fat to better absorb impacts; he also concentrates on new colors. She might feel somewhat distrustful if her
+drawing for th bone mass to his knuckles, visualizing the m aura was painted light green, for instance. coming to thick, knobby studs. After the change, his player can
+This power costs 20 experience points. rearrange four do ts of Physical Attributes. Before the change, MET System: You must spend a will power Trait
+Csikos had Strength 3, Dexterity 3, Stamina 2. He moves in or der to alter the color of you r own aura. Each
+a point from Strength and two from Dexterity into Stamina will power Trait you spend in this feat of deception
+and do esn’t use the fourth success, leaving him with Strength grants more control over the conditions of you r aura. 2, Dexterity 1, Stamina 5. Since four successes indicate an
+You can change one aspect of you r aura when spending
+“exceptional success,” the Storyteller decides that Csikos has a single will power Trait, where as you can go all out
+grown bony nodules on his knuckles that inflict lethal damage. Clanbook: tzimis Ce
+
+=== PAGE 74 ===
+This power costs 18 experience points. MET System: you r body increases its mass for every Blood Trait you spend. You must first
+enter into a Static Physical Challenge against the
+Storyteller, and if successful, you can increase you r
+Physical Trait category by two Traits for every Blood
+Trait consumed in this fashion, possibly exceeding the limits of you r Generation. B v
+irththe Ozhd
+(v ••••• •, i CiSSitude
+A ••••• •)
+NimALi Sm
+While the creation of vozhd was once the sole province of koldunic ritual, Tzimisce who have
+mastered both fleshcrafting and control of the Beast with in can build vozhd as well. The ingredients: at least 15 ghouls (20 or more is preferable). First, the Tzimisce fleshcrafts the ghouls together, for ging the bodies into a single entity. The Fiend feeds
+the corporate mess a concoction of the blood of the ghouls, creating something like a Vinculum among
+the m. This bond in place, the Fiend uses Animalism to coalesce the Beasts of the ghouls into one insane
+and imperfect Beast that drives the vozhd to crush or devour everything in sight. System: After the Tzimisce collects enough
+ghouls, roll her Intelligence + Body Craft (difficulty
+10) to determine how quickly she constructs and
+“masters” the vozhd. With one success, the process takes as long as a year; with five, it might only take
+a month. The Fiend can make further Vicissitude modifications to his creation (raise the difficulties of
+such rolls by 2 to reflect the size and complexity of the creature). Botches result in a nonviable biohazard or a
+frenzied, uncontrollable vozhd. Also not e that vozhd, driven by the ir flawed Beasts, are not oriously difficult to control. Raise the difficulty of all Animalism rolls
+involving a vozhd by three. This power costs 36 experience points. MET System: You must first enter into a Hard
+Test against the Storyteller, and should you lose this test, you must wait a year before once again attempting to Birth the Vozhd, representing you r lack of the
+physical and spiritual strength that is required for this power. It is possible to reduce this waiting period, by spending a will power Trait for each month you
+wish to decrease from the year in waiting. Once the se will power Traits have been spent toward the creation
+of a vozhd, you can not spend the m again until you r waiting period has concluded. While a Tzimisce in
+a live-action game may be capable of do ing this sort of thing, it is very hard to simulate in that medium. Live-action Storytellers are encouraged to disallow this
+power and use vozhd only when the story requires it. Chapter t Wo: ego and evolution
+
+=== PAGE 75 ===
+Clanbook: tzimis Ce
+
+=== PAGE 76 ===
+C t: h Apter hree
+A F mONg ie NdS
+“The throat must be mine,” said the Count. “I claim the throat as my privilege.”
+“It should be mine,” muttered August. “I am the eldest and it is long since I fed. Yet I am content to have the breast.”
+“The legs are mine,” croaked the third monster. “Legs are always full of rich red blood.”
+— Frederick Cowles, “The Vampire of Kaldenstein”
+Velya—
+A Modest Proposal: Let’s sheath the Sword of Caine, protocol. Although I cherish the ideals of our sect, it tries me awaken our Father and be do ne with the who le thing. No, to uphold the m in the face of this modern impetuousness. I have not defected to the Camarilla (hiding in fear do es not
+Were we like the se upstarts, when we were you ng? I suit a diplomat). Rather, I have just had the most unpleasdo not remember. ant interaction with a fresh pack that supposedly shares our
+for give my fit. Our correspondence has been a comfort blood. The fire in the ir bellies betrayed the m as Tzimisce, to me during my travels abroad, and I must apologize for the
+and I am glad that the Blood has n’t thinned to not hing just lateness of this letter. Sadly, I was preoccupied with some
+yet. But the ir fire blazes unchecked. Where is the discipline, confusion with in the consistory. Our august regent is acting the measured ingenuity that made us sovereigns of the Old
+more like herself than ever and persists in refusing me an
+World? Where is the inclination to greatness? Where is the audience. How fare the Cardinals of the Land Beyond the
+respect? The voivodes are gone, and I fear that we shall for est? Have you learned anything more about the incident
+never see the ir like again. Have we was ted too much of the at Cernavoda? Send Elaine my love. old blood on sieges and Monomacy? the se you ng ones, I
+—you r Homesick Radu do not understand the m. This newest generation lacks…
+not e: Template characters have been created using the
+Sabbat character generation rules from the Guide to the Sabbat. Chapter three: among Fiends
+
+=== PAGE 77 ===
+L g or do Fthe hettO
+Quote: You are no longer welcome here, but the time for you to leave safely has passed. I would not be voivode
+very long if my subjects saw me as merciful. NAME: NATURE:Architect GENERATION: 11th
+PLAYER: DEMEANOR: Director have N: Prelude: you r pack for med like the packs of old, CHRONICLE: CLAN: Tzimisce CONCEPT: Lord of the Ghetto driven from you r native land by Tremere Usurpers. But
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL this new country is not so different from you r home. Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Even in the modern metropolis, the peasants understand
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES authority. you r impoverished demesne is n’t much to TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O look at — nine city blocks of high-rise projects, decrepit Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O shotgun houses, graffiti, drug dealers and gang warfare. do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Still, you have chosen it as you r do main, and it suits Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O you r needs. you r neighborhood is not some suburb full Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O of coddled buffoons. The people are smart here — they
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+ADVANTAGES still respect a monarch. But the rulers of this land have BACKGROUNDS DISCIPLINES VIRTUES
+discarded the m. you rs is the only power they know. _ _ A C _ _o ll_ _n i_ _ e t _ _ s a _ _c _ _t _ _s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O A A _ _ _ _ n u _ _s im_ _p _ _e a_ _x l_ _ is_ _ m_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO
+_F_a_m_e________________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO
+After you r Embrace, you r sire exposed _G_e_n_e_r_a_t_io_n___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO you r not ions of democracy as not hing _R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO more than a passing mortal vogue. MERITS/FLAWS HUMANITY/PATH HEALTH
+Power is that which endures, he said. __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1
+Ironic that he came to such a bad __________________________ Injured -1
+__________________________ will POWER Wounded -2 end. His lax governance proved his _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated
+Final Death. In his last nights, Usurp- _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE ers walked among his very subjects. A __________________________
+__________________________ lesson learned — even in this thoroughly
+modern land, which worships freedom and trespassers, and the streets are safer for
+convenience. You will not be so foolish. you r passing. Concept: You run the
+Roleplaying Hints: You are ghetto like a Transylvadefinitely old school. Though
+nian voivode. While only you consider you rself a
+a few of you r “subjects” patient and cultured ruler, — gangbangers and adyou expect you r authority
+dicts, mostly — realize to be recognized, paryour true nature, almost
+ticularly with in you r own everyone in the neighdemesne. Despite you r
+borhood knows you as neofeudalist leanings, you
+the majestic gentleman realize that the children
+who walks the streets of Caine can not rule as
+after dark, halting at openly as in nights past. porches to admonish
+Let you r power speak the children to behave
+for itself. morally, strolling by
+Equipment: the block parties to
+Antiquated aristogive an approving nod. cratic clothing, heavy you r subjects fear you, overcoat, liberated
+but even those who switchblade, flowers
+suspect you are more given to you by
+than you seem find you r neighborhood
+presence comforting. You’ve children
+made an example of several
+Clanbook: tzimis Ce
+
+=== PAGE 78 ===
+Chapter three: among Fiends
+
+___E_______ti_____q_____ue_____t_____t_____e_______________
+S________u__b_____t_____e_____r_____f_____u_____g___e_________________
+__________________________________________________
+____________________________________________________________
+___E_______m_____p_____a_____th_____y____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E_______m_____p_____a_____th_____y____________________
+S________t__r_____e_____e_____t_____w_____is_____e____________________
+__________________________________________________
+____________________________________________________________
+___C_____r__a_____f_____t_____s_________________________
+S________u__b_____t_____e_____r_____f_____u_____ge_____
+_______________
+__________________________________________________
+____________________________________________________________
+___A_______c_____ad_____e_____m__________ic_____s__________
+O__________c_____cu_____l_____t___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______c_____ad_____e_____m__________ic_____s__________
+O__________c_____cu_____l_____t__
+___x_____
+2_________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________ SSSSS ____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___S_______h_____r_____e__w________d____________________
+____________________________________________________________
+_____ V_____ic_____i_____s_____s__i___t_____u_____d_____e_____
+(M__________a_____ll_____e_____ab_______l___e_____
+V_____i_____s___a__g_____e_____)_______________
+___D_______is_____c_____ip_____l_____in_____e_____d__________
+____________________________________________________________
+_____ P_____o_____te_____n_____c_____e_____
+(_____P_____r_____o_____w_____e_____s___s__)____________________________________________________________
+___R_______a__t___i_____o_____n_____a__l__________________
+____________________________________________________________
+_____A_____u_____ra_____
+P_____e_____r_____c_____e___p__t_____i__o___n_____)____________________________________________________________
+___C_______re_____a_____t_____i___v__e____________________
+____________________________________________________________
+_____ T_____e_____le_____p_____a_____t__h___y_____,_____
+P_____sy_____c_____h_____ic_____
+P_____r_____o_____je_____c_____t_____io_____n_____)__________
+___D_______is_____c_____ip_____l_____in_____e_____d__________
+____________________________________________________________
+_____A_____us_____p_____e_____x_____
+2_____ (__H________ei_____g_____h_____te_____n_____e_____d_____
+S_____e_____n_____se_____s_____, __________
+___A_______t_____te_____n_____t_____i_____ve_______________
+____________________________________________________________
+_____ A_____u_____ra_____
+P_____e_____r_____ce_____p_____t_____io_____n_____, S_____p_____i_____ri_____t‛_____s
+_____T_____o__u___c_____h_____,_____
+___D_______e_____d_____ic_____a_____t_____e_____d__________
+V_____i_____g_____il_____a_____n_____t______________________________
+_____A_____ni_____m_____a_____li_____sm_______
+___(F_____e_____r_____al_____
+W__________h_____is_____p___e__r_____s_____)____________________
+___A_______le_____r_____t______________________________
+O__________b_____s_____e_____rv_____a_____n_____t_____ x_____
+2__________
+_____A_____us_____p_____e_____x_____
+(H__________ei_____g_____ht_____e_____n_____e_____d_____
+S_____e_____ns_____e_____s_____,_______________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___I__n_____g_____r_____a_____t_____ia_____t_____in_____g_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E__x_____p_____r_____e_____ss_____iv_____e_____ x_____ 2_____
+W__________i_____tt_____y________________________________________
+__________________________________________________
+____________________________________________________________
+___E_______x___p__r_____e_____s_____s_____iv_____e__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C_____h__a_____r_____m_____i_____n_____g_______________
+_____Pe_____r_____s_____u_____a_____s__i___v_____e_____ x_____
+2__________
+__________________________________________________
+____________________________________________________________
+___B_______eg_____u_____i_____li__n___g_____ x_____ _____2_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____T_____o_____u___g__h______________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____S_____t_____e_____a_____d_____y____________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____R_____u_____gg_____e_____d_________________________
+____________________________________________________________
+_____G_____en_____e_____r_____at_____io_____n_____ x_____ 2_____
+____________________________________________________________
+_____E_____n_____e_____r_____g_____e_____t_____ic__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____N_____i_____m_____b_____le_________________________
+____________________________________________________________
+_____F__a___m_____e_____ x_____
+1_________________________
+____________________________________________________________
+_____D_____e_____x_____te_____r_____o_____u__s___ x_____ ___2__
+T__________o_____u_____g___h_____________________________________
+__________________________________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____Co_____n_____t_____ac_____t_____s
+___x__ ___2____________
+R_____e_____t_____a__i___n_____er_____s_____ x_____ 1____________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____R___e__s_____o_____ur_____c_____e_____s x_____ 2__________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____A_____lli_____e__s___ x_____
+2_________________________
+R_____e_____s_____o___u__r_____c_____es_____ x_____ 1____________________
+_____G_____en_____e_____r_____at_____io_____n_____ x_____ 3_____
+____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) ot_____t_____eh_____G_____
+e_____h_____t
+_____fo_____ d_____r_____oL_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________ni_____w_____T
+_____e_____se_____m_____a_____iS_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+___________________________________h_____t1_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____0_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+_________________________tc_____e_____t_____ih_____c_____r_____A_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) m_____ro_____t_____S_____
+___e__h_____t_____ f_____o_____
+e_____y_____E_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________r_____o_____tc_____e_____r_____iD__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_______________e_____u_____go_____g_____a_____d___e__P__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 79 === t S t
+he i Ame Se wiN
+Quote: for give me. I would sustain myself some other way, if I could. But yes, this will probably kill you — I’m
+feeding for two. NAME: NATURE:Eye of the Storm GENERATION: 10th
+Prelude: you r parents balked when the man from PLAYER: DEMEANOR: Pedagogue have N: CHRONICLE: CLAN: Tzimisce CONCEPT: Siamese Twin the circus wanted to take you on the road. You and you r ATTRIBUTES
+brother, inextricable since birth, were the ir beloved Strength__ P _ H __ Y _ S _ IC _ A __ L __O__O_O_O_O Charisma__ S __ O _ C _ I _ A _ L _____O_O__O_O Perception_ M __ E _ N _ T _ A _ L ____O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O children, not sideshow freaks. “People are curious,” the Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+circus man said. “you r sons can teach the m about the ABILITIES
+TALENTS SKILLS KNOWLEDGES bizarre oddities of nature.” you r father rejected the deal Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O by reaching for his shotgun. Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Maybe the man from the circus was right. you r sire E E m xp p r a e t s h si y o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _O of M ir e e l a e r e m __ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O L L a in w g _ u _ is _ t _ ic _ s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _ _ O O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O was certainly curious the night she met you. You thought Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O she’d never stop asking questions. What do es it feel like? Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+Did you ever have any privacy? do es it make sex awkward? ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES
+You’d been asked the se questions all you r life, and you _G_e_n_e_r_a_t_io_n___________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO Conscience/ConvictionOOOOO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO P_o_t_e_n__c_e_____________O_O_O__OO enjoyed the attention of someone who seemed sincerely _S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO curious. the n she started asking questions you did n’t quite ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO understand. She threw around the word “embrace” a lot
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO and you thought MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised maybe she was __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 coming on _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 to you. But __________________________ Incapacitated
+you really _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ did n’t see __________________________
+how she intended to “embrace” one of you with out “embracing” the other. Sometimes you miss you r brother. You’re dead you rself, but he’s really dead. At least, you’re pretty sure he’s dead. Concept: Her curiosity satisfied, you r sire abandoned
+you to the night. But you had the — luck? misfortune? — of being Embraced in a Sabbat city. A nomadic pack thought
+you looked “really fucking weird,” so, of course, they invited you to join the Vaulderie. For now, you stick with you r new
+pack — who else would believe you r story? You used to take a lot of shit from you r packmates, and sometimes you still
+do, but it seems like they admire you r ability to perceive auras and read minds. Pretty soon, they say, you’ll hardly
+need a body at all. Roleplaying Hints: Adjusting to existence with out you r brother has been almost as difficult as adjusting to unlife
+itself; to you, the two concepts are intertwined. While you had a few hard-won friends in life, the local Cainites do n’t
+respond to you r simple honesty. That is, until you frankly tell the m what you think of what they’re thinking. Recently, you’ve
+experimented with the fleshcrafting abilities of you r clan, but you’re not ready to part with you r brother just yet. Equipment: Specially tailored clothing, random brica-brac from you r mortal days to which you’ve developed
+a sentimental attachment
+Clanbook: tzimis Ce
+
+=== PAGE 80 === m e B, 1929
+OSt uge NiC ABy
+Quote: I’m the seed Mendel should’ve studied. Prelude: they scoured you r family tree for alcoholics, imbeciles, syphilitics and Negroes, and, finding none, NAME: NATURE:Sadist GENERATION: 11th
+PLAYER: DEMEANOR: Autocrat have N: awarded you r parents a prize at the 1929 Minnesota CHRONICLE: CLAN: Tzimisce CONCEPT: Most Eugenic
+State Fair for the “Most Eugenic Baby.” Eugenics was ATTRIBUTES Baby, 1929
+PHYSICAL SOCIAL MENTAL the do minant scientific fad among American pseudo- Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O intellectuals in those days, and you r genealogy seemed Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES ideal by the prevailing standards. TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O you r parents put on a good show for the judges. It Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O took superior breeding and superior rearing to create a do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O superior child. Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+From the n on, any hint at mediocrity — middling Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O grades, only scoring a single touchdown in a game —
+ADVANTAGES led you r mother to punish you for not living up to you r BACKGROUNDS DISCIPLINES VIRTUES
+_C_o_n_t_a_c_t_s____________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO Conscience/ConvictionOOOOO
+“goodly heritage.” Ashamed of squandering the precious _G_e_n_e_r_a_t_io_n___________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO
+_H_e_r_d________________O_O_O__OO ____________________O_O_O__OO gift of good breeding, you learned her obsessive/com- _R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO pulsive behavior and avoided failure at all costs. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+You eventually earned a degree in genetics. MERITS/FLAWS HUMANITY/PATH HEALTH you r work was undeniably brilliant, but cer- __________________________ _____P_o_w_e_r_ _&_ _I_n_n_e_r_ _V_o_ic_e____ Bruised
+__________________________ OOOOOOOOOO Hurt -1 tain factions of the scientific community _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ will POWER I W nj o u u re n d ded - - 2 1
+complained that you r conclusions “reeked _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated of Social Darwinism.” _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+By the time of you r _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Embrace in the late
+1980s, the eugen- the revenant families that serve you r ics craze had kind. You think you might even know
+long since been how to create one of you r own. discredited. But Roleplaying Hints: If only you r diehard sire Mother could see you now! attributed its un- you r superior breeding
+popularity to the has finally earned you modern penchant more than just a prize
+for racial apologet- coin, and you intend ics. Turns out he’d to prove worthy of the
+been keeping up with honor. Cainites of othaward-winning eugenic er clans lack the refined children all over North Tzimisce heritage, but
+America and England. He you’ve learned to stop said you were the pick of the pointing that out. litter but that as a human you the ir feeble minds
+were merely a seed. With that, can’t accept that you’re he inducted you into the most not insulting the m; it’s
+prestigious lineage of all. not the ir fault they’re
+Concept: While you r mongrels. sire is abroad seeking E q u i p m e n t: others of good stock, he’s Collection of old geset you to work learning nealogies and census about the generations of records, DNA lab with
+you r new family. You’ve been abutting ghoul kennels, sidelined from you r genealogy of portrait of Mother, bronze coin
+Clan Tzimisce by an interest in inscribed “Yea, I have a goodly heritage”
+Chapter three: among Fiends
+
+=== PAGE 81 ===
+Clanbook: tzimis Ce
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________A_____u_____to_____c_____r_____at____________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________T_____r_____ad_____i___t__i_____on_____a_____li_____st_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____S_____a_____d_____is_____t___________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____C_____o_____m_____p_____e_____ti_____t_____o_____r_______________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____1___t__h___________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____8_____t_____h___________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________T_____z_____i___m_______is_____c_____e_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________T_____z_____i___m_______is_____c_____e_______________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____E_____ug_____e_____n_____ic_____
+B_____ab_____y_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____C__h___il_____d
+_____of_____ th_____e_____
+D_____ra_____co_____n_____
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+____________________________________________________________
+_______________1 __x___ __s___t_____c_____at_____n_____oC_____ ec
+(cid:31) ioV r (cid:31) ennI
+(cid:31) eht
+(cid:31) dna r (cid:31) ewoP
+____________________________________________________________
+_____5_____ x_____ n_____o_____it_____ar_____e_____n__e___G_____
+(cid:31) d (cid:31) rocc
+(cid:31) A elb
+(cid:31) aron (cid:31) oH
+____________________________________________________________
+_____2_____ x_____ n_____o_____it_____ar_____e_____n__e___G_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_______________3_____ x_____ r_____o_____tn_____e_____M_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_________________________1__ ___x__
+___d_____re_____H_____
+____________________________________________________________
+________________________________e___l_____ig_____A_____
+____________________________________________________________
+__________3 _____x _____se_____c_____ru_____o_____s_____eR_____
+______________________________t_____r_____a_____w_____la_____t___S__
+________________________________e___l_____ig_____A_____
+____________________________________________________________
+__________2 _____x _____se_____c_____ru_____o_____s_____eR_____
+____________________________________________________________
+______________________________k___c__i_____uQ__________
+____________________________________________________________
+__________________________________________________
+_________________________2_____
+__x___
+_____yd_____a_____e_____t___S__
+_______________su_____o_____r_____e__t___x_____e_____D_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+_______________s_____u__o___i_____ca_____n_____e_____T_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+__________2 _____x___ __g_____n___i__r_____ud_____n_____E_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+____________________c_____i_____t___a__m__________o_____lp_____iD_____
+______________________g___n_____i_____ru_____l_____lA_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____c_____i_____ta_____m__________si_____r_____ah_____C_____
+____________________________________________________________
+__________________________________________________
+______________________________t_____n_____eu_____q_____o_____l__E___
+____________________g_____ni_____li_____u_____ge_____B_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______2___ x_____ g_____n_____it___a__d_____im_____i__t___n_____I
+____________________________________________________________
+__________________________________________________
+_________________________c_____i_____t___e__n_____g_____a_____M_____
+_____c_____i_____ta_____m__________si_____r_____ah_____C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+____________________, s_____e_____s__n___e_____S_____ d_____e_____n_____e_____t___h__g_____i_____eH________(__ x_____e_____p_____su_____A_____
+____________________l_____u_____f_____th_____g_____i_____s_____n_____I
+____________________e_____vi_____t_____a_____e_____rC_____
+_________________________, s_____r_____ep_____s_____ih_____W__________ l_____ar_____e_____F_____( m__________si_____la_____m_____in_____A_____
+______________________________d_____w_____e_____r_____h_____S_____
+______________________________t_____r_____e_____lA_____
+____________________________________________________________)n_____o_____it_____p_____e_____cr_____e_____P
+_____a_____ru_____A_____
+______________________________
+_____t_____ne_____i_____t_____a_____P
+_________________________r_____e_____v_____e_____lC_____
+_________________________)t_____s_____ae_____B_____ e_____h_____t___ __ll_____e_____uQ_______ ___, g_____n_____in_____o_____k_____ce_____B_____
+____________________________________________________________
+_______________e_____vi_____t_____n_____e_____tt_____A_____
+_______________,___e__g_____a_____s_____iV_____
+__e___l_____b_____a__e___l_____la_____M_____(_____ e_____d_____u_____t__i___s_____si_____c_____iV_____
+____________________________________________________________
+__________g_____n_____in_____r_____e_____c_____s_____iD_____
+____________________)s_____e_____s___n__e_____S_____
+___d__e_____n_____e_____t_____h_____gi_____e_____H_____(
+_____x_____e_____p_____su_____A_____
+____________________________________________________________
+____________________g_____n_____i_____n_____n__u___C_____
+__ __ _ _ __ _______
+_____ _____ _____ _____ _____ _____ __ SS _ S __ SS _____ WWW __ WW ___ _____ _____ _____ AAAAA ___ __ __ ___ LLLLL _____ _____ FFFFF _____ _____ _____ _____ &&&&& _____ _____ __ _ __ SS S SS ___ __ _____ TTTTT _____ _____ II __ I _ II __) ___ RR __ RRR _____t __ f _ __ __ ___ EEEEE a_____ _____ MMMMM r_____ _____ c_____h
+_____ _____s _____ _____e
+_____ _____lF__
+__ _ _ __ __
+________________________________________
+SSSSS _____ EEEEE _____ IIIIITT
+__ T _ TT __ III __ II ___ LLLLL
+IIIII e_____ BBBBB l_____b
+AAAAA __a___e_____g_____d_____e___l__w_____o_____n__K___
+__ __ _ _ __ _______
+_____ _____ _____ _____ _____ _____ __ SS _ S __ SS _____ WWW __ WW ___ _____ _____ _____ AAAAA ___ __ __ ___ LLLLL _____ _____ FFFFF _____ _____ _____ _____ &&&&& _____ _____ __ _ __ SS S SS ___ __ _____ TTTTT _____ _____ II __ I _ II __ ___ RR __ RRR _____ ___ __ __ ___ EEEEE
+_____ _____ MMMMM _____ _____ _____ _____ _____ _____ _____
+_____ _______
+__ _ _ __ __
+________________________________________
+SSSSS _____ EEEEE _____ IIIIITT
+__ T _ TT __ III __ II ___ LLLLL
+IIIII _____ BBBBB _____ AAAAA _____e_____v_____i_____ti_____u_____t_____n__I___
+____________________________________________________________
+__________________________________________________
+__________________________________________________w_____a_____L
+__________s_____c_____im__________e___d____a___c_____A_____
+____________________________________________________________
+__________________________________________________
+_______________n_____o_____it_____a_____d_____im__________it_____n_____I
+__________n_____e_____K_____ l_____a_____m_____in_____A_____
+____________________________________________________________
+__________________________________________________
+___________________________________t_____lu_____c_____c_____O_____
+_________________________s_____t_____f_____a_____rC_____
+____________________________________________________________
+__________________________________________________
+___________________________________t_____l_____u__c___c_____O_____
+______________________________l_____w_____a_____rB_____
+____________________________________________________________
+__________________________________________________
+______________________________
+_____h_____tl_____a_____e_____tS_____
+_________________________e_____cn_____a_____n_____iF_____
+____________________________________________________________
+__________________________________________________
+________________________________________e_____e_____le_____M_____
+____________________sm__________ra_____e_____r_____iF_____
+
+=== PAGE 82 ===
+C d hi LdOFthe rACON
+Quote: The third mouth of Azhi Dahaka whispers to me the Dream of Constantinople. From the Savior of Caine, I
+learned the Divinity with in. For Gesu, I uphold the honor of NAME: NATURE:Competitor GENERATION: 8th
+PLAYER: DEMEANOR: Traditionalist have N: Lillian and testify to the divinity of the Immaculate Union. For CHRONICLE: CLAN: Tzimisce CONCEPT: Child of the Dracon
+Symeon, I shall be my Brother’s Keeper. I have read the books ATTRIBUTES
+PHYSICAL SOCIAL MENTAL of the Library of the for gotten and fear the Keeper of the Faith Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O and her Watchers. I am protector of the Family Obertus. I shall Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES keep the idols of the Akoimetai. The Codex of Legacies is the
+TALENTS SKILLS KNOWLEDGES law. Until Gehenna and Armageddon, I shall fight for Heaven Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O on Earth. In opposition, the murder of Gaul’s Antonius will be do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O redeemed. This is my pledge to the Dracon, the First Childe, Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O the Holy Ghost, my grandfather. And unto Caine all blessings. Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Confirm me, for the Dracon. Amen. Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+ADVANTAGES
+Prelude: Grandma Obertus taught you to respect you r BACKGROUNDS DISCIPLINES VIRTUES
+Tzimisce masters. Grandpa taught you how to use a library. _ _ G M _ _ e e _ _ n n _ _ e t _ _ r o _ _ a r _ _ t_ _ io_ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O A A _ _ _ _ n u _ _s im_ _p _ _e a_ _x l_ _ is_ _ m_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+From you r uncle, you learned how to handle a rifle, and _S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO from you r father, you learned that ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO one day everyone in the world
+MERITS/FLAWS HUMANITY/PATH HEALTH would be an Obertus. __________________________ _____H_o_n_o_r_a_b__le_ _A_c_c_o_r_d______ Bruised
+__________________________ OOOOOOOOOO Hurt -1
+Every year, the Drag- __________________________ Injured -1
+__________________________ will POWER Wounded -2 on visited you r family’s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated estate in rural New _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+Hampshire. Just before __________________________
+__________________________ bedtime, he took
+the woods one by one. He asked you a few the children
+innocuous questions every visit — how i n t o
+were you r studies coming along, what did you do for fun, how did you get
+along with you r brothers and sisters. One year, he walked you back to the house with a promise of immortality
+and a blood-wet kiss in you r hair. you r parents drowned you r siblings so they
+could devote all the ir time to you. You had so much to learn, and the Dragon
+would be back to collect you soon. Concept: You have just recited the
+12 legacies and been Embraced into the
+Children of the Dracon. Now you’ve left you r sire to establish you rself with in the
+Sabbat. Perhaps you’ll join a pack or serve as a templar attached to a bishop or priscus. Roleplaying Hints: You take the precepts of you r or der very seriously, although
+you r sire has yet to reveal what several of the m mean. You still go home to visit
+you r Obertus kin, but now, you address the m as a lord rather than a son. Equipment: Tec 9, AR-15 assault rifle, homemade claymore
+mines, three stakes, PCS phone, seal of the Triumvirate, a letter from the Dracon (addressed to “Michael,”
+Chapter three: among Fiends unopened)
+
+=== PAGE 83 ===
+K N
+OLduN uevO
+Quote: Fucked with the wrong bitch, chica. Chernobog, attend me! Prelude: She called you a prodigy. you r teachers NAME: NATURE:Child GENERATION: 13th
+PLAYER: DEMEANOR: Visionary have N: thought that a girl who was n’t shy about her world- CHRONICLE: CLAN: Tzimisce CONCEPT: Koldun Nuevo champion smarts was obviously disturbed. All they did
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL was nag you about those “disrespectful devil worshipers Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O who probably smoke the drugs” friends of you rs. But she Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES recognized right of f what you’d known all you r life —
+TALENTS SKILLS KNOWLEDGES that you were first or iginal thinker born since Socrates. A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+Like you, she knew life was short. do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Her Embrace came at just the right time. She Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O preserved you at the height of you r for midable powers, Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O with the maturity to see things as they are plus the you th
+ADVANTAGES to change the m. you r sire was a rare breed herself, a BACKGROUNDS DISCIPLINES VIRTUES
+_R_it_u_a_l_s______________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO Conscience/ConvictionOOOOO koldun. She said you were the first mortal in 500 years _S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO
+____________________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO she thought worthy of her secrets. And she prophesied ____________________O_O_O__O_O K__o_ld_u_n_i_c_ _S_o_r_c_e_r_y_____O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO that you would surpass her. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+Growing up in Mexico City, you always wonMERITS/FLAWS HUMANITY/PATH HEALTH dered how you’d make something of you rself. Now, __________________________ _____M_e__ta__m_o_r_p_h_o_s_i_s________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 you know. It pisses you of f that the end of the __________________________ Injured -1
+__________________________ will POWER Wounded -2 world will preempt such potential. Sometimes, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated you just want to find the nearest Antediluvian _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+and show it what happens when you vent. __________________________
+__________________________
+Concept: You are one of the Sabbat’s few you ng koldun. You serve as you r pack’s priest — a wise As far as you’re concerned, the Final
+and wicked mother hen who collects new Nights are here. ignoblis ritae from every pack she
+You respect the august hismeets. Older Cainites regard you tory of you r clan but are n’t
+as an impetuous fidget. That’s beholden to it. Observe
+just the ir obsolescence talkthe traditions that work ing. In the Final Nights, the
+for you, and remix the
+Sabbat belongs to the you ng. ones that do n’t into mind Roleplaying Hints: blowing the or ies of you r
+You are a prodigy nearing own. Right now, you’re full bloom. While the testing some ideas a
+for ces you command oc- that are something casionally overwhelm like Metamorphosis
+you r judgment, those as conceived by Lilwho know you expect ith, but you r outlook you to become a changes monthly. If
+giant with in the you have a failing, it’s
+Sabbat — a can- that you progress so did ate for the fast that you never
+consistory, get comfortable perhaps. where you are. But you
+Equipment: do n’t was te
+Various koldunic impletime with a ments, Mossberg shotgun, future that
+ceremonial knife, Vaulcan’t exist. derie bowl, rucksack full of clothes and books
+Clanbook: tzimis Ce
+
+=== PAGE 84 ===
+Chapter three: among Fiends
+
+___O_______c_____c___u__l_____t_____ x_____
+3_______________ S _____c_____ie_____n_____c_____e_____
+______________________________
+__________________________________________________
+____________________________________________________________
+___C_____r__a_____f_____t_____s_________________________
+O__________c_____cu_____l_____t__
+_________________________________
+__________________________________________________
+____________________________________________________________
+___M_______e_____d_____ic_____i_____ne____________________, _____R_____it_____u_____a_____ls_____ x_____
+3_________________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____l______________________________
+M__________e_____d_____ic_____i___n__e______________________________
+__________________________________________________
+____________________________________________________________
+___L__i_____n_____g_____ui_____s_____ti_____c_____s___
+__(S_____ p _____a__n___i_____s_____h_____)___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n__________
+E_____m__________p_____at_____h_____y______________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS ____________________
+___ __K_____no_____w_____l_____ed_____g_____e_____a_____b_____le
+____________________________________________________________
+_____ F_____le_____s_____h_____c_____r_____a_____f_____t)_____, _____K_____o_____ld_____u_____n_____ic_____
+S__________o__r___c_____e_____r_____y_____
+1__________
+___P__a_____t_____i_____e_____nt_________________________
+____________________________________________________________
+_____F_____le_____s_____h_____c_____r_____a_____ft_____)_____________________________________________________________________________________
+___C_______re_____a_____t_____i___v__e____________________
+___W_______i_____s_____e________________________________________
+_____ V_____ic_____i___s__s_____i__t___u_____d_____e_____
+(_____M_____a_____ll_____ea_____b_____l_____e__
+___V_____is_____a_____g_____e,_______________
+___I__n_____t_____u_____i_____ti_____v_____e_______________
+____________________________________________________________
+_____ V_____ic_____i___s__s_____i__t___u_____d_____e_____
+(_____M_____a_____ll_____ea_____b_____l_____e__
+___V_____is_____a_____g_____e,_____
+__________
+___C_______le_____v_____e_____r_________________________
+___R_______e_____fl_____e_____c_____t_____iv_____e____________________
+_____A_____ni_____m_____a_____li_____sm_______
+___(F_____e_____r_____al_____
+W__________h_____is_____p___e__r_____s_____)____________________
+___D_______is_____c_____e_____r_____n_____in_____g__________
+____________________________________________________________
+_____ B_____e_____ck_____o_____n_____in_____g_____, Q________u__e_____l_____l t_____h_____e_____
+B_____e_____as_____t_____)____________________
+___A_______t_____te_____n_____t_____i_____ve_______________
+___O_______b_____s_____e_____r_____va_____n_____t____________________
+_____A_____us_____p_____e_____x_____
+(H__________ei_____g_____ht_____e_____n_____e_____d_____
+S_____e_____ns_____e_____s_____)_______________
+___C_______un_____n_____i_____n_____g____________________
+___S_______h_____r_____e_____w_____d______________________________
+_____A_____ni_____m_____a_____li_____sm_______
+___(F_____e_____r_____al_____
+W__________h_____is_____p___e__r_____s_____,____________________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___ __P_____e__r___s_____u_____a_____s_____iv_____e__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __E_____x_____p_____re_____s_____s_____iv_____e__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E_______m_____p_____a_____th_____e_____t_____ic__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r_____is_____m_____a_____ti_____c_____ x_____ 2 W__________i_____tt_____y________________________________________
+__________________________________________________
+____________________________________________________________
+___C__o_____m_____m_____a__n___d_____in_____g___
+__x _____2_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____ S_____t_____e_____ad_____y_________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____Q_____u_____ic_____k______________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____G_____r_____ac_____e_____f_____u____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____E_____n_____d___u__r_____in_____g_____ x_____ 2__________
+T_____o_____u_____g_____h_____ x_____
+2______________________________
+_____R___e__s_____o_____ur_____c_____e_____s x_____ 1__________
+____________________________________________________________
+_____E_____n_____er_____g_____e_____ti_____c_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____B_____r_____aw_____n_____y_________________________
+T_____i_____r__e___l_____e___s__s___________________________________
+_____M_____e_____nt_____o_____r__
+___x _____2_______________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____H_____e___r__d_____ x_____ 2_________________________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____In_____f_____lu_____e_____nc_____e_____
+(_____O_____c__c___u l___t__ x_____
+1_____)_____________________________________________
+_____G_____en_____e_____r_____at_____io_____n_____ x_____ 1_____
+R_____e_____t_____a___i__n_____er_____s_____ x_____
+1____________________
+PPPPPAAAAA
+M TTTTT e HHHHH t /// a // m HHHHH or p
+UUUUU h MM a MMM si
+AAAAA s
+NNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFLLLLEEEESSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__________o_____ve_____u_____N_____ n_____u_____d_____lo_____K_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+r_____e_____t_____sa_____M__________ l___e__n_____n_____e_____K_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____2_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+________________________________________d_____l_____ih_____C_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________ro_____v_____i_____vr_____u_____S_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________y_____ra_____n_____o_____is_____iV__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_________________________t_____na_____i___v__e_____D__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 85 ===
+K m eNNeL ASter
+Quote: I would put that gun away if I were you. My fellows do n’t like it when I’m threatened.… Listen, I tried warning you. At least I won’t have to feed the pack now. Prelude: You love animals — spiritually, mentally and intimately — even more than you do humans. they’re loyal
+and attentive, and they do n’t betray you r sordid secrets. You started life as a Bratovitch ghoul, befriending the do zens of monstrosities raised in you r family’s kennel. You slept in the ir cages and shared the ir food bowls when you r parents
+starved you for weeks on end. Invariably, you could communicate with the m far more easily than you could speak English. Finally, matters came to a head when you disobeyed you r mother while you r Tzimisce master visited the kennel. When she tore after you with a but cher’s knife, the entire menagerie was suddenly at you r side with just a word, protecting you from you r parents. The Tzimisce lord intervened by liberating you r kin’s heads from the ir should ers. Better to destroy the m than the ir gifted daughter and her loyal herd of animals. He took you under his wing and eventually Embraced you as the new Kennel Master. Now, you raise animals for the Sabbat, creating packs of hell
+hounds and the like and overseeing the ir training. Concepts: You’re Dr. do little and Hannibal Lecter all rolled into one twitchy ball of flesh. Uncomfortable around mortals and Cainites, you spend you r time with animals, training new beasts for the master. Unlike most Bratovitches, you temper you r flesh-crafting ministrations with love. You rarely
+need vitae to ensure the animals’ loyalty, though that do es guarantee you r creations rarely turn against you. Roleplaying Hints: You despise interacting with others, even
+though you must. the refore, social intercourse is a chore because it demands more of you r patience than necessary. Cainites mistake
+you for shy, but you operate with animal efficiency. If somebody angers you, you snap and bite at the m. If you’re attracted to
+someone, you use physical prowess to prove you rself in courtship rituals, and if you have a rival, you try and establish you rself as
+the alpha by besting the m in combat; dwelling among animals destroyed certain mortal considerations in you. Equipm e n t: Soiled and
+bloodied
+NAME: NATURE:Survivor GENERATION: 12th
+PLAYER: DEMEANOR: Deviant have N: but cher’s
+CHRONICLE: CLAN: Tzimisce CONCEPT: Kennel Master
+ATTRIBUTES smock, Strength__ P _ H __ Y _ S _ IC _ A __ L __O__O_O_O_O Charisma__ S __ O _ C _ I _ A _ L _____O_O__O_O Perception_ M __ E _ N _ T _ A _ L ____O_O_O__OO c e l l
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO phone, ABILITIES b o w i e
+TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O knife, Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O w h i p do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O and do g
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+I L n e t a i d m e i r d sh at i i p o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O P S e e r c f u o r r i m ty a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ _O O M Oc e c d u ic lt i _ n _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O_ _O O whistle
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES
+_G_e_n_e_r_a_t_io_n___________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+_H_e_r_d________________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO
+_M_e_n_t_o_r______________O_O_O__OO ____________________O_O_O__OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+_R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1
+__________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5
+__________________________ Incapacitated
+_ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________
+__________________________
+Clanbook: tzimis Ce
+
+=== PAGE 86 ===
+S, F t Ar uCKer
+Quote: My autograph? Yeah, sure. than k you, I’m glad you liked my last movie. Listen, I’m late for a private
+party…say, you would n’t be interested in joining me, would
+NAME: NATURE:Conformist GENERATION: 13th you? Tom, Nicole, Matt and a few other celebs will be the re… PLAYER: DEMEANOR: Rogue have N: CHRONICLE: CLAN: Tzimisce CONCEPT: Star Fucker
+Prelude: As class clown in high school, you had a
+ATTRIBUTES knack for impersonations and a quick wit that made you PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO popular. You had flair and talent that would turn you into Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO the next… well, who ever it was that everyone else liked at
+ABILITIES the moment. You were going to be famous; everyone said so. TALENTS SKILLS KNOWLEDGES
+Unfortunately, talent with out drive or connections leaves Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O you nowhere. You did n’t know that until you discovered Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O how hard it was to break into the film business. The highest Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O point in you r career was making pornos to make ends meet, Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O and even the n, you enjoyed little success. Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+After smut flicks, you could hardly fall any further. ADVANTAGES
+Hardly… you started with drugs, and that only stopped with BACKGROUNDS DISCIPLINES VIRTUES
+____________________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO Conscience/ConvictionOOOOO you r Embrace. You were diagnosed HIV positive and became ____________________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO involved with the underground live-performance pornog- ____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO raphy scene. Some freaks would pay big money to ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO anyone will ing to perform degrading sexual acts
+for an audience of bored socialites. So, when MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised you r “arranger” involved you in increasingly __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 demeaning shows, you readily agreed because __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 of the substantial pay-of fs. you r last gig was __________________________ Crippled -5
+__________________________ Incapacitated for a freaky-looking crowd who got of f on _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+watching razor blade for eplay. Unfortunately, __________________________
+__________________________ you cut you r partner too deeply during you r
+performance and spilled too much of her blood. which personality or mannerism best
+The audience, how ever, simply tossed hundred- amuses others, but you do n’t have a do llar bills to the ground and said the money was developed personality of you r own. You
+entertain and harangue other people beyours if you bled you r partner out. with in seconds, cause you’re afraid you r friends might at least two grand lay on the floor. You gutted you r
+realize how dull you actually partner with out even blinking. That’s when you
+are. You have n’t even got to know the Sabbat. “looked” like you r Concept: You may not be a star, but you
+self this last month. can certainly look like one. You party at
+You’ve always been the best nightclubs, dupe you ng fans into
+somebody else, do ing what ever you want and have the pretending at an
+occasional paparazzi hound snapping existence not you r
+away at you r indiscretions. You even own, playing for
+host Hollywood faux-parties, where the appreciation
+other you ng Tzimisce and Nosferatu of others. In
+antitribu do n the faces of contempopublic, you’re rary stars and intermingle with mortal
+the unlife of the
+“guests” (before dropping the ir disguises party. In private, and devouring the poor kine). You may
+you bore you rself not be famous in the mortal world, to blood-tears. but you’re certainly establishing a rep
+Equipment: among the Sabbat as a consummate
+Chic clothing entertainer and bon vivant. — always in the
+Roleplaying style of you r lat Hints: Everybody est impersonation you know is not h- (huge wardrobe), PCS
+ing more than a phone, Mercedes Benz (stocollection of habits, id- len and unregistered), latest iosyncrasies and speech Hollywood gossip rag, pony
+affectations for you to of cocaine for the fans. play with. You know
+Chapter three: among Fiends
+
+=== PAGE 87 ===
+Clanbook: tzimis Ce
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________R_____o___g__u_____e______________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________M_____a_____s_____oc_____h_____is_____t_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____C_____o_____nf_____o_____r_____m_____i_____s_____t_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____T_____h_____r_____il_____l-_____S_____e_____e_____k_____e___r_______
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____3_____t_____h______________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____3_____t_____h______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________T_____z_____i___m_______is_____c_____e_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________T_____z_____i___m_______is_____c_____e_______________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____S_____t_____a_____r,_____
+F_____u_____c_____k_____e_____r_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____M_____o_____d_____er_____n_____
+P_____ri_____m_____it_____iv_____e
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+____________________________________________________________
+__________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____2_____
+___x__
+_____s_____e_____c_____r_____u_____o___s__e_____R_____
+_____________1____ x____ ____se____i____l__l__A____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+2_____
+_____x
+_____s_____t_____c___a__t_____n_____o_____C_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+__________________________________________________
+_____________________________________________y_____ri_____W_____
+____________________lu_____f_____e_____c__a___r_____G_____
+____________________________________________________________
+____________________1
+_____x _____e_____m_____a_____F_____
+______________________________t_____n_____e_____il_____is_____e___R__
+________________________________e___l_____ig_____A_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________e_____h_____t_____iL_____
+____________________________________________________________
+_______________2_____
+_____x _____d_____r_____e_____H_____
+___________________________________t_____s_____u_____b_____oR_____
+_______________c_____it_____e_____g_____re_____n_____E_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+_______________s_____u_____oi_____c_____an_____e_____T_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+_____________________________________________y_____r__i___W_____
+_______________2
+_____x__
+___e_____lb_____m_____i_____N_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+______________________________e_____vi_____ss_____e_____rp_____x_____E g_____n_____ili_____ug_____e_____B
+_____, g_____ni_____ru_____ll__A___
+____________________________________________________________
+__________________________________________________
+_____________________________________________y_____tt_____iW_____
+____________________ci_____ta_____m_____si_____ra_____h_____C
+____________________________________________________________
+__________________________________________________
+___________________________________s_____uo_____e___g__r_____oG_____
+_______________2_____ x_____
+g_____ni_____m_____ra_____h__C___
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+____________________e_____vi_____ss_____e_____rp_____x_____E
+____________________________________________________________
+__________________________________________________
+_________________________2
+_____x
+_____ev_____it_____c___u__d_____e_____S
+______________________________t_____na_____g_____el_____E
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________
+2_____ x_____ c_____it_____en_____g_____aM_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+____________________, s_____e_____s__n___e_____S_____ d_____e_____n_____e_____t___h__g_____i_____eH________(__
+x_____e_____p_____su_____A_____
+______________________________d_____w_____e_____r_____h_____S_____
+_____2_____ x_____
+_____e_____vi_____t_____a_____e_____rC_____
+____________________, s_____e_____s__n___e_____S_____ d_____e_____n_____e_____t___h__g_____i_____eH________(__
+x_____e_____p_____su_____A_____
+____________________________________________________________
+__________l_____u_____f_____th_____g_____i_____s_____n__I___
+_______________________________________________________,_____)n_____o_____it_____p_____e_____cr_____e_____P
+_____a_____ru_____A_____
+____________________________________________________________
+__________d_____e_____n_____il_____p__i___c_____s_____iD_____
+____________________________________________________________)n_____o_____it_____p_____e_____cr_____e_____P
+_____a_____ru_____A_____
+____________________________________________________________ e_____l_____b__a___e_____g_____d_____e___l__w_____o_____n__K___
+_______________,_____e_____ga_____s_____iV_____
+_____e_____lb_____a_____e_____lla_____M__________( e_____d_____u_____t_____is_____s_____ic_____iV_____
+____________________________________________________________
+__________l_____u_____f_____th_____g_____i_____s_____n__I___
+)_____tf_____a_____rc_____h_____se_____lF_____, e_____g_____as_____iV_____ e_____lb_____a_____el_____la_____M_____(
+e_____d_____u__t___is_____s_____ic_____si___V__
+____________________________________________________________
+___________________________________y_____li_____W_____
+_____________________________________________________________________________________)_____t_____f___a__r_____c_____h_____s_____e_____lF_____
+____________________________________________________________
+__________e_____v_____it_____c_____e_____l___f__e_____R_____
+_____________________________________________)_____e_____c___n__a_____r_____u_____d_____n_____E_____(
+_____e_____d_____u_____ti_____t_____r__o___F_____
+____________________________________________________________
+__________________________________________________
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&& _____
+SS S SS
+_____ TTTTT
+_____ IIIII
+___ RR __ RRR _____ EEEEE
+_____ MMMMM _________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&&
+_____
+SS S SS _____ TTTTT
+_____ IIIII
+___ RR __ RRR
+_____ EEEEE _____ MMMMM _________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+___________________________________t_____l_____u__c___c_____O_____
+____________________y_____h_____ta_____p_____m_____E_____
+____________________________________________________________
+__________________________________________________
+___________________________________t_____l_____u__c___c_____O_____
+__________s_____c_____im__________e___d____a___c_____A_____
+____________________________________________________________
+__________________________________________________
+_______________e_____cn_____a_____m_____r_____o_____f_____r_____e_____P
+__________n_____o_____is_____s_____e_____r___p__x_____E_____
+____________________________________________________________
+__________________________________________________
+_______________e_____cn_____a_____m_____r_____o_____f_____r_____e_____P
+_________________________s_____t_____f_____a_____rC_____
+____________________________________________________________
+__________________________________________________
+__________________e__g_____u_____f_____r_____e_____t_____b___u__S_____
+____________________sm__________ra_____e_____r_____iF_____
+____________________________________________________________
+__________________________________________________
+______________________________
+_____ec_____n_____e_____i_____cS_____
+____________________en_____i_____c_____id_____e_____M_____
+
+=== PAGE 88 === m p
+OderN rimitive
+Quote: Pain and suffering are portraits of survival, and you’re a blank can vas that needs painting. NAME: NATURE:Thrill-Seeker GENERATION: 13th
+Prelude: You hated the modern world and felt lost in its PLAYER: DEMEANOR: Masochist have N: CHRONICLE: CLAN: Tzimisce CONCEPT: Modern Primitive harsh ambivalence. You found no rites to mark you r journey ATTRIBUTES
+through life except for losing you r virginity. Even animals PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO could do that, how ever. Looking for or deals to testify that you Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO survived adversity, you came across Fakir Musafar’s Dances ABILITIES
+Sacred and Profane, which showed how he hung himself from TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O hooks in the Indian Sun Dance. you r world suddenly opened Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O up, for he talked about the very things you felt lacking in do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O you r life. Pain was n’t about enduring, but about celebrating Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O existence and marking you r way. Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+You started slowly, with tattoos and piercings, but swiftly Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O moved through the gamut of
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES mortification rituals. You _A_l_li_e_s_______________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO Conscience/ConvictionOOOOO
+_C_o_n_t_a_c_t_s____________O_O_O__OO V__ic_i_s_s_it_u_d_e___________O_O_O__OO went to Samoa for au- _F_a_m_e________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+_H_e_r_d________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO the ntic tribal tattoos _R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO and nearly died from ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+the experience. After MERITS/FLAWS HUMANITY/PATH HEALTH enduring hot and _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O ___ O ___ O ___ O __ O ___ O ___ O ___ O __ O ___ O _ B H r u u r i t sed -1
+cold branding, you _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ will POWER I W nj o u u re n d ded - - 2 1 eventually moved _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated to cuttings and _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+scarifica- __________________________
+__________________________ tion. You
+immersed you rself in the modern primitive movement because it sang to you. You
+worked for a tattoo parlor and, eventually, did fetish parties where an artist took a scalpel to you r flesh for the entertainment of the other guests. Not
+once did you scream. That’s what attracted you to the Sabbat. That’s why you survived you r sire’s Embrace, in a mass spectacle and one of you r most
+glorious experiences. Now, you move among like-minded Brothers and
+Sisters in Caine, advocating new tests of mettle to celebrate existence: You’re an up-and-coming vicar of pain. Concept: The world is lacking for adventure, but the Sabbat changed that. The body is a vehicle for experience, and you firmly believe that which
+do es not kill you makes you stronger. Unfortunately, kine are not sturdy when it comes to you r standards of punishment and pain thresholds. Sure, they’ll come in for the tribal armband tattoo that’s become so damn chic now, but you’re do ing the m a service by inking the ir or gans. You’ve also created
+some nice bone etchings, too; it’s a pity only the coroner will see you r work. With the Sabbat, how ever, you’ve found creatures capable, and even proud, of undergoing you r rigors. You grow more involved with the sect because of Cainites like you rself who can endure pain rites far beyond the limits of
+mortal flesh and bone. you r role echoes that of the ancient tribal shamans; you are the new priest and performer of the modern nights. Roleplaying Hints: If it involves pain, you’re the re. Despite you r undead state, you love life so dearly it makes you ache. It sings to
+you, it challenges you with a thousand dangers that demand testing. Conversely, you despise people who do n’t push the ir limits to see what they’re truly capable of do ing. What are they afraid of, death? Look at where that brought you. When you’re not pushing the
+limits of danger, you’re the danger pushing the limits. Equipment: Tattoo tool case with inks, sculpting drill with numerous drill bit types, piercing needles, straps, skimpy
+clothing to show of f you r accoutrements
+Chapter three: among Fiends
+
+=== PAGE 89 === t N p
+he ew r OmetheuS
+Quote: We are a gestalt rarely given to consensus. We’ve decided that we do n’t like you, how ever. Wha’dya know; we’ve agreed to kill you! NAME: NATURE:Penitent GENERATION: 13th
+PLAYER: DEMEANOR: Martyr have N: Prelude: You do n’t really remember who you were CHRONICLE: CLAN: Tzimisce CONCEPT: The New Promethius before the Embrace; none of you do. you r memory begins
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL with horrible pain, at the moment Cainite vitae spilled Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O over you r exposed or gans. You were all a puddle of het- Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+erogeneous goo; melted flesh, partially liquefied bone and
+ABILITIES
+TALENTS SKILLS KNOWLEDGES a molasses of or gans from nine people all mixed together. Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+You pulled and pushed, tearing you rself away from the Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+others, but accidentally taking pieces of the m with you. E E m xp p r a e t s h si y o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _O of M ir e e l a e r e m __ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O L L a in w g _ u _ is _ t _ ic _ s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _ _ O O
+You heard you r soon-to-be-pack chanting and betting at I L n e t a i d m e i r d sh at i i p o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O P S e e r c f u o r r i m ty a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ _O O M Oc e c d u ic lt i _ n _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O_ _O O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O who’d emerge first. you r body for med slowly; you r arm Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+was missing, so you sloughed somebody else’s ADVANTAGES arm away; you r left eye was gone, so you _S_a_b_b_a_t B _ _S A _ C t_a K _t_ G u_ R s_ O _ U __ N _ D _ S _O_O_O__OO A__n_im__a_l_is_ D m__ IS _ C _ I _ P _ L _ I _ N _ E _ S __O_O_O__OO Conscience V /C I o R n T v U ic E t S ionOOOOO
+____________________O_O_O__OO A__u_s_p_e_x______________O_O_O__OO stole that from you r neighbor as well. ____________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+____________________O_O_O__O_O P_o_t_e_n__c_e_____________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+Before you knew it, you emerged from ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO the viscera stew, a Cainite lost-and-found ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+of other people’s body parts and or gans. MERITS/FLAWS HUMANITY/PATH HEALTH
+That’s when you turned on the other _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O ___ O ___ O ___ O __ O ___ O ___ O ___ O __ O ___ O _ B H r u u r i t sed -1
+__________________________ Injured -1 victims and fed on the m blood and soul. __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+You have no past save for the whis- __________________________ Crippled -5
+__________________________ Incapacitated pery echoes and flashes of insight from the _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+eight others you emerged from. It’s taken __________________________
+__________________________ a while to assert a single personality
+Instead, you’ve got eight voices and identity, but the voices never
+buzzing in you r head with edged diminish. You were a banker, memories that dice you anyan or derly, an eating disorder
+time you remember one. the rapist, a pusher — yet none of the se histories fit you. Some Roleplaying Hints: You
+skills and temperaments come have one do minant personaleasily and seem natural, while ity but refer to you rself as “we” others are completely incon- because it feels right. you r past
+gruous. That matches you r is a montage of scenes pasted appearance perfectly. You are together from the cutting room
+a hodgepodge of races and floor of nine movies. As such, oddly grafted flesh; you are a you’ve stopped focusing on
+Neo-Frankenstein’s Monster who you were and search for of the modern nights. who you want to be. Unfortunately, that’s proven difficult
+Concept: you r pack with both you r pack and the Sabcalls you an unwilling
+bat treating you like a freakshow. Renaissance man and an
+How can you become someone undead jack-of-all-trades. else when everyone keeps re You’re a magician’s hat; minded you of what you are? nobody knows what’ll
+come out of you next, Equipment: Wallets from not even you rself. the nine people you emerged from, You’re a party trick for mirror, copy of Mary Shelley’s Franyour pack, a curiosity kenstein, black book and debit card
+among freaks, and you (banker’s), apartment (the rapist’s), hate you r existence with run-do wn Volvo (baker’s), badly coa passion. You want or dinated ensemble including jacket one solid identity, one and tie, green scrubs and black boots
+personality and look. Clanbook: tzimis Ce
+
+=== PAGE 90 ===
+Chapter three: among Fiends
+
+___I__n_____t_____im__________id_____a_____t_____io_____n_____
+S________u__r_____v_____iv_____a_____l_____
+_________________________
+__________________________________________________
+____________________________________________________________
+___D_______r__i___v_____e______________________________
+S________u__r_____v_____iv_____a_____l______________________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____l______________________________
+O__________c_____cu_____l_____t__
+___x_____
+2_________________________
+__________________________________________________
+____________________________________________________________
+___C_____o__m__________p_____ut_____e_____r_______________
+O__________c_____cu_____l_____t___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n__________
+M__________e_____le_____e________________________________________
+__________________________________________________
+____________________________________________________________
+___A_______c_____ad_____e_____m__________ic_____s__________
+E_____t_____i_____q__u___e_____t_____t_____e_________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT
+__ TT ___
+SSSSS
+__ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS
+__ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___V_______ig_____i___l__a_____n_____t_____ x_____ 2__________
+____________________________________________________________
+_____ F_____or_____t_____it_____ud_____e_____
+(___E__n_____d_____u_____ra_____n_____ce_____),_____
+P_____ot_____e_____nc_____e_____
+(___P__r_____o_____w_____es_____s_____)
+__________________________________________________
+____________________________________________________________
+_____ V_____is_____c_____is_____s_____it_____u_____de_____
+(_____M_____a_____ll_____e_____ab_____l_____e__
+___V_____is_____a_____ge_____)_________________________
+___R_______a__t___i_____o_____n_____a__l__________________
+____________________________________________________________
+_____A_____u_____sp_____e_____x_____
+(_____H_____e_____ig_____h_____t_____e_____ne_____d_____
+S__________en_____s_____e_____s_____)_______________
+___O_______b_____s_____e_____r_____va_____n_____t__________
+____________________________________________________________
+_____ A_____u_____ra_____
+P_____e_____rc_____e_____pt_____i__o___n_____)_________________________________________________________________
+___P__a_____t_____i_____e_____nt_________________________
+____________________________________________________________
+_____Q_____u_____e__l___l t_____h_____e_____
+B_____e_____a_____st_____)____________________________________________________________
+___K__n_____o_____w_____le_____d_____g_____e_____ab_____l_____e
+____________________________________________________________
+_____A_____us_____p_____ex_____
+(_____H_____ei_____gh_____t_____e___n__e_____d_____
+S_____e_____ns_____e_____s,______________________________
+___A_______t_____te_____n_____t_____i_____ve_______________
+____________________________________________________________
+_____A_____ni_____m_____al_____is_____m_____
+(F_____e_____ra_____l
+_____W_____h_____is_____p_____er_____s_____, B_____e_____ck_____o_____n__i___n_____g, ___C_______le_____v_____e_____r_________________________
+____________________________________________________________
+_____A_____ni_____m_____al_____is_____m_____
+(F_____e_____ra_____l
+_____W_____h_____is_____p_____er_____s_____)______________________________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __El_____oq_____u_____en_____t_________________________
+M__________ag_____n___e__t_____ic___________________________________
+__________________________________________________
+____________________________________________________________
+___I__n_____ti_____m_____id_____at_____in_____g_____ x_____ 2 _____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __Ch_____a_____rm_____i_____ng_________________________
+P_____e_____rs_____ua_____s_____iv_____e
+__x___
+2_________________________
+__________________________________________________
+____________________________________________________________
+___C__o_____m_____m_____a__n___d_____in_____g_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____ri___s__m_____a_____ti_____c_______________
+D_____i_____pl_____om_____a_____t_____ic______________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____S_____t_____e__a___d_____y_________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____S_____t_____al_____w_____a_____rt_____ x_____
+2__________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____F_____e_____ro_____c_____io_____u_____s_______________
+_____V_____ig_____o_____ro_____u_____s______________________________
+__________________________________________________
+____________________________________________________________
+_____D_____e_____x_____te_____r_____o_____u__s_____________
+____________________________________________________________
+_____R_____e__s___o_____u_____rc_____e_____s_____ x_____ 3_____
+____________________________________________________________
+_____B_____r_____aw_____n_____y_____ x_____
+2_______________
+T_______e___n_____a_____c_____io_____u_____s
+___x__
+_____2_______________
+__________________________________________________
+____________________________________________________________
+_____A_____g_____il_____e______________________________
+T_______i___r_____el_____e_____ss_____
+______________________________
+_____ G_____e_____n_____er_____a_____t___i__o_____n
+_____x_____ 4
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____C_____o_____nt_____a_____c_____t_____s__
+___x_____ 3_____
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________________________
+____________________________________________________________
+____A____ll____ie____s____ x____ 3_________________
+____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) s_____ui_____ht_____e_____m_____or_____P
+_____w_____eN_____
+_____eh_____TRRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC yad_____ir_____F
+_____na_____M_____ i_____ki_____nh_____c_____irp_____O_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+_______________e_____c_____s_____im_____i_____z_____T_________________________NNNNNAAAAALLLLLCCCCC
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________h_____t_____9_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+______________________________t_____ne_____t_____i_____n__e___P_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__________t_____s_____in_____o_____it_____c_____e_____f_____r__e___P_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________r_____y_____tr_____a_____M__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_______________ts_____im________r__o_____f_____no_____C__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 91 ===
+O m F pri ChNi Ki AN rid Ay
+Quote: Yes, sir, you r Prague have n will be ready for you r arrival next week. Yes, sir, I know, three you ng men to feed on, I’ve already seen to it. Sir, about the auction; I have it on good
+NAME: NATURE:Perfectionist GENERATION: 9th authority that two bidders may pose a threat. Should I turn up PLAYER: DEMEANOR: Conformist have N: CHRONICLE: CLAN: Tzimisce CONCEPT: Oprichniki Man Friday
+a little dirt on the m or go ahead and steal the item in question ATTRIBUTES from the auction house? PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Prelude: You were always of Clan Tzimisce, as were you r D St e a x m te in ri a ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O M Ap a p n e ip ar u a l n at c i e o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _ _ O O I W nt i e ts ll _ i _ ge _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _O O _O O parents and the generations that preceded the m over the ABILITIES
+centuries. Although history remembers the Oprichniki as cut- TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O throats and sadists, you are far removed from the ir legacy. From Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O you r mortal infancy, you r Tzimisce lord saw to you r training D Em od p g a e t _ h _ y _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ O O _ _ O O E Fi t r i e q a u r e m tt s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _O O I L n a v w e _ st _ i _ g _ at _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+in a variety of skills. Whether he versed you in matters of the E In x t p im re i s d si a o t n io _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ _O O_ _O O_ O O M Pe e r l f e o e rm __ a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _ _ O O L M in ed g i u c i i s n ti e c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ _O O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O occult or sent you to the best school of business and finance, Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O you never do ubted that you would eventually serve you r
+ADVANTAGES benefactor as major-do mo or man Friday. You did not for esee BACKGROUNDS DISCIPLINES VIRTUES
+the Embrace, how ever. The Russian Tzimisce rarely of fered _ _ A A _ _ l l _ _ l t i e _ _ e_ _r s n _ _ _ _a _ _te _ _ _ _ I _ _d _ _e _ _n _ _t _ _i _ _t _ _y _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O A A _ _ _ _ n u _ _s im_ _p _ _e a_ _x l_ _ is_ _ m_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO the Kiss to you r family, if only because they needed you in a _ _ C G _ _ o e _ _ n n _ _ t e _ _ a r _ _ c a _ _ t t _ _ s i _ _o _ _n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O V_ _ _ _ ic_ _ i_ _ s_ _ s_ _ it_ _ u_ _ d_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO servile position. When the Iron Curtain fell, the Rus Fiends _S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO knew they could no longer hide from the world behind the
+protection of the ir borders, but neither were they will ing to MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised risk the ir unlives to venture beyond the ir comfortably familiar __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 do mains. That’s why you r lord Embraced you. __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+Same job, different circumstances. You still serve you r _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ C In r c ip ap p a le c d itated -5 lord, but you are now a Fiend as well. This entitles you to _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ a certain independence that none of you r mortal family __________________________
+enjoys, including the privilege of traveling the world. Unfortunately, you’ve already encountered the loutish and messenger for all ies, rivals and, oc Sabbat during you r brief existence and must pay the m casionally, enemies of you r lord. You the same “respect” that you r lord do es. Sometimes, know this might cost you r existence, so
+this means participating in the ir backward rites you plan and scheme for you r eventual or gatherings, but you need the m. they are liberation from servitude. you r only hope in breaking you r blood Roleplaying Hints: You are goal-driven
+ties to you r sire. with out the m, you’ll and determined, but you r Embrace all ows never enjoy complete freedom and for certain freedoms you never knew as
+true independence. a ghoul. Coupled with the fact that
+Concepts: Some Tzi- you are among a select few in you r misce might say you’re the family to be given the Embrace, right hand of you r sire, but that fills you with a blossoming aryou know you act as both rogance about you r new existence. hands. The centuries turned With the taste of limited indepenhim into an anachronism, dence fresh in you r mouth, you
+and he spends his evenings want more. you r lord depends on sequestered in his manse you greatly, and that is his weakness. like an impotent spider A time will come when you will no
+that can longer spin its longer need him. Until the n, you use web. You are one of you r the Sabbat to break the blood ties to
+lord’s tethers to the you r sire, and you familiarize you rself modern nights. He re- with all facets of his acquisitions and
+lies on you to oversee properties. After all, you know the m his financial security, better than he do es, and eventually, to travel where he it will all be you rs. refuses to go and to Equipment: Armani suit, Raydeal with people he will ban sunglasses, briefcase, PCS phone, not see. This is dangerous, laptop computer, beeper, Glock 17
+for you are intermediary, negotiator, mouthpiece
+Clanbook: tzimis Ce
+
+=== PAGE 92 ===
+S p: t had inspired his fleshcrafting curiosities, and, borrowing the
+Amp Le ACK he name of the ritual, told his childer that they were “a chalice
+C O of osseous delights that, for eternity, shall never run dry.” hALi CeOF SSe OuS
+But the Tzimisce blood filling the ir dead veins would d not all ow Cezar’s childer to suffer that for long. While Cezar
+e LightS slumbered in the dirt of his crypt, Dimka told his brothers and
+My eyes burn meltdown red from the feeding but the cops sisters of Lugoj and that Cainite’s designs to break the blood think I’m some stoner or something. bond. they resisted such heresy at first, but the ir hesitation
+“No, of ficer, just tired I guess. I do n’t usually stay up this late.” grew distant as they shared blood in the minutes before dawn. “What was all that screaming about?” On Kupala’s Night, Cezar and his brood traveled to visit
+“Girlfriend’s on the rag. She do esn’t like it when I have another voivode, as custom decreed. After he paraded the m friends over.” about, Cezar released his childer to enjoy the mselves in the
+“Mind if I take a look?” village beneath the ir host’s for tress. Dimka and his siblings rode
+“Hey, if you want. Enter freely of you r own will, and… to the feet of the Carpathians. they beheld Kupala’s crimson yeah, come on in.” flower, and Cezar’s blood could indenture the m no longer. of ficer Bloodbag steps into the stairwell, and before I can Cezar and his host were among the first Tzimisce elders
+shut the do or, Sunshine’s on him like a starving do g. She was ted to fall on Kupala’s Night. His childer, dubbing the mselves “the most of her juice dealing with that thing do wn by Turner Field Chalice of Osseous Delights” as a final denunciation of the ir sire, earlier tonight. I guess she’s still hungry even after the bum and moved through Transylvania and Wallachia with the ir fellow
+all those Oasis girls. How do es her little body hold so much blood? packs, destroying elders in the night and sharing blood with
+Damn, but she’s a messy eater. Zaljko’s already taken other “sabbats” in the wee hours of the morning. Sometimes, up the stairwell tarp so blood’s everywhere. Now that I think they were merciful — they spared an ancient Fiend, a sorcerous about it, maybe I’m a little thirsty myself. pagan named Bogescu, in exchange for his art. His craft alone
+Upstairs, they’re screaming again. Better to wade in past Sun- saved the m from the ghoul swarm when the pack stormed the shine now because the re’s not going to be anything left for tomorrow. church of the Tzimisce Ancient. Dimka wept bloody tears as
+No one licks around here. For real though, I love ‘em, but I stay they retreated. He could not witness Lugoj’s triumph. with a bunch of slobs. I’ll need juice — Blood Feast, tomorrow, When the Sabbat sprang from this revolutionary mire, the the Clarkston brownfield. No way Ashanti’s outdoing me this year. Chalice of Osseous Delights was one of the founding packs. Jumping over the fire, that’s bullshit. But I’ll show her some bullshit. It rampaged through Thorns the night the Camarilla drew its
+It’s a new year, Ashanti. Not even you can avoid the flames. charter and returned to Eastern Europe the reafter. The Old
+We were the re on Kupala’s Night. We were the re when Lugoj Country was bloated with Tremere, far too dangerous for a drank our Father dry. We signed the Code of Milan. We brought pack that counted a koldun in its number. But where angels
+do wn the city of Atlanta. And we are Tzimisce. Do not fuck with us. feared to tread, the childer of Cezar leaped. * * * For the next 400 years, the pack aided Cardinal Bistri they have inherited the legacy of a founding Sabbat and his successors in the futile effort to repel the Usurpers. pack. they can say the words, but they do not know what they Numerous Cainites were Embraced into the pack. Many of the
+mean. In the Final Nights, the Chalice of Osseous Delights or iginal members of the pack met Final Death — a Usurper is brought low, as all things must be — ignorant and weak, of such power that he could only have been the Founder
+how ling for blood and a history that is for ever lost to the m. himself destroyed Bogescu. Dimka fled to the New World. Throughout its various incarnations, how ever, the Chalice m C A m B
+y hi LdreN re y ONeS of Osseous Delights kept its koldunic lore and the techniques
+In the Old Country, some Tzimisce voivodes Embraced of Vicissitude that had earned the pack its name. “prestige broods”— large broods of childer with little pur In the end, it took World War I to expel the pack from the ir
+pose but to demonstrate that vitae was plentiful in the sire’s ancestral homeland. they fled to France, crossed the channel, demesne. The pack that came to be known as the Chalice
+and the ir ghouls smuggled the m to New York in boxes of dirt. of Osseous Delights began as one such ostentatious brood. the ir exploits in America proved no less audacious. they
+Cezar Satnoianu was not a bad sire. He taught his childer the destroyed Lasombra “conscripts” by the do zen in the Second
+virtues of Metamorphosis and, in his dismissive way, encouraged
+Sabbat Civil War and signed the revised Code of Milan in 1933. the m to seek Azhi Dahaka. He kept the m full and fat with blood. In the Third Sabbat Civil War, Brujah antitribu and the ir Caitiff
+But Cezar regarded the m as pretty do lls to pose and prod. lapdogs destroyed the final member of the or iginal pack. Only
+The brood was not meant to share Cezar’s great legacy. Not childer, grandchilder and great-grandchilder remained, but still, a
+even Dimka, the first among his childer, had a more trying koldun, a Romanian named Zaljko Petrescu, existed among the m. task than to stand still while his sire crafted his bone structure
+In the late 1990s, the pack left New York to escape what in novel ways. The skeleton was Cezar’s fascination. He used
+its members saw as certain destruction at the hands of the Cahis childer as showpieces and experiments. Every few years, marilla, only to join in the crusade to take Atlanta. In the end, he told his brood the story of an ancient koldunic ritual that only Zaljko and a few neonates, only months dead, remained…. Chapter three: among Fiends
+
+=== PAGE 93 === u t d
+Si Ng he Se e SpiCABLe
+ASt ArdS
+Not all Sabbat packs are roving street punks who get loaded on spiked blood, run through bonfires and worship
+the devil, but some come pretty close. Although they do n’t fall too far from the most panicky Camarilla stereotypes, the
+Chalice of Osseous Delights represents the new face of the
+Sabbat, especially that of the Tzimisce: non-nuclear families united by shared hardships and the Vaulderie, ignorant of
+the ir august history, suspicious of elders, skeptical about the existence of the Antediluvians, eager to attend the parties and
+spill blood in the crusades but unwilling to swallow most of the bullshit the ir sect feeds the m. In that regard, they’re an
+easy fit for any Sabbat chronicle, whether as fellow soldiers in a siege or as another pack to challenge in the struggle for
+territory or prestige. For the Camarilla sellouts out the re, a
+Storyteller can use the se characters when his players’ coterie runs into another one of those seemingly faceless Sabbat packs. S u! h Ove Lhe AdS Nite
+The Guide of the Sabbat describes some of the Natures, money once. Although you usually go along with the pack
+Demeanors, Abilities, Backgrounds and Paths of Enlighten- consensus, you throw a fit if someone wants to do something ment in the profiles below. For more information on Koldunic really stupid. That’s the problem with this world, as you see
+Sorcery, its ways and the related Knowledge, see Blood Magic: it — morons who can’t take care of the ir shit. You enjoy
+Secrets of Thaumaturgy. messing with the heads of such people and affect what ever demeanor you believe will exclude you from the ir ranks. A J, r g
+meriCA OhNSON the i Ch irL
+Sire: Zaljko Petrescu
+Background: for get the stereotype of the spoiled little rich
+Nature: Enigma girl who runs away, the n comes crying back to daddy when she
+Demeanor: Chameleon sees how bad life on the street really is. America ran away and
+Generation: 11th stayed on the street because that’s where she belonged. At 17, she left her Highland Park home in Dallas and took a bus to Embrace: 1999
+Athens, Georgia to pursue the shabby-chic lifestyle with her Apparent Age: mid-20s friends. Too much time at the 40 Watt Club, a paranoid un- Physical: Strength 3, Dexterity 3, Stamina 2
+will ingness to spend the $100,000 she’d stolen from her parents Social: Charisma 3, Manipulation 3, Appearance 3 and a variety of addictions conspired to make her homeless. Mental: Perception 3, Intelligence 3, Wits 2
+Over the next few years, America slept where ver she could, Talents: Alertness 4, Brawl 2, do dge 1, Empathy 3, wearing out her welcome with a do zen friends, crashing with
+Streetwise 3, Subterfuge 4 acquaintances and one-night stands, sometimes sleeping on the
+Skills: Drive 2, Firearms 2, Fire Dancing 2, Melee 1, streets. On the coldest night of 1997, she with drew 40 bucks for
+Stealth 3, Vamp 3 a room at the Ramada. when ever her growing heroin addiction
+Knowledges: Academics 2, Computer 1, Medicine 2 gave her the elbow, she preferred sucking dick to a trip to the bank. Disciplines: Auspex 3, Vicissitude 1
+In the spring of 1999, she hitched a ride into Atlanta for
+Backgrounds: Resources 1 (America has plenty of money, but a hook-up. Her “chauffeur” turned into a groper when the E
+she’s extremely reluctant to with draw too much at any given time.) kicked in, so she told him to fuck of f and spent the next few
+months sleeping in do orways. Meanwhile, the Sabbat crusade Virtues: Conscience 2, Self-Control 3, Courage 4 for Atlanta was heating up. America had no idea that the Jyhad Morality: Humanity 2
+was playing out around her, but she got scared as more and more will power: 6 junkies disappeared of f the streets. On her way to the ATM, Zaljko
+S, K e uNShi Ne the id ri NyS
+and his pack drove by and pulled her into a van. Her last mortal
+Background: Amy Coltraine died the night the Chalmemory: a rude circle of leering faces and cheap shag carpet. ice of Osseous Delights Embraced her and stuck her in an
+Image: America, like her namesake, banks on her attainable overturned refrigerator. The thing that came up was n’t
+beauty. Unlike the rest of her pack, she refuses all Vicissitude
+Amy at all. It was a monster that spent all of its humanity modifications and looks much like she did in life: thin enough to
+kicking its way through the sheet metal. look unhealthy, average enough to fit in, cool enough not to care. She is n’t sure which pack member was her sire. Maybe
+Roleplaying Hints: You’re resourceful — you survived for it was the one who started calling her “Sunshine,” the one
+years with out a stable home and only had to touch you r mad
+Clanbook: tzimis Ce
+
+=== PAGE 94 ===
+Physical: Strength 4, Dexterity 5, Stamina 3
+Social: Charisma 2, Manipulation 1, Appearance 2
+Mental: Perception 3, Intelligence 3, Wits 4
+Talents: Athletics 3, Brawl 5, do dge 4
+Skills: Animal Ken 2, Body Crafts 2, Fire Dancing 3, Firearms 2, Melee 3, Stealth 2
+Knowledges: Academics 1
+Disciplines: Animalism 2, Auspex 1, Vicissitude 1
+Backgrounds: Sabbat Status 1
+Virtues: Conscience 1, Self-Control 2, Courage 5
+Morality: Humanity 1 will power: 4
+not e: Sunshine’s bony spikes inflict aggravated damage. z p, L O
+ALJKO etreSCu the or d rigiNAL
+Background: Zaljko discovered the Chalice of Osseous
+Delights during his mortal career as a freight inspector in
+Bucovina. Skinny Danifa, a grandchilde of a member of the or iginal pack, took him as a ghoul to oversee her transport
+out of the country. He performed this chore well, exploiting killed by that Nosferatu with the third eye. Who cares? It’s
+the holes in the easily bribed bureaucracy that employed him
+America who holds her head when she cries, and Tyrone to smuggle the pack out of the country. Danifa kept Zaljko
+who packs the earth around her just before the sun comes up. with her for the voyage to America. The Cainites of Atlanta regard Sunshine as a True Sabbat
+But Danifa did n’t take to the New World. First, she comworthy of the title — she was even a templar for Bishop Sutplained that America’s immigrant blood was of an unsatisfying phen briefly. In the first nights after her Embrace, she hurled
+consistency. the n, she started waking up in the middle of the herself into the war against the Camarilla and emerged with
+day, grabbing Zaljko and screaming in his ear that Kupala was a collection of skulls envied by Cainites 100 years her senior. angry at her for abandoning her native soil. She grew terrified that
+Sunshine even refused an of fer from Francisco do mingo de her sorcery would fail her. She spent most nights holed up in the
+Polonia, Cardinal of the Eastern American Territories, to pack’s communal have n, refusing all company except for Zaljko, serve him as a paladin. Impelled by the Vinculum, she chose
+rambling to her ghoul about needing a vessel for her wisdom. to remain with the Chalice of Osseous Delights — with the
+Toward the end of her unlife, Danifa only accepted vitae bony spurs on her should ers and arms, she remains the only
+when she was on the ragged edge of frenzy. She Embraced member to live up to the pack’s name. Along with Tyrone, she’s
+Zaljko and another ghoul who served the pack. With a wild the muscle of the pack and finds mongrels, strays and rodents
+look in her eyes, she told the two she would teach the m both to guard what ever place the pack finds to sleep out the day. the rudiments of Koldunic Sorcery and destroy the student
+Image: A little angel with the blank expression of a who did not progress as far as the other. Zaljko won. The
+genuine sociopath. She pouts but stands still while America blood of his competitor was his prize. and Ashanti do her hair each night — they like to experi Danifa fell into torpor a month later for want of blood. ment. She wears what ever’s handy, of ten stealing shirts from
+The rest of the pack considered her a liability. When they set
+Tyrone. Zaljko has manipulated the bones of her for earms, upon her slumbering for m, Zaljko lead the charge. should er blades and shins to create rows of sharp spikes for pinning food and ripping through rival packs. Zaljko assumed the duties of pack priest for the next 40
+years. When the Camarilla made significant headway in New
+Roleplaying Hints: Amy’s dead. You’re Sunshine. You
+York, he suggested that the pack blow town for a few months need blood to wake up each night. Try not to cry so much. and assist the crusade in Atlanta. The pack, perhaps swayed
+Shut up, and bear it. Put you rself in the middle of things — by the powerful concoction of Zaljko’s Vaulderie, agreed to
+throw you rself into dangerous situations when ever you can. the ir priest’s plan. Rather than meeting Final Death in the
+With luck, someone bigger than you will finish you of f one
+Big Apple, they met it in the South. night. In the meantime, take on as many monsters as you can, and show the m the light. Zaljko, suddenly the ductus and priest for a pack of neonates, conducted several mass Embraces and made token efforts
+Sire: Unknown in the crusade for Atlanta. When the Sword of Caine was
+Nature: Eye of the Storm triumphant, the pack was five strong and completely ignorant
+Demeanor: Child of the ir culture except for what little Zaljko could tell the m. Generation: 12th
+Image: Zaljko looks gray and tired. He rarely makes eye
+Embrace: 1999 contact when he speaks and usually seems to be staring at
+Apparent Age: 9
+Chapter three: among Fiends
+
+=== PAGE 95 === not e: Zaljko’s thick bones give him the equivalent of for titude 2 against any damage not caused by fire or sunlight. t, z L
+yrONe the uLO OCO
+Background: Tyrone’s left should er bears a tattoo of a skeleton depicted in an exaggerated perspective, his enlarged, bony hand flipping of f the world. Tyrone calls it “Skully.” Some
+nights, he thinks Skully’s the only reason the Chalice of Osseous Delights chose him for the Embrace. In itself, pack existence was n’t much of a change for Tyrone. Growing up in the gangs of Atlanta’s Techwood neighborhood, he did n’t see much of a difference between a knife in the back and fangs in the neck. Of course, some of the stuff he did with
+his pack — jumping centuries-old vampires, drinking blood, performing weird rituals, kidnapping people and whacking the m with shovels — were a bit outside his experience. He
+whispered the law of the jungle, just like he had the first time he shot someone, and tried to accept what he was. And hell, assuming the zulo for m was better than a fat
+cone and a for ty of Bull. When Zaljko was shocked that “such a whelp has mastered the sacred for m of our kind,” Tyrone felt
+something in the distance. His who le body looks overstuffed for the first time — undead or otherwise — like a man calland bulky since his bones are three times thicker than a mortal’s. ing his own shots instead of some monster who’d had his life
+Roleplaying Hints: The universe keeps a shitlist with screwed up by bigger monsters. you r name at the top. It knows you have cheated death and Tyrone is always the one to pacify America after she throws seeks not hing more than to deny you the one or two comfort- a fit. He’s talked Zaljko do wn from several bridges. He watches
+able aspects of undeath. It destroyed you r pack just to show out for Sunshine (except in a fight, when she watches out for you it was serious, and now, it’s saddled you with a group of him). But despite the ir healthy Vinculum, Tyrone competes
+worthless fuckheads to ensure you r demise. Some nights, you with Ashanti when ever he can, maybe because they were both feel like finishing the job Creation has started. Others, you graduates of the same mass Embrace, maybe because she’s clearly
+want to spit in its face. Regardless, you are the keeper of you r Zaljko’s favorite. Regardless, the eternal contest is responsible pack’s sorcery, and you must pass it on to Ashanti before you r for his greatest failures in unlife: his botched attempt to learn
+imminent demise. Koldunic Sorcery and his failure to outdo her in the Fire Dance. Sire: Skinny Danifa Image: Tyrone’s covered in tattoos, and some of the m move. Nature: Curmudgeon Jets of black ink shoot through his body, making patterns as they
+Demeanor: Guru pass. Every few minutes, they travel through the veins of his temples
+Generation: 10th
+Embrace: 1954
+Apparent Age: early 60s
+Physical: Strength 3, Dexterity 3, Stamina 4
+Social: Charisma 2, Manipulation 3, Appearance 1
+Mental: Perception 3, Intelligence 3, Wits 2
+Talents: Brawl 3, do dge 3, Expression 1, for tune-Telling 3, Intimidation 2, Leadership 1, Streetwise 2, Subterfuge 3
+Skills: Animal Ken 2, Body Crafts 4, Etiquette 2, Firearms 3, Fire
+Dancing 2, Melee 3, Security 3, Stealth 1, Survival 2
+Knowledges: Academics 3, Investigation 1, Koldunism 3, Linguistics 1 (English), Medicine 1, Occult 3, Politics 2
+Disciplines: Animalism 3, Auspex 2, Koldunic Sorcery 4, Vicissitude 4
+Koldunic Paths: Way of Earth 4, Way of the Spirit 2
+Backgrounds: Rituals 2, Sabbat Status 1
+Virtues: Conviction 3, Instinct 2, Courage 2
+Morality: Path of Metamorphosis 4 will power: 4
+Clanbook: tzimis Ce
+
+=== PAGE 96 === and create curled horns on both sides of his shaved head. the n, the horns fade, and the ink for ms tear-shaped loops as it travels
+do wn his left cheek and back into the patterns on his body. Tyrone usually goes shirtless in or der to show of f his animated tattoos and
+rarely wears anything more concealing than a wife-beater tucked into baggy khakis. Skully rides his left should er. Roleplaying Hints: Of the entire pack, you’re the most
+beholden to the Vinculum — you love you r pack, but you try too hard. You’ve volunteered you rself for the do omed
+quest of keeping everyone happy. you r packmates take you for granted, but no one else seems will ing to accept the job. Still, you do n’t take any shit outside you r pack; in zulo for m, you’re confident you can take on any Cainite in the world. You’ve still got a lot to learn. Sire: Angel Mercenary
+Nature: Caregiver
+Demeanor: Rebel
+Generation: 13th
+Embrace: 1999
+Apparent Age: early 20s
+Physical: Strength 4, Dexterity 3, Stamina 4 Ashanti now serves as the pack’s priest and spends most nights studying her rituals while the rest of the pack ravages
+Social: Charisma 2, Manipulation 2, Appearance 2
+Atlanta, acquiring food and settling lingering business from the
+Mental: Perception 4, Intelligence 2, Wits 3
+Atlanta crusade. Lately, the spirits have shown her the destiny
+Talents: Alertness 2, Athletics 2, Brawl 4, do dge 2, Inof the pack. She urges her packmates to leave Atlanta, citing timidation 4, Panhandling 1, Streetwise 3, Subterfuge 2
+the stagnation of the city rather than the pathetic end that
+Skills: Animal Ken 1, Body Crafts 3, Drive 2, Firearms 4, Fire awaits the m if they stay. Dancing 4, Melee 2, Security 1, Stealth 2, Survival 2, Vamp 2
+Image: Ashanti Beachum is a black woman with long
+Knowledges: Investigation 1, Linguistics 1 (English), braids that she can tie into a topknot to reveal a turgid eye in
+Medicine 2, Sewer Lore 1 the back of her head. Her experiments with Vicissitude have
+Disciplines: Animalism 1, Vicissitude 4 contorted her once-proud features into something resembling
+Backgrounds: Contacts 1 the face of an agitated tiger. A mouth of undifferentiated tissue
+Virtues: Conscience 3, Self-Control 3, Courage 4 do minates her belly; she’s still figuring out how to make the teeth. Morality: Humanity 5 Roleplaying Hints: The less said about you r breathing days will power: 5 the better. That was just the epigram before a long story that ends
+with you as the enlightened center of the universe. In the time
+A B, d d
+ShANti eAChum the emON re Amer between, you’ll never die, you can modify you r body in any way
+Background: Ashanti made her last delivery for UPS the you desire and you even talk to spirits. With such power, you night Zaljko needed soldiers to throw against a Confederate look at mortals and wonder how you could have ever been one
+general who persistently refused to give up the ghost. Ashanti, of the m. Seek Metamorphosis, heed you r demonic dreams, and
+Tyrone and two others were the only survivors of the ir mass tomorrow night, you’ll look at Cainites and wonder the same thing. Embrace, and along with Sunshine, her sire and her vato loco, not e: In most cases, Ashanti’s rearview eye prevents the last members of the pack left standing after the general
+ambushes from behind. was dust. While the pack swelled with each mass Embrace and
+Sire: Zaljko Petrescu shrank after each confrontation with the Camarilla, Ashanti
+Nature: Survivor had decided when she first opened her eyes and found herself
+buried “alive” that she would survive no matter what. In the Demeanor: Survivor closing nights of the crusade, she was confirmed as True Sabbat. Generation: 11th
+In the wake of the siege, Zaljko — increasingly paranoid Embrace: 1999 about the impending Final Death he saw at every threat — Apparent Age: mid-30s
+spent the quiet time after the feeding and fighting to pass on Physical: Strength 3, Dexterity 4, Stamina 4 his knowledge of Koldunic Sorcery to Ashanti. She had the Social: Charisma 3, Manipulation 2, Appearance 2
+steel to barter with demons and the passion to preside over
+Mental: Perception 4, Intelligence 5, Wits 3 ritae. In some ways, she’s already surpassed her teacher. The
+Talents: Alertness 2, Athletics 2, Brawl 3, do dge 1, spirits whisper to her in the dead of daylight. they’ve even for tune-Telling 2, Intimidation 3, Leadership 1, Panhantaught her a way that her sire has never heard of. dling 4, Streetwise 2, Subterfuge 2
+Chapter three: among Fiends
+
+=== PAGE 97 ===
+Skills: Body Crafts 3, Fire Dancing 4, Firearms 3, Melee 2, seemingly capricious, but it is important. Ratti-Ben influences
+Performance 3 (acting), Security 1, Survival 3 events to a violent conclusion, the reby ensuring that the
+Knowledges: Academics 3, Computers 2, Koldunism 2, strongest and most devoted survive. By Western standards, Medicine 1, Occult 2 Ratti-Ben is cold, monstrous, brutal and completely lacking
+Disciplines: Koldunic Sorcery 3, Vicissitude 3 in pity, hence the Sabbat’s interest in her. She believes herself
+India’s silent savior, how ever, and every bit a mahatma as
+Koldunic Paths: Way of Earth 3, Way of Sorrow 3, Way
+Gandhi was. In her role as a cruel and terrible avatar, she has of the Spirit 3
+found a kinship with the Sabbat’s Sascha Vykos and strongly
+Backgrounds: Rituals 1, Sabbat Status 1 entertains the not ion of joining its sect. Virtues: Conviction 4, Instinct 3, Courage 3
+Ratti-Ben draws her herd and her followers from India’s
+Morality: Path of Metamorphosis 6 do wntrodden and of ten discarded populace, be they low-caste
+will power: 6 or widowed wives. She plays her hand in India’s strife in places
+S d m F such as the Bihar and Uttar Pradesh states, where corruption u Ch e LightS Ade Le Sh
+It’s almost daylight, and not one of the se fuckers has what it upends the caste-rule. Her connections to criminals in political takes to dig his way out. they’ve been underground for about six of fice currently of fer her an unparalleled information network
+hours now. That’s a long time to stand around, leaning on a shovel, stretching from India’s highest halls of power do wn to her darkwaiting for someone to rise from the grave. Weakness just pisses me est all eys. Her principal have n is in Vrindavan, the so-called of f. I do n’t think the pack’s gonna be any bigger when the sun comes City of Widows. Although the practice of sati (where a wife
+up. Maybe next time. Story of our lives… I mean— ah, fuck it. throws herself atop her husband’s funeral pyre) has been largely
+Atlanta’s finished with us. We’ve won the war, so we turn abandoned, Indian wives are still expected to shave the ir heads, against ourselves. Sunshine’s crying all the time, and America for sake all status, never remarry and surrender the ir possessions keeps grumbling something about Monomacy. Zaljko’s got the when the ir husbands expire. Vrindavan, Krishna’s reputed
+thousand-yard stare again. home, is where thousands of the se impoverished women go
+Ashanti thinks we better skip town before we get mixed up in too to live the ir remaining lives; most die where they sleep, either many more games. The Lawdogs clowned me after her Fire Dance at in the streets or in shanty-hovels. Ratti-Ben makes her have n
+the Blood Feast last week (jumping over the fire, that’s bullshit), but in an abandoned temple in Vrindavan and employs do zens
+I’ve got to agree with her: Atlanta’s no good. Rich girl wants to go to of old crones to sing her name during the day. She takes her
+California, something’s just screaming at me to head to New York, ghouls and vitae from this surfeit of misery. When she do es and Zaljko wants to take a boat to fucking Europe! Who knows where of fer the Embrace to the rare servant, her progeny is all the
+we’re headed? The Chalice of Osseous Delights — coming soon to a more eager to strike back at the system that threw her into town near you. I swear, the first time someone calls me an “injun”.… abject poverty for years. Thus, Ratti-Ben draws her strength
+from the venom of others. t N zimiSCeOF Ote S ASChA v yKOS, C Ai Ne ’ S A NgeL
+Honored by you ng Tzimisce as among the first to betray its
+A quaint phrase — redundant and who lly beside the point. sire to the Anarch Revolt, Priscus Sascha Vykos is the Sabbat’s
+It might be more instructive to list Tzimisce who amounted to most terrible instrument of fear. Certainly, warriors like the
+not hing. A Fiend lacking not oriety would be a collector’s item
+Black Hand’s Djuhah are deadly adversaries on the battlefield, indeed. This is less true in the se vulgar modern nights of mass but at least they destroy the ir adversaries in combat and with
+Embraces and Masquerades, but even the lowliest shovelhead little cruelty fueling the ir intentions. Sascha, how ever, “studplucked from a dumpster might eventually of fend Creation in
+ies” its victims and decides which tortures will best send the m some infamous way. Maybe Tzimisce are destined for greatness
+how ling into destruction. the n, it begins its ministrations with
+(another stupid phrase). Regardless, every Fiend aspires to a cold precision that violates the ir every cell. become a larger-than-death character in his own right; the
+Sascha was born Myca Vykos, heir to Carpathian royalty
+Antediluvian in the ir blood demands no less. as his father’s first and only son. Fate had him in mind for r Atti -B eN, the S is ter OF B LOOd greater things, how ever, and brought him into the Embrace
+Embraced during Alexander the Great’s invasion of the of Symeon of Constantinople. Myca found himself — for
+Afghan Plateau, Ratti-Ben loves her country with psychotic the n, he was still a man — in a city and a time that would devotion and believes it is a living, breathing or ganism like eventually rival Carthage in legend and glory. Constantinople
+any other creature. She has seen India’s great population fell under the aegis of three Cainite families, including the assimilate invader after invader or, eventually, reject the m Obertus Fiends who took Myca in. While he despised his
+for cibly. No matter what happens, India returns to her new existence and everyone who’d brought him to this fate, people and, the refore, to her, its protector. Myca appreciated the unparalleled opportunity for learning. The Obertus Athenaeum was the missing legacy of Alex Of course, a protector must do many things to guard her and ria’s library and housed unique knowledge thought lost
+love as who le to ensure its survival. Ratti-Ben and Kartarirya’s to the world. What the books did not teach, Myca learned
+other childer are the refore India’s wolves. they cull the weak through the complex scheming of the Byzantine courts. to ensure the herd itself remains strong. the ir duty is cruel and
+Clanbook: tzimis Ce
+
+=== PAGE 98 ===
+When Constantinople’s glorious age came to an end, by eliminating the sect’s more troublesome dissenters. For
+Myca left with more than he’d bargained for. The city’s pre- Sascha’s role in the struggle, the signing of the revised Code eminent Cainite was the Toreador Michael, who was as close of Milan also saw its appointment to the position of priscus. to angelic as any flesh could ever hope to be. Constantinople As such, it now travels the world on behalf of the Sabbat, was his vision of Heaven’s reflection on Earth, and he left dealing with trouble as it sees fit. not hing untouched from architecture do wn to the mortal While its actions are brutal, even excessively violent, populace. Michael knew of Myca’s boundless thirst and Sascha moves with cold reasoning; it is building Michael’s
+appreciation of knowledge and used him as a living record Dream in 1,000 minute ways. Everything it do es is for a to preserve and even emulate Constantinople’s glory in the design, from the way it cocks its head while speaking, to the
+future. Myca, being Tzimisce and visceral in his dreams, way it sloughs the flesh from a victim like pulling a sock from twisted Michael’s resplendent aspirations of Constantinople a foot. Unfortunately, the complete intricacies of Michael’s
+and fraternity into a vision of empires built with flesh instead Dream eludes Sascha’s understanding and drives him to the of stone and solidarity of blood instead of spirit. brink of excess. Sascha’s preoccupation with archeology and
+After Constantinople fell, Myca and Symeon became the occult is not an undirected thirst for such vagaries as
+“guests” of the Balkan Tzimisce. they valued Myca for knowledge and power. Sascha seeks to recapture Michael’s what ever insight he could of fer about Constantinople’s, and full lessons and dreams, which fade further from its thoughts
+thus Alexandria’s, knowledge. As history already told, this each passing year. When Constantinople fell, its Christian was not to last. Myca, driven by Michael’s dream to help (and later Muslim) invaders scattered much of its wealth and
+build something greater than himself, joined the nascent and wisdom throughout the Western Hemisphere and the Near promising Anarch Revolt. He proved his loyalty to the Sabbat East. Sascha surmises that the full scope of Michael’s vision
+by devouring and regurgitating his sire Symeon repeatedly rests somewhere with Constantinople’s stolen legacy. Recently, before finally diablerizing him. This earned him entry into how ever, Sascha has come to believe that Michael’s legacy lies the annals of Sabbat infamy, along with his actions at the hidden in others such as itself. Now Sascha seeks to recapture
+Convention of Thorns, where he sheared away his masculinity that knowledge by diablerizing the few remaining survivors and hurled it at the Ventrue Hardestadt in disgust. of Constantinople. This includes the Gangrel Baron Thomas
+Following Thorns, Myca became Sascha, a sculpted and Feroux, the Nosferatu Malachite and, most importantly, the and rogynous (if alien) beauty. In the early nights of the struggle, Dracon himself. Whether this proves Sascha’s greatest coup
+Sascha remained among the few Tzimisce who did not abandon or the beginning of its fall remains to be seen. the ir Carpathian keeps to the growing Camarilla. Unlike many r B, i C
+Adu is tri ti NerANt ArdiNALANd of its Sabbat colleagues, Sascha appreciated and understood the F p p
+AtherOFthe ur ChASe ACt necessity of employing mortals for Cainite gain. Many sect mem Cardinal Radu Bistri is the rarest of Tzimisce: a diplomat. bers, particularly the you nger ones, scoffed at the use of kine, Radu earned the not ice of the voivode Visya for his advice on
+but Sascha knew that the Camarilla grew strong in influence how to deal with the Hungarian Ventrue. Visya, a student of
+and territory because of the ir reliance on mortal society. Sascha the slaughter-and-subdue school of politics, Embraced Radu as
+chose to fight Hardestadt and the Camarilla lynchpins at the ir an advisor. Although born a revenant, Radu understood human
+own game, through mortal proxies. It sponsored the Uskoks, politics well enough to negotiate with the Ventrue and the ir
+Senj corsairs and Habsburg-supported pirates, in attacking the ghouls. In a time when the Hungarian Patricians did not recog Venetian and Ottoman shipping lanes. Most of ten, the se pirates
+nize the sovereignty of the Tzimisce, Radu for ced the m to listen. plundered for greed, but Sascha occasionally employed the m to
+Even after his Embrace and his rise to voivode, Radu retained attack Cainite-sponsored vessels in the hopes of kidnapping and
+enough of his political savvy to serve as the spokesman of the clan questioning the ghouls of rivals. Eventually, how ever, Sascha’s
+for several centuries. Although he was the Tzimisce diplomat interests drifted away from playing the Jyhad. It with drew to
+to the outside world, he had no counterpart to mediate disputes its have n and emerged only when a passing interest with the
+with in the clan. When the you nger Fiends rose up against the ir sect demanded otherwise. Few knew what Sascha was do ing; elders, Radu opposed the m — at first. But Radu’s political insight
+fewer really wanted to know. saved him. While other voivodes objected on principle to the rule
+Sascha reemerged from seclusion during the first Sabbat of the ir childer — and fell to the ir fangs — Radu surrendered
+Civil War. Its skills with the witchcraft of the heinous Tremere his demesne to the anarchs and joined the ir cause. were stronger than ever, and all ied Tzimisce suspected Sascha
+When all but the most stubborn Tzimisce voivodes had had grown in knowledge under the tutelage of Kupala. With
+been toppled, Radu continued to play the diplomat. When the signing of the Purchase Pact, Sascha seemed driven in
+the rebellious childer of Europe for med the Sabbat, Radu new directions with a thirst for arcane knowledge and archecreated the of fice of Cardinal of the Land Beyond the for est
+ology. Throughout the late 19th and early 20th centuries, to oversee Transylvania and the surrounding lands. In his duit sponsored (financially) do zens of expeditions into Egypt, ties, the cardinal proved far too effective: The Tzimisce under
+Greece and the Middle East. On the very rare occasion, it his guidance were at least coordinated, if not or ganized. He
+even joined the odd dig in the Holy Land, Lebanon or Syria. served as Cardinal of the Land Beyond the for est for barely
+This did not distract it from its duty, how ever, for during the a decade before the regent suggested that his talents might
+Second Sabbat Civil War, Sascha served Regent Gorchist
+Chapter three: among Fiends
+
+=== PAGE 99 === be more useful in the rambunctious New World. It did n’t Her work with Ari’s pack, renamed the Jagiellonians after
+take a diplomat to know what the regent wanted. Radu left the death of her sire “at the claws of Lupines,” continued until
+Transylvania for the American East Coast. the Second Sabbat Civil War destroyed most of its soldiers. The
+The situation in America appalled Radu. While the Sabbat you ng Cainites of Mexico City, many of the m not even Tzimisce, had escaped its elders, it had found not hing to replace the m. flocked to her for instruction in the ways of Metamorphosis. She
+No one could keep or der, and the Cainites of the New World also pleaded with the regent to encourage ritae of unity with in the spent the ir nights diablerizing one another rather than creating sect. Minerva and her surviving students claim credit for spreading
+a do main where they could exist free of the ir sires. Radu traveled the ritus of the Festivo dello Estinto beyond the confines of Mexico. all over the new United States, talking to various Cainites who After a pack of Camarilla archons brought Final Death had cobbled together some semblance of authority. The 1803 to the previous Voivode, the position was held in even lower
+Purchase Pact, which brought or der to a sect obsessed with free- esteem. Only Minerva, a now-destroyed Malkavian antitribu do m, was the fruit of his years of negotiations. Although Radu and a handful of obviously unsuitable can didates sought the
+felt it did too little, the pact did what elders could not — bring title. Minerva traveled all the over the world, visiting such discipline to the unruly childer of the Sabbat. luminaries as Velya the Vivisectionist, Vladamir Rustovich, In the modern nights, Radu still holds the title of Car- Righteous Endeavor, Radu Bistri and Sascha Vykos. None
+dinal, though he oversees no specific region. He continues of the m agreed to endorse her. Although she was obviously to act as a diplomat for the Sabbat. He was involved, though a faithful adherent to her Path, she was ignorant of Koldunic
+not instrumental, in the addition of the Salubri antitribu to Sorcery — a traditional prerequisite to become Voivode. the Sword of Caine. His current project: negotiating the ac- Undeterred, Minerva returned to Mexico City and declared ceptance of a do zen elder Gangrel who apparently abandoned that she had the support of the elders of the clan. She arranged
+the Camarilla over its inability to deal with some pressing her own confirmation as Voivode. Although none of her supposed threat. Radu now spends his nights playing at diplomacy in boosters have publicly disputed her claim, she’s only been Voivode
+this unlikely all iance. for a few months, a blink of an undead eye. She has Embraced several of the Mexico City Bratoviches to serve as her honor guard. m S -w, i NervA ChwALKe OJt Kiewi Cz
+v C t Now, she feverishly petitions the consistory to bolster the crusad Oiv OdeOF LAN zimiSCe ing efforts all over America. Minerva pushes a simple four-point
+The Voivode of Clan Tzimisce is the most powerful plan: take North America, take South America, take Europe, Fiend in the Sabbat. How is it the n that Minerva Schwalketake the world. She hopes her vague, ambitious plan, along with
+Wojtkiewicz is Voivode? her generous instruction in the Path of Metamorphosis, will be
+Because she’s just smart enough to get the job and just enough to silence those who could contradict her dubious claim. stupid enough to want it. Minerva brings the same feverish indecision to her own
+The Eldest is gone, and Yorak too. The five Voivodes who for m as she do es to her fragile Voivodate. She completely rearfollowed the m were increasingly inconsequential. The Tzimisce
+ranges herself at least once a month. Her current incarnation: Voivode is no longer the undisputed master of the clan. Since a hairless, nine-foot-tall skeletal nightmare with two sphincterthe Fiends joined the Sabbat, the title has carried little real
+like mouths for eyes. Her skin and fangs glow in the moonlight. power. In the Final Nights, the Voivode is a Winston Churchill r m g
+with out an army. She arouses hatred of the Antediluvians and ege Nt e LiNdA ALBr Aith loyalty to the Sword of Caine with immortal speeches, but she Regent Galbraith is dead.…
+has no recourse when her words fail to inspire. The annual Palla Grande, held on All Hallow’s Eve each
+As a mortal in Poland, Minerva wrote jingoistic plays and year, draws packs and covens from across North America short stories under a male pseudonym, denouncing the partition- into Mexico City. It is the Sabbat’s Christmas Day and
+ing of Poland that ended its existence as a state in 1795. Her Halloween all rolled into one; it is a bloody celebration sire Ari Ezbet did not believe the Purchase Pact would hold and of Cainite pertinacity. The regent and the highest cardisought to relocate to Mexico City, where he would establish a nals, prisci, bishops and archbishops also host the major
+foundation of sorts to crank out propaganda. Although he was events, including a Blood Feast, a Blood Bath and various disappointed that the writer who had driven him to frenzy with immortality plays performed by the sect’s artisans. The
+“his” words was really a woman, he Embraced her for her turn millennial Palla Grande celebration was supposed to be the of phrase that could ignite nationalistic passions. largest yet, an affirmation that the Sabbat had survived
+Under Ari’s instruction, Minerva became a fanatic of into the 21st Century. It was a grim festival of jubilation a different stripe. Her lifetime of crafting tropes about “the and a warning that the Sword of Caine must be vigilant
+realization of Polish identity” translated easily into a “real- against the ir greatest threat, the Antediluvians. With New ization of Tzimisce identity” that could only be achieved York lost and unknown tumult in do mains to the East, the
+through Metamorphosis. She became the principal leader Sabbat needed a reason for the se festivities. Few realized, of the propaganda factory Ari had long ago lost interest in. how ever, that the sect was about to suffer another blow, In early 1848, on the night the Treaty of Guadalupe Hidalgo the murder of Toreador antitribu Regent Galbraith herself. was signed, she diablerized her sire after an argument about The festivities began at sunset as expected, with Regent whether the American Army should garrison the city. Galbraith granting audiences to select Cainites before the Palla
+Clanbook: tzimis Ce
+
+=== PAGE 100 === for his closet-case clientele to pretend they were seducing a she
+instead of a he. Eventually, Zachary reached the age where he could work in bars instead of back all eys. He spent the next few
+years performing on the drag queen circuit and at cabarets in
+New York. That’s when he earned the attentions of the Sacred
+Band, a gay- and lesbian-predominant Sabbat pack that took a liking to Zachary’s talented antics on stage. Zachary, although you ng to the Sabbat, adjusted perfectly. His new nature as a Fiend all owed him to make those tiny
+alterations needed to make himself simply divine, but the impetus to be a drag queen remained. He loved the clothing
+and acting with a mix of Marylyn Monroe flash, Julie Newmar class and Bette Davis sass. This Palla Grande, the third of his
+you ng existence, was supposed to be his best show yet; he’d already entertained many with in the Sabbat with his dead-on
+impersonations of Regent Galbraith (do wn to her Spanish temperament) and other Sabbat not ables. Unfortunately, his
+skills have now placed him in a precarious position. For the past few months, Zachary has been playing Regent
+Grande was underway. Zachary Sikorsky, a Tzimisce drag queen Galbraith. During the se periods, he retreats into “meditative” with an uncanny skill for impersonations, was to meet with seclusion and all ows “her” retainers to speak on the regent’s
+Galbraith to help her construct her greatest costume yet. He was behalf. Although he’s grown more skilled at playing Galbraith, supposed to fleshcraft her into an angel, a creature of precise and Zachary is also becoming more panicked and paranoid. He fears aching beauty, replete with fine bone wings. Upon entering her his every word and action betray his identity, but the charade
+chambers, how ever, he discovered Galbraith’s corpse turning to continues for one more night. Zachary fears this “masquerade” ash and an arcane symbol painted in blood on the wall. will eventually come to an end once someone uncovers his
+With little time to spare and the Palla Grande near commence- ruse and slays him in righteous indignation. ment, Sikorsky assumed the regent’s for m and carried on as her. It Image: Galbraith is a Spanish beauty who keeps her was a decision made in sheer panic; Sikorsky knew that he — as brown hair short in that no-nonsense look. She wears the finthe last person to see her and as a member of a New York pack est contemporary fashions with an eye for the conservative yet
+now ousted after the Camarilla’s reclamation of its city — would complimentary cut. She looks more like an art gallery owner be blamed and tried for the regent’s murder. At first, Sikorsky than the Regent of the Sabbat. than ks to Zachary’s advanced
+assumed the regent’s role for the evening, all owing the Sabbat touch with Vicissitude, he possesses a physical equivalent to one moment of celebration following New York’s fall. When the the Regent’s majestic bearing. evening ended, how ever, Sikorsky realized he could n’t confide in Roleplaying Hints: You are Regent Galbraith; you are
+anyone if he did n’t know who had destroyed the regent. To this Regent Galbraith. You are merciless, ruthless and stern. You put night, he has remained Melinda Galbraith, Regent of the Sabbat, one hand on you r hip in that provocative manner when you’re
+and scared all to hell that eventually, somebody will out him. angry; you like to roll you r “r’s,” and oh, do n’t for get to turn on you r heel when you walk away. Why is he looking at me that
+z S, r S
+ACh Ary iKOrSKy ege NtOFthe ABBAt way? do es he suspect something? You are Regent Galbraith. Keep
+Background: …Long live Regent Galbraith. it together, and look distracted. Maybe people won’t bother you
+Zachary Sikorsky always knew he was different, even as a the n. do n’t for get to flash that feral smile when someone makes child. Call it stereotypical, but he loved dressing up in his mother’s a joke. No, that’s too much teeth, tone it do wn a not ch. You
+clothing when ever she was n’t around. Of course, she beat him are Regent Galbraith… and you are scared to death… again. pretty hard when she discovered the make-up he’d for gotten to
+Sire: Daniel Murphy clean of f, but she thought she was do ing him a favor by battering
+Nature: Celebrant (Director*) him into heterosexuality. When Zachary passed into adolescence, Demeanor: Survivor (Judge*)
+he discovered words like fag and queer were aimed at him. While that itself was difficult enough to cope with, Zachary realized he Generation: 12th
+was more comfortable pretending and even acting like a woman. Embrace: 1996
+He enjoyed being a man physically, but emotionally, he liked Apparent Age: early 30s* dressing in women’s clothing and playing feminine. Physical: Strength 2, Dexterity 3, Stamina 2
+By the time he was 16, Zachary was out on the streets, Social: Charisma 4, Manipulation 5, Appearance 5* hustling for a living. His mother threw him out of the house Mental: Perception 3, Intelligence 2, Wits 3
+when he came out to her. Zachary was a popular commodity
+Talents: Alertness 2, Brawl 2, do dge 3, Empathy 2, Subterfuge 4 on the street; already slight and hairless, he played his female
+Skills: Etiquette 3, Firearms 2, Melee 1, Performance 4 rolls well. When he dressed in women’s clothing, it was easier
+Knowledges: Linguistics 3, Occult 2, Politics 1
+Chapter three: among Fiends
+
+=== PAGE 101 ===
+Disciplines: Auspex 2, Presence 3, Vicissitude 3
+Backgrounds: all ies 5*, Contacts 5*, Herd 5*, Influence 5*, Resources 5*, Retainers 3*, Sabbat Status 5*
+Virtues: Conviction 3, Instinct 2, Courage 3
+Morality: The Path of Lilith 5 will power: 7
+not e: All entries with the asterisk (*) are for Galbraith. r e ighte OuS Nde AvOr
+Background: The father of this you ng Fiend-to-be was a witch-hunter who was more than a little upset to learn that his
+wife was a witch. Every night for two months, you ng Righteous witnessed his mother’s torture at the hands of his father and read
+himself to sleep with her copy of Liber Spirituum. Vindicating
+Freud, Righteous Endeavor Clay grew up to become the most not orious witch-hunter/witch of his day. do ubtless, he was one of Beelzebub’s favorites, but he had to
+practice his craft in private after confessing his entire coven. He visited one Sabbath after another, partaking of the Black Mass at
+night, the n bringing the militia around the witches’ homes the
+Roleplaying Hints: As you’ve do ne since you r breathing days, next morning. Eventually, his fame prevented such infiltrations. you’ve rationalized away the thrill you feel while eliciting a confession. New England knew him as a persistent witch-hunter who se stat Beating a sinner with a whip (the worse her sins, the better) sends ure defied the horrible accusations thrown at him by the witches
+tingles through you r legs, but in you r mind, you believe you’re just he’d captured. Witches behaved the mselves when ever he came
+good at what you do. No such rationalization governs you r relationship to town and quietly speculated about who really owned his soul. with the Beast — you hope that the irony brings Lucifer three smiles. While investigating “uncleane Ocurenses” in western
+You feel a desperate urgency when ever you’re involved in
+Massachusetts, Righteous Endeavor Clay heard rumors of a a hunt, which is always. The priorities of the rest of the Sabbat
+great society of witches beyond the borders of the colony. Mak- must be put on hold if you need assistance during an investigation. ing his for ay into “Indian lands,” he quickly located the coven You feel no remorse for what ever interruptions you might cause. (he’d killed and scalped his guide about three hours into the Usually, you r stature guarantees the compliance of who mever trip, but given the size of the witches’ bonfire, he discovered it you press into service. If you ever feel frustrated, think about the
+nonetheless). He discerned no unholy rites, but surely the ir fire Nosferatu Prudence Stone, one of the lucky few to have escaped dance marked the m as Hell’s own. Though it was not the one you and continue the pursuit with renewed vigor. he was looking for, Righteous Endeavor had found the Sabbat. Sire: Ezra how land
+Through the centuries, Righteous Endeavor (having dropped Nature: Sadist his superfluous surname soon after his Embrace) rose, through numer Demeanor: Traditionalist
+ous successful investigations, to become a priscus with in the Sabbat. Generation: 9th
+He currently travels all along the East Coast, leading ritae at various
+Embrace: 1713
+Cainite gatherings and inspiring the packs with speeches about the
+Apparent Age: mid-50s righteousness of the ir cause. He still conducts his witch-hunts, and
+his stature all ows him to do so away from the auspices of the Sabbat Physical: Strength 4, Dexterity 5, Stamina 3
+Inquisition. Once, he relied on the “infiltrate and convict” approach Social: Charisma 2, Manipulation 4, Appearance 2 of his mortal career, but now, infernalists give him a wide berth. In Mental: Perception 5, Intelligence 4, Wits 4
+the modern nights, his favorite tactic is to deputize packs — usually Talents: Alertness 4, Brawl 3, do dge 3, Empathy 4, Expression 2, those loitering around Blood Feasts, working to no good purpose. Intimidation 5, Leadership 5, Subterfuge 4
+Assisting Righteous Endeavor is simultaneously an education in Skills: Etiquette 4, Firearms 2, Melee 5, Security 1, Stealth 3, investigation and humility, but it’s an enviable credential for any Survival 2
+Sabbat to claim: His “fellow crusaders” do the bulk of the tracking
+Knowledges: Academics 4, Investigation 4, Law 2, Medicine 4, and of ten end up capturing the witches the mselves. The confes Occult 4, Politics 4, Science 3 sion, how ever, Righteous Endeavor invariably claims for himself. Disciplines: Animalism 3, Auspex 4, Thaumaturgy 5, Vicissitude 3
+Image: should er-length brown hair, considerate eyes and a
+Thaumaturgical Paths: Path of Blood 5, Path of Phobos 3, beak for a nose — stack the se on an unhealthy, gaunt frame and
+Taking of the Spirit 4 you’ll have Righteous Endeavor. Among the undead, he wears
+Backgrounds: Contacts 2, Resources 3, Rituals 4, Sabbat Status 5 a black wool cloak with heavy collars over a black frock coat, a
+Virtues: Conviction 1, Instinct 5, Courage 5 black waistcoat, gray breeches and white stockings. When mov Morality: Path of Metamorphosis 4
+ing among mortals, his attire is more current but no less dismal. In any situation, he insists on wearing his tall, black felt hat. will power: 8
+Clanbook: tzimis Ce
+
+=== PAGE 102 ===
+N: N: g: Ame Ature e Ner AtiON p: d: S: LAyer emeANOr ire
+C: C: h: hrONiCLe ONCept AveN
+A ttri ButeS
+p S m hy SiCAL OCiAL e NtAL
+Strength____________O__O_O_O_O Charisma____________O_O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O_O__O_O Wits________________O_O_O_OO
+A
+Bi LitieS t S K
+ALe NtS KiLLS NOw LedgeS
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge______________O__O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O_O__O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O_O__O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O_O__O_O_O
+A dvANt AgeS
+B d v
+ACKgr OuNdS is Cip LiNeS irtueS
+____________________O_O_O__OO ____________________O_O_O_O_O Conscience/ConvictionOOOOO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Courage____________OOOOO m /F h /p h
+eritS LAwS umANity Ath eALth
+__________________________ __________________________ Bruised
+__________________________ O O O O O O O O O O Hurt -1
+__________________________ Injured -1
+__________________________ w iLLp Ower Wounded -2
+__________________________ Mauled -2
+O O O O O O O O O O
+__________________________ Crippled -5
+__________________________ Incapacitated
+__________________________
+B LOOd p OOL w eAKNeSS
+__________________________
+__________________________
+Must sleep in at least two
+__________________________ handfuls of native soil
+
+=== PAGE 103 ===
+O t the r r AitS
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O r e
+ituALS xperieNCe
+N Ame L eveL t OtAL: _______________________________
+________________________________________ t S:________________________
+OtAL pe Nt
+________________________________________
+Spent on: ________________________________________
+________________________________________
+________________________________________
+_________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________ d
+erANgeme NtS
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+B B / v
+LOOd ONdS iNCu Li
+B Ou Nd tO r Ati Ng B Ou Nd tO r Ati Ng
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+OmBAt
+A we ApON d AmAge rANge r Ate CLip CONCeAL rm Or
+
+=== PAGE 104 ===
+™ e B
+xpANded ACKgr OuNd
+A LLieS m e NtOr
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+________________C_O__N_t_A_C__t_S__________________________________r__e_S_O_u__r_C_e_S_______________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________ F__A_m_e_ ____________________________________ r__e_t_A_i_N_e_r_S________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________h__e_r_d______________________________________ _S_t_A__t_u_S_ ________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_______________ _i_____________________________________________O_______________________
+NFLueNCe the r
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ p
+OSSeSSiONS
+______________________________________________________________________________________ g (C ) e (O )
+e Ar Arried Quipme Nt w Ned
+__________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________ F________ g________________________________________ v________________________ eedi Ng r OuNdS ehiCLeS
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+______________________________________h______________________________________________
+AveNS
+______ L__
+__
+A
+_ t
+_ i
+_ ________________________________d__ e
+_ r
+_ i
+_ p
+_ t
+_ i
+_________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_____________________________________________________________________________________
+
+=== PAGE 105 ===
+™ h
+is t Ory p
+re Lude
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+A ppe ArANCe
+____________________________________________________________________________________
+____________________________________________________________________________________
+Age _______________________________________________________________________________
+App aren't Age ______________________________________________________________________ d Ate OF Birth ________________________________________________________________________
+RIP________________________________________________________________________________ h Air ______________________________________________________________________________
+eyeS ______________________________________________________________________________ rACe ______________________________________________________________________________
+NAtiONALity __________________________________________________________________________ height ___________________________________________________________________________________
+weight ___________________________________________________________________________________
+Sex __________________________________________________________________________________ v
+is uALS
+C Oterie C h Art C h ArACter S Ket Ch
+
+=== PAGE 106 ===
+TM
+AA HHiissttoorryy ooff EEvviill
+FFrroomm tthhee aannaarrcchhss wwhhoo ffoorrggeedd tthhee SSaabbbbaatt ttoo ddrreeaaddeedd DDrraaccuullaa hhiimmsseellff,, tthhee TTzziimmiissccee hhaavvee ccaarrvveedd aann iinnddeelliibbllee ppllaaccee ffoorr tthheemmsseellvveess aammoonngg tthhee ssoocciieettyy ooff tthhee DDaammnneedd.. TThhee mmooddeerrnn nniigghhttss hhaavvee ccaauugghhtt uupp wwiitthh
+tthheessee mmoonnsstteerrss,, hhoowweevveerr,, wwhhoo hhaavvee ffaalllleenn ffrroomm tthheeiirr ppllaaccee aass mmaasstteerrss ooff hhooaarryy eessttaatteess ttoo ddeeggeenneerraatteess bboouunndd bbyy tthhee ccaalllloouuss wwhhiimmss ooff tthhee
+SSaabbbbaatt.. TThheeiirrss iiss aa nniigghhttllyy ssttrruuggggllee,, nnoott oonnllyy ttoo ssuurrvviivvee,, bbuutt aallssoo ttoo eessccaappee tthheeiirr ggrriimm ddeessttiinnyy aanndd oonnccee aaggaaiinn rriissee ttoo pprroommiinneennccee.. CCllaannbbooookk:: TTzziimmiissccee IInncclluuddeess:: •• TThhee pprraaccttiicceess ooff tthhee mmooddeerrnn TTzziimmiissccee,, iinncclluuddiinngg tthheeiirr rroollee aass
+ssppiirriittuuaall lleeaaddeerrss ooff tthhee SSaabbbbaatt
+•• MMaatteerriiaall oonn tthhoossee ttaaiinntteedd bbyy ccoonnttaacctt wwiitthh tthhee TTzziimmiissccee,, iinncclluuddiinngg tthhee rreevveennaanntt ffaammiilliieess aanndd tthhee OOlldd CCllaann
+•• UUnnsseettttlliinngg nneeww aapppplliiccaattiioonnss ooff VViicciissssiittuuddee,, sscchheemmeess aanndd tthhee ccllaann lloorree ooff tthhee FFiieennddss
+W W W. W H I T E - W O L F. C O M is BN 1-58846-202-1
+WW2361 $14.95 U.S. PRINTED IN USA
+CLANBOOk: WW2361
+TM
+CLANBOOk: WW2361
+TM
+CLANBOOk: WW2361

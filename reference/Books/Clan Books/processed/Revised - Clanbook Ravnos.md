@@ -1,0 +1,3812 @@
+=== PAGE 1 ===
+TM
+CLANBOOk: TM
+TM
+
+=== PAGE 2 ===
+C L A N B O O K: ™
+B D ’ B y eirD re rOOKs
+Contents
+
+=== PAGE 3 ===
+C s t re Dits pe CiAL hANKs
+Written by: Deird’re Brooks Two Small Mummies
+Developed by: Justin Achilli Chadbot
+Editor: Diane Piron-Gelman Night Monkey
+Art Director: Richard Thomas Angie Harmon
+Layout & Typesetting: Becky Jollensten Boxed Boys James and and y
+Interior Art: Mike Danza, Leif Jones, and rew The Camarilla
+Trabbold, Drew Tucker, Christopher Shy All that sediment in the bottom of my wine glass
+Front Cover Art: John Van Fleet The Fred Durst mullet skater
+Front & Back Cover Design: Becky Jollensten Paul van Dyk
+D V ieDONthe i Ne
+Monkey-Chickens: The Whip-Assing. Sorry, Dean. D uh
+The Mind’s Eye the atre credit for Alan I. Kravit was accidentally left out of Clanbook: Tzimisce. I am a
+cabbage. © 2001 White Wolf Publishing, Inc. All rights reserved. Reproduction with out the written permission of the publisher is expressly for bidden, except for the purposes
+of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire, Vampire the Masquerade, Vampire the Dark Ages, Mage
+the Ascension, World of Darkness and Aberrant are registered trademarks of White Wolf Publishing, Inc. All rights reserved. were wolf the Apocalypse, Wraith
+the Oblivion, Changeling the Dreaming, Hunter the
+Reckoning, were wolf the Wild West, Mage the Sorcerers Crusade, Wraith the Great War, Trinity, Clanbook
+Ravnos, and Time of Thin Blood are trademarks of
+White Wolf Publishing, Inc. All rights reserved. All characters, names, places and text herein are copyrighted
+by White Wolf Publishing, Inc. The mention of or reference to any company or product in the se pages is not a challenge to the trademark or
+copyright concerned. This book uses the supernatural for settings, characters and the mes. All mystical and supernatural elements are
+fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised. For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at
+http://www.white-wolf.com; alt.games.whitewolf and rec.games.frp.storyteller
+PRINTED IN USA. Clanbook: Ravnos
+
+=== PAGE 4 ===
+C L A N B O O K: ™ t C
+ABLe Of ONte Nts i NtrODu CtiON: t he D e ViL ’ s D ue 4
+C h Apter O Ne: A greeD u pON L ies 14
+C h Apter t wO: O N the A rt Of B ei Ng r AVNOs 38
+C h Apter t hree: O rphANs iN g eheNNA ’ s w AKe 70
+Contents
+
+=== PAGE 5 ===
+Clanbook: Ravnos
+
+=== PAGE 6 === t D ’ D
+he e ViL s ue
+“Bloody hell,” Gwen muttered into her no trouble sneaking a thief like her out drink. “One last night of freedom.” She of the law’s long reach, right? Gwen
+drained the glass in one gulp, shudder- signaled the barkeep for a fifth shot and ing as the scotch burned its way to her took a moment to watch the room swim
+stomach to join the party already started around her. It looked unreal, like her time by the previous three shots. around Johann. Something about him made
+Gwendolyn Brand, Ph. D., fully in- the world fuzz out at the edges. tended to drink herself into oblivion. The barkeep tapped her on the should er, She’d have a headache tomorrow, but “do n’t you think it’s time to go home?” she regarded that as an acceptable Gwen shook her head and tried to focus
+compromise. Where was that bastard both eyes on the balding older man. He
+Johann when she really needed him? was looking annoyingly paternal. “A
+The lazy fuck got her into this mess, you ng lady like you should be home with the n vanished just when she needed to you r boyfriend on a night like this.”
+get out. A smuggler like him should have the Devil’s Due
+
+=== PAGE 7 ===
+She shook her head again, partly in The dance floor flashed with a million denial and partly to reduce the number colors while you ng people from a do zen
+of barkeeps in her vision to one. “Nossir.” different nations thrashed around each
+Damn, I’m slurring already. “No… sir. I’m other to the music of an is raeli pop senwaiting for him. Gimme… Give me another sation named Dana International. The scotch, please.” With any luck, she could mingled smells of sweat, alcohol and a
+perforate her liver enough to die before lesser cloud of illicit drugs lent an air of she grew old in prison. unreality to the proceedings. Gwen sat
+The barkeep nodded and shrank into at a corner table, her flight bag filled the shadows, leaving Gwen in peace. She with portable treasures for Johann to
+stared into her empty shot glass. “Bas- auction in the States. tards. You buy the m books, you pay the ir Johann, the bastard, was late again. way, and what do they do? they eat the He’d never been on time and refused to bloody teacher. Fucking bastards.” try to change his habits. The treasures
+The final time had been in is tanbul. she was holding for him had come from
+She’d met with Johann in the Kumkapi one of the endless digs intended to idendistrict, in a nice, modern nightclub. tify the real Plain of Ilium, where the
+Clanbook: Ravnos
+
+=== PAGE 8 ===
+Trojans and Greeks supposedly fought has h here is the living end, I tell you. So, the Trojan War. The trinkets certainly what’d you bring me?” looked like they dated from the Achaean Mollified by his softer tone, she
+period, but could easily have been later ticked of f the acquisitions again, for imitations. Gwen did n’t care beyond the getting about the Anglo, the music and generous finder’s fee Johann always the club in general. The Gwen in the
+had ready. present-day Horse Brass Pub cursed
+She thought she recognized an Anglo herself for the hundredth time for that face near the bar, but the light was too moment of inattention. dim in contrast to the strobes for her to Johann interrupted her halfway
+be sure. Before she could take a closer through the list. “Hey, kiddo, that sounds look, Johann appeared and sat opposite good, but can you show me something? I’d
+her. She studied his narrow, pale fea- like a look before I commit to anything.” tures, marked by an unusually high flush He patted his jacket, where he usually
+in his cheeks — probably from the close kept his wallet. His cavalier attitude heat in the club. As usual, his pupils were always amazed her. The cocky bastard
+slightly dilated and his otherwise stylish could walk through the nastiest part of clothes unkempt, as if he’d been sleeping any city in the world in the middle of the
+in the m for a week. He stared at a point night and show not a single care for the just beyond Gwen’s left should er, focus- fact that his presence screamed “Victim!”
+ing owlishly for a moment before asking to the moon, stars and every predator who in his clipped New England accent, walked the streets. Even more amazing
+“What’d you bring me this time? I hope was the fact that he never seemed to you have some intact pottery. One of my suffer for it. The sod. buyers has been on my case for ages—“ She slid the green flight bag over to
+“Hush!” Gwen cut him of f and him. Let him open it up. She did n’t want glanced around. No one was looking to get caught handling this stuff in pubher way — wait, had the Anglo at the lic, but she could n’t let Johann go. She
+bar just turned around fast enough to needed the cash. Johann seemed happy get whiplash? He was leaning against enough with the trinkets and tossed her
+the bar now, his pose casual. She kept an envelope stuffed with hundred-do llar half an eye on him as she spoke to Jo- bills. Bloody Yank could n’t be bothered
+hann. “I can’t even count all the laws to exchange the money before paying of f
+I’m breaking by meeting you here. Could his faithful thieves. you at least keep it do wn?” Apparently satisfied with the trans Johann’s eyes widened at her imperti- action, Johann got up, slung the bag nence. He stared for a few moments, the n over his should er and headed for the
+shook himself and shrugged with a for ced exit. A black-haired woman Gwen had smile. “Sorry baby, got carried away. The seen a do zen times but never met caught
+the Devil’s Due
+
+=== PAGE 9 === up with Johann half way, and the two tice the ir illicit activities. Do you think
+left the nightclub for the warm, Medi- this university has stood for as long as terranean night. it has, maintained its reputation for as
+A week later and back in London, long as it has, by coddling reprobates?”
+Gwen received a letter from Dean His volume increased until the final word
+Wellesley. The missive demanded an literally rattled the windows. immediate meeting and explained little, “No sir.” Now Gwen knew that the though she had a definite feeling the man dean had learned of her dealings with
+wanted her head on a platter. Johann. But how? Dean Wellesley was well into his The answer arrived moments later. 50s, probably on the verge of his sexage- Dean Wellesley turned from Gwen and narian decade. His age only added to his spoke into his intercom. “Miss Wallace, for midable presence. Rumors around the could you please send the boy in?” He
+college claimed he could stare do wn the barely waited for the affirmative and most incorrigible student in seconds, with waved Gwen to silence before she could
+only the lift of an eyebrow to indicate ask a question. “All will be clear in a mohis displeasure. Despite the stories, Gwen ment, although I am certain you already was not prepared for the full for ce of know why you are here.”
+the man’s anger that assaulted her the When the do or opened, Gwen stared. moment she entered his of fice. “What on The you ng man standing in the do orway
+Earth were you thinking, do ctor Brand?” was Edward Taylor, her research as His emphasis on “do ctor” gave her the sistant from the Ilium dig. With a sudden distinct impression that he did not view chill, she realized it was him she’d seen in
+it as an honorific. the Kumkapi nightclub. The dean directed
+Startled into speechlessness, Gwen Edward to sit — something he had not could only shake her head. The dean barely invited Gwen to do. not iced her reaction and thundered on. “Now, Mr. Taylor,” Wellesley said
+“Oxford is England’s most prestigious in a more controlled tone, “could you university. It exists to provide the you th repeat for Dr. Brand what you told me
+of every generation the very best op- a few days ago?” portunities for education to better the ir
+Gwen’s heart sank as Ed — who m lives and the ir careers.” He paused, his
+she had considered a friend — produced gaze boring into her skull. photographs of the stolen materials and
+Gwen nodded, suspicions developing. described her rendezvous with Johann
+“Yes, sir.” She took a breath and started do wn to the exchange of goods for money. to ask what was going on, but the dean Ed also produced the not e Johann had was of f again. sent to arrange the time and place — not
+“Oxford is not here to provide petty damning in itself, but in combination with criminals with a venue in which to prac- the rest…. Clanbook: Ravnos
+
+=== PAGE 10 ===
+Wellesley turned his for midable Gwen stood straighter and met gaze back to Gwen. “Now, you ng Wellesley’s gaze. “Yes, Dean, I do have
+lady, have you anything to say in you r something to say.” If he could use honordefense? Before you begin, you should ifics as weapons, so could she. “I did it. also be aware that I have authorized What else could I do? I could n’t afford the hiring of investigators to check to live on the pittance this university
+Mr. Taylor’s claims before summoning laughingly calls a salary. Perhaps if the you here. Such accusations leveled ancient and famed Oxford University
+against one of our faculty — even one paid me as much as any male professor as new as you rself — are very seri- receives, I would not have been comous indeed. We have evidence of you r pelled to seek an alternate for m of
+the fts from dig sites stretching back to income. how ever, I have committed no the beginning of you r archaeological crime on English soil. My solicitor will
+career. I am appalled that you would contact you shortly.” Before Wellesley not only risk you r own professional or Taylor could stop her, she stormed
+standing, but also the reputation of out of the of fice, slammed the do or and our alma mater.” ran for her automobile. the Devil’s Due
+
+=== PAGE 11 ===
+She drove to Piccadilly Circus, spent Johann arrived at the pub four hours several minutes looking for a parking late. Gwen had chased of f a second atspace, and the n took the tube somewhere tempt to wave her home with a tip in the
+else. She did n’t care where, she just rode do uble digits. The Yank was his usual until she found someplace promising and unflappable self. “So, what can I do for
+stopped. She had no intention of calling a you — Holy shit, how much have you lawyer, but she did want to call Johann. been drinking?”
+The bastard got her into this mess, he Gwen looked at her glass. “All of it.” could get her out. She did n’t believe she Johann grinned. “Well, at least
+could stay out of prison for a minute, you made it interesting. Let’s go, shall not with out help. we? I’ve prepared a room at the Royal
+She did n’t dare return to her flat or Garden. Only the best for my ladies.” He her car. The first or der of business was helped Gwen to her feet. “When you get
+to call Johann and lay out her situation in trouble, you do n’t do it in small do ses, with out incriminating him as well and do you?” She mumbled an answer, fatigue to arrange a meeting. The second was and alcohol carrying her beyond verbal
+to keep moving until Johann could reach responses. By the time Johann got her into her. She placed the call and waited, his rented car, she was out cold. stomach roiling. She awoke briefly on the most
+“Hello?” came Johann’s voice on the comfortable bed she’d ever slept in. Halfother end of the line. conscious, she was aware that Johann
+“Listen, you Yank idiot. I need help. My — who else could it be? — was do ing boss said he knows about us and I know something to her that felt good — bethe’s called the police. they’ve probably ter than the best scotch and the best sex
+put out a bulletin with my picture on it. rolled into one. She’d take him to task if
+If you do n’t help me, I’ll tell the m every- she could only stop melting into the matthing I know—“ tress. She slipped back into sleep, haunted
+“who a, who a. Slow do wn, baby. Just by dreams tainted with the paranoia of how deep is the shit you’re in?” the past two days. “I could drown you in it.” She awoke fully sometime in the late
+“Right, the n. I’ll be over as fast as I afternoon. The sun’s rays shone through can.” the open curtains and hammered at her
+eyelids like a bad bass rhythm. She for ced they had made arrangements to hook
+her eyes open through the pounding headup at the Horse Brass Pub. And so now ache. She could taste her tonsils — and
+here she was, getting drunk on Scotch, they did not taste good. She turned her never a brilliant move when you have n’t
+aching head and saw a not e on the pilslept in two days, but she was so tired low next to her, in precise handwriting: of running. Clanbook: Ravnos
+
+=== PAGE 12 === do n’t go anywhere, do n’t use room He helped her into a chair. “I had hoped
+service. I’ve left you food and drink for to hold of f for awhile, at least until I the day. I’ll be back this evening and we could explain everything, but things are
+can leave. tense, and the only way I can get you out
+Kisses, of London — anyway, what ever you do, Johann what ever happens, do n’t panic.”
+“Wonderful,” she muttered. “Trapped Gwen opened her mouth to argue, but in a hotel next to Kensington Palace with all the fight suddenly drained from her. the police no do ubt scouring the streets She knew that Johann had somehow
+for me.” She straggled out of bead, closed caused her lethargy, but could n’t find the the curtains, shut of f all the lights, and strength to confront him or even move. sipped as much water as she could hold She even lacked the energy to find the
+do wn. Solid food was beyond her. “I’m experience frightening. such a bloody fool.” Through a miracle A small part of her mind remained alert of biology, she do zed of f before evening. through the last vestiges of hangover and
+Johann woke her hours later, on time what ever was smothering her soul. That for once. “I’m sorry I had to leave you. part saw Johann’s perfectly normal teeth
+You’ll understand why soon enough.” grow into frighteningly sharp fangs. That the Devil’s Due
+
+=== PAGE 13 === part of her mind screamed bloody murder of his mouth, where one of Gwen’s rings
+when he sank those knife-like teeth into had caught the skin. He wiped the blood her throat. She swooned as he drained with the back of his hand and stared at
+her blood in swift gulps. She barely felt it for a moment before licking it clean. the intense pleasure the feeding instills Gwen stood, shaking with rage. in victims before she passed out. “What have you do ne to me?” She could n’t
+Gwen stood on a flat plain, mountains feel her heart beating and did n’t bother in the distance, heavy clouds obscuring to check for a pulse. “I wanted to live
+the stars. A red light flashed in the dis- somewhere that would n’t extradite me, tance, searching. The red was not so much not get into kinky… what ever this is!” a color as an emotion — intense anger Johann wondered briefly if he’d do ne
+and hatred mixed together, emanating the right thing, but bulled ahead anyway. from a source so strong it was visible to “Look, I can understand you r outrage. I the naked eye. She knew she could not mean, someone did this to me once. Anyway, all ow it to find her, but lacked a place we need to get you a vessel — some susteto hide. She turned to run— nance before you lose control and start
+Johann pressed his wrist to Gwen’s snapping at throats. Call room service.” mouth, staining her face with a thick, “And or der what? Steak tartare?”
+cold liquid that burned her throat as she “It do esn’t matter if you want the drank like no scotch ever could and barely bellhop, but you can’t kill him. I like this
+satisfied a hunger that permeated her be- hotel and I want to come back.” ing. “Drink, damn you.” She swallowed a
+She laughed at him. “Maybe I will kill large clot that had pooled in her throat
+him.” the n she stopped, surprised that such while she was unconscious and drank, words had come from her lips. “No. Wait. unable to think of anything else. This is n’t right.”
+She kept drinking until the hunger
+“Fine; I’ll call room service.” Johann subsided to a controllable level and her
+started for the phone, but Gwen beat mind returned to rational thought. the n
+him to it. she snapped her head away from his wrist, She smirked. “I’ll handle it, just like you stared at him for a moment, and slapped him
+told me.” She picked up the phone and dialed. as hard as she could. “You. Filthy. Yank. “What’s the most expensive item on you r
+Bastard!” She ran out of breath and had menu? What’s in it? Very good, I’ll take
+to consciously take in more air. “What some. And send up some of you r best wine, the hell do you think you’re do ing?”
+if you please.” She winked at Johann as
+His nostrils flared and he snarled beshe hung up. “I’m sure you can afford it.” for e visibly regaining control. “I’m saving
+The wait was nerve-wracking for you from a prison sentence, just as you
+Gwen and frustrating for Johann. When asked.” He spat each word as if it were
+the bellhop finally brought the meal, a dagger. Blood trickled from the corner
+Clanbook: Ravnos
+
+=== PAGE 14 ===
+Gwen briefly snapped out of her mood Gwen. “We must leave now — we can’t and latched onto the poor man’s throat. let Queen Anne catch us here. Especially
+She would have killed him, lost in slak- after that little episode. I’ve arranged ing the hunger that threaded through her transportation for tonight. Move.”
+body and soul, had Johann not pulled her Gwen, reeling under too many unaway. “Lick the wound,” he hissed. Too natural surprises for one evening and startled to argue, she obeyed. still tasting human blood on her lips, As soon as the dazed bellhop left — with could n’t muster the will to argue. She
+a hefty tip and apologies for his “unhealthy followed Johann into the night, and the wife” from Johann — the Yank turned to new existence that awaited her. the Devil’s Due
+
+=== PAGE 15 ===
+Clanbook: Ravnos
+
+=== PAGE 16 ===
+C O: h Apter Ne
+A u greeD pON
+L ies
+HISTORY, n. An account mostly false, of events mostly unimportant, which are brought about by rulers mostly knaves, and soldiers mostly fools. —Ambrose Bierce, The Devil’s Dictionary
+Okay, this is what you wanted and it’s all I could a mountain in Pakistan, but when we went the re, dig up. than k you so much for sending us into the it looked like pure hell. Something had warped the middle of India and all those Chinese and Indian landscape and fused it into glass. John saw a crack
+psycho-Kindred out for our vitae. running through a mountain. We found not hing
+We found the have ns you told us about and dug useful the re and did n’t really want to hang around. out the journals and artifacts. John and I translated I swear something was watching us the who le time. and transcribed it in a stinking hotel room in Calcutta Something nasty. while some fucked-up coterie calling itself the Bone If even half of this stuff is true, I want to get of f
+Flowers was looking for us about 200 miles away to of this world right the fuck now. the south. I can’t promise that any of this will make A not e about dates: If it happened before the sense or answer you r questions, but I bet it’d make a Bronze Age, I do n’t have much in the way of accurate
+great summer blockbuster. You know — one of those chronology. The era of Enoch and the Karavalanisha really overblown ones. We could cast Ah-nuld as Vrana just do esn’t exist on the calendar. My best
+Zapathasura, the tougher-than-hell bastard who just guess is between 10,000 and 6,000 BC, but I have no won’t stay dead. Drew Diaz, or what ever Hollywood rational way to narrow that do wn. You want better
+who re is hot right now, could play the love interest specifics, you can come get the m. I’m busy holding who sticks a knife in his back, the Gangrel progenitor. my bitten-of f arm to the stump left after the attack
+We found pieces of the Karavalanisha Vrana, by a flying head with all the guts hanging out, and though not a complete copy. Clues pointed us toward hoping it will heal. ChapteR one: ag ReeD upon lies
+
+=== PAGE 17 === t K V: A A
+he ArAVALANishA rANA N si De
+L exiCON
+So you’re reading this history and wondering, Clanbook: Ravnos introduces several terms not
+“What the hell is this Karavalanisha Vrana crap?” seen in other Vampire titles. Many are derived from
+The Karavalanisha Vrana, translated as Wounds Hindu words, but the ir use among Ravnos may differ of the Night’s Sword, is an epic poem about the from usage among mortals. Other words are derived
+or igins and early years of the Ravnos clan. It falls from the Romani language, as spoken by the Rroma. Alexandrites: A lineage of Ravnos for merly into clear fabrication and fable at points, especially
+centered in Egypt, now scattered. when the author tries to justify the existence of asuratizayya: “Countless demons”; what the
+the Ravnos and the ir holy purpose. It also serves
+Ravnos called the siddhi after the ir fall. as the basis for the Path of Paradox, a Ravnos code
+Bashirites: A Ravnos lineage who se members of ethics that sees the Embrace as an investment
+were apocalyptic Christians. Most joined the Sabbat. of duty rather than an excuse to claim jurisdiction Brahman: One of the or iginal Ravnos jati. The over life and death just because those Embraced Brahman had “second sight” and could perceive the
+drink blood. world in strange ways. Known for the ir gift of prophecy. All evidence indicates that the Ravnos believed Chandalas: One of the jati, though not always
+Ravnos. This jati is composed of outcasts and caitiffs, Zapathasura him/her/itself wrote the or iginal text, and is considered impure. but the n Kindred of all stripes are good at the big jati: A Hindu word, meaning “caste”. Among the
+lie. I suspect the real culprit was a now-for gotten Ravnos, it denotes lineage. Among Indian Ravnos, elder with more time and poetic talent than good lineage and caste are considered the same thing. sense. The Karavalanisha Vrana could be based on Karavalanisha Vrana: Wounds of the Night’s
+Sword. An epic poem about the Ravnos clan’s history earlier tales about our or igins, or might be a work
+in India. Much of it is metaphorical or all egorical of fiction some ancient bastard wrote so he could
+and may make only sidereal reference to real events. keep his childer in line. Zapathasura is the rumored author, but it’s more likely
+Right now, it’s hard to tell either way. The ex- that several Ravnos contributed to the work over time. is ting text is also the best starting point we have. Kshatriyas: The jati associated with warfare and leadership. they led the war against the asuratizayya
+Against my better judgment, I believe in it. It just… for millennia. feels right. kumpaniya: A traveling family or company
+i r of Rroma. Sometimes described as Gypsies, the se
+NDiAN eCOr Ds companies may harbor Kindred among the ir ranks. the se records are taken from a half-do zen mayaparisatya: From maya, referring to illuhavens, presumably those that belonged to elders sion, and parisatya, referring to truth. It refers to the
+who were destroyed during the Week of Night- “paradox” in the Path of Paradox. The word also occasionally refers to the Path itself or to Chimerstry. mares. Stories in the Americas and Europe describe
+Phaedymites: A visionary branch of the Rav Ravnos flying into frenzy and suffering diablerie or nos, this line vanished just after the for mation of
+Final Death. The Ravnos elders showed no signs the Camarilla. of violence or even resistance. the ir desiccated Phuri Dae: Brahman Ravnos who traveled west remains apparently fell where ver the victims were with the Rroma. The word comes from Romani and
+standing, or stayed where they were sitting or lay- means “old woman.” shilmulo: A Kindred; the undead. ing. Something appeared to have drained all the
+siddhi: Supernatural beings charged to protect vitae out of the ir bodies. humanity from demonic for ces. they failed, becoming
+We burned every body we found, or scattered demonic the mselves, and were cursed for the ir failure. the ashes when too little of the corpse remained. Sudras: The most common meaning is “Ghouls”, but the title carries other for mal connotations. M f L
+Ar CiA e LiCiA i CiNiA svadharma: An individual’s purpose; her reason
+Centuries ago, the Ravnos elder Marcia for being. Felicia Licinia, childe of Phaedyme, childe of Vaisyas: A Ravnos jati concerned primarily
+Marizhavashti Kali, childe of Zapathasura (as she with interaction among mortals and covering up signed her name) compiled a trove of information any evidence of Kindred existence. on Ravnos history and lineages. Her own journals Zapathasura: The Ravnos progenitor. More of
+a title than a name, this word means something like
+“Accursed Monster.”
+Clanbook: Ravnos
+
+=== PAGE 18 === indicate concern at the arrival of Ravnos with
+the nomadic Rroma and the ir disdain — even hostility — for the Ravnos already established
+in Europe. Much of the following account comes from Marcia’s writings. Lawrence received Marcia’s records in an anonymously shipped parcel I refer to as the “care package.”
+I can not vouch for Marcia’s accuracy — some of her writings are do wnright unbelievable — but I
+included the m for the sake of completeness. Her history fills in gaps that the Indian material could
+not, especially regarding the do ings of the Ravnos once they left India. Also, I can’t claim to have been
+around when much of this happened, so maybe my modern mind just can’t wrap itself around what she’s
+describing. Perhaps those older than I can vouch for the veracity of various incidents… oops, no
+they can’t. they’re all dead. We may never know, but here you have it anyway. D D eMONsANDthe eAD
+According to the Wounds of the Night’s Sword, the Ravnos first appeared in India when a group of angelic guardians betrayed the ir duty and used
+the ir powers to spread war and tyranny across the face of the Earth. the se beings, called the
+siddhi, were called before the gods to face justice. The siddhi stood accused of murder, of using the ir power to drain the life from the humans
+they were charged to protect. they also faced judgement for losing track of the ir purpose — to
+battle the true demons that encroached upon the mortal world. The gods cursed the siddhi, taking the ir divine
+breath from the culprits and cursing the m to become one with the darkness. The gods named
+the m asuratizayya, or “countless demons.” Because the gods could not strip the accursed horde of all
+its power with out greater harm to the world, they chose to create a balance. they summoned the
+soul of a man more terribly wronged than any other mortal by the siddhi’s crimes and told him
+that he was to become like his tormentors, so that he could hound the m to the four corners of the
+Earth and destroy the m. Unlike the asuratizayya, the man would be able to make more of his own kind and so overwhelm the enemy. Unfortunately, the true demons saw how the gods’ chosen warrior
+was returned to Earthly existence as one of the
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 19 === unliving and taught the secret to the asuratizayya. of death, destruction and the end of the world. The fallen angels could not learn the secret of The Black Mother was famous for her perception
+the Embrace, but with this knowledge, they did and understanding of all layers of reality and was not need it. a renowned prophetess. The Brahman, and later
+Some of the gods feared that the ir unliving the Phuri Dae, claim descent from Zapathasura warrior would turn on the m as the siddhi had, through her. The stories say she could sense the
+and cursed him. The gods of fire and the sun asuratizayya from hundreds of leagues away, know especially despised this creation because it drew the deepest inner thoughts of all near her, and kept
+life not from warmth, but from death. The king a list of the sinners and saints among her peers. of all the gods declared that the warrior would After the Black Mother abandoned Zapathasura have no true name, that he would simply be and his war, her sire or dered her name stricken
+Zapathasura, or anathema, as well as a demon from all records. (Obviously, they missed a few.) like those he fought. I should make it clear that The second childe was the Rakshasa, reputed
+Zapathasura and the asuratizayya were never to possess unequaled skill at deception. Acreferred to as true demons, despite the meaning cording to the stories, he could walk among the of the word asura. True demons lived apart from most potent of the asuratizayya with out risk of
+the world and sought to own or devour it. The detection, suckle at a tiger’s teat and sell water asuratizayya were beasts that chose to emulate the to a thirsty fish. During the long years when he
+true demons, and Zapathasura’s creation is best stood at Zapathasura’s right hand, he acted as summed up as, “It takes a thief to catch a thief.” scout for the Ravnos and learned much about the
+On the brighter side, the gods gifted the ir enemy. In time, he disagreed with his sire’s war wunderkind with the ability to command animals, and made the mistake of telling him so. The two
+with stand tremendous physical punishment and fought bitterly and the Rakshasa barely escaped. manipulate maya directly. Unfortunately, his undead According to the Karavalanisha Vrana, he turned nature somewhat proved his undoing. Zapathasura to Zapathasura’s second-greatest enemy. Based on
+envied the living and took far more than he needed the apocrypha, that enemy might be the so-called to survive. He passed this hunger on to his childer “traitor” Ennoia. According to other records, the
+and ultimately to the Ravnos clan. Rakshasa may have sought refuge in Africa or
+I want to highlight something here: The what is now referred to as the “Middle Kingdom,” asuratizayya were bloodsucking demons risen from where the Cathayans prowl. the dead to feed on the living. Sound familiar? It
+damned well should! The so-called asuratizayya A w or D frOM D r. M Ayhew are just another clan of Kindred. My first guess
+w l h a t m t t o A b O g a u h l e t a i o l h t s i l h r s c t o l s d e o y u t s e k e u c t Z T r o l o r h e t c s L d f a t r s i h r h a e o o i n p a l t a i t n e a i n b h d a l r w t n n t a i d t h e f y e n of s k o h u s d r i e u e w t, a r s o t o s i o a t g b s e s f h e h f B h f g f t f h u u d e e h o e fi e y t r t t r r i s h a i v w e w s e s G w o R O w e a e E n i e e n r c r t a m O a e c ’ x t s R o h v e a v ’ n h i D v b c e t b l s n a g i u l e e K o t r l f e v e o r e a p d o n u f a e d n t n c s e u. o n t l l h e o r c n i, r e c. c d t i e e s d x r s M h o b. e fi t t c n v e H u p a v. h a l e o t t o e a I, e e r B t e e n e t t h t t d m L l i m h d, h h i m a n a a i a e e c t s n s e y g r h w y k o a S s k H t ’ h e c a m r o i a M n a t e e i s b i o h n b v n t t b c c o e e m d r h h d o c a a t u e E e i w h e a t n c i a m fi n s r e g a of o n i r u t r o t o u b o s f d e. i s t d r l r n o e s t i d a c T T d g o h n a d c - e i e l r h a z b e. e n n l s t i t d d e y e - s - I s s. I l m R r e v g t b a e d s m t y i h e h t a l s t h k o a h o e a a o d s e r c o e t u e k n h s e h R h d, i l e, v ” o a R a m a.. t i o a s “ k h n e b O I p f T a k s w w u i f l f m h s h c t t i i w h t h o c a s e o c h m a t a h e a s of t h e R t h a s u s p i R a t a a t e o r R h l o a t E s k ’ n s e s a e u fi v e s m t c i k e, n r h m t r a o t s b h v s e o u a b t h g p r x t i h s a i s l v r a a l l t d t a i o i a y e s j c s s t f a d e s Z a y s d d d b p t t a i t i r h e w m o. w h t p. a g a o e o e T a i p e I n s s f t t r t t p h l h k S h e t n y G t a o e w h h u a o u o w s a e e d m s t o s f s t e u u p r g m i e q n Z a t a r l n e a h u h d a d a s s c a d n o e e p i o t i fi u s a a s e e l c a h A t y s o r l c n l a t i, t s m i e n o h t n d a a o r e n i a c e l b w t e h, i t b s e f l t e h o a w a i x e u u h b n s f r i s s p r t a u o h n t e t a h t u l ’ t n r e a g s a a ’ o d l e s c t i d w s h e n s e other than
+Kindred. Clanbook: Ravnos
+
+=== PAGE 20 ===
+Zapathasura’s third childe was more loyal t he g ANgreL h eresy than the first two. Known as Chandraputra the A text separate from the Karavalanisha Vrana
+General, he reputedly led the Ravnos into battle and given no title describes the creation by the against the asuratizayya. He worked with the Black gods of a second undead monster. She is called the
+Mother to coordinate intelligence, from which most dangerous of warriors, supposedly mastering he developed his strategies. He may have ruled the art of shapeshifting in or der to better combat
+over the mortal city-nation of Harappa until it the asuratizayya. When the gods told her the price went to war against the asuratizayya stronghold of her existence, she cursed the m for making her
+of Mohenjo-Daro. The Kshatriyas jati traces its an unliving beast and turned her back on the duties lineage through Chandraputra. they had charged her to fulfill. The fourth childe, Ravana, all egedly bargained Enraged, the gods cursed the ir second creation
+with the true demons for power greater than he to “dwell among the beasts and find no safe have n could ever earn from his sire. The text is remarkably anywhere in the world.” they also gave her bestial
+short on specifics, though it do es say he vanished features, so that no human would be deceived by from the world after striking the deal. Later tales her appearance. The text names her as Ennoia and
+describe him using his unearned infernal power to her brood as the Gangrel. undermine the asuratizayya virtues and lure the m Other stories that follow relate how the to his service, as they once lured him. Gangrel, enraged at the ir loss of purpose, can The fifth childe, Ramessu, is the sire of the not abide the sight of the Ravnos — who, the
+Vaisyas jati. He watched mortals for signs of asura- text all eges, never backed do wn from what was tizayya activity in the ir midst and Embraced solely required of the m. In several times and places, from the merchant class. In time, he also tired of the Gangrel and the Ravnos have come to bitter
+fighting and departed for lands west, where he blows over everything from territorial boundaries established another lineage that knew not hing to favored vessels. of Zapathasura and his war against the Eastern The Gangrel “heresy” states that the Gangrel
+Kindred. the re, Ramessu surrounded himself with can be shown the ir true destiny the trappings and titles of nobility, rising above and so shed the ir unreasonthe station assigned him in his homeland. ing hatred. Tales of such
+redemption are less numerous than accounts of conflict, but the
+text seems to encourage
+the reader to seek
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 21 === counsel with the Gangrel and teach the m the ir
+svadharma, or true purpose as Kindred. I’d pay a pretty penny to hear what the Gangrel say about us. e
+NOCh
+This story came in the anonymous care package. I do n’t understand half of what it means, but I transcribed it for the sake of completeness. This is the First City, called Enoch, where Caine
+Embraced his childer Enosch, Zillah and Irad, who
+Embraced the Third Generation. all egedly, at the same time the gods made Zapathasura into the first Ravnos, one of Caine’s childer Embraced a man by the name of
+Dracian, who was the first of the Ravnos. According to this story, Dracian had broken into Irad’s have n by day
+and attempted to steal something of value to him. Irad, awakened by this intrusion, Embraced Dracian in the hope of using this new childe to spy on his siblings and
+the ir childer. Irad suspected the other third generation neonates (now the re’s something you do n’t hear every
+night) of plotting against the three members of the second generation and the ir sire. Dracian, for his part, took to the plot like a fish to
+water. He was at heart a selfish man, and becoming one of the typically selfish Kindred only deepened that
+trait. Before long, he joined the Third-Generation cabal that sought the hearts’ blood of the second generation, and he led the assault against Irad. Sources do not say
+whether Irad (or Enosch and Zillah) were destroyed, but the Flood — yes, the biblical Flood that Noah built an ark for — followed swiftly on the heels of the Third
+Generation’s betrayal. Each Antediluvian was cursed for his or her participation in the assault upon the ir sires. Dracian, as punishment for his selfishness and shortsightedness, was cursed to never
+know satisfaction. In search of that elusive quality, he followed the one member of the Third Generation who had not been cursed into the East, to seek what that other
+had all egedly found. This do cument also describes a feud with another Antediluvian: Ennoia. According to this version, she blamed Dracian for tempting her into the assault, or for attacking her sire — the text is unclear as to which. The language is different enough from other sources that it appears to be a later addition, possibly
+an attempt at revision. M -D h
+Ohe NjO ArOAND Ar AppA
+Two cities in the Indus Valley, 400 miles apart and 4,000 years old, correspond to two cities described in several places in ancient journals — at least, I think it’s the se cities. they and the culture that built
+the m are referred to several times in the Karavalanisha Vrana. Clanbook: Ravnos
+
+=== PAGE 22 === years in another). It ended in a near-apocalyptic
+What is Enoch? clash between the two cities. General Chandraputra
+That’s a good question. Aside from the l t e h d e h as i u s r a a r t m iza y y o y f a R w a h v o n r o u s l, e g d h o o v u e l r s H an ar d a m pp o a r. t D al u s r a in ga g i t n h s e t do cuments we’ve found, we have very little battle, the two generals called for th otherworldly
+to go on. The material we have implies, as aid, for ced “the light of four suns” to shine upon
+Gwendolyn suggests, that Enoch was the first each other and turned the river valley red with
+city where Kindred walked among mortals. the blood of thousands of mortals and Kindred. s O ta th te e r t h fr a a t g a m ll e n t t h s e o c f l a K n in s d o r r e ig d i n h a is te to d r y in I ’ E v n e o s c e h e. n T n of i h g h e h i s t fi, m n e a i n l l l d e b i n n a n t g t i l a w e l h r a e e d p n v o e C r r t s h e a d a ry n ly d a l r n a a d s p t c u e o t d r n a f d o t e r o m a o n k y e e t d a h r i e t a s h n s e o d a u d a l
+I find it interesting that the Ravnos wrote to the most horrible of Hells. d so
+if f m
+er u
+e c
+n h
+t t
+f o
+r o j
+m u s
+t t
+h if
+e y
+r t
+e h
+s e
+t i r
+of e x th
+is e
+t e
+K n
+i c
+n e
+d a
+re s
+d s. o
+T m
+h e
+a th
+t ing
+sites
+N b
+o e c
+m a
+o m
+rt e
+a l n
+i e
+n c r
+e o
+it p
+h o
+e l
+r i, c
+h it
+a y
+u s
+n u
+t r
+e v
+d iv
+b e
+y d t
+t h
+h i
+e s
+s w
+p a
+ir r. i t
+T s
+h o
+e f
+c th
+on es
+c e
+r e j
+t u
+e s
+r t
+e ifi
+as c
+o a
+n ti o
+t n
+o s
+c o a
+n ls
+t o
+in p
+u r
+e o
+i v
+s i d
+t e
+e ll a
+i n
+n g a. pparently t
+a h
+su o
+r s
+a e
+t iz w
+a h
+y o
+ya d
+e ie
+v d
+e r d
+r e
+e f
+t e
+u n
+r d
+n i
+e n
+d g
+t t
+o h e
+th m
+e. c
+N it
+o ie s
+R a a
+v ft
+n e
+o r
+s t h
+o e
+r war ended. Ahem. I conclude that if Enoch existed — and
+after what I’ve seen, I’m not sure I do ubt w t t t o h h a a a l r t e t f n a o c — d r v it e e y u r A a. t n s m h c e A e c v e a o n o e n r r R y r n d g a a i e l o v n d t c t n g h h i t o t e l e i o s e e r g u t s A h i e n i t e n x i n d m p w c t e h l i r a a e a i e c t n d n i y I n t. a n g t t w d s i o u, o a R n s m s a V i v i E a l s n l l m e l o a e n s b n y n p r a r a i a n i a c n t d e t c o d e e n f m s e i r a p n u r t l b e y d, e a e c r i r e t s e h d N h d e o o i r h t r a a t c c s r i l p t c a y h e h i ’ r m i s e n i o o s t f l d e o a t d g l h o l i “. f a c a R a t t I t l i u M m s a e u l v e e l s c t i e o h d h a d e s u fi a n s n t? c e h s d e l ” l e a a y h i u r t e s e g t d a h r d s i u t f o i e fi l s n r e c c d o u i f v n o l t - t r h t e o
+a y d b I m r — t t a M R i o t s a g n h h h h u d n l n y t e u c a a o h c l a e e e a a d f d d t a v e d e r d i s. o t e, T n r t fl n t e q t m n a e l r W t d s h e d t e ’ o. u n o o h h r d t e h i r e T s i n p g e s f y d e e e e f b h h t i a y e r e h s d d a d t r e l n a t a K e o n c h e n o l e l t a d u a e t i l p t i d w e m y f d D c v h e n n h m t l i e h t c o a h i e. c f e o d t d e i d l i b a s s u f h i i i i o D i n r “ h t c s z r u r e n e e p n a K y t n a s i e a r s r d h h. t p d b r t s e o a s i v e e o i e i p l r n e o c d s n t a o a p e r i r e f e u m r n n d s d l r n c r r d i w h n l r e w r i i s e e p a e y s a v n e i c i s s r f t ” d r f p n t l d e o, h r e c m i r i i d t e r o o z d t r i o r e h a m d e s s i a s w e n m e c m n n c t e s u y t o a r a l u s h a e r y t g o y a s e n r d i s r n o t e, a o a i b d e e r f s e. f m i n u s t a u f p e o m, d f i L u e r s b c n d n l t r s I b d i e a r e u p h i r. y t c a a n. n w t t o m l g i I e l a t h t o s m f m a d u t W e i i t s t z b h i y t c s t l t s d q h n e a h e e a u h e t i h e a e o n u a i y e s k d n e r r b n i h f n y i g d, e n n f y b t c l a g a o a, s s p e fl o i e ’ e g e o g o r r s l t h a e o e t e t p e y a n c a l a a t w h e d d r d, i o a i t c t h d s m a n s l e, i u e e r a I u o t s s v e a m s u x e c h g i e r o m l r t t m a o s e n h h a t i s e e f s n t e f t t, p t i t i i h l o e a h a i c t t n I g t o t s l z r n a f h h ’ h c e e k e e h i n a g m a t n h d d d x e y e y e a - t, l:. c a o t i v a b t n a o c a i f c w e a p i o e v h o r c n r l t I s l r s e a i o u i e h i i s s u e n o o l u l r P d o g a v fl d i l u a c l s e n n e o h n e h y b e t s e r e h n t i r t e v d h v n t a s t t, g o a t h l e a e t h w u o v v o o r h s p f l a t p e s d o e e c a r y e u t e o r c k h s o e r s l p w R a s n m e a m b a e a d l t p r j a a e n a e r h e a v i e n t r o, v c y h t n t w e s t n. r m t d t h e h a u c o l t o o d P K M r e e e r e n o a m s d i e. r r i u n d p M n o r s e e a s a t T p u h t n t t m k d s n i e a H h a a h o t a o e i r t o m r r u f i n c n r h e e p p n n i a m a d. s n d s u e h s o s t g n t e. d i e s p t a l e o s c e t g d e l t I a u o u n f o h h a e h l h ’ u h u m a l d r, e a b i o m a d s s l h t b a t u m d. c s t y u s y n t e d g h l t m t u r. t s o r h a l i e h m h i, t u c s e a n a t a h o s p i h k g o a c v g d p l r l e g e e o n e a e a l p t r r g l t e d m a a t t y e e h e r y s a h l d n u s o s e t s t i w i n e h l n c s h o e d w e o m g a a o d f p n I s t s a a i - e r c y a, I hope the se monsters are dust. The conflict continued for several centuries (as long as 2,000 years in one source, as short as 500
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 23 ===
+D i Asp OrA (I know — for ce a cynical sigh of relief, as Al In the wake of this confrontation, the ac- exander’s appearance in the history constitutes
+counts portray the surviving Ravnos as shocked at Real History! Unfortunately, I’ll have to warn the degree of bloodshed and destruction the ir war you not to grow too comfortable.…) After the
+brought to those they had sworn to protect. More conqueror’s death, his army returned to the west realistically, they probably worried about the ir own when ce they had come. The Black Mother folasses and covered up the stupidity of the conflict in lowed the m. pretty excuses. The end result was the first crack in Along with the desertion of Zapathasura’s
+Zapathasura and Chandraputra’s constant drive to childer, you nger generations also left India for wage war against the ir rivals. Many Ravnos ques- lands hopefully less drenched in bloody conflict. tioned who se battle they were fighting, and all too they traveled east and west, searching out a place
+of ten, the answer was “not ours.” where they could avoid the endless conflict with
+Zapathasura’s fifth childe, Ramessu, simply the asuratizayya. Zapathasura himself fell into vanished from his have n one night — apparently, torpor from despair, leaving the clan in the hands
+the Black Mother refused to assist in any search. of Chandraputra, his only remaining loyal childe. Just a few centuries later, the Rakshasa turned The Methuselah Chandraputra tried to restrucon Zapathasura and departed after a bitter and ture the clan in the wake of mass desertions and a bloody combat with his sire. The Black Mother complete collapse in morale. He constructed what
+reported to Zapathasura that Ravana had turned would later become the Path of Paradox, or the to unholy powers to for ge for bidden pacts, but he, study of mayaparisatya. Newly Embraced Ravnos
+too, disappeared. were indoctrinated in mayaparisatya tenets, which
+The final desertion occurred on the heels of demanded an understanding of the clan’s place in
+Alexander the Great’s arrival in Northern India. the world and its members’ devotion to the war
+Clanbook: Ravnos
+
+=== PAGE 24 === against those Kindred who could not or would not
+understand the ir purpose. Naturally, this included If Not the
+Rakshasa, the asuratizayya. the n Who? r
+AMessu
+Ramessu turns up in do cuments that came The accounts about the founder of the se in the care package, authored by Marcia Felicia African lineages do match closely with what
+Licinia —yes, I know her name is not strictly cor- we know of the Rakshasa. But if — as menrect according to Roman tradition. You can tell tioned earlier — he was a ghoul, the n how her she screwed it up. could he Embrace more Ravnos? I suspect the
+Ramessu was a powerful elder who existed in “trickster figure” in question is Ramessu and
+Egypt for centuries and Embraced the lineage that that some accounts confuse the two — or the later became known as the Alexandrites. the se accounts lead to erroneous conclusions that
+Middle Eastern Ravnos traveled extensively, alone references to one are actually references to the and with the Rroma who arrived later. Soon after other. That sounds characteristic of a “trickreaching Egypt, Ramessu carved a bloody chunk out
+of Setite territory when they tried to eject him. At ster” in my opinion. Alternatively, the trickster the time, the Setites were battling Lupine clans also may be an undocumented childe of Zapathanative to Egypt and lacked the resources to fight sura’s, or a member of a later generation. both. Not long after Ramessu established himself, Gwendolyn has a habit of stating her
+the Setites approached him with a proposed all iance assumptions with absolute surety when in against the Lupines. fact she discusses matters we can not know
+Over time, Ramessu apparently lost himself in for certain. She is her own paradox — do ubt reminiscing, to the point that he denied the pass- fed by certainty. Keep this in mind when
+ing of Dynastic Egypt. He apparently created an reading her history. “authentic” Egyptian court that survived into the
+Renaissance, despite routine bouts of torpor. Though
+I’m tempted to dismiss this detail as conjecture or t B M
+he LACK Other as proof of Ramessu’s own deranged state, I have
+The Black Mother was present for Alexander seen enough supporting do cuments penned by those
+the Great’s arrival. She apparently knew (Rumor? claiming to be Alexandrites to indulge my do ubt. Gift of prophecy? Who can say?) of his arrival well
+Surely, some arid have n somewhere contains the in advance and watched his progress as he led his
+wealth of kings and an undead court to spend it, if army into her homeland. She Embraced one of Alonly to spite my bitterness. exander’s soldiers and followed her childe back to
+t r he AKsh AsA Europe. The Black Mother spent several centuries
+The Rakshasa, according to all evidence (which crossing Europe, ending her sojourn in Southern is n’t much) traveled west to Africa and Embraced Gaul. The last anyone heard of her was more than
+several childer as he went. He took care to educate 2,000 years ago, during the Roman Empire’s height. the m, but did n’t stay with the m long — at most, a r
+AVANA decade or two — before moving on. At least four
+Rumors claim that Ravana, in the service of distinct Northern African lineages claim descent
+infernal powers, led hundreds of asuratizayya to the ir from a trickster figure with no name or home, who
+do om, promising the m glory and power they could warned against the sins of his father and cautioned
+not otherwise gain. According to one apocryphal the m to prepare for the time when “our sire turns
+account, Ravana appeared to Zapathasura and of his wrath upon us and destroys the world.” The fered him power beyond what even the gods would
+last evidence of the Rakshasa’s presence in Africa give. Ravana claimed he could walk in the sun and
+is at least 3,000 years old. enjoy mortal delights. Zapathasura struck him, only to hit not hing. As Ravana’s taunting laughter slowly
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 25 === faded, Zapathasura pondered the of fer and what it a few adopted Ravnos philosophy and cosmology. could mean. Shortly the reafter, he fell into his first Others bitterly fought Ravnos and asuratizayya for
+prolonged torpor. do minion. The end result was a vast diversity in
+India’s Kindred presence. t A w he NCie Nt or LD
+As an interesting side not e, the Karavalanisha
+Vrana is based entirely in mythology from this
+Ramessu’s Alexandrites spread throughout period, a few thousand years after Zapathasura
+Northern Africa, southern Europe and Asia Minor, supposedly had his necromantic apotheosis at the with at least a few participating in that great Brujah
+hands of gods who would n’t be named for a long experiment, Carthage. Most tried to avoid contact
+time afterward. Not that I would ever hint that and conflict with other Kindred, preferring to retain
+the clan founder was a self-serving bastard intent the ir freedom of movement through stealth rather
+on making himself look good in front of the clan than fear or respect. he created. No more than any other Kindred, at
+The Black Mother’s childer spread throughout any rate. Give a guy godlike power and he decides
+the Roman Empire and made the ir presence known. he’s flawless.…
+Though few in number, they got on well with the
+Toreador and Malkavians, the three clans that t r e he OMAN Mpire
+made up some of the most decadent of Kindred in that era. the se Ravnos eventually became known The Sybarites’ nights of prominence! Chanas the Sybarites and founded the Path of Paradox draputra’s teachings filtered into Europe through
+that has earned the clan so much distrust and deliberate action; the ancient Kshatriyas attempted outright hatred (though the clan’s predilection to spread the mayaparisatya teachings in hopes of
+for vice in general likely also had something to do drawing rogue lineages back into the fold. The atwith it). The eldest Sybarites apparently played tempt backfired unpleasantly. The Sybarites took the a game where they each, in turn, claimed to be teachings and twisted the m to support a philosophy
+the line’s founder. On occasion, they also claimed of unhindered self-indulgence. The Path of Paradox kinship to a famous historical figure — or, if they became an excuse for the m to do what ever they
+were feeling extreme, claimed to be that figure. wanted, when ever they wanted, to who mever hap The game served to keep the line from losing the ir pened to be convenient. most potent elders, as no Kindred could be certain Of course, the Path of Paradox did n’t really who to look for. encourage this behavior. The Sybarites were already
+In India, Chandraputra assembled a new or- well on the ir way do wn that road. The addition of der with a stronger commitment to opposing the a codified ethos that jusitifed the ir hedonism was
+asuratizayya. He’d learned something about Kindred simply the final straw that ushered in nearly two psychology and mixed the philosophical rhetoric millennia of indulgence and sin. with appeals to the Ravnos’ selfish character. In It did n’t help matters that Chandraputra’s mesother words, he convinced the clan that it was in sengers slid into the Roman Ravnos’ debauchery and
+the ir best interests to stand and fight rather than vice. In fact, they adopted it who leheartedly. they leave for parts unknown. drank the blood of children, for nicated like still-living
+This militancy was helped along by a fresh mortals and bought tangible comforts with money influx of asuratizayya from China, who apparently they stole from each other, the ir Kindred fellows and
+believed it the ir holy duty to expunge India of all wealthy mortals. Kindred influences. At the same time, Kindred At the same time, the Alexandrites melted of other clans — Gangrel, Lasombra, Malkavi- further into the shadows, hoping to avoid the
+ans, Tzimisce and Ventrue primarily — arrived reputation the ir more public cousins were stirring in India, probably on the heels of Alexander’s up, and the elder Phaedyme established her own
+army. Some of the new arrivals aligned with the power base in Gaul. This act led to competition
+Ravnos against the Eastern Kindred, and in time with the already present Ventrue and Gangrel
+Clanbook: Ravnos
+
+=== PAGE 26 ===
+— the latter none too pleased with Phaedyme’s Roman Ravnos, lost in the decadent wonders of arrival or her growing influence. About the only the Empire, decided to enshrine that impulse rather
+positive side effect of Phaedyme’s presence was her than reject it. and her childer’s practice of destroying Sybarites t B
+he Ashirites who intruded on the ir territory. the se killings were
+not acts of philanthropy: Phaedyme’s sire simply You know that commercial about the can dy wanted no intrusions or attacks on her while she bar? The one where one ingredient mixes with
+lay in torpor. Why she saw other Ravnos — even another to make a better can dy bar? Well, this the decadent Sybarites — as a threat is not en- was something like that, only the result probably
+tirely clear. I should not e here that the Path of was not for the better. A Ravnos Paradox-follower
+Paradox’s prohibition against diablerie on other happened to be in is rael when a new religion ap Ravnos was a later addition, probably the work of peared almost overnight. That Ravnos, Bashir, an elder tired of attempts upon his blood. claimed to have seen God — which was fine, until the Revelation of St. John turned up and Bashir
+t p p he Ath Of ArADOx
+ran across it. He took it to heart, melded it with
+The Roman Path of Paradox was an odd beast. Paradox philosophy, and decided that the Path
+On the one hand, it espoused spiritual purity. On of Paradox was actually meant to usher in the the other, it claimed that its adherents could achieve apocalypse as for etold in the Book of Revelation. such purity through diablerie, the ft and murder. Bashir passed this do ctrine along to his childer
+The path’s tenets further laid out an alternative and ended up creating a millennial cult with the cosmology to Zapathasura’s creation and Dracian’s fanatical intention to cause the Second Coming
+self-imposed exile. It taught that the Antediluvians and bring about the end of the world. will ed the mselves into existence. Once they had Bashir’s line spread throughout the Middle for med, they realized that the world was filled with East and gained momentum as the presumed time
+energy and so they began to take it for the ir use. A for Christ’s return approached. Various Bashirites final Antediluvian created himself in a similar act of killed pilgrims, Muslims, Jews and anyone else they
+will and vowed to stop the others before they froze thought might bring about the Second Coming. the world into an unchanging, joyless place with In one case, a Bashirite caught a peculiar for m no room for merry activities like can nibalism and of Jerusalem Syndrome and decided she was the
+unbridled bloodlust. Antichrist. The Path as laid out in Rome further explained It eventually became clear even to the most that the only way to stop this spiritual stasis was to blindly devoted Bashirite Ravnos that the Second
+keep the energy in motion — release it. This meant Coming was n’t happening on schedule. Several that powerful vampires had to be destroyed, preferably committed suicide in the wake of that realization. through diablerie. The ultimate goal of the Path was Others adopted a more relaxed stance toward both
+Gehenna, at which the Ravnos Antediluvian would the Path of Paradox and Scripture. destroy the other Antediluvians with the aid of all t M
+right-thinking Ravnos. he e DieVAL
+Of the Ravnos, I know what I’ve read and I p
+know my sire, his sire, and a few others. Not very eriOD many, I admit. As far as I’m aware, not one of us is
+The Ravnos clan underwent its last dramatic comfortable with the Beast. No matter whether it
+changes, at least in Europe, during the medieval drives us to drain a human dry, go utterly insane
+era. Over three centuries or so, the established and kill anything with in arm’s reach, or simply to
+lineages clashed with the Ravnos who arrived with grab that trinket that catches our eye regardless of
+the Rroma. Indian journals that match closely with the risk. That last one is the most insidious because
+the period demonstrate an increased interest in the it’s so subtle. Half the time, I’m following through
+West, along with strong resistance to the Ravnos on the impulse before I realize what’s happening. jati system. Specifically, the Chandalas jati decided
+It’s enough to make you crazy. It seems the debased
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 27 === they’d rather leave than continue as the equivalent
+of the few Western Caitiff. In truth, they had it better. Western Caitiff of ten suffered destruction as
+soon as they got caught. In India, they were simply treated like valueless chattel. r r
+rOMA AVNOs
+The Rroma slowly filtered into Europe over three hundred years. A few Rroma kumpaniyi (nomad/
+family groups) brought Ravnos along with the m. the se Ravnos, who had been Chandalas in India, felt the mselves superior to the Western Ravnos, who had diluted the ir pure blood by Embracing those not of Indian or Rroma descent. The usual
+interactions led to long-term feuds, destruction or conversion — the Chandalas were not completely
+with out mercy and would of ten use tactics such as branding and boiling (and killing mortal relatives
+and various larcenies…) to recruit Europeans rather than destroy the m out of hand. In time, the overall Kindred perception of Ravnos as Rroma shifted from “newcomers” to “they’ve
+always been Rroma.” Those who were not became exceptions — curiosities. The Chandalas, some of who m still gave at least
+lip service to the mayaparisatya teachings, proved susceptible to the Sybarites’ version of the Path of
+Paradox. At first, they tried to teach the Sybarites the “correct” way, but many — especially the neonates and ancillae — ended up converting to the
+Sybarite view. they already felt poorly served by the Indian jati structure. The new Path of Paradox
+erased such distinctions, and many you ng Ravnos were enticed into it simply to rid the mselves of
+the “untouchable” stigma they had carried in the ir for mer homeland. t t
+he re AtMe Nt
+This tradition first appeared during the medieval era. European Ravnos, many of who m were not guilty of the crimes for which they suffered, decided to discourage princes from unilaterally exiling Ravnos from the ir do mains or destroying the m
+on sight. the se Ravnos spread rumors about the
+Treatment and told stories to other Kindred about the terrible fate of Prince So-and-so in Such-and such-berg over the mountains yonder who kicked
+Ravnos out for no good reason. they followed up with stories of how every deceiver with in two or
+three weeks’ travel showed up on the unlucky ruler’s
+Clanbook: Ravnos
+
+=== PAGE 28 === t i
+do orstep and turned his do main into a waking hell. he NquisitiON
+With each retelling, the description became more harrowing and bizarre. At some point, the stories Everyone remembers the Inquisition. At least, became reality. I have no idea where the first real many Kindred elders remember, or claim to. It
+Treatment happened, but it was viciously effective. was not a pleasant time to be Kindred, but the n, The princes found the Ravnos no less welcome than when is? The Catholic Church managed to dig up before, but were less will ing to kick the m out before hundreds of Cainites and put the m to the torch —
+they misbehaved. almost as if someone planned it that way. In any event, we were n’t spared. Sedentary Ravnos were
+In a nutshell, the Treatment was a reactionary caught as easily as members of any other clan, and
+response from of fended Ravnos who felt that if they those traveling with the Rroma were as likely to be
+could n’t get even the minimal respect most clans turned in as anyone else. (Assuming the Church
+paid each other, they’d make those clans sorry for did n’t see the Gypsies as trouble and investigate
+the snub. Resentful Ravnos would send out a call the m with out outside encouragement.)
+for help, and mendicant or indigent (or legitimately blacklisted) fellow Ravnos would converge on I can’t say the Ravnos never took advantage
+the spiteful city. For weeks or months at a time, of the Inquisition to dispose of a few inconvenient the avenging Ravnos would run amok, indulging enemies — I’m sure every clan did it at some point
+the ir desires as they saw fit. I’m sure you’re well — but the who le thing usually backfired nastily acquainted with our penchant for taboo — now for those Kindred who tried. The carefree times
+imagine a score of Ravnos, all having the ir way were, to put it bluntly, over. The mortals knew we with a given city. Killings soared, the invaders were out the re and they were n’t going to take it
+stole everything not nailed do wn, they seduced anymore. I’m sure more than a few Kindred thought husbands and wives, bread was poisoned or the the Inquisition was Gehenna. grain used to make it found curiously infested with
+t C ergot… the list goes on. he AMAriLLA
+the se kinds of tactics did little to help the
+Just as it looked like things would never get
+Ravnos build a better reputation, but worked brilbetter, a few brave, enterprising Kindred stood liantly as a method of bullying others into never
+up and showed the rest of us that we had a betletting such things happen again. Believe me, the se ter option, that we could survive with only a few
+do cuments make no bones about how quickly the sacrifices. As the histories go, Kindred of all clans
+princes of the Long Night acceded once the ir do were invited to join the new social club — the mains became dens of sin and iniquity. Camarilla — and become a part of a “worldwide
+t O society of Kindred,” what ever that’s supposed to he the rs
+mean. I admit, it looks good on paper, but it’s hor The Phaedymites reached the ir height in the ribly fucked-up in practice. medieval era. Many of Phaedyme’s descendents
+I want to not e here that a few Ravnos elders chose to adopt the tenets of chivalry in favor of
+recorded the ir experiences at the first conclaves other paths. they were never a populous lineage, held to decide the for m the Camarilla would take. but they probably exercised the most self-control
+It’s true that all Kindred were invited to join, but among the Western jati. The Yoryari, a small
+it’s also true that Kindred of certain clans were splinter faction composed of Sybarites who rejected
+invited to go to hell (subtly or otherwise). The the ir fellows’ more self-indulgent code of conduct, Camarilla’s creators saw it as a club for certain
+eventually adopted the “pure” Path of Paradox that clans; while members of the others were welcome, the Rroma brought with the m. The Bashirites met
+they could n’t expect the same blessings. the ir end as a Western jati and largely scattered into
+Given some of the behavior attributed to the the Alexandrites and Sybarites, with a few joining
+Ravnos, I can’t exactly blame the founders for not the Rroma. wanting our clan in the ir little social circle. Still, I
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 29 === can’t help but wonder, why those seven? In any event, the Setites and Ravnos were n’t exactly high on the
+popularity scale, not with the founding clans. As for the Assamites and the Giovanni, you do n’t invite
+can nibals into you r home. Some will tell you the ir clans chose independence. I think they did, but only because they had no other choice. A e
+ge Of xpLOr AtiON
+While the Camarilla suffered its growing pains and the Inquisition began to slow do wn (at least as
+far as destroying Kindred), the European nations were building empires. Because most of Europe was
+already explored, “civilization” traveled west and south and established colonies in Africa, North
+America and South America. Naturally, because exploration involved travel, the Ravnos were n’t
+far behind. With the Camarilla elders and the ir steelytaloned claims of do minion choking all life out of Europe, the so-called New World represented a
+fresh opportunity. Many Ravnos do ubtless found the chance to take advantage of the birth of new
+nations exciting — and dangerous. Still, no matter how bad things got on the new frontiers, the
+Ravnos who went the re probably found the ir new existence preferable to dealing with stuffy Camarilla
+princes who had the weight of seven clans behind the ir proclamations. No, the Camarilla’s authority
+did n’t make the Ravnos any more welcome in Europe than we’d been before. In fact, more princes showed a will ingness to boot us — especially if we
+did n’t have the clear backing of mentors, Ravnos or otherwise. The Rroma had the advantage because they traveled in relatively large groups, big
+enough to make the princes wary of keeping the m out. Instead, local rulers merely “encouraged” the
+Rroma to move on fairly quickly. In Africa, things were different. The Ravnos had lived the re all along, competing with the Setites, Assamites, Nosferatu and Gangrel for territory and
+existing among civilizations largely for gotten by mortal society. With the rise of colonization and
+national expansion, things changed considerably. Predictably, the Camarilla followed the ir mortal counterparts to all four corners of the world and
+established the ir petty fiefdoms alongside the newborn colonies. Clanbook: Ravnos
+
+=== PAGE 30 === t N w and twisted the hobby you can name, I guarantee
+he ew or LD some Ravnos somewhere is trying to improve on it. I want to make something clear — we’re not
+It’s what we do. Most of the clan settled for more exactly like the Gangrel. Where a Gangrel will cross
+pedestrian variations, engaging in acts of piracy a mountain range to see the valley on the other side, and highway robbery. her Ravnos counterpart will cross a mountain range
+The Sybarites of the Renaissance had a parto put the mountains between her and any enemies ticularly good time. Much of that jati were in the
+she left behind. I’m not saying the Ravnos set out process of joining up with the newborn Sabbat, to make enemies, but it seems almost inevitable. If
+but more than a few continued playing in the a Ravnos is in town and something bad happens, same are nas they’d occupied since Phoenicia was
+the Ravnos gets blamed. Even when we’re on our a nation. Slaving was one favorite hobby among
+best behavior, we can run into trouble just for bethe Sybarites. Europe and the colonies had made ing in the are a. enslaving the less “civilized” members of other racial
+I want to establish this point to put Ravnos groups a booming business. Of course, the Sybarites
+migration to the New World in the proper conweren’t the only Ravnos involved in the slave trade. text. Not all of the Europeans who came to North
+Several Ravnos had the bright idea of selling the ir
+America, for example, migrated because they had mortal relatives into bondage — just goes to show
+wanderlust. Many traveled west to leave the ir reyou how well Ravnos shilmulo got along with the spective pasts behind. We traveled right alongside
+mortal Rroma. This practice was n’t widespreadl; it the m, for exactly the same reason. The New World
+primarily happened in Eastern Europe, but it lasted had no elder princes with firmly entrenched power
+for centuries. structures and support networks built up over centuries. At best, the ancillae princes had only been t he s ABBAt present for decades, and were of ten grateful for
+One of the most common threads in the Ravsupport no matter the source. nos ethos, paths and philosophical thought is the
+Most Ravnos traveled to the Americas in concept of freedom — a peculiar or perhaps oddly
+search of do mains where the princes were simply appropriate emphasis, given that the Ravnos clan
+not strong enough to afford the kind of indul-
+(at least in India) incorporates a rigid social strucgence and arrogance the European elders exuded ture that mirrors India’s caste system. With such a
+like sweat. It makes me wonder what happened powerful bent toward freedom — freedom to travel, in the interim. freedom to take what we want — it’s something of
+r a surprise that more Ravnos did n’t join the Sabbat eNAissANCe
+when it for med. More than any other, the Path of Paradox born
+During this age of exploration, Europe expein Rome lives up to its name. It enjoins its followers rienced what some later called a “rebirth of the
+not to follow any expression of Kindred society. The life of the mind.” The Renaissance arrived — a
+Traditions? Screw the m. Elders? Ignore the m or eat time of artistic and literary revolution, a time
+the m. Why, the n, did the largest group of Ravnos when science and reason began to triumph over
+converts to the Sabbat come from the Sybarites base superstition. Of course, that era also saw the
+— the lineage that most vehemently spread the birth of the “divine right of rule” concept. Can’t
+Roman Path with in the clan? The Sybarites were get the m all right, I suppose. infamous for the ir vicious and self-serving ways
+To the Ravnos, the Renaissance meant in-
+(as if other Kindred are n’t more or less the same). creased commerce. We feed on it — not like the
+Apparently, the Sabbat provided a structure that
+Ventrue, who desire to own it, or the Giovanni, all owed the m to better indulge the ir baser urges. who treat it like a big game (and who ever dies
+Interestingly enough, the Path of Paradox is apparwith the most toys... probably still fucks his sister). ently unknown in the Sabbat. It may have mutated
+Where the re’s commerce, the re’s vice. Where into something more acceptable to Sabbat sensibilithere’s vice, the re are Ravnos. No matter how sick
+ties, but I could n’t swear to it. ChapteR one: ag ReeD upon lies
+
+=== PAGE 31 ===
+Other Sabbat recruits came mainly from branches of the Ravnos that were n’t Rroma-do minated, which
+further reinforced the perception among other Kindred that the Ravnos (as opposed to antitribu) were all Rroma. The Sabbat’s rhetoric, heady stuff for
+its time, provided an outlet for those Kindred who did n’t care for the shape the Camarilla had taken. Not surprising that so many Ravnos opted to follow
+the Sabbat, even if the freedom it gave the m came at the cost of ideological slavery. Were they right to do so? From what I understand, a large percentage (not population, obviously) of
+survivors from the Week of Nightmares are Sabbat. Maybe they made the right choice. i
+NDustriAL r
+eVOLutiON
+The Industrial Revolution brought many changes to the Ravnos. During this time frame, the Rroma
+Ravnos first Embraced giorgio — non-Rroma — in large numbers, and did so with out grave repercussions
+from the ir elders. Among the rest of the clan — well, if you’re already into criminal activities, it helps to have
+a large pool from which to draw idle hands. The onset of industrialization may not have made for
+many of those, but it did make for hands that preferred being idle — quite apart from people who simply could n’t find honest work. Industrialization
+also benefitted criminals by increasing the flow of wealth. Manufacturing means more goods and
+more money to buy the m. More money means more chances for corruption. As or ganized crime grew like a can cer on the
+world’s industry, the Ravnos took advantage of it. Why? Well, when you r blood drives you to steal, it can’t hurt to take up thieving as an occupation. That’s the obvious reason. I’m sure everyone has his or her individual ones as well. s w
+e Ct Arf Are
+In the midst of all this progress, the Sabbat built its strength and began lashing out at the Camarilla
+for wrongs committed against Kindred who had been destroyed before most of the Sabbat Cainites had
+been Embraced (but revolution is rarely a logical affair). The new Camarilla do mains in North America
+Clanbook: Ravnos
+
+=== PAGE 32 === were ill-prepared to defend against the initial wave can Civil War ended some of the Ravnos’ most
+of Sabbat strikes, and several cities changed hands lucrative slaving operations (not that I’m about
+(in some cases, several times). to shed tears over that). With the advent of the
+This state of affairs did n’t make unlife any easier Gatling gun, also during the American Civil War, for the Ravnos. Freedom of movement is hard to and aviation in the early 20th century, humanity maintain when a fanatical sect of apocalyptic sons continued to refine its ability to inflict the greatof bitches wants to recruit or eat you. The threat of est amount of bloodshed in the least amount of
+the Treatment was n’t enough to keep the m of f, be- time. Not surprisingly, human awareness of (and cause they rarely had any qualms about killing those consequently, animosity toward) Kindred declined
+administering the Treatment. On the other hand, during this period. It’s hard to regard Kindred as it’s next to impossible to patrol all of an urban are a the preeminent threat when mortal armies are
+in hopes of catching a few random Kindred trying pumping mustard gas into trenches and burning to slip through. the faces from strapping you ng men prepared to
+Aside from a few skirmishes, the Ravnos managed die for the ir countries. to avoid the sibling rivalry between the Camarilla t f w w he irst or LD Ar
+and the Sabbat. For once, our independent status
+It’s difficult to describe the effect World War proved more of a blessing than a bludgeon for the
+I had on Kindred society. The conflict was largely
+Camarilla elders to wield against us. restricted to one continent, but that continent w
+contained the heart of the Camarilla’s power. The
+Ar
+Kaiser’s army rolled over Europe one country at
+The Industrial Revolution brought the world a time, sowing carnage in the mortal sphere that many wonders previously unseen, including the for ced the Camarilla to adapt its accustomed uses
+mass carnage made possible by modern weaponry. of the power it wielded among Kindred. the se
+Napoleon’s march across Europe was a chilling events did n’t affect the Ravnos much, though, as preview of the destruction to come. The Ameri- our clan simply moved out of the way. Many of
+o m m R R h f e f a e t o a o o r f a f t r t v v P r r r P u s h o r i u e e n t o l a p r a r W e a a r e s o m P o p s v f a d e t f l a s l e r. n p h e a s u, x i p o p t l f t H g d e — c h s a f a b a L o n a h k m m u e u J p e m u e t y e L t l J t e u g a p b n w b t h o e n b s e l l f L b l e d b r e o a a — g t e i e a d e t e n e e o w, t n f b a d i r r R i d e g o w a a t o l o i i r e h n w a g m g r a a c p e t d a i h h o l t s s h w n r a b a i s t t t n a o n t h d c u i r m a o r u m a c o e R y a g a s s t t n e r p fi K e t h g i i r u t f n t v n v n u i e n e a e r i m n i i e l t g o s a t v d n m n y h r e d n A t m e i g c i e d e t v o r e e n t m e n h s e l u e t r h e g m o y e i s d d a s d e t s i n e t s h t r a. h n a g s t f o a i J e h n o h e “ c f t A n, e l h r v r a w a i b i h d v b s s p k w o e n t d e o u a ’ o y o e p d a f u h e u s d t t, e s a l i e h o n d x d a o i o m d c t o o v e u g p h o h o e i w f v i d e o s u a t t t e e r e r m r h, e o n o n c n E n r i t n u t e n ’ o p, a a. z t A a a w l u t g n r e l a t H d h h s m c, k s e i n ” n t i o o e a f e m i t, e e b n a n o e e s h a t r e b r a l t r s p s n h i i h c h r e t d i n s c r o d d h W a i h e a i a. d n e m s i r d e a a g s n g p r H i o t v s e a e t “ R t a n r h i h v i e i t n t a v e o P o n n h r e e e f v o r v o e a r u n s a s e u e t n e n p s s t e a t s t n s e, e h u of l t a t t r e t y o u r u s o e a s a h s o m t l L n l o l f o l e w s h l l l m e h o t i m e p y t i fi t w r t a n r g i m h e i a a s a l e r s b a i a e k k i v d t m i r a n n t n w t t c e e e e m t, u h h y i d l a p r a e fi i a w a e h o e a a t l n u n r u n c l l t n e c h f g t y y w a h t r e i a a y m a e n t t ” a e l a t r d i r t k d t s a l i o s i e y e w o o n e n e e n l n v v t n c h d a a i t a o h s e i g t h h v o l w v w s r h e t h a t o e i o a h a o n s a d t r f h f a l d t r. t t a m s g i h e u t r o a s t l o t a u h u a s t s a r e f s w b e e t t c n e k g h m p o h. s k i a h t i r h t m o o r i i p. n J h o e o s l e n e e b s t u a o v e n H a b g s, w a r i r e t c e. s p n s r n o o e h d a t t g o H f n i h P h e y i n h w a a t a e a r e a e s h g e i i l. h p - m. n ’ s e s a o, Legba, the trickster loa. ChapteR one: ag ReeD upon lies
+
+=== PAGE 33 === the European Ravnos by this time were of Rroma
+descent and traveled with the nomadic families. Princes and elders distressed over the prospect of war coming to the ir precious do mains worried
+much less about Ravnos travelers, especially those who could bring news of troop movements and
+warnings of impending attack. t s w w he eCOND or LD Ar
+The first historical event of the 20th century to have a real impact on the Ravnos was World
+War II. Travel in Europe became more difficult as the German Wehrmacht slowly ground the
+Continent under panzer treads and Stuka-carried bombs. Even so, few Ravnos had any difficulty
+finding someplace safe to wait out the combat when it caught up with the m — at least, not
+until the Holocaust. p or r AjMOs
+Porrajmos is the Rroma word for the Holocaust. To many people in the modern world, the Holocaust happened to the Jews. they for get that it also happened to the Rroma. The Nazis carried out
+the ir genocidal practices against all the so-called mongrel races or those they deemed “unfit” to
+breed. For the European Ravnos, Porrajmos was a disaster. The Nazis had tracked Rroma movements
+throughout Europe for some time, and rounded up kumpaniya after kumpaniya. Along with the
+Rroma prisoners, they gathered up do zens, possibly as many as a few hundred, Ravnos shilmulo who
+traveled with the Rroma and used the m as cover. I could manufacture a conspiracy the or y accusing the German Tremere or Ventrue of a secret plot to wipe out the Ravnos — but I do n’t think
+it happened that way. The Holocaust was bigger than the Kindred could ever be. Certainly, some
+took advantage of it. The death camps probably made great places to feed with out undue not ice, as much as I hate to say it. Some Kindred like to take credit for mortal
+history. Anytime anything significant happens, a Toreador, Tremere or Ventrue will pop up and say “We did that!” I suppose it makes the m feel
+useful. I have n’t heard of any who took credit for the Holocaust, how ever, outside of a few deranged
+individuals. Lawrence says he’s met elders who would gladly lay claim to any atrocities they have
+committed, but they will not claim this one. Clanbook: Ravnos
+
+=== PAGE 34 ===
+To mortal perceptions, the Jews suffered t ‘60 he s
+more than anyone under the Holocaust. To the
+For the American Ravnos among the Rroma, Kindred, more Ravnos probably met Final Death this decade was an interesting time. The Rroma
+in the Second World War than did members of were settling do wn all over, for cing the Ravnos to
+any other clan. Convenient, perhaps. I see it settle do wn along with the m or find another meal
+as a lesson, but I have n’t figured out what the ticket. By the early 1970s, a large percentage of the
+lesson is yet. itinerant Rroma may well have ended the ir traveling
+Stories still circulate through the clan about days because of the ir bloodsucking relatives. This
+Ravnos who ended up in the camps and Embraced change meant that fewer Rroma were available to
+every Rroma — or in some cases, every prisoner provide cover for Ravnos who wanted it. The pri-
+— they could find. As the tales go, the who le mary alternatives to the Ravnos’ vanishing lifestyle
+crew the n led an assault on the guards. If this hapwere to join the Sabbat, join the Camarilla, or join pened even half as of ten as the stories claim, the
+the anarchs. Holocaust would be a footnote in mortal history. Or, in some cases, join the Hell’s Angels —
+I have no do ubt it happened once or twice, and though it’s hard to join a biker gang if you can’t
+those events were inflated over the decades until come out by day. the se guys do runs night and day, half of Poland had Ravnos-infested death camps. and while they won’t look at you too strangely if you
+Some Ravnos who survived that time and reonly come out at night, they won’t put the ir own sided in Europe blame the Tremere for the event, recreation on hold just to accommodate someone
+calling the Holocaust a ruse to destroy the Ravnos who do esn’t want a tan. Many Ravnos who took up
+clan. Kindred are, as I’ve mentioned earlier, an the biker look did so in groups, to give the mselves
+egotistical lot. I can not find it plausible that the decent cover stories. At least, they did until police
+warlocks would go to the trouble of slaughtering and highway patrols started cracking do wn on groups
+millions of mortals just to wipe out one clan. Well, of motorcyclists. I take that back. I can see it, but I’m not sure such
+Hippies of fered another popular option for an act is logistically possible. Kindred are not the
+itinerant Ravnos — deadheading was apparently predators they claim to be. they’re parasites, dea popular pastime for Ravnos well into the 1990s, pendent on the mortals, not the shepherds of the
+at least until Jerry Garcia’s death. Hippies were children of Seth. already strange enough, viewed with suspicion by
+t M e the “straight” population and otherwise sufficiently he ODerN rA
+odd that a few additional peculiarities did n’t stand
+After the Second World War, things settled out too much. Ravnos and hippies ultimately proved do wn, relatively speaking. The superpowers snarled something of a volatile mix. Indulging in chemiat each other while the for mer all ies carefully cal recreation became a popular vice among the
+defanged Germany and Japan. The eldest Ravnos you nger Ravnos, with the expected consequences. awakened to find a strange new world, with an India I may be going out on a limb here, but I think it’s a just freeing itself from British rule. In conjunction little unwise to give undead bloodsuckers who can
+with the British Empire’s with drawal from India, the conjure images through sheer for ce of will access asuratizayya renewed the ir efforts to expel Western to hallucinogens. Kindred from the nation. The elders fought back, t ‘80
+he s initially with considerable success, as the Eastern
+Kindred were relatively you ng and unprepared to During this decade in India, the conflict with deal with older and can nier attackers. This conflict Eastern Kindred started to really pick up for the
+escalated as stronger asuratizayya came to assist in first time in centuries. The Kshatriyas experithe war and the Ravnos Embraced more childer to mented with mass Embracing as a weapon against serve as can non fodder. the asuratizayya, with mixed results. The asuratizayya appeared in unprecedented numbers, for
+ChapteR one: ag ReeD upon lies
+
+=== PAGE 35 === which the Indian Ravnos were of ten unprepared. longer satisfied with an ethos that claimed “all is
+Apparently, Eastern Kindred can’t just Embrace permissible, not hing is for bidden”? It’s possible. I others, as the Ravnos can — they have some other can’t imagine an unlifetime of excess as remotely
+method of defying Final Death. Still, when faced satisfying, never mind centuries of it. with swelling global populations, even the more The converts may also have found the alternarigorous asuratizayya “Embrace” results in foes more tives less than desirable. The Ravnos who left India numerous than before. to spread the good word were of ten quite old, very
+B powerful and extremely into lerant of you thful indish OpAL cretions. My impression is that the converts could
+One account records a plan to Embrace several choose to adapt or die. Even with such a traumatic
+hundred mortals in a single night and cover the event reason for evolution, it took years for the change
+up in what would appear to be an industrial accident. to make it as far as America’s West Coast or South
+What really happened? In 1984, the Kshatriyas
+America. I believe that by 1998, a majority of the swept into the city of Bhopal and gathered up
+Path of Paradox followers had converted to the mortals for the Embrace to send the m as a massive
+“proper” path. Timely, no do ubt. Kindred wave against a potent asuratizayya who posed a serious threat to the status quo. The plan Accompanying the conversions were the rumors
+was to Embrace, for ce the childer to feed on the ir of powerful Methuselahs of the Fourth and Fifth families, and manufacture an incident to cover up Generations awakening and tearing a frightening
+the disappearances and deaths. swath of destruction through the ir enemies in India. In fact, if the journals can be believed, hundreds
+As inevitably happens, someone screwed up. — if not thousands — of Ravnos were Embraced, At the end of the day, more than 40 tons of poison sent against the asuratizayya and destroyed with in
+gas killed over 4,000 people and injured 50,000 a matter of nights at a time, over the final decade
+more. On the brighter side, the toxin also polluted of warfare before Zapathasura’s awakening. the asuratizayyas’ herds and weakened the Eastern
+Kindred long enough for the Ravnos and the ir can t w he eeK Of
+non fodder to destroy the m. Hooray for our team. The masterminds who thought this up were aware N ightMAres
+of Union Carbide’s poor safety standards, but underestimated just how bad the situation was when
+The week of the Ravnos Antediluvian’s awakthey sabotaged the plant. ening — by what ever name you want to call it — was t ‘90 a literal week of nightmares. Ravnos Disciplines
+he s flew out of control as even the weakest neonates
+In India, the ancients awakened and walked effortlessly produced illusions and skilled elders
+again. the ir childer — the elders — prepared the created images with out the conscious intent of
+way for the m. At the same time, Indian Ravnos do ing so. Few Ravnos could take advantage of this
+traveled east and west in search of those Ravnos potency as visions from the Antediluvian’s clash
+who had left or never known India. When they with its enemies overwhelmed the m. found what the clan had become — the European
+I saw my sire and his sire suffer from literal shilmulo with pretensions to mysticism through a
+waking nightmares and bring the m to “life” before false Path of Paradox, the American Ravnos with
+they could get things under control. Lawrence’s atno knowledge what soever of the clan’s reason for tempts to explain the appearance of a many-headed
+existence, and so many others who did not even monster in battle with a tiger and a dragon in the
+try to resist the vices imposed or facilitated by the middle of an LAX-bound airplane were amus Beast — they took action. ing, but they did n’t help his reputation. Further
+In a reversal of events centuries before, when evidence, all of it anecdotal, indicates that such
+the Sybarites’ flawed Path spread through the incidents happened to Ravnos around the world. newcomers, this wave of newcomers converted
+At the time, we worried more that someone was the Western Ravnos to mayaparisatya. Perhaps the
+slipping PCP-LSD cocktails to our herd, but abfollowers of the Sybarites’ Path of Paradox were no stinence did n’t seem to help. Clanbook: Ravnos
+
+=== PAGE 36 ===
+On the fourth night, it got really bad. I guess the best “new age” way to describe the event is
+as if a psychic bomb went of f. It happened during the day, but all of us awoke when it hit. I did n’t
+get much rest for that day. Come nightfall, things grew much worse. When I arose, I found Karl, more
+tense than I’ve ever seen him, sitting in front of the television and flipping channels like it was an
+Olympic sport. At first, I was annoyed. But as I watched, I realized how wonderfully delicious his
+blood must taste, as well as how surely he deserved destruction. I can’t explain the loathing that penetrated to my bones and seemed as natural as…
+well, as natural as anything else we do. On one level, I wanted not hing more than to bite do wn on Karl and devour his soul. On another level, I knew do ing that would be the King
+Kamahameha of all bad ideas. I do n’t know how long I stood the re before Karl turned and saw me. He cured me of my indecision — he attacked me. Between desperation and serendipity, we managed not to destroy each other, but it was close
+for awhile. We both left for other places to stay
+(with out telling each other or the good do ctor, who’d fucking better not claim this story as his, or
+Zapathasura’s destruction will seem like Migraine
+Headache #15, and I hope I make myself perfectly clear) until the fit passed. The thirst and rage lasted for four nights. I’ve
+never felt a rage like that before and I hope never to feel it again — a filthy, driven rage, backed by a
+hatred 10,000 years old and encrusted with enough emotional baggage to sink Asia. Such fury called
+to mind the end of the world. Who knew that was exactly what it heralded? By the time we began to suspect, we knew it was big, but until Lawrence got his care package, we
+did n’t know just how big it was, and is. Two months ago, I — we, all five of us — stood on the plain in Bangladesh where Zapathasura (or
+Ravana, or Dracian, or what ever name you care to throw its way) fought its last battle. We found
+the spot where it was destroyed by the light of four suns, where — by all the evidence we can gather
+— someone detonated nuclear weapons. We have a scrapbook of news reports from the time, about
+the worst typhoon to strike this are a in more than a century. they do n’t tell the half of it. ChapteR one: ag ReeD upon lies
+
+=== PAGE 37 ===
+Looking over the are a, it’s clear that someone parently went mad for no good reason. We could n’t or something swept through afterward and tried to reach most of the Ravnos Lawrence and Karl kept in
+hide the evidence. they were thorough, but not touch with (and still have n’t managed it). Lawrence completely so. We found enough to tell us what consulted some experts regarding Indian mythology
+we needed to know — that at least three or four and its imagery, from which we learned that people powerful, or should I say godlike, things battled all over had visions of Zapathasura’s swan song. The
+here. That reality, maya as some would call it, for tean Times was abuzz with stories of weird events was torn here. during that hellish week and I suspect I’m barely
+I wish I could find the words to convey with touching the tip of the iceberg. sufficient gravity what I’m trying to say. In the I know you’re wondering about the other simplest terms, “this is the first battlefield of clans — how did they react to all this? As far as I
+Gehenna.” I can’t begin to convey the profound can tell, they did n’t. That is, most of the m do n’t nature of this fact — the end of the world started have a clue. A few have a clue, but it’s incomplete. here. How could I? It’s too big. What keeps me up Some Kindred think all of us are dust, but they
+wondering all day is, “Where next?” the n I wonder, do n’t know why. Some know more details than I
+“What the hell can I do about it?” do. Some might suspect the truth and are afraid to speak of it. In the Camarilla, I do n’t blame the m. f
+all Out
+Those ostriches are n’t about to admit Gehenna’s on
+In the weeks that followed those days of hell, the ir do orstep until it’s sitting on the sofa, guzzling we learned a few things. First, a lot of Ravnos ap- all the beer and putting out cigarettes on the coffee
+Clanbook: Ravnos
+
+=== PAGE 38 === table. Even the n, they’ll probably try to pass it of f Durga Syn is n’t the only one, either. Part of
+as the ir undersocialized geek uncle. this history was gleaned from work completed 600
+We’re the first, but more will follow. When one to 800 years ago, by a Ravnos who was ancient of the Camarilla clans falls, you can bet they’ll take the n. We received it in the mail before we went to
+not ice. they’ll blame it on the Sabbat, but at least India. Why? Who sent it? I do n’t know, but I have they might start do ing something. suspicions. do es the idea make me comfortable? No. The
+p r Ophe Cy other Grave Robbers and I take great comfort in
+the idea that all the oldest, most powerful Ravnos
+What’s next? Good question. Back in India, all bit the dust two years ago. I just do n’t like thinking
+our best evidence showed that the eldest Ravnos that one of those ancient bastards is ready to rise
+were destroyed during the Week of Nightmares. All up and start using us in some private war or other, well and good, but now we’re not so sure. Stories
+pretending it’s a holy duty that comes part and filter around and a few of us still talk — we have
+parcel with the blood. to, to survive. Stories about the legendary Durga
+Wake up and welcome Kali. Gehenna’s
+Syn pop up every so of ten, linked to rumors about almost here. the Nosferatu. Maybe they’re next? ChapteR one: ag ReeD upon lies
+
+=== PAGE 39 ===
+Clanbook: Ravnos
+
+=== PAGE 40 ===
+C t: h Apter wO
+O A
+N the rt Of
+B r ei Ng AVNOs
+The universe seems bankrupt as soon as we begin to discuss the characters of individuals. — Henry David Thoreau
+The Ravnos really do n’t fit one tidy definition, Ravnos, fearing a recurrence of the madness that not because the charlatans lack common traits, but consumed the clan and destroyed so many. Even those
+simply because humanity — and by extension, the Ravnos who choose to associate with the ir broods are
+Kindred — have come up with so many crimes. That’s wary of a recurrence. Few will discuss the matter with right, every Ravnos is a criminal of some sort, whether other Kindred under any circumstances. that crime is based in human or Kindred society or
+t r both. No one has a reason to sugarcoat that simple he AVNOs
+truth, no matter how uncomfortable it is. If it seems e
+bigoted or insensitive, it is — because all too of ten, MBrACe the Ravnos’ crimes are only against the principles
+of others. The Ravnos treat the Embrace in different ways depending on which segment of the clan is involved. Ravnos usually congregate in small broods or packs
+Indian Ravnos and Path of Paradox adherents see the ostensibly led by one who has probably Embraced
+Embrace as a metaphysical sacrifice to one or more gods the others. The Ravnos do this for safety in numbers, so the childe can move on to fulfil her svadharma, as
+although many put on a show of blood loyalty. Not well as assist other Kindred in the fulfillment of the irs. all Ravnos believe in this so-called obligation with in
+Among many of the you nger American lineages, the the clan; many use it primarily to convince clanmates
+Embrace is usually given with out much ceremony — to do favors for the m. it depends on personal taste and the individual sire’s
+In the wake of the Week of Nightmares, how ever, background and preferences. surviving Ravnos of ten eschew contact with other
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 41 ===
+Ravnos create new childer for a vast number of reasons. Some Ravnos select a criminal mind as carefully as an artist seeks a protégé, while others look for
+can didates who can assist the m in the ir own schemes. In many cases, a Ravnos sire expects his childer to stay around for a long time — before the Week of
+Nightmares, many Ravnos structured the ir broods as families, albeit dysfunctional ones. During the disaster, most such families were wiped out in blood-crazed
+frenzies. Of the few that survived, many have not been heard from since. The Ravnos clan as a who le adheres to no single
+rule that all must follow — everything is fairly informal among most of the m. Only those who turn the ir
+Damnation into a religion — the Paradox followers
+—have codified who, when, how and why a childe receives the Embrace. Among the Indian Ravnos, a prospective sire petitions her sire for the right to
+Embrace. With the permission and blessing of both her sire and the eldest Ravnos in her city, she brings
+her new childe into the fold. New childer of Paradox followers are taught the clan’s history and duties — a small degree of indoctrination into the Paradox mindset — and typically are
+released to become full shilmulo with in two decades, usually much sooner. Neonates are n’t expected to turn to
+Paradox before the first century of unlife passes, nor are they pressed to accept it. they are, how ever, expected to
+abide by its tenets when in the presence of the ir elders. i M e
+NDiAN Ass MBrACes
+Sabbat-style mass Embraces are the primary exception to the Indian mode of Embrace. The practice is deemed brutish by those few outsiders aware of it, but
+some Ravnos feel — prompted by the ir conflicts with the Cathayans — that mass Embrace tactics are necessary for victory. As the number of Eastern Kindred
+increases and the fighting becomes more intense, the
+Eastern Ravnos are more will ing to Embrace a do zen or so in a single night to use as can non fodder. the se
+unfortunates are not expected to survive, and are occasionally destroyed after they’ve served the ir purpose. Some elders protest this tactic, stating that it violates the tenets of Paradox and the mortals’ own destinies. j
+AtiAND
+LOODLi Nes
+Among the most traditional Ravnos, mortal lineage is at least as important as Kindred. Among the eldest, it defines the Kindred’s role in the clan, much to the
+chafing of neonate sensibilities. Clanbook: Ravnos
+
+=== PAGE 42 === sufficient numbers to make a large difference. Nearly
+h Ow M ANy? all of the Indian elders were destroyed. How many Ravnos still walk the World of The Ravnos elders in India tried to enforce strict
+Darkness? In the nights following the Week of rules about which Ravnos could Embrace which mor Nightmares, estimates range from fewer than 100 tals, of ten in much the same way as the princes in to do uble or triple that. Time of Thin Blood states Western cities. For Indian practitioners of the Path
+that “perhaps 100 survive, and no powerful elders.” of Paradox, how ever, the strictures carried the weight
+Nights of Prophecy implies that the re may be of the Antediluvian’s words, or so the elders liked to more, and shows that Durga Syn and her brood claim. Ravnos were for bidden to Embrace mortals
+clearly survived (and if Durga Syn is n’t a powerful who were not part of the ir own caste — Ravnos elder, who is?). Brahman could Embrace only Brahman, Kshatriyas
+In truth, the re is n’t a single gospel answer as could Embrace only mortal Kshatriyas, and so on. to how many Ravnos survived the week, beyond In truth, few Ravnos obeyed the stricture and many
+“very few.” How many died? Most of the m. This elders chose to assume the neonates came from the leaves a great deal of leeway in individual chronicles appropriate castes. With the conflict against the
+for Storytellers and players to determine just how asuratizayya a constant threat, the Ravnos were more many Ravnos are still around. interested in results. w h At A BOut the e LDers? B r AhMAN
+Elder survival is another matter. It all really The Brahman Ravnos have a gift of sight that depends on how one interprets “powerful elders.” the other jati do not, and of ten use it to divine the
+do es it mean that all fourth and fifth generation future or the locations of the ir enemies. The Brah Ravnos were destroyed? do es it mean that no man also consider the mselves the keepers of the
+Ravnos stronger than eighth generation survived “Way of Mayaparisatya,” or the Path of Paradox. the purge? Again, this question is for individual Among the Indian Ravnos, the Brahman are the chronicles to determine. Clanbook: Ravnos hints spiritual advisors and philosophers of the clan, and
+that a few powerful elders are up and about in the of ten serve as advisors to other jati. wake of the Week of Nightmares, but those hints Brahman replace for titude with Auspex in may be misleading. the ir clan Disciplines, and are otherwise identical
+w C to other Ravnos. hO are sABOut w N? the eeKOf ightMAres K
+sh Atriy As
+If the Week of Nightmares has n’t happened yet
+The Kshatriyas are the traditional warriors, and in you r chronicle, or the Storyteller do esn’t plan
+most Ravnos in India belong to this jati. The elder to use it, the n simply ignore all references to it and
+Kshatriyas traditionally outlined strategy for the war its effects. The Ravnos are still at full strength and
+against the asuratizayya, and many were among the up to what ever they were do ing. It’s that simple. deadliest Kindred in India. Despite tradition, many
+Embraced British soldiers and of ficers while India remained part of the British Empire. After the British
+Jati is the Hindi word for “caste,” and refers to a departure, many continued to look outside India for
+Ravnos’ lineage with in the clan. Several Ravnos jati competent soldiers to bring into the asuratizayya war. exist, or iginating from nearly every continent and
+In recent centuries, the Kshatriyas sometimes ranging in age from the most ancient to a matter of
+employed the “mass Embrace” strategy. they swept decades. Naturally, the eldest lines hold more status
+through a neighborhood or village and Embraced as than the newer (some would say “vulgar”) lines. Few
+many mortals as they could, of ten adding several do zen
+Ravnos agree on what a jati should be, let alone whether to the ir ranks over a single night. Those considered
+any given line constitutes a valid caste. Most neonates unworthy were given to the fledglings as the ir first
+could care less about the entire question of pedigree. meals. The Kshatriyas conducted such mass Embraces t he e LDer L i Nes as preludes to massive assaults against packs of asuratizayya or individually powerful Eastern Kindred in
+The following lineages are the or iginal Ravnos an attempt to overwhelm the m while the truly skilled
+lines and were prominent in India up until the Week
+Kshatriyas made the actual kills. The Brahman warned of Nightmares. Some probably still exist, but not in
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 43 === against this tactic, but even they could not deny its
+success on several not able occasions. Few surviving Kshatriyas remain in India, having chosen to seek the ir for tunes elsewhere. The Week
+of Nightmares convinced many that the war itself was futile. V
+Aisy As
+Traditionally Embraced from the merchant class, the Vaisyas are the Ravnos who traditionally deal with mortal society. Most Vaisyas had many connections
+and much power in the ir neighborhoods and cities before the Embrace, and they maintain the se ties
+through the ir families’ wealth and influence. Vaisyas oversee the cities so that the Kshatriyas are free to
+manage the war. Typically, the Vaisyas handle Ravnos interactions with mortal governments and businesspeople, cover
+up any problems that could lead to discovery of Kindred existence (Eastern or Western) on a wide scale and track the movements of Eastern Kindred in the
+cities. Historically, one of this jati’s more frustrating duties was to “clean up” after the Kshatriyas’ holy
+wars, usually with fire or reports of plague or some other means of keeping too many mortals from asking questions. It’s impossible to prevent suspicion
+completely, but with the number of humans packed into a city like New Delhi, the Vaisyas rarely found
+it hard to keep the wrong people from asking the wrong questions — if not hing else, they could simply
+shrug and tell others that the night swallowed those who vanished. C
+hANDALAs
+Chandalas is the lowest-ranked jati. Its members are for bidden to Embrace, lest they spread the ir impure
+blood and ideals. Indian Ravnos consider any Caitiff to be Chandalas, and any Ravnos caught breaking the
+tenets of Paradox is likewise demoted to this caste. Members of other clans and bloodlines who come to
+India are seen as Chandalas, although the Ravnos may of fer the m more overt respect or consideration
+to avoid immediate conflict. Chandalas of ten receive opportunities to improve the ir standing through onerous and odious duties —
+for example, arranging to gather and cremate the bodies of mortals considered likely to rise again as
+Eastern Kindred. Most Ravnos unlucky enough to be declared Chandalas have simply left India rather
+than suffer under such a stigma. Clanbook: Ravnos
+
+=== PAGE 44 === s
+u DrAs
+The Sudras are not a true jati, and no Ravnos is considered to be Sudra. Ravnos ghouls are considered
+Sudras and the refore beneath the Embrace. If a mortal was truly worthy of the Ravnos Embrace, he would
+not be a ghoul and thus a servant. Ravnos rarely treat the ir ghouls well, nor do they usually keep the m for
+very long. Some Ravnos have kept personal ghouls for decades or centuries, and the se servants are quite
+for midable for the ir age. A few have been passed from regnant to regnant and suffer from the shifting loyalties
+of each new blood bond. Sudras commonly serve as scapegoats. If a Ravnos draws too much attention from the mortals, one of her
+ghouls will probably suffer in her place. Among the Ravnos of India, ghouls are considered outside the ir dharma, much as Kindred are, and so do
+not receive the same consideration that mortals do, at least according to the Path of Paradox. The longer a Sudra has been a ghoul, the less connected he is to
+his human life, and the less valuable as an individual to even the most devout Ravnos. t w s
+he esterN hiLMuLO
+In the West, the Ravnos have placed much less emphasis on lineage and pedigree, Embracing mortals
+for any number of reasons that may have little to do with blood relations or social standing. Such considerations may have been more important several centuries
+ago, but in the modern nights, Western Ravnos are n’t tightly knit. Instead, they tend to find a niche and
+build it up. It’s not unheard of to find a Ravnos acting as consigliere to a Mafia family, or working with the Medellín cartels. Lacking a tight social structure
+like that in India, Western Ravnos drift to what ever interests the m most. Consequently, most Western Ravnos for m small
+coteries composed of neonates with no direct blood connection, or a sire Embracing a few childer to
+share the night with her, or simply individual Ravnos working with and among members of other clans. In the wake of the Week of Nightmares, most of
+the Ravnos-only coteries either fell apart or lost the bulk of the ir members during the frenzies that
+overtook the clan. The surviving Ravnos have retreated into hiding, sought out other clan members, or taken
+the opportunity to approach mortal and Kindred society on the ir own terms with out the influence
+of other Ravnos, especially elders. Those who for m
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 45 === new coteries do so from the need to survive or the ily. Others took to traveling by day and leaving the
+desire to learn what happened — or to keep it from Kindred somewhere unpleasant and alone. happening to the m. C s urre Nt itu AtiON
+t he r rOMA s hiLMuLO During the Week of Nightmares, the Rroma
+Ravnos suffered more than any other group. In the
+Throughout Europe, North America and South few nights during which the blood frenzy overtook
+America, Ravnos traveled with the ir Rroma families. the clan, nearly all the Rroma Ravnos destroyed each they traveled in groups, largely for reasons of safety, other in can nibalistic rage simply because of the ir close
+especially among Kindred who distrusted the m on proximity. The few survivors disdain the company of
+sight (a reputation they brought upon the mselves, other Ravnos in reaction to the madness. Before the and to an extent, the ir mortal cousins). Unlike the
+Week of Nightmares, Rroma Ravnos for med the visgiorgio Ravnos, the Rroma Ravnos were much more ible majority of the clan. Now they have dwindled to a
+tightly knit and closely associated with each other. shadow of the ir for mer numbers and are barely visible
+This closeness largely stemmed from a siege mentality, to anyone. Outside observers (wrongly) assume this as Ravnos who associated with Rroma rarely found
+means the Ravnos clan has been destroyed utterly (if welcome in European or American do mains; when
+they not ice at all). they did stay, more of ten than not the established
+Kindred strongly encouraged the m to move on. r A
+AVNOs r OuND
+Ravnos who traveled with the mortal Rroma did w
+not necessarily enjoy a pleasant relationship with the or LD the ir mortal relatives. Many a Rroma took it upon
+himself to rid the world of another bloodthirsty The Ravnos Kindred have always traveled. Before monster before it killed another member of his fam- the disaster, they lived on every continent — and
+Clanbook: Ravnos
+
+=== PAGE 46 === probably still do, if one looks carefully enough. Reports Elder have ns throughout India sit abandoned, as
+of Ravnos casualties from the Week of Nightmares if the ir owners had just stepped outside to sup for the vary from “all Ravnos met destruction” to “maybe a evening. Neonates survive throughout the country, hundred or so survive” to suspicions that the bulk of trying to avoid ancient enemies intent on purging
+the clan has gone into hiding. The truth is a bit more India of all Ravnos (and other Kindred) influences. complex, and not easily divined. At least 100 survivors Ravnos of not e: for merly, scores of elders and exist, some of who m may be elders, but if the old ones possibly hundreds of neonates. Now, no one knows. survived, they have n’t yet made the mselves known Most of the Ravnos in India suffered the Final Death
+except in rumors. during the Week of Nightmares, either in can nibalis The following paragraphs provide some context tic frenzies or because such frenzies revealed the m to for Ravnos activity before and after the Week of the ir ancestral enemies. The weakness suffered by the
+Nightmares, as best as can be reconstructed. Ravnos across those several nights gave opportunistic asuratizayya the chance to destroy the ir most hated
+NDiA foes with little fear of reprisal. India is the Ravnos clan’s traditional homeland
+A friCA
+and has been the center of clan activity for the past several thousand years. Events in India are somewhat Ravnos have lived in Africa nearly as long as they
+confused, considering Ravnos presence the re and the have in India, although not as visibly. The Deceivers purpose for that presence. The Karavalanisha Vrana, for spread throughout Northern Africa with the Phoeniexample, claims that the Ravnos progenitor was cre- cians and traveled into the interior to other African
+ated in India. If the recorded dates are to be believed, kingdoms and empires. Few returned to tell the tale, gods who did n’t exist for at least four thousand years but those who did had some interesting experiences afterward created Zapathasura and the Ravnos. The to relate. In modern times, Ravnos can be found in
+skeptical might suspect a great deal of “after the fact” any major city. Such places are easy to blend into, rationalizing tied up in the Karavalanisha Vrana and given the presence of international black markets, its associated texts. constant drug and weapon smuggling, and piracy. Before the Week of Nightmares, the Ravnos clan Ravnos of not e: One small lineage in eastern in India arguably represented the largest Kindred power Africa claims descent from Anansi, a trickster spider
+base in Asia. Ravnos princes claimed do mains in Indian god known for his thievery. This claim is obviously cities much as the Ventrue and Toreador claim that not verifiable and the se Ravnos show the same tentitle in European cities. The largest difference between dencies as the ir cousins from other parts of the world. the Ravnos and other clans was the continuing war Given the proliferation of Ravnos creation myths, the
+with the asuratizayya, the Indian Ravnos’ name for Anansi connection is probably just another cultural the Eastern Kindred. For centuries, a fluctuating state malapropism. The eldest surviving clan member
+of war between the two groups existed throughout seems to sincerely believe the claim, how ever, and
+India and led to brutal battles. This warfare was n’t calls himself Anansi. He and others of his line travel universal — some Eastern Kindred had better things continuously across Africa and of ten try to undermine
+to do than kill Ravnos and vice versa — but elders the power and presence of European Kindred — over on both sides drove the conflict. Ravnos in India had a slight from the lips of a Camarilla prince uttered
+to be careful where they traveled; entering the wrong centuries ago. city could mean painful destruction at the hands of
+A siA
+the asuratizayya. In the wake of the Week of Nightmares, several Ravnos have lived in Asia for the clan’s entire
+Eastern Kindred took advantage of the sudden drop in history. The heart of the Ravnos has always lain in
+Ravnos numbers and moved to claim the ir own do mains India, and Ravnos have of ten traveled to China, in cities for merly held by the ir rivals. Cities once safe Mongolia and other nations, frequently disguising for Ravnos are now death traps for the incautious or the mselves as Eastern Kindred for passage. When
+unlucky, but than kfully for the Kindred, it’s not too the Rroma began the ir migrations out of India, some hard to hide the ir existence in cities literally crammed traveled into Asia proper as well as to Europe. Ravnos
+with human beings. Some of the more ancient and traveled with the m and spread across Asia in greater powerful Ravnos may survive in torpor; no one knows numbers than before, which led to more conflicts
+what will happen when or if they awaken. with the Eastern Kindred. Despite those battles, a
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 47 === few Ravnos still survive in Asia. the se rare Kindred warm. Smugglers transport the ir goods through many
+must maintain a Masquerade from mortals and the ir Australian ports, and some Ravnos take advantage of own ancient enemies, and usually have a compelling that fact. Many have networks throughout Southeast
+personal reason to remain. Asia and in Hong Kong, and use Australia as a base
+Outside India, the Week of Nightmares in- of operations away from the Eastern Kindred (who flicted few losses on Asian Ravnos, as they group rarely take kindly to Western intrusion). together less of ten than the ir brethren elsewhere. Ravnos of not e: A small jati, the Seven Phoe Even so, fewer Ravnos likely still stalk the night in nix Triad, operates extensively through mortal
+Asia than on any other continent outside Europe proxies in Hong Kong, but is actually based in simply because of the difficulty of surviving in the Darwin. The Ravnos rarely entered Hong Kong
+Cathayans’ midst. even before it changed hands from the Common Ravnos of not e: Unconfirmed rumors place a wealth to China; nowadays, they visit the city
+Ravnos elder known as the Flesh-Eater in the Green only in extreme circumstances. Courts of the Kuei-jin. e ur Ope
+A ustrALiA In the years following the “discovery” of the
+Despite being established as a penal colony, New World, many European Ravnos migrated to
+Australia is about as criminal in culture as the North America. The primary population they left
+United States. the refore, the Ravnos find it no behind was Rroma, who had migrated from India more attractive than any other nation and less so only shortly before. Many European Kindred of other
+than many. Nonetheless, the Australian continent’s clans believed that the “Gypsies” had destroyed those large size and relative paucity of Kindred makes it who were n’t of proper blood, and the new arrivals
+a favored place to cool of f if other regions get too had no desire to disabuse the m of this not ion. This
+Clanbook: Ravnos
+
+=== PAGE 48 === circumstance, perhaps more than anything else, Ravnos who enter, and the Ravnos lack sufficient
+led to the enduring perception of the Ravnos as a communications or numbers to mount any kind of
+Gypsy clan. Treatment (or so they think). Apart from the Indian Ravnos, the Week of At least a do zen Ravnos have gathered into two
+Nightmares struck the European segment of the clan or three coteries for safety in numbers. they’re trythe hardest. The European Ravnos traveled inkump- ing to find other Ravnos — not necessarily to make aniya, sometimes with as many as five or six shilmulo contact, but to find out what the hell happened. traveling with the mortal Rroma. This close associa- Many Ravnos live on the West Coast, where a few
+tion led to the clan’s virtual annihilation in Europe, elders moved to face the incoming Eastern Kindred leaving giorgio and outcasts as the primary survivors. threat, and you ng Deceivers have taken cover among
+Ravnos of not e: Despite the near-total de- the crumbling anarch do mains. Several other you ng struction of powerful Ravnos elders, Durga Syn Ravnos survived the clan’s collapse, but the eldest
+continues to survive, surrounded by neonates and have not been seen since the n. with out the so-called ancillae she Embraced over the centuries. In fact, spiritual guidance of the ir elders, the survivors have
+some who know whisper that the Week of Night- taken to unlife in California with a vengeance, playmares left her and her blood untouched. A few ing up to the clan’s degenerate reputation and giving who know enough to speculate have put for th the in to the ir darker temptations. the or y that what ever blocked supernatural access Ravnos of not e: See the coterie described in
+to Russia somehow blunted the curse that swept Chapter Three. the Ravnos. Durga Syn has not stepped for ward s A
+to of fer her opinion. Outh MeriCA
+Opportunistic Ravnos find South America
+M e iDDLe Ast
+fertile ground for the ir needs. Many are attracted
+Ravnos live throughout the Middle East, some of to Rio de Janeiro and its all egedly decadent atmothem descendents of a few jati with extreme religious sphere. The reality is not always what they expect, views. Though many were chosen from the Muslim but many Ravnos adapt. Others are drawn to faith, Muslims are not the do minant group among Colombia and other parts of the continent where
+the Ravnos in the are a, as Muhammed’s followers they can indulge the ir base urges with out much frequently find the Path of Paradox hard to accept. fear of reprisal from mortal or Kindred authorities. The predominance of faith and violence in the re- Unfortunately, many find that other Kindred who
+gion makes it difficult for most Kindred to survive got the re first have definite and unpleasant ideas here, and the Ravnos are no exception. about visitors. Ravnos of not e: An ancient known as Amaravati As a general rule, the Ravnos avoid the wilderrecently awakened from torpor and spearheaded the ness of South America. The Amazon Jungle is too
+clan’s conversion to the traditional Path of Paradox. dangerous to travel, given the presence of Lupines
+She was known to reside in Iraq before the Week of and stranger beasts. This wild region do es not easily
+Nightmares, and is reputed among Ravnos who recog- for give trespassers. nized her name to have close ties with the Assamites. Ravnos of not e: Rafael Schliemann is well
+She vanished during the Week of Nightmares and is known among the criminals in Rio de Janeiro. assumed to have met the Final Death. what ever anyone needs, Rafael can provide it. N A Mortals are his specialty merchandise. He handles a or th MeriCA
+thriving slave trade that serves as the center of a web
+North America has possibly the largest surviving stretching across the Pacific and Atlantic Oceans
+Ravnos population — or perhaps had. One reason into Africa, Asia and parts of America. He reportmodern Ravnos are less will ing to claim the ir lineage edly uses the Rio slums as his base of operations. He is the fact that many Camarilla elders have an inkling also provides herds to or der for his more selective
+of what happened to the clan and see the you nger clientele, and rumor has it that several Ventrue go
+Ravnos as harbingers of Gehenna. the se elders, in to him regularly. Rafael makes his have n in a heavtheir respective cities, have attempted purges of any ily guarded mansion that or iginally belonged to a
+Portuguese plantation owner. ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 49 ===
+B C: or N ri MiNALs hate our clan (though they come to us when ever they need something underhanded do ne). Ravnos
+t r he AVNOs suffer from compulsions that range from the pedestrian habit of kleptomania to the far more exotic
+w eAKNess and dangerous drive to commit diablerie on fellow
+Kindred. for tunately, relatively few Ravnos are
+In the words of Leszek Kisliewsky driven to the latter. This is the simple truth: Every Ravnos is a crimi What I said in the first paragraph sounds a bit
+nal. Let me restate that: Every Ravnos is a criminal. metaphorical, so I’ll expand. That little voice is not
+The Embrace awakens the Beast with in every Kinexternal, it’s not like a demon gibbering in the dark dred, but the Ravnos Beast is a bit more cunning, a
+places of you r conscious mind that you can ignore or bit more deceptive and a bit more underhanded than
+argue with. It is part of you r own deepest self. of ten, that of other Kindred. This is not an advantage. We you’ll find you rself acting on that impulse before you
+are subject to the same psychotic episodes that every realize what you’re about to do. It’s quieter than frenzy
+other Kindred suffers, but we also have to deal with and less likely to be not iced, but it’s no less compela little voice in the back of our heads that whispers, ling when it happens. Path of Paradox followers say
+“Go ahead. Take it — no one will not ice. If they do, this destructive inner drive is one of the temptations they won’t think you did it.” It’s persuasive, it knows
+laid in our path that we must control or direct toward every dark corner in you r soul and eventually you’ll
+our own needs, but I think they’re just rationalizing give in. the ir own behavior. Other Kindred think that Ravnos are thieves. The fact is, we Ravnos do n’t have to give in
+If it were that simple, existence would n’t be such a to every sudden impulse. With effort, most of us
+pain. Truthfully, our weakness gives many princes can fight do wn the urge and move on, at least for a
+and other Kindred valid reasons to distrust or even while. The Ravnos who ignores it for too long feels
+Clanbook: Ravnos
+
+=== PAGE 50 === a gnawing ache, like the thirst for blood. She might
+C y C even seek out opportunities to commit crimes, or hOOse Our ri Me
+else find herself subject to temptation more and more The Ravnos stereotype is the thief — Ravnos of ten until she gives in. How of ten a Ravnos gives in characters are expected to steal things as part of
+depends on each individual’s degree of self-control the ir weakness — but this trait is n’t very evocative and strength of will. unless handled in an interesting or different way. In the end, it’s not really that we’re inclined First, when creating a Ravnos, consider his histoward crime. We’re simply do omed to prove tory and personality and use that to establish context
+to ourselves that we are the masters of our own for the character’s crime. do n’t worry about making svadharma. it perfectly balanced with the compulsions of other
+Ravnos, because the weakness is different for every t C
+he urse one. One Ravnos might have the urge to tempt
+According to old stories, the curse of tempaarchons and lead the m away from the ir justicars and tion under which the Ravnos labor was inflicted as
+the Camarilla; another might be more interested in a punishment because the clan founder desired the
+sparking or exacerbating vendettas among Kindred pleasures of the life lost to him. His need to steal life
+or mortal power structures. The for mer is specific from mortals, as well as his desire to regain what he and the latter quite general. The two are not by any
+no longer had, expanded to encompass all aspects means equal, nor do they need to be. of mortal life. Rather than simply seek out what s w
+he wanted on his terms, he was compelled to take t OryteLLi Ngthe eAKNess what ever he could get as a reminder that no matter The Ravnos weakness is mainly a roleplaying
+how much he had or how he got it, he would never matter. When a Ravnos has the opportunity to combenefit from it. I not e that the curse did not simply mit her crime, the player must make a Self-Control include the ft, but many crimes. Some stories say “all roll (difficulty 6) to avoid it. The effects, how ever, possible crimes.” largely come do wn to her character. A Ravnos who
+needs to reject and oppose authority figures has to
+One version of the story goes on to state that the actually reject and oppose such figures in roleplay. Antediluvian could weaken the curse placed upon
+The player must be will ing to play through the him by spreading it to others — his childer, the ir
+chosen crime when it comes up, or play through childer, and so on. The more Ravnos in the world, resisting it — an act of will in itself. the weaker the founder’s own curse would become. The image of the happy-go-lucky Ravnos who
+t s V he h Ape Of i Ce merrily skips from victim to victim and relieves the m
+For every Ravnos, the crime is different — some of property and prosperity is a vapid stereotype, and bear strong similarities to each other, but the driving should not define the clan. Consider, when creatmotivation and intent usually differs in some key ing a Ravnos character, what it would be like to be
+way. Ravnos develop criminal inclinations based driven to commit verboten acts above and beyond on the ir activities in life, either a temptation they those needed for survival. Some Ravnos may choose
+indulged of ten as mortals or something they espe- to hide the ir disgust at the ir own actions with a cially despised, as the Embrace is an ironic gift. This supercilious demeanor, but few truly are so carefree. means that the meticulous serial killer will probably Those who are so exuberant tend to lose control
+have an even stronger urge to kill, and his murders of the ir urges most of ten and many are destroyed will probably become more intricate. Or the police before they get old enough to be much of a hazard
+of ficer who loathes the drug dealers she routinely in Kindred society. arrests will develop an urge to obtain those same drugs, or partake of the m through her vessels (the fenses, but even the se derive in some way from the
+two urges are not incompatible). childe’s personality. Some Ravnos develop impulses toward crimes r r w
+rOMA AVNOsANDthe eAKNess they never would have considered in mortal life. The
+Some Ravnos who were Rroma as mortals claim
+Kindred for m and its powers provide opportunities that they are less bound by the weakness, that the
+to commit acts that no mortal would attempt, and thin nature of “giorgio” vitae has made us too weak
+the Embrace occasionally brings such urges for th. to resist stronger impulses toward specific crimes. A newly Embraced Ravnos may be unaware of any they go on to say that they are instead driven to
+reason she might be tempted to commit such of break society’s mores and laws, in any way they
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 51 === choose. I think they’re deceiving the mselves. Some him play a situation to his benefit. Even before they
+Rroma may suffer under such a compulsion, and I jumped ship, the Gangrel rarely showed the ir snouts do mean suffer. If you think getting the urge to hold at Kindred gatherings, and while you can expect
+up a convenience store every time you see the cash the Nosferatu to attend, you probably won’t see drawer open is bad, imagine the need to act against any. The Ventrue appear to see, the Toreador to be
+what ever society you’re in. seen, the Brujah so they can rail against authority, The rumor is that Ravnos hang out with Rroma the Malkavians just smile and nod and the Tremere and we’re all one big happy family. I do n’t know make carefully annotated reports on it all. Aside from
+about you, but I’ve looked into Rroma culture, and that, they’re all ancillae and the ir childer trying to they have a lot of taboos I do n’t pretend to under- curry favor with elders who’d rather spend the ir time
+stand. Now, if you were part of a culture with a lot chortling over maps of the city and congratulating of rules about what you do and how you behave, the mselves on the ir newest scheme to seize control
+would you want some bloodsucking bastard hang- of City Hall or some other bullshit. ing around who breaks those rules every chance he t s he ABBAt
+gets? I would n’t. Back in the ancient mists of history, around the
+K 16th or 17th century, a group of disgruntled Kindred risANDOther
+got together and decided they were destined to rule g
+Atheri Ngs the world. The two major contingents in this little party were the Lasombra and the Tzimisce — go
+As told by Neel Ramanathan figure. We’re probably lucky they both decided to
+For a clan who se blood drives its members to break team up in this little plan. Just one of the m might laws and customs, Ravnos are of ten given to strong have made actual progress by now. As it is, the se
+traditions with in the clan. two clans of manifestly destined Ventrue knockoffs are too busy interfering with each other to make a
+s s e CtsAND OCiety difference. they take a city, they lose a city. Check
+Sects are crap — both of the m. they’re a con out the deal in Manhattan last year. and a lie. Go to any city and try to guess whether it’s do n’t get me wrong — I’d love to be in a world
+Camarilla or Sabbat by looking. The answer is, you where Kindred do n’t have to hide in the shadows can’t. they spend so much time hating each other like rats. I’m under the impression that the Sabbat’s
+they’ve become mirror images. What can I say? Unin- normal modus operandi is exactly the sort of thing tentional irony is the best kind. Or perhaps the worst. that triggered the Inquisition and the Camarilla’s
+t C for mation back in the 15th century. It strikes me as he AMAriLLA
+a little wrong-headed to try to correct the problems
+Sect is a matter of choice, at least if you’re dealing of the past by repeating the mistakes of the past. with the Camarilla. In truth, most princes and elders
+do n’t care if you’re a member of the ir little club as t he A Ntitri Bu long as they do n’t catch you breaking the ir little rules. Okay, okay, you ask, “If the Sabbat sucks so hard, In fact, it’s remarkably easy to get by in a Camarilla why did so many Ravnos join?” The answer lies in
+do main by claiming membership. Hypothetically, the Sabbat’s party line: freedom. Freedom from the any Kindred can do it and few princes care one way elders, from the Antediluvians, from the end of the
+or another unless you r presence brings problems or world, credit-card debt and just about everything else solutions to the do main. It’s best to of fer solutions. you can toss into the mix. For a clan who se members
+I would say that, at best, only a minority of the widely value freedom, the Sabbat looked like the best
+Camarilla’s membership has ever seen a Ravnos, option around. I do n’t know how many joined when and fewer still have ever met one knowingly. That’s the Sabbat for med, or how many participated in the
+a fairly low number, but consider who do es appear Anarch Revolts that preceded the Camarilla — I’ve at the ir Elysiums and garden parties and salons and heard educated guesses that range from one-third to
+what ever-the-hell else they call the ir little soirées. one-half of the clan in Europe. I do n’t think it really
+You’re lucky to see the prince once a year, let alone matters. The end result is that the Ravnos antitribu continuously run afoul of her. Any primogen will were one of the larger clans (outside the Big Two)
+show his face only if he thinks his presence will let in the Sabbat. Clanbook: Ravnos
+
+=== PAGE 52 ===
+The worst thing about Ravnos Antitribu is that leave town and let the anarchs soak it up. they have they’re like the born-agains — they’ve found something sufficient practice at dealing with princely outrage. Important and they Must Share It With Us. I’m talk- Some anarchs have political goals — the overing about seriously evangelical behavior here. with in throw of the elders’ power, equality for neonates and
+the Sabbat, the Ravnos are relatively relaxed, at least other such nonsense. do n’t get too involved in this compared to the other anti-clans like the Assamites or crowd; it can only lead to bloody tears. I see no point
+the Ventrue. When they come across one of us, that’s to joining a fight you do n’t believe in, let alone sufwhen they start witnessing. Just smile, nod and take fering destruction for someone else’s beliefs. If you’re a brochure. the n leave town. caught in the midst of a pack of rhetoric-spouting
+It’s worse since the Week of Nightmares. At a Caitiff anarchs who want to ban the fucking bomb, guess, one-third to one-half of the Ravnos antitribu smile and nod of ten. When they’re not paying attenwere in Ravnos-only packs, with the rest sprinkled tion to you, slip away quietly. You do not want to get among the rest of the Sabbat. Sabbat loyalty is an into the kind of trouble they stir up. Oh, and never
+incredible thing — Kindred in a Sabbat pack can throw in with the “Unbound,” or you’ll wake one get away with near-murder among each other — night with the sheriff’s fangs at you r throat. and when the Ravnos went crazy, most of the m
+t t he re AtMe Nt
+were thoughtfully subdued with what ever weapons came to hand and left to sleep of f the urge. In some Word is that princes who kick Ravnos out of
+cases, if rumor is true, the blood-crazed Ravnos town have “The Treatment” coming to the m. Some ended up leading the ir packs on a wild chase after unwise neonates have been known to use this threat
+a few elder Ravnos and sucking do wn the ir souls. to induce princes to all ow the m to stay. This is about
+I’m not sure all of the Sabbat even not iced the as stupid as you can get. change in behavior. The Treatment rarely happens. When it do es, it’s
+The end result is that most of the Ravnos still on most of ten because some elder with more connections the streets are probably Sabbat. Relatively few actually than sense decided to wreak unholy vengeance on
+died during the Nightmares, but few is a subjective a prince for some slight or other — usually denying word. Not many elders were part of the Sabbat, and the rights due to all Kindred in the city in question. I’m hoping any elders who were Sabbat died. Now, this is not to say that a prince who kicks us out
+of a city do esn’t deserve a response, but that response
+A
+NAr Chs need not be obvious, announced or threatened. do n’t
+The anarchs can be a Ravnos’ most valuable mention it. If a prince says “Leave town,” the n leave
+acquaintances. Most of the m are too you ng to give town, friend. Odds are good that his sheriffs and
+two flings with a dead who re about clan or history. scourges and primogens and personal bodyguards and
+If you’ve spent any time around the Camarilla, you r what ever else he has handy outnumber you. Hanging
+first image upon seeing the word “anarch” is probably around is stupid and you’ll be brightening sunsets
+a pack of Hell’s Angels rejects who have not hing betbefore too long with that kind of attitude problem. ter to do with the ir time than toss Molotov cocktails
+With that little lecture out of the way, the into the Toreador’s favorite Elysiums. than kfully, Treatment is real. It happens. The point is that if
+they’re usually smarter than that, or at least not that the princes expect it, they’ll quietly kill us when we
+interested in revolution. come into town rather than escort us out. In fact, A significant number of North American anarchs this is one of the scourges’ assigned duties — quietly
+spend the ir time wandering the freeways, byways, killing inconvenient Kindred. highways, back roads and dirt roads of the United t M
+States, and more than a few Ravnos accompany the m. he ethODs
+It’s always better to travel in a group, after all, and the One of the reasons Ravnos stick together is the anarchs are less likely to place bizarre conditions upon potential for mutual support. You did n’t think it was
+the ir favors. Anarchs can also be used as camouflage the warm, cozy feeling of family on the holidays, did for any less “who lesome” behavior that we might find you? No, we have a vested interest in keeping our
+ourselves engaging in. I mean, it’s easy for a prince freedom to go where we want. Of course, walking to blame his problems on the anarchs, but it’s not into a city and getting you r sorry ass whacked is not
+always so easy to attach a face. If you cause trouble the best way to achieve this. So, to make it work, we likely to bring the prince’s wrath do wn on somebody, have to cooperate. ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 53 ===
+The first step is to keep in touch with other do n’t go for ineffectual pranks that only make
+Ravnos. Maintain e-mail addresses, cell phones, post you r target look foolish. This is vengeance, not the of fice boxes, answering services, anything that will script for an Adam Sandler movie. Fire for effect at
+get the word through. the n send word when you go all times. Use every resource you have available and somewhere. Leave information about where you’re do not — ever — let the m catch you. do n’t break
+going, when you’ll arrive and how long you expect the Masquerade, you r ego is n’t worth it. to be the re. Be sure to give an idea how of ten you’ll Part One: Plan leave reports of you r well being. Pick up messages I can’t stress this enough. If you walk in with
+from others and pass the m around so that you r fellow not hing more in mind than causing trouble, the
+Ravnos have a general sense of where we all are at powers that be will destroy you faster than you can any given time. say, “just kidding.” the se Kindred have a lot of ego
+If you run into or expect trouble, leave a not e and effort invested in the ir titles and power. Even to that effect. If you lose touch with you r contacts, the vampire prince of the smallest town that can
+other Ravnos may decide to check it out. This choice harbor Kindred got the re because he was mean and depends on how they feel about the prince or other ruthless enough to grab hold with his talons and
+Kindred in the city where you vanished, how they sink his fangs into it. Any rival claimants are either feel about you and whether they care to risk the ir dead or seriously defanged in his do main, assuming
+existence trying to avenge what may be an idiot’s they exist. do n’t even ask what happened to the well-deserved demise, or just another pain in the ass. previous prince — you do n’t need the nightmares. If you do get run out of town, it’s a good idea Get a city map — you can buy the m at gas
+to post a heads-up to the rest of the blood, so they stations, so no need to get baroque about it. Read know why or how. If a prince hates Ravnos, avoid the newspaper — you can buy newspapers for most
+his do main. If you’re kicked out of a prince’s do main major cities anywhere. I can walk into a newsstand for poor behavior, leave. do n’t get pissy, do n’t bitch in Seattle and pick up a copy of the New York Times, at the prince, do n’t make threats and do not, under after all. Look for trouble spots — you th violence, any circumstances, mention the Treatment. It’s what gangs, drugs, police or political turbulence. the se
+“everybody knows” about us, but we should n’t men- are both the weak spots and likely the are as on tion it to the m. Other Kindred get weird when you which the native Kindred have already focused
+talk casually about turning the ir cities upside do wn. the ir attention. That, and it works better to let the m fear it with out
+Part Two: Leave Town stooping to churlish threats, especially since you
+Once the Treatment is in motion, leave town probably do n’t know enough other Ravnos to call a
+and do n’t come back. You’ve made you r point; Treatment worth the capital T. the re’s no reason to hang around to see the results
+Of course, you are expected to return the favor. if the local scourge destroys you for you r disrup Just a warning: Not all Ravnos care about the tive behavior. Treatment, especially since the Week of Nightmares Also, it’s great if the prince and his lackeys are n’t hit. In fact, since that time, most Ravnos prefer to lie sure whether or not the Treatment just hit or if it was
+low and avoid not ice even from the rest of the clan. a run of bad luck. The confusion enhances the mysI can’t blame the m. It’s hard to get anyone together tique — trust me on this. for a Treatment if you can only find one or two of t O
+the blood who will talk to you at all. he the rs t M w! You did n’t think I was going to let you of f the
+his eANs Ar hook with out saying my piece about our fellow Kin Assuming you’ve got a mob together to inflict the
+dred, did you? infamous Treatment on a city, it’s time to assemble a plan. That’s right, you actually have to prepare. Even A ssAMites
+the Sabbat has a strategy behind the ir riots. Sure, Half of the Assassins are dangerous psychopaths it looks like a random mess when two do zen blood- who would just as soon devour you r soul as look at
+crazed mooks charge Elysium brandishing crowbars you. The other half smile while do ing it. I admit, and zip guns, but that’s its charm — it only looks that’s a harsh judgment, but the se guys got hit with a like utter chaos. nasty curse five centuries ago because they could n’t
+Clanbook: Ravnos
+
+=== PAGE 54 === behave in civilized company. Now they act like po- you rself before the Gangrel had his claws in the
+lite and cultured, but turn you r back on the m and Ravnos’ gut and the Ravnos had imaginary priests they’ll have a stake in you faster than you can say shoving illusory torches into the Gangrel’s face. “all ahu Akbar!” In the modern nights, half the fights you see start
+All right, so some have overtly rejected the ir because one side knows the other side is an enemy, bloodthirstier cousins’ nastier habits. But be careful but neither party quite knows why. around this pack. For all we know, they could be the I hesitate to say that we can’t get along with front line for another wave of diablerists. If an As- Gangrel. Among the anarchs, it was n’t unusual to
+samite is interested in you, be polite and give him see Ravnos and Gangrel side-by-side with out either every reason to find someone else to bother should deciding the other one just had to go. I’m not saying
+he decide to obey his thirst. I saw any bosom buddies in the mix, but I rarely saw any of those vague irreconcilable differences that the
+B ruj Ah
+elders always went on about. Rule of thumb, though: I think the Brujah largely support the Camarilla when you’re around Gangrel, watch you r back. You
+because it gives the m something to bitch about. At never know when one might decide you r existence
+length. they’re as much a part of the establishment is a blight on his world and start waving his six-inch
+as the Ventrue they’re always calling out, unending press-ons in you r face. streams of vitriolic rhetoric aside. Some Brujah go
+g on about the fabled glories of the ir pet cause and the iOVANNi
+absolute necessity to strike do wn the Ventrue with I have an odd relationship with the Giovanni I’ve all the fury they can muster. This is why they’re one met. they are a family; we act like a family. they’re
+of the six pillars of the Camarilla, right? into money and dead things; we’re into money. The
+Necromancers are among the creepiest Kindred I’ve f s
+OLLOwers Of et had the displeasure to meet. All that aside, they make
+This clan must have stepped out of a bad fantasy great business partners. Just keep all interactions on
+pulp. “Okay, we’re all dead and we worship an evil a professional level and do n’t let the m count the
+snake god! ‘Cause he has snakes!” the n they run money until you’re long gone. around promoting pedestrian acts of infamy that are
+Sometimes a Giovanni will come looking for supposed to prove the ir commitment to the ir naughty
+someone to do special jobs for the m. they especially lord. The best thing about Setites is this: The first
+like Ravnos because we’re not well known to other time is always free. No, I’m not kidding. they figure
+Kindred and we can cover our tracks. If approached, if they hook you, they can keep you for ever. The act according to you r conscience and do n’t give
+trick is to hook the m. If one of the serpents is dumb the m you r name. they have eerie powers over the
+enough to give me stuff to do evil things, the n I’ll dead, and they can use you r name as a link. you r real
+take it. Of course, when the shit hits the fan and name, that is. everything falls apart, he’s the one who should take
+all the credit, right? L AsOMBrA g The Lasombra epitomize the Sabbat’s core tenet: ANgreL
+The strong prevail, the weak perish. Rumor has it they
+Ever since my sire and my sire’s sire and my destroyed the ir eldest just before the Camarilla for med. sire’s sire’s sire can remember, the Gangrel have
+I can’t confirm that, but the few I’ve met were hardcore been at odds with our clan. I do n’t know what the ir
+enough to try anything if they thought it would get malfunction is, but I’ve heard quite a few the or ies. the m ahead. When you’re around a Lasombra, give
+One says the Gangrel were created to fight an enemy her the respect she thinks she deserves. If you’re tired
+alongside the Ravnos, but that the Gangrel turned of existence, just start taunting her. Unlike our clan’s
+tail and ran rather than assume the ir rightful place. power over perception, the Lasombra’s power over
+Personally, I think it’s more likely we ran into trouble shadows can get do wnright physical. over kine herds. For several centuries, Ravnos were
+coming into Europe with Gypsy families. Gangrel M ALKAViAN poached the herds and Ravnos responded appropri- The Malkavians bother me, and not just because
+ately. Eventually, it got so you could n’t introduce they know too damned much. Half the time they
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 55 === do something utterly clever, we get blamed for it. I I would n’t shed any tears if they did. I’ve rarely enthink most of our reputation for uncivilized behavior countered creatures so convinced of the ir importance
+comes from a Malkavian’s lunacy. they’re not stupid to the universe and yet so utterly lacking in evidence or clownish, but that’s no consolation. they have a to support the ir delusions. I mean, the se losers use
+weird ability to see through any deception or trickery. supernatural powers of charisma to win friends and
+Personally, I’d rather kill one than deal with him. influence people. Kindred who like to think in shortcuts will compare Naturally, if you want to get anywhere with a
+Ravnos (because we’re “tricksters,” right?) and Malka- Toreador, you have to treat him as if he’s as important vians (because they’re “tricksters,” right?) and lump us as he believes he is. Anything less and he’ll throw a
+into the same category. This is plainly stupid. I do n’t temper tantrum and beg a primogen or the prince to recall when Ravnos became blood-drooling maniacs swat you r knuckles. by default. If you come across that kind of lazy thinkt
+re Mere ing, milk it for what it’s worth. Either the Kindred
+Here we have a pack of paranoid blood witches. will assume you’re a blood-drooling maniac or think
+What do they want to do? The same thing they do you’re much more frightening than you have any right
+every night. they want to rule the world. Okay, I to be. Either misconception will be to you r advantage
+do n’t know that for sure, but look at the se two-bit if you’re on the ball. special effects rejects. Sure, they can toss fireballs, N
+Osfer Atu fly around like a superhero and summon the very
+For such a group of ugly sonsabitches, the se guys elements to strike do wn the ir enemies. What’s the make my vitae itch just thinking about the m. they flaw? Subtlety, or rather, the lack of it. I’m continuknow far too much for my own good. Sure, it’s easy all y surprised that the Brujah have such a reputation
+to deal with the m — hey, we’re outcasts, they’re for brute for ce when the Tremere have refined it to outcasts, we talk to the animals and they talk to the an art for m. The most important rules when dealing
+animals. We have a lot in common, right? Sure, but with Tremere: do n’t meet the ir gaze and do n’t give do n’t count on the ir goodwill and caring nature to the m you r blood. Anything beyond that is up to you. extend to you if they can turn the dirt they have into I’ve heard rumors that at least one branch of the
+benefit for the m. You have n’t unlived until a sewer Ravnos enjoyed positive relations with the Tremere rat’s blackmailed you. before the Camarilla for med. I have n’t seen any evi Here’s a trick in dealing with the m: The Nosferatu dence of that in my own dealings. Either they have
+know many things about the goings-on in the ir cities. a short memory or my sire was sucking do wn punks
+Better yet, they get together and discuss it. If you feel tweaking on crank. I would n’t rely on the possibility, up to it, you can use you r power over animals to get a either way. little of that action for you rself. It’s simple — just find t
+zi Mis Ce a real rat and send him in to spy on the Nosferatu. the se guys redefine the words “sick fuck.” The
+Okay, it’s not that simple. they’ll turn that damned
+Fiends are the walking embodiment of the Sabbat’s rodent against you half the time. So send a few do zen
+core aesthetic: they have no human connections. To
+— the Sewer Rats can’t get the m all. If you have the be more precise, they work really hard at convincing
+skill, possess one of the rats. Spend enough time in the mselves that what ever was human before the Emthe sewers and you’re bound to learn something. The
+brace with ered away afterward. The psycho protests
+Nosferatu know the ir game, but they do n’t always too much, methinks. pay much attention to the animals in the ir warrens. I have never met a Tzimisce I did n’t want to
+they’re used to the m, so a few extras do n’t always shove a stake into and put on a rooftop. Not one. I
+set of f the ir paranoia circuits. Hell, do n’t even use hate the se shapeshifting bastards like not hing else. rats. Use roaches. they’re vile, polluted things. I’m not even sure
+t or eADOr they’re really Kindred. Stay away from the m if you
+If I ever thought the re was an underlying cosmic value you r existence. If you’re lucky, any Tzimisce significance to my existence as one of the blood- you meet will turn you into a carnival sideshow act. If
+sucking undead, the Toreador are the best evidence you’re unlucky, you’ll spend for ever as a quadriplegic against that foolish belief. I’m not saying that I think blood dildo. all the se dry-humpers need to burn in the sun, but
+Clanbook: Ravnos
+
+=== PAGE 56 ===
+V e Ntrue Final Death for no better reason than the Rroma’s
+If you put the Toreador at one extreme of behavior passage through Europe. and the Lasombra at the other end, the Ventrue fall Some basic rules when around Rroma — remember somewhere in the middle. you r typical Ventrue prob- they’re mortals. If you tell the m you’re a bloodsuckably believes that she’s owed the world, but she’ll do ing undead monster, they’ll probably freak or try to
+everything in her power to take it. Overall, they do kill you. So do n’t. If you think it would be cool to the leadership thing better than the Lasombra and dress and act like the Gypsies you see in the movies, they just are n’t as pathetic as the Toreador. they’re do n’t. You’ll stand out like a bleeding thumb. If you
+dangerous as hell. One call from a Ventrue’s cell think it would be cool to relate to a Rroma person phone and you’ll find you r bank accounts frozen, because you think she’s got the “wanderlust,” do n’t. a warrant out for you r arrest and you r have n paved Rroma traveled because they had no place to stay. over to make a goddamned parking lot. do n’t make You’ll find a lot of Rroma living sedentary lives and
+the m angry — or if you have to make one angry, holding respectable jobs. they’re not mortal Ravnos do it in such a way that she’s not angry with you. I and do n’t treat the m as if they are. It’ll probably get
+do n’t care how much of a hardcore rebel muthafucka you killed, if you’re lucky. you think you are, when you’re in the presence of a One last thing: Traditional Rroma are sticklers for
+Ventrue prince, treat her with the respect she claims cleanliness. I’m talking seriously so. they won’t eat of f to deserve. You’ll find it pays of f in the long run. you r table if you put you r feet on it. If they know you
+drink blood, they won’t hang around you — blood, t r he rOMA
+as a bodily fluid, is impure. Like most mortals, the
+This topic is a delicate one. Many Kindred be- Rroma believe fairly strongly that the dead should n’t lieve that all Ravnos are Rroma — what most people get up and walk around. In fact, I think they might
+call Gypsies. This is partly true. Until recently, most be a little more vehement than most about it. Just visible Ravnos were Rroma. Roughly 600 years ago, do n’t bring up the topic. the Rroma spread throughout Europe and picked up
+Aeries a really bad reputation. I suspect it largely sprang
+I’ve never seen a faerie and I’m not sure I believe from the fact that a few hundred Ravnos traveled
+they exist. Sure, I heard about the m from my sire, into Europe with the m. but what do es that mean? Anyway, the word is that
+The Ravnos believed that to maintain blood our illusions might be able to hurt the m somehow. I
+purity, they should only Embrace from with in the ir do n’t understand why, and I have n’t felt compelled
+families. So the Ravnos who arrived with the Rroma to go looking for anyone to ask. Besides, I’m not sure
+(presumably the ir relatives) Embraced from among where to find a faerie, let alone why I’d want to fuck
+the Rroma. All the se Ravnos had a little voice in with one. the back of the ir minds telling the m about all the
+wicked things they could do to make the ir unlives t he L upi Ne s ur ViVAL easier. This made the mortal Rroma’s lives harder, as g, y2K e
+ui De DitiON every time they traveled to a new place, the Ravnos
+Author unknown, distributed in hardcopy and, traveling with the m would descend on the town and recently, digitally
+wreak havoc upon the wealthy and the powerful. Every Ravnos ends up in the following situation
+Invariably, the Rroma were accused of the crimes or sooner or later. You’re hanging out in town and you’ve
+for ced to move on. come to the attention of The Powers That Be. The
+I’m not saying the Rroma were blameless. Every prince, the primogen, the archbishop — it do esn’t
+society has criminals. But when the Rroma looked for matter what the power calls itself, it’s not iced you. help in getting rid of the Ravnos who had bled the m
+That means you need to move on before who ever it white and led trouble to the ir families, the Gangrel
+is do es something permanent to you. were ready to step in and of fer that help. The best solution is to leave town. Take a bus, Personally, I think the Rroma who made that plane or train and get the hell out of do dge. Unforbargain traded one devil for another. In the process, tunately, if they want to catch you, they’ll watch the
+the Ravnos and Gangrel clans came to blows on airport as well as the bus and train stations. Sure, multiple occasions. Kindred in both clans met the
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 57 === you might slip by, but how certain are you of you r Pack a few roadside flares as well. they’re not too
+ability to do so? Late night in any of the se places is dangerous for you to use and if you can shove one generally not very crowded and it’s hard as hell to into a Lupine’s eyes and/or throat, that should even
+get a flight out of town on short not ice that will land the odds a little. do n’t for get you r fire extinguisher. before the sun rises. By law, every car should have one. For us, it’s rather
+The problem with traveling between cities, even more important than for most. You can use it to blind in our modern world, is the Lupines. the se furry attacking Lupines (lacking anything better), and
+bastards live to tear us apart. The odds are good that put you rself out if you have an accident. Remember: if you hop onto the Interstate 5 corridor and make a Safety first. run from Seattle to the Anarch Free States, you’ll be Travel in a group. If you’re with other Ravnos, able to find good places to stop during the day. You this precaution is ideal. If not, find a handy pack of probably also won’t run into Lupine trouble — they anarchs. If you can get in on the ir good side, you’ll
+can’t be everywhere at once. Unfortunately, you probably run into much less trouble. A pack of Lucan’t get lucky every time. At some point, Lupines pines who have no qualms about attacking a single will probably appear from the woods, drop a tree on Kindred on the road might — might — think twice
+what ever you’re using for transportation and proceed about attacking a half-do zen Kindred on motorcycles to treat you like a piñata. and loaded for bear. If you’re going to travel and risk a meeting with Keep you r trips short. do n’t try to push all the
+Lupines, I suggest packing the following items: Mace way from Portland to San Francisco in a two- or and/or pepper spray. Lupines have sensitive noses; if three-night haul. do n’t use the back roads, the Luyou can screw those up, you’re halfway the re. Get a pines watch the m more closely. do n’t stop in small
+crowbar, or better yet, see about getting something towns — you won’t necessarily find Lupines the re, electroplated with silver. Silver burns Lupines like but it’s best to avoid the trouble. not hing else. do n’t use this weapon to kill the m, only Before you travel, scout you r route. You might not to fight the m of f. you r goal should be to get away. have time to do this, but if you do, at least do it right. Clanbook: Ravnos
+
+=== PAGE 58 ===
+Call on the birds of the air and the beasts of the field “illusion,” with connotations of supernatural power and ask the m. they won’t know what a “Lupine” is, in certain contexts. It also refers to the illusion of
+but they’ll probably know about “man-beasts.” Ani- the physical world we can all see and touch. Parisatya mals are n’t bright enough to be completely reliable, refers to absolute truth. The juxtaposition of the two
+but you should use every resource you have available. is a koan, or a Zen riddle, like “What’s the sound of
+One last caution: do n’t drive faster than the traf- one hand clapping?” Understanding of mayaparisatya fic around you. The last thing you need is to catch leads to true enlightenment. The means of that unthe Highway Patrol’s attention. derstanding comes through study and adherence to
+the Path of Paradox as created by Zapathasura, the
+A N not her Ote
+Ravnos Antediluvian; at least that’s the name the
+Some Ravnos with more knowledge than good
+Indian elders used. sense spread the word a few years ago that a clan of
+This version of the Path of Paradox focuses on
+Lupines called the Striders are related to us. do n’t the Ravnos’ condition as one of the Kindred, on the
+believe it. I do n’t know what a Strider is, but I’ve reasons for being Kindred and how Ravnos fit in the
+never met a Lupine I did n’t have good reason to run world, especially in relation to the other Kindred —
+away from as quickly as possible. Western and Eastern. This is not to say that Paradox is
+M: a peaceful or for giving path. It demands the destruction
+Ay ApAris AtyA of Kindred who refuse to adhere to its precepts, as they
+t p damage the world simply by existing. It demands an he Ath Of
+individualist approach to unlife, with respect — not p love — for mortals. ArADOx
+t s he VADh ArMA
+For centuries, Ravnos in Europe and the Americas
+Paradox teachings state that all Kindred are followed a Path of Paradox that taught the m to treat
+locked outside the cycle of samsara, life and death. mortals as cattle and to indulge every whim with no
+The Embrace locks the Ravnos out of natural reinconsideration beyond “cover you r ass.” they used it as carnation, at least until her destruction. Paradox
+an excuse to commit any crime or atrocity imaginable do ctrine teaches that once Embraced, the soul loses
+with out concern for the consequences of the ir actions. all karma and must reestablish its dharma as one of
+Most of the se Ravnos claimed they were following the the Kindred. tenets of Paradox in or der to rationalize the ir increas In or der to advance her dharma, a Ravnos must
+ingly monstrous activities, and quite a few fell to the understand and eventually penetrate maya. Accord Beast over the years. ing to the teachings, the clan’s continued failure to
+The Path of Paradox as practiced was a loathsome fully understand this leaves the m mired in the curses
+thing, not discussed outside Ravnos circles. If any of undeath — death by fire or the light of the sun, Ventrue ever got wind of the practices espoused by
+and the unending thirst for blood. Ravnos who are
+Paradox advocates, they’d start a purge to equal the very advanced in the study of Paradox believe that
+attack on the Assamites in ferocity and efficacy. It’s a once maya is transcended, a Shilmulo can likewise
+wonder that never happened in the first place. transcend the se curses, and no longer suffer from t he t rue p Ath r etur Ns the sun’s light, the burning flames or the need for
+blood. Other Kindred may recognize this as similar
+In the past decade, elder Ravnos awakened to Golconda, and a few of the most ancient Ravnos
+from deep torpor and spread into Europe and the have claimed in the ir writings that Golconda springs
+Americas. When they saw what the neonates and from the Path of Paradox. ancillae of those continents called “Paradox,” they
+Ravnos who follow the Path of Paradox must reacted with bloodthirsty horror and destroyed the
+learn the ir purpose — the ir svadharma — and adworst of fenders. The rest, they educated in new (or vance it at every opportunity. This is not as simple
+rather, very old) ways of Paradox, which they called as it sounds, and no two Ravnos have quite the same
+mayaparisatya. svadharma. One may decide that he must ignore
+The wordmayaparisatya is a Hindu construction. the temptations the Beast presents to him, while
+Maya describes Chimerstry almost literally — it means another may decide that she must give in when ever
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 59 === p e
+Aths Of NLighteNMe Nt
+Ravnos do not follow only the Path of Paradox. The path’s tenets make it exceedingly difficult to follow while remaining a constructive part of a sect, especially the Sabbat. The prohibition against blood bonds
+means that any Paradox follower will find a new set of morals or descend fully into the Beast’s grasp through the constant influence of the Vinculum. Ravnos antitribu look elsewhere to satisfy the ir philosophical needs, should humanity with er with in the m. Path of Caine: Some of the oldest Ravnos antitribu turned to the Path of Caine in direct rebellion against
+the teachings of the Path of Paradox and the ir elders. they do ve headlong into the Sabbat teachings about
+Caine and the Antediluvians and denied the Ravnos lore surrounding Cainite or igins. Path of Cathari: Some Ravnos are attracted to this path because it of fers justification for the ir more complex amoral urges (the clan weakness). Ravnos on the Path of Cathari tend to refine and practice the ir
+particular vice until it becomes a high art — at least in the eyes of fellow Sabbat. Other followers of Cathari tend to find the Ravnos’ innate grasp of vice enviable. Path of Death and the Soul: for mer followers of the Path of Paradox of ten switch to this path, if only
+for the common thread regarding the fate of the soul after death. This is not to say that adherents feel the two paths are generally similar, only that the ir similar not ions of the soul’s fate serve as a useful starting
+point. Ravnos who se vice turns the m toward murder are also of ten drawn to this path to better understand the ir urges. Path of Evil Revelations: Ravnos antitribu, like the Kindred of the ir parent clan, are strong individualists and find it difficult to give the ir all egiance to a greater power, no matter how evil or depraved it may
+claim to be. A Ravnos who finds his own way is admired much more than one who follows in the footsteps of the Devil. Path of the Feral Heart: Due to the sophisticated nature of a Ravnos’ Beast, Rogues find this path
+difficult to follow. The path is based in the Beast’s more primitive urges and needs, and the Ravnos Beast tends to focus on more refined concerns. Path of Honorable Accord: Few Ravnos antitribu follow this path, but those who do are deeply committed to its tenets. Some may find it more difficult to follow because of the ir addiction to vice, but this
+path usually strengthens the Rogue’s resolve to behave properly. Path of Lilith: Ravnos typically attracted to this path tend to be those few interested in pursuing rumored connections with the Gangrel and the idea that both clans somehow sprang from Lilith. Others adopt this
+path simply to wallow in heresy against the Sabbat’s do ctrines with out pledging fealty to a demonic power. Path of Power and the Inner Voice: Rogues typically do not turn to this path, but those who do pursue it with a ruthless efficiency that even the Lasombra admire (as long as the Rogues’ depredations are n’t aimed
+at the m). Ravnos antitribu on this path most of ten seek power not for its own sake, but simply to make it easier for the m to do what ever they want when ever they want, though they rarely use the ir power foolishly. While few Ravnos care to give fealty to another, most are will ing to accept it when of fered. possible. what ever the svadharma, the Ravnos must let alone understand what it means, Shilmulo take it
+spend every waking moment trying to understand upon the mselves to find out other Kindred’s svadharma, and achieve it. A Ravnos who loses track of his so they can guide the m to it. Those who refuse to svadharma — one who falls under a blood bond or follow are destroyed, if possible. they are simply too
+gives up his freedom to serve another — will quickly uncontrolled and dangerous to be all owed to exist. fall to the Beast as he discovers that he can not find Those few who learn are taught the basics of the his way on another’s path. Path of Paradox and may in time become Shilmulo. Paradox adherents, known as Shilmulo (from This is n’t to say that Paradox followers are
+another Hindu word for this wretched state), view ruthless murderers of the ir fellow Kindred. Rather, Kindred who are n’t on the path as inferior, misguided Shilmulo see the ir cause as a holy one, and they or actively dangerous. Since Kindred who do n’t follow are more than satisfied to make converts. It takes
+the path can’t be trusted to seek out the ir svadharma, a long time and great commitment to transcend
+Clanbook: Ravnos
+
+=== PAGE 60 === one’s mortal moral code and adopt the one better
+suited to unlife. And so, as the Shilmulo reason, those earnestly wishing to make the change have for ever to enact it. s p
+t Arti NgONthe Ath
+The beginnings of the Path of Paradox must be taught — as with any path of enlightenment, they
+do not come naturally to Kindred with out tutelage. Unlike many other paths, once the student has taken her first steps, she’s on her own. Paradox stresses that
+each Ravnos must find her own way, and she can not do that by holding onto the coattails of her elders. A Shilmulo may seek advice from a more advanced
+adherent, but she should not expect to get an easily deciphered answer. Very few Paradox adherents survived the Week of
+Nightmares, and those who did are not easy to find. A Ravnos who finds writings, such as the Karavalanisha Vrana, may use those as a guide for study and advancement (assuming he can translate from the
+or iginal Sanskrit). D is Cip LiNes
+As told by Desiree Narayan, anarch historian
+Whether combating the asuratizayya or weathering the fallout of the Week of Nightmares, the Ravnos are no strangers to the gifts of Caine. Some reason
+that the First Vampire armed his childer with the weapons to fight the eternal Jyhad, while hardline
+Shilmulo argue that only through understanding the ways of undeath can an individual achieve svadharma. A
+NiMALisM
+The Animalism Discipline is of ten underestimated and overlooked. It lacks the flash and style of
+Disciplines like Chimerstry. So you can summon a pack of do gs or a flock of birds; what’s the big deal? For the Ravnos, Animalism is probably the ir most
+useful Discipline if applied in an intelligent fashion. It demands subtlety and planning to a degree that even Chimerstry do es not require. Many Ravnos
+consider Animalism an extension of the ir Beast, which they see as more evolved than that of other clans. It whispers to the m in the night and pushes
+the m to commit sophisticated acts of malice beyond those inspired in the frenzy. While this compulsion is by no means an advantage, it gives Ravnos
+a greater understanding of the ir Beasts and makes it easier for the m to communicate with the Beasts
+of others. A Ravnos using Animalism can, to a
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 61 === versatile than do minate or Presence, for what it do es, O D O B
+ptiONf Or r Awi Ng utthe e Ast it manages very well. The Ravnos Beast, as described on page 49, differs
+Subsume the Spirit is the most useful and risky somewhat from that of other Kindred. It is part of the
+application of Animalism. A Ravnos who transfers driving for ce behind the clan’s predilection for for bidher consciousness into an animal risks losing her
+den activity. Because of this link, some Storytellers sense of self and identity to the animal’s instincts. may rule that a Ravnos can choose to use Drawing
+Some Ravnos are vastly uncomfortable with the loss
+Out the Beast when she is driven to succumb to her of control experienced during and after the possesweakness. The drawback is that the new vessel might
+sion, and so prefer to avoid using this ability unless be better at the chosen crime or simply more will ing
+necessary. Subsume the Spirit makes it possible for a to commit it than the Ravnos was. If this is the case
+Ravnos to personally search an are a with out physi-
+(at Stoyteller’s discretion), it may be difficult or imcally going the re and lessens the need to rely on the possible to regain the Beast. Because of this hazard, perceptions of other animals who are likely to miss
+Ravnos tend to kill anyone who has served as a vessel for the ir Beast, no matter what the use. what the Ravnos needs to know. Players should not use this option to circumvent Drawing Out the Beast sees infrequent use, though
+the clan weakness. After all, any Ravnos who uses several Ravnos survived the Week of Nightmares
+Drawing Out the Beast suffers the consequences than ks to quick thinking and intelligent usage of outlined in Vampire: The Masquerade, page 149. this ability. Even more so than Subsume the Spirit, Drawing Out the Beast is best saved for when you
+really need it. limited extent, perceive another’s Beast while using the Discipline on that individual. Rather than an f
+or titu De extra-sensory ability like Auspex, Animalism gives
+Animalism has immense utility, Chimerstry a sense of another’s animal consciousness — that
+provides extensive versatility, but for titude is a part of the mind that drives others to blind rage or
+literal ass-saver. This Discipline makes it easier to unreasoning panic. The Ravnos do esn’t really deal
+survive the slings, arrows and fires of outrageous with the person or animal, but the Beast with in that
+for tune. Even better, it might give you that extra person or animal. edge you need to survive a Gangrel’s claws. It’s not
+Consider the possibilities with Feral Whispers a cure-all, but it’s vastly better than not hing. Learn
+or Beckoning. The first enables the Ravnos to speak it, love it and use it. with animals and give the m instructions. For example, C
+a Ravnos who decides to spy on an elder’s have n can hi Merstry call upon nearby animals to patrol the are a and return
+Everyone knows our reputation for deceit, not the if they find anything unusual — like someone slinkleast of which is our ability with Chimerstry. I do n’t
+ing around the have n. the re is no guarantee that this know how it works or what it do es, but it’s probably
+strategy will work and it do es require a modicum of the most versatile trick you’ll see Kindred waving
+effort, but the chance for success is probably worth the around anywhere. Unfortunately, we have a reputation
+payoff. Beckoning simply summons animals — potenfor using it in obvious and stupid ways, which probtially, all animals of a given species in the immediate ably leads to Ravnos being escorted out of any given
+are a. Uses for this ability include feeding or finding do main (of ten strapped to the front of the sheriff’s
+the sentries mentioned previously. Neither of the se classic Mustang). If any of you get the urge to run out
+powers really lets the user communicate well with somewhere and start weaving illusions that look like
+animals, and never mind trying to discuss complex they belong in the movies, I suggest you write up you r
+topics. Nonetheless, the uses with in the restrictions final will right now and let the rest of us get on with
+of the Discipline are nearly limitless. our unlives. Like we need any more jackasses fucking
+Quell the Beast is frequently an effective way of shit up for us. dealing with mortals or noisome animals. If a watchdog
+Chimerstry is our most useful weapon, if used gets in the way, use Quell the Beast to calm it do wn. well. Images of the King of the Monsters stomping
+Mortals under this ability’s influence are particularly all over the city are n’t good uses and you should n’t
+suggestible and none will defend the mselves, making abuse the power in such a way. Save it for subtler ap Quell the Beast ideal for feeding or for convincing
+plications — draw a gun, distract others with sudden irritating people to keep the ir distance. Though less
+and unexpected noises or make something look like
+Clanbook: Ravnos
+
+=== PAGE 62 === w C? h Atis hi Merstry
+Players and Storytellers alike are of ten uncertain as to what Chimerstry actually represents and how it works. Another common concern is that Chimerstry do esn’t readily tie into the vampire mythos. Bear the following in mind. C O
+hi MerstryisNOt BfusCAte
+Chimerstry can’t make anything “invisible.” Unlike Obfuscate, Chimerstry do es affect cameras, motion detectors and other technological sensing devices (but it won’t trigger tripwires or pressure plates). Chimerstry derives from the Ravnos’ ability to visualize an image and bring it to life and do esn’t rely so much on
+the human mind’s tendency to fill in the blanks, at least not to the extent that Obfuscate do es. D is Be Lief
+This is a tough one — just because a character knows that a Ravnos can create illusions is not sufficient reason to disbelieve everything a Ravnos do es. If the Ravnos draws a kris from her purse, it very well could
+be a real kris. Belief is not like a water faucet. Characters can’t simply turn it on or of f at will. On the other hand, a completely implausible illusion won’t convince anyone. Either way, the fact that someone has a
+good reason to disbelieve a Ravnos’ Chimerstry-created images do es not mean those images will vanish. The false nature of such images is obvious to any who can penetrate the illusion, but the illusion will remain until it would otherwise disappear. h M A C C C? Ow u Ch reA AN hi Merstry OVer
+As much as the Storyteller deems reasonable. If a Ravnos wants to conjure an image of an ancient, chthonic, tentacled deity rising from the ocean, he can. The illusion probably won’t convince anyone, but the re’s no reason the image will fail to appear. h r. h A
+or riD eALity Vs igh uspex
+Auspex and Chimerstry work against each other in the same manner as Auspex vs. Obfuscate (see
+Vampire: The Masquerade, p. 152). If a Ravnos inflicts Horrid Reality against another Kindred who has
+Auspex at level five, the interaction occurs as described in the core rules. If the victim has more Auspex than the Ravnos has Chimerstry, the power fails automatically. Harsh luck. C i ’ V
+hi Merstry sN t AMpiriC
+Some people have strict definitions of what fits into traditional vampire tales. the ir views may be as narrow as what Stoker’s Dracula could do, or perhaps as broad as what ever appeared in European legends. Either way, strict definitions imply that a body of legend is obliged to stop growing at some point and never
+add anything new. This is not necessary or required. Anyone who’s seen Lost Boys probably recalls the sequence with the rice disguised momentarily as maggots. This is a good example of Chimerstry in a vampire story — a very recent story, certainly, but how do es a story’s age invalidate it? Indeed, Chimerstry is a fine
+way to evoke psychological horror. It’s not that Chimerstry is somehow “not vampiric,” but rather that it’s rarely used in a manner that supports the the mes running through Vampire. How can a Storyteller maintain a game of “personal horror” when the Ravnos conjures up stock-fantasy tropes or near-comical absurdities? In the hands of a clever
+Kindred, Chimerstry is a potent tool — it can be used to cover or prevent Masquerade breaches, to add subtle touches to a scene, to drive mortals (or other Kindred) to the ir mental limits and the like. It works
+best when its use is n’t obvious. Use Chimerstry to reinforce the mood rather than break it. something else. Make sure you r illusions are plausible lusions. I’m going to go with material my colleagues and in context for the situation at hand. have translated from the Karavalanisha Vrana and try
+to establish what it is from that. w C? h Atis hi Merstry
+The Karavalanisha Vrana describes Chimerstry
+For every Ravnos I’ve spoken with, I have at least as a way to warp or twist the surface of maya. Maya
+three the or ies about why we have this knack for ilis what we call “reality.” It’s an illusion that over ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 63 === lays what ever the “really” real world is. Apparently, System: This power automatically applies to any
+it extends through several levels from the purely other use of Chimerstry as the user wishes. In effect, physical to the purely spiritual (bear with me; I’m any attempt to use Auspex or the Dementation power, not an expert on this stuff). What Chimerstry can Eyes of Chaos, that generates five or fewer successes do is take something from the realm of pure spirit, will detect an aura, thoughts, Demeanor or what ever
+or thought, and make it appear in the realm of the the power would normally detect. Thoughts won’t be physical, or “pure illusion.” Paradoxically, Chimerstry exceptionally complex, and will relate to what ever
+rarely manifests substance, of ten giving the appear- is going on around the illusion in a mundane and ance of tactile presence. Ravnos who have mastered simplistic way. Auras will consist of colors related
+Chimerstry can go a step further and inflict terrible to specific emotions (anger, sadness, hatred, love injuries simply by imagining the m. This is a drain- and happiness) and will not show much complexity
+ing and costly process that’s rarely used, but no one beyond that. Spirit’s Touch can pick up the same would want to experience it. emotional resonance until the next sunrise. Even the truly horrible wounds are n’t real — they MET System: This is an Elder level Discipline. fade with time. If you convince a mortal he burned It applies to any illusions the Ravnos creates. When
+to death, he may be in a coma for years. When he another Kindred uses a Discipline like Aura Perception awakens, he won’t have any scars or other signs of or Telepathy, resolve it normally against the Ravnos’
+the trauma. Psychologically, he’ll probably be an utter current Mental Traits. If the Ravnos player wins the mess, but no physical signs remain. challenge, he (or a Storyteller) provides the false inI’ve come across some hair-raising rumors about for mation in the illusion. This information can only
+the kinds of tricks the elders and Methuselahs could be something simple as not ed above. Any attempt to pull of f. It’s hard to test the stories, though, because delve deeper than surface thoughts will reveal not hall our evidence indicates they’ve gone into hiding or ing — the illusion has only surface thoughts. torpor, or else that something destroyed the m during f M
+Atuus Astery that terrible week last summer. On the chance that (C hi Merstry L e VeL s ix )
+some are still out the re, I’ll pass along what I know. A Ravnos with Fatuus Mastery has no restricI’ve heard of elders who could inflict psychosomatic tion on how of ten she may use the first three levels injuries across a crowd of mortals or Kindred. Other (Ignis Fatuus, Fata Morgana and Apparition) and can
+rumors include actual physical effects — not illu- maintain or control illusions with minimal concentrasions, but the real thing. Personally, I’d be pleased tion or fatigue. Kindred who rely on the high cost of as punch to hear the se monsters are all dead. I do n’t Chimerstry to limit a Ravnos’ ability to use illusions
+like the idea of some elder getting a burr up his ass are in for a very rude surprise when they encounter a and projecting violent flaming death at my brain Ravnos with this power. from halfway around the world. The best piece of
+System: Fatuus Mastery negates the will power and advice I can give you is that if you meet an elder
+Blood cost for using the first three levels of Chimerstry. Ravnos, just assume she can do what ever she damn
+In addition, the Ravnos may direct movement for a well pleases. number of illusions equal to his Intelligence with out
+f ALse r esONANCe intense concentration. Furthermore, the character
+(C L s ) hi Merstry e VeL ix can maintain the illusion as long as it remains with in
+Illusions of living or unliving beings are all well his will power score in miles (although he may not and good until someone decides to read the illusion’s make it react to events around it if he has no way to
+mind or its aura. The automatic failure to perceive perceive those events). any sense of the target’s thoughts or emotions will MET System: Fatuus Mastery is an Elder level usually be passed of f as bad luck or simple lack of Chimerstry power. The player need not expend Blood
+concentration, or what ever reason any Kindred Traits or will power to use the Basic and first Intermemight construct to explain why he did n’t succeed in diate Chimerstry Disciplines. Illusions can engage in gleaning information through supernatural means. A complex activities as if the Ravnos were concentrat Ravnos can use False Resonance to overlay auras and ing on maintaining the illusion, but concentration is
+thoughts on illusions, as well as leave a trace that not necessary. The illusion will remain until sunrise, other emotionally resonant powers can detect later. unless the player spends blood to make it permanent. Clanbook: Ravnos
+
+=== PAGE 64 === s N damage on each of the victims. The Lupines obligingly
+h AreD ightMAre
+(C hi Merstry L e VeL s ix ) fly into pain-addled frenzies, buying Lizette a few pre Even though Horrid Reality is visible to all on- cious seconds to plan her escape route. lookers, it can only inflict “damage” on one victim. MET System: Shared Nightmare is an Elder
+With Shared Nightmare, a Ravnos can inflict her level Chimerstry Discipline. To use this power in tormented visions on a crowd. Mind’s Eye the ater, the Ravnos player must spend
+System: To use this power, the player must one will power Trait per target, up to a maximum of spend one blood point per target and two will power five. The player needs to bid only one Social Trait
+points. The player rolls Manipulation + Subterfuge against all of the targets and engage in a Social once, but compares the results against each target Challenge — everyone throws, this is not a group
+individually. The difficulty is still each victim’s challenge. Traits are compared individually, and
+Perception + Self-Control. those who lose the challenge suffer the effects of
+Example: A pack of five Lupines have cornered the Shared Nightmare. Mechanics are otherwise
+Lizette in a blind all ey. She turns to face the m, pulls a identical to Horrid Reality. shotgun out of her tote bag and aims it at the rampaging f f
+Ar Atuus were wolves. She do esn’t actually fire, choosing instead (C L s )
+hi Merstry e VeL e VeN to invoke Shared Nightmare. Her player spends two
+This power is the province of the Phuri Dae, who will power points and five blood points to inflict the
+use it in conjunction with highly developed Auspex power on all five Lupines. Since the Lupines are relatively
+powers. It all ows a Ravnos to project illusions to any you ng, the Storyteller assigns the m Perception scores of
+are a he can see or visualize. Under most circumstances, three and Self-Control scores of two, making the difaccomplishing this requires him to have visited the ficulty five. The player rolls Lizette’s Manipulation +
+location in question before he can project illusions
+Subterfuge and receives three successes. Lizette’s player the re. Although more difficult, a Ravnos may project
+describes the illusion as “riddling the Lupines’ bodies illusions on the basis of a description, a photograph
+with silver shot,” and inflicts three levels of aggravated or a television image. ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 65 === and succeed in a Static Mental Challenge against
+N h r
+OtesON or riD eALity 10 Traits. If successful, the illusion appears in the
+Horrid Reality is an expensive power that is designated are a and performs as the character directs. of ten difficult to use. For two will power points, Players can use this power with any other Chimerstry players expect to get something out of it. how ever, power. If the location is in the character’s line of sight
+keep in mind that the power continues to work for (either through a telescope or an Auspex power like the entire scene and during that time, the victim Clairvoyance), the n the will power expenditure is
+perceives the illusion as absolutely real. While a not necessary. speeding car created with Fata Morgana won’t run
+s D anyone do wn, a car created with Horrid Reality is a uspe NsiONOf is Be Lief
+(C L s ) hi Merstry e VeL e VeN
+deadly threat to its “victim” for the scene. A bonfire
+A Ravnos with this power can imbue her Chimwill burn the victim every time he steps near it for erstry with a sense of reality that makes it easier for
+the duration of the scene. An illusionary stake will find the heart unerringly and immobilize the victim viewers to believe in the illusion. No matter how strange
+throughout the scene. or surreal the illusion is, an onlooker will accept it as real. If the illusion is wildly unrealistic (fire-breathing
+Illusionary damage inflicted with Horrid Reality can’t be soaked — the Ravnos assaults the dragons, a pack of gray aliens), once it is no longer in victim’s mind and perceptions, not his body. The his sight, the observer will question what he saw and
+only defenses against this power are high scores in eventually deny the event ever happened. A Ravnos
+Perception and Self-Control, or sufficient Auspex can also use this power to make something appear to see through the illusion. unbelievable, whether it’s real or not. In this case, When players use Horrid Reality (or any Chim- observers will write of f what they’re seeing as some
+erstry power), reward creativity. The power demands kind of trick or hallucination. unusual applications, especially when compared System: The player rolls Manipulation + Subterto more direct and physical Disciplines such as fuge (difficulty 7). The number of successes determines
+Thaumaturgy or Potence. On the other hand, do n’t how many witnesses are affected. If the player uses the reward players for blatantly silly or preposterous uses power to make something look unbelievable, Auspex
+of Chimerstry. It’s best applied in subtle and believ- will show the thing in question to be an illusion unable ways. The Ravnos who uses Horrid Reality to less the Auspex score is high enough to penetrate the
+say “A flying saucer zips out of the clouds and shoots
+Ravnos’ Chimerstry. you with its anti-life ray gun” should probably suffer
+1 success Five people a penalty unless he’s using it on some slack-jawed
+2 successes 10 people yokel who’s plausibly inclined to believe it. 3 successes 25 people
+System: The difficulty for using Far Fatuus depends 4 successes 50 people on the user’s familiarity with the location. The player 5 successes Everyone who can see it
+must roll Perception + Subterfuge to affect the location. MET System: Suspension of Disbelief is a Master
+Once this roll is successful, the Ravnos may the n use level Chimerstry Discipline. To use it, the Ravnos any other Chimerstry power on that location. player must spend three Social Traits, and anyone who
+Difficulty Familiarity witnesses the illusion and has a reason to disbelieve it
+6 As familiar as one’s have n; currently viewing must win a Static Social Challenge (difficulty equals the with Clairvoyance or Psychic Projection Ravnos’ current Social Traits) or believe implicitly that
+it’s real, no matter how outrageous. The Ravnos may
+7 Visited three or more times also use this power on something real, causing others
+8 Visited once; viewing on a live feed camera to do ubt its veracity. 9 Described in detail
+O (C L e )
+10 Never been the re; seen it on television or have CCLusiON hi Merstry e VeL ight a photograph A Ravnos who masters this power can shuffle
+MET System: Far Fatuus is a Master level Chim- others’ senses around to suit his preferences. He can erstry Discipline. To use this power, the character select one target and inflict a serious, disorienting
+must be familiar with the location in question. In and all-encompassing case of synesthesia upon her, addition, the player must spend one will power Trait making it impossible for her to interact meaningfully
+Clanbook: Ravnos
+
+=== PAGE 66 === with the real world for the power’s duration. The 4 successes One year
+Ravnos has complete control over how the target’s 5 successes Permanent senses work and can manipulate the m to suit. For MET System: Occlusionis an Ascendant level
+example, he may decide that she smells all sounds Chimerstry Power. To use this power, the player must as varieties of nauseating stenches, or more subtly, spend one point of will power and win a Static Sohe may exchange pain for pleasure. Against a crowd, cial Challenge against a difficulty of 12 Traits. If he
+sensations are randomly shuffled, so one man will see wins the Challenge, he must spend one Social Trait what the woman next to him sees, but hears what per target affected. Affected targets must spend one
+the man 15 feet behind him hears and feels what the will power Trait to act at all, and must bid two Traits child a block away feels. The end result is extremely in all challenges. Furthermore, they automatically
+disorienting for all victims. lose on ties, even if they have a Discipline or other
+System: When used against a single victim, the power that grants the m the ability to win on ties. This player must spend one will power point and roll power lasts until sunrise or until the Ravnos voluntarily
+Manipulation + Intimidation (difficulty is victim’s releases the targets. will power). For use against crowds, the difficulty is M
+Ay ApAris AtyA
+7, and the power affects everyone with in the Ravnos’ (C hi Merstry L e VeL N i Ne ) line of sight and subtracts one point from Perception Arguably the philosopher’s stone for Shilmulo, this
+per success rolled. Victims who se Perception has been penultimate expression of Chimerstry all ows the Ravreduced to zero can only sit do wn and wait for the nos to directly alter or create real objects or creatures, disorientation to end. Duration against a single vic- although such changes are of finite duration. A Ravnos tim is determined below. Against a crowd, the power with this power can transform the air around a rival
+persists until sunrise. Kindred into fire or render a locked do or insubstantial. 1 success One week A more harrowing use of this power enables the Ravnos
+2 successes One month to for ce an object out of existence by transforming it
+3 successes Six months into not hing more than a wisp of its for mer reality. ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 67 ===
+N D: ew erANge MeNt
+D p s is sOCi Ati Ve er CeptiONs yNDrOMe
+Since the Week of Nightmares, Chimerstry has n’t behaved quite the same as it did before. the or ies range from the not ion that the Antediluvian’s death somehow changed the Discipline’s
+nature, or that his existence buffered Ravnos from more extreme effects. Another the or y states
+that the final curse the Antediluvian laid upon the clan as he was destroyed distorted Chimerstry’s effects. what ever the reason, Ravnos
+who indulge in Chimerstry of ten slowly lose the ability to distinguish between what is real
+and what is not. At first, the Ravnos suffers as if from the
+Dementation power, The Haunting (Vampire: The Masquerade, p. 155). This happens after a
+Ravnos has completely depleted his will power reserves (zero temporary will power) to create a
+Chimerstry illusion. when ever the player spends all of the character’s will power, the character
+suffers from The Haunting. If the Ravnos continues to overuse Chimerstry, he experiences full-sensory hallucinations. the se hallucinations can happen at any time, especially moments of great stress. they can range from seeing a friend as an enemy (or vice versa) to
+seeing a busy street as completely empty. The hallucinations start at relatively low scale and build up over time until they become potentially threatening to the Ravnos’ continued existence. If the
+Ravnos realizes he’s experiencing hallucinations, the player can spend one point of will power to negate the hallucinations for a scene. Path of Paradox philosophers point to this power
+as the only “true” use of Chimerstry, claiming all others are distractions or stepping stones to this profound understanding. Since the Week of Nightmares, it’s
+likely that no surviving Ravnos has mastered Chimerstry to this degree. System: To use this power, the player must spend
+10 blood points and one permanent will power point and roll Manipulation + Subterfuge. Difficulty for
+the roll is 6 for affecting inanimate objects, and the victim’s will power score for affecting characters. This power can affect anything with in miles of the
+Ravnos, as long as the character is aware of the target in some way. If used with Far Fatuus, the effects are
+centered on the chosen location. This power can
+Clanbook: Ravnos
+
+=== PAGE 68 === affect a number of conscious targets equal to the inflicted on the target. This damage may not be
+Ravnos’ will power per use. reduced with any Discipline, armor or equipment
+When dealing with inanimate objects, the short of Methuselah level for titude. If used to alter number of successes determines how drastic the inanimate objects, the power’s effects may be applied
+alteration may be. No matter how many successes to every inanimate object with in the Ravnos’ line the player rolls, the duration is always a scene. This of sight at no additional cost. The scope of effect is
+power can affect any objects of a type with in the solely up to the player, but Storytellers are encour Ravnos’ are a affected. aged to veto any effect too outrageous. 1 success Render an object harmless (swords C D
+OMBiNAtiON is Cip LiNes won’t cut, firearms won’t shoot), create a large volume
+Throughout the ir history, Ravnos have been of obscuring smoke
+for ced to adapt the ir Disciplines into new and unusual
+2 successes Change an object into another object applications to better fight the asuratizayya, Gangrel
+(turn can dles into tarantulas, etc.) and other enemies they’ve faced over the centuries. 3 successes Render the object insubstantial, make
+Prior to the Week of Nightmares, Ravnos elders in smoke solid
+India spent decades and centuries first establishing
+4 successes Cause drastic changes (stone becomes the the or etical underpinnings for the ir Disciplines
+highly flammable) and the n extrapolating combinations to grant the m
+5 successes Cause the environment to behave an advantage in the ir eternal war. A few of the ir illogically (gravity twists sideways, rivers stand still as techniques survived the clan’s ruination and include
+hills flow upward) the following powers. 6+ successes Delete any of fending material objects s A
+y MpAthetiC gONy from existence. This effect is permanent (to use this on (C ••, f ••••)
+hi Merstry or titu De conscious targets, follow the system described below). The Kshatriya caste of India developed this power
+For example, Marizhavashti Kali is awakened from her to shift the pain of wounds inflicted on the m to the ir
+centuries-long slumber by the entrance of hunters into her enemies. when ever the target strikes a Ravnos ushaven. Shaking the cobwebs of centuries from her mind, ing this power, the target feels the pain instead of
+she sees four hunters approach her with stakes ready. She the Ravnos. This power enabled Kshatriya to better
+focuses her full power on the stakes, transforming the m survive the ir wounds and more quickly dispatch the ir
+into deadly spitting cobras. enemies. When using the power on conscious targets, con System: The player spends one blood point and sult the table above for alterations (such as for cing
+rolls Manipulation + Intimidation (difficulty equals the victim into another for m or transforming her into
+the victim’s Perception + Self-Control). Each success a different substance). If using the power to negate
+all ows the Ravnos to ignore the pain from one health the victim’s existence, the power inflicts two levels
+level and inflict that pain on the victim. The Ravnos of unsoakable aggravated damage per success. If the
+still suffers from the wounds, she simply do esn’t feel power do esn’t kill the victim, subtract one do t of
+it for a brief period. This power lasts for the duration
+Strength and Stamina per success. The damage must of the scene. be healed normally, but the lost Attributes return
+Example: Sanjay is in melee combat with an asuraat the end of the scene. Victims of this power look tizayya. His player rolls 6 dice against the asuratizayya’s
+hazy and insubstantial. Victims destroyed with this
+Perception + Self-Control and receives two successes. power simply vanish. If the asuratizayya inflicts four health levels (Hurt) on
+MET System: Mayaparisatya is a Methuselah
+Sanjay, the Ravnos suffers only the first two levels (to level Chimerstry Discipline. The player must spend
+Wounded, or –1 to dice pools), and the asuratizayya also
+10 Blood Traits to activate this power, and succeed suffers as if he has taken two health levels (in addition to
+in a Static Mental Challenge (difficulty six Traits) any he has already taken). to affect an inanimate object, or succeed in a Men This power costs 20 experience points to learn. tal Challenge against conscious targets. If she wins
+MET System: The player spends one Blood Trait the Challenge, the player may choose to spend one
+and engages in a Social Challenge (Intimidation re Mental Trait per aspect she changes in the target, test) against the target. If successful, she may spend or one Mental Trait per level of aggravated damage
+one Social Trait per level of damage the target can
+ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 69 === potentially suffer in her stead. Endurance do es not Three successes are necessary for this to work properly. block the pain inflicted with this power. Once the Ravnos creates the object, she can recreate
+Sympathetic Agony costs 10 Experience Traits to it at will (so long as the player spends the blood point learn and requires that the character already possess and will power point to create the illusion), unless the
+Basic Chimerstry and Intermediate for titude. subject’s heart’s desire changes. h ’ D This power costs 20 experience points to learn. e Art s esire
+(A uspex ••••, C hi Merstry ••) MET System: To use Heart’s Desire, the player
+With this power, a Ravnos can reach into a tar- must spend a Blood Trait and a will power Trait, the n get’s heart and create an image of her greatest desire. engage in a Mental Challenge against the target to
+This image always manifests as a material object. For discern her heart’s desire and create a reasonable example, if the target desires a specific lover, she’ll see facsimile. Once the Ravnos has used this power on a
+a letter from that person professing his love. Phuri Dae target, he can recreate the illusion at will using Fata and Brahman Ravnos use this power to gain influence Morgana normally. over others. Many people, faced with the ir heart’s This power costs 10 Experience Traits to learn
+desire, ar likely to do anything to achieve it. and requires that the character possess Intermediate not e that simply creating the illusion do es not Auspex and Basic Chimerstry. automatically convince the target. This power grants M C (A •••, AsKOf Ath Ay NiMALisM
+the Ravnos a potential advantage, but it’s up to her C hi Merstry •••) to make use of it. Ravnos in Asia have had to learn several tricks
+System: The player must spend a blood point and to conceal the ir presence among the fanatical Eastern a will power point, the n roll Intelligence + Subterfuge Kindred. One of the more common techniques is the
+(difficulty is the target’s will power) to discern the ability to appear as an asuratizayya. This mask conceals target’s heart’s desire and create a reasonable facsimile. the Ravnos’ nature as one of the Kindred descended
+Clanbook: Ravnos
+
+=== PAGE 70 === from Caine and makes the m appear to be asuratizayya Perception + Alertness (difficulty 6). Eastern Mask
+for purposes of all tests. lasts for only one night per use. This power do es not grant the Ravnos any ability to This power costs 15 experience points to learn. learn Eastern Disciplines or adopt the ir Dharmic paths. For more information on the Kindred of the East, or
+It simply all ows the Ravnos to misrepresent herself. Juei-jin, see Kindred of the East. System: The player spends one will power MET System: For a Ravnos to use Eastern Mask, point and one blood point and rolls Manipulation the player must spend one will power Trait and one
++ Subterfuge (difficulty 6). Each success the player Blood Trait to invoke the Mask until sunrise. During gains on that roll represents one success an onlooker that time, the Ravnos is perceived through supernatural
+must overcome with the use of any power (Auspex, means as a yin-aspected Cathayan (see Laws of the
+Kuei-jin Life sight, Death sight, etc.) to perceive East), not as one of the Kindred. the Ravnos as one of the Western Kindred. Other- Eastern Mask costs seven Experience Traits to learn wise, senses show the Ravnos to be a yin-aspected and requires that the character possess Intermediate
+Kuei-jin. If no roll is associated with the power, roll Animalism and Chimerstry. ChapteR two: on the a Rt of being Ravnos
+
+=== PAGE 71 ===
+Clanbook: Ravnos
+
+=== PAGE 72 ===
+C t: h Apter hree
+O rphANs iN
+g ’ w eheNNA s AKe
+Frank and explicit — that is the right line to take when you wish to conceal you r own mind and confuse the minds of others. — Benjamin Disraeli
+Among Kindred who know of the Ravnos, many hold stereotypical images of the Deceivers: “they’re merry Gypsies,” or “they’re believe that the Ravnos have been utterly destroyed. like Malkavians, but with magic tricks.” This is partly Elders who know that some Ravnos survive fear that
+because the most visible of the Ravnos of ten pander to the ir existence will has ten Gehenna, and are more than the stereotypes that lead other Kindred to dismiss the m happy to destroy any they see. The majority of Kindred
+as troublemakers. Given the clan’s current situation, in the Final Nights do n’t really know much either way, how ever, most Ravnos are n’t interested in attracting beyond rumors. Surviving, sensible Ravnos have little undue attention any longer. Even before the Week of interest in taking chances. they’re hooking up with
+Nightmares, knowledge of the ir lineage of ten earned each other and trying to find out what happened to the Ravnos suspicion before they actually did anything, the m. Most of all, they’re trying to avoid Final Death. so why make it worse? The fact that others’ suspicions The Ravnos on the following pages are survivors —
+are usually justifiable only makes many Ravnos even they’re not particularly interested in destabilizing the less interested in advertising the ir presence openly. Camarilla (at least not in the near future), nor do they
+In the Week of Nightmare’s wake, with the destruc- go out of the ir way to draw attention to the mselves. tion of most of the Ravnos clan — many of who m were Some are will ing to watch each other’s backs only beput do wn by scourges, sheriffs and others who saw the m cause the gesture is reciprocated, but they do n’t really succumb to Zapathasura’s blood-rage — many Kindred trust each other any more than they trust anyone else. ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 73 ===
+LeANer
+Quote: I can remove you r target and clean up the scene. No one will find a thing. Yes, my services are expensive, but the investment is worth it. NAME: NATURE:Rogue GENERATION: 11th
+Prelude: You grew up a social outcast. you r parents never PLAYER: DEMEANOR: Judge have N: CHRONICLE: CLAN: Ravnos CONCEPT: Cleaner really understood why you were n’t happy among you r peers, ATTRIBUTES
+and you developed a strong misanthropic streak in response PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO to the cruelty of children and later teenagers. you r introduc- Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO tion to the underworld and or ganized crime was abrupt and
+ABILITIES for tuitous, if shocking. TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+You found a body in the trunk of you r Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O boyfriend’s car. When you confronted him do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O about it, he stammered a few excuses until Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O he realized you were suggesting how to Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O dispose of it properly. It turned out he was Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+a professional hitman. Impressed with you r ADVANTAGES ability to clear a scene of evidence and bod- BACKGROUNDS DISCIPLINES VIRTUES
+_C_o_n_t_a_c_t_s____________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO Conscience/ConvictionOOOOO ies, he let you in on his “business,” which _G_e_n_e_r_a_t_i_o_n__________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO also led to better lovemaking — the idea _S_t_a_t_u_s______________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO of killing with his girlfriend aroused him. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+Of course, it was too good to last. you r lover got the job he could n’t finish, MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised and the target got him. He was hired __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 to kill a newcomer to the local __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 underworld, someone who __________________________ Crippled -5
+__________________________ Incapacitated had established new opera- _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+tions and was impinging __________________________
+__________________________ heavily on established turf
+boundaries. Unfortunately, the target was too tough to kill with one shot, and you r
+boyfriend never got a chance for the second. Staring death in
+the eye, you did the only thing you could — you ran. For several months afterward, of ten stalk someyour boyfriend’s for mer boss tried to one who catches
+hire you for more jobs, while you tried you r eye simply for to lay low. You knew you r lover’s final the satisfaction of the
+target was still up and about and prob- hunt. You can not leave ably knew where to find you. When you any evidence of you r killing, ever. saw him nearby every few nights, casu- Roleplaying Hints: You’re a borderline soally walking past or sipping coffee at ciopath, balanced somewhere between honest
+the same Starbucks, you knew he was dislike of humanity and actual insecurity. You stalking you. When you tried to leave hide it behind a cool demeanor and like to give
+town, he followed you and gave you the impression you’re in complete control. an of fer you could n’t refuse. The truth is that you would do anything to
+Now you know why the first give up the unnatural taste for blood and shot did n’t kill him and you’ve de- death the Embrace foisted upon you. veloped a taste for killing that you’re Equipment: Sniper rifle, silenced pisnot entirely comfortable with. tol, briefcase filled with tools like surgical
+Concept: You’ve never liked gloves, wet napkins from a fried chicken people much, except on a rare in- franchise, binoculars, two-shot derrindividual basis. You’ve had a string ger, executive wardrobe, of boyfriends that ended with the penthouse apartment, hitman, but you never really felt close Jaguar and a few galto any of the m. You hate you r sire and lons of powerful acid. look for ward to destroying him. you r
+crime is the perfect murder. You prefer targets who are hard to get, but will
+Clanbook: Ravnos
+
+=== PAGE 74 ===
+ChapteR th Ree: or phans in gehenna’s wake
+
+___P__o_____l_____it_____ic_____s_________________________
+S________t__r_____e_____e_____t_____w_____is_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___S_______te_____a_____l_____th_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___F_____i__r_____e_____a__r___m__________s_______________
+S________t__e_____a_____l___t__h___________________________________
+__________________________________________________
+____________________________________________________________
+___D_______r__i___v_____e______________________________
+S________u__b_____t_____e_____r_____f_____u_____ge____________________
+__________________________________________________
+____________________________________________________________
+___C____r___a_____f_____t_____s_________________________
+S________e__c_____u_____r_____it_____y______________________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n__________
+S________t__r_____e_____e_____t_____w_____is_____e_____ x_____
+2__________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS ____________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___S_______h_____re_____w_____d_____
+_____x__ ___2__________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___D_______is_____c_____e_____rn_____i_____n_____g
+__________
+____________________________________________________________
+_____F_____o_____r_____ti_____t_____u_____d_____e_____
+(_____E_____n_____d_____u_____r_____a_____n_____c_____e_____)_________________________
+___O_______b_____se_____r_____v_____an_____t_____ x_____ 2_____
+____________________________________________________________
+_____F_____o_____rt_____i_____t__u___d_____e_____
+_____(E_____n_____d_____u_____r_____a_____n_____c_____e_____, _____M_____e_____t_____t_____le)
+___D_______et_____e_____rm__________in_____ed_____ x_____ 2_____
+____________________________________________________________
+_____ B_____e_____c_____k_____o_____n___i__n_____g_____)______________________________________________________________________
+___A_______le_____r_____t______________________________
+____________________________________________________________
+_____C_____h_____im_____e_____r_____s_____t_____r_____y_____
+(___I_______g__n___i_____s_____
+F_____a_____t_____u_____u_____s_____)__________
+___A_______le_____r_____t_____ x_____
+2____________________
+____________________________________________________________
+_____A_____n_____im__________al_____is_____m__________
+(___F_______e_____ra_____l_____
+W__________h_____i__s___p_____e_____r_____s_____,_____
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___F__r_____ie_____n_____d_____ly_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __In_____t_____im_____i__d___a_____t_____in_____g
+___x__ _____2
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E__l_____o___q__u_____e_____n___t______________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__o_____m_____m_____a_____n_____d_____in_____g__________
+________________________________________________
+__________________________________________________
+____________________________________________________________
+___B__e_____g_____u_____ili_____n_____g____________________
+W________it____t__y__ x____
+2____________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____R_____e_____si_____li_____en_____t_____ x_____ 2__________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____T_____ir_____e_____le_____s_____s___
+__x_____ 2__________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____D_____e_____x_____te_____r_____o_____u__s___ x_____ ___2__
+T_____e_____n_____a_____ci_____o_____us_____
+_________________________
+_____ R_____e_____so_____u_____r_____ce_____s_____ x_____ 3_____ ____________________________________________________________
+_____S_____t_____al_____w_____a_____rt_____ x_____ 2__________
+____________________________________________________________
+_____ I_____nf_____l___u__e_____n_____c_____e__
+___(T_____r_____a n _____s_____po_____r_____t_____at_____i__o___n_____
+x_____ 1_____)__________
+_____A_____g_____il_____e______________________________
+S _____t_____e_____ad_____y________________________________________
+_____In_____f_____lu_____e_____n_____ce_____
+__(___S_____t_____r e _____et_____ x_____
+2_____)________________________________________
+_____N_____i_____m_____b_____le_____ x_____ 2_______________
+V_____i_____go_____r_____o_____us_____
+______________________________
+_____G_____en_____e_____r_____a___t__i_____on_____ x_____ ___1__
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____G_____en_____e_____r_____a__t___i_____on_____ x_____ ___2__ ____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____C__o___n_____t_____a___c__t_____s_____ x_____ 3__________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____Co_____n_____t_____a___c__t_____s_____ x_____ 2__________ ____________________________________________________________
+_____A_____lli_____e_____s
+_____x__
+___3____________________
+R_____e_____s_____o_____ur_____c_____e_____s_____ x_____ 3_______________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________r_____e_____n_____a_____e_____lC_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_________________________r_____e_____i_____ru_____o_____C_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____________________________________________so_____n_____v_____a_____R_____NNNNNAAAAALLLLLCCCCC
+_____________________________________________so_____n_____v_____a_____R_____NNNNNAAAAALLLLLCCCCC
+___________________________________h_____t1_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____2_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+________________________________________e_____u___g__o_____R_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________r_____e__v___i_____n_____no_____C_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________e_____g__d___u_____J__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_______________ro_____t_____it_____e___p__m_____o_____C__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 75 ===
+Ourier
+Quote: Yes, I can get this package to Kuala Lumpur inside two hours and no one will know, but it will cost you big time. Prelude: You started as a bagman for a Mafia family in New
+NAME: NATURE:Conniver GENERATION: 12th
+York City, but you learned that if you paid attention to where PLAYER: DEMEANOR: Competitive have N: things were sent and to who m, you could assemble a sense of the CHRONICLE: CLAN: Ravnos CONCEPT: Courier
+ATTRIBUTES bigger picture. In fact, you had a talent for deduction that you r
+PHYSICAL SOCIAL MENTAL superiors never spotted. they never thought much of you and Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O paid you little attention beyond sending you to deliver valuables Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+across two states. ABILITIES
+TALENTS SKILLS KNOWLEDGES
+You eventually realized that you had no real future in the Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Mob, so you decided to branch out. With you r knowledge of Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O family operations, you figured you had a valuable commodity D Em od p g a e t _ h _ y _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ O O _ _ O O E Fi t r i e q a u r e m tt s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _O O I L n a v w e _ st _ i _ g _ at _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+that you r superiors would never know about. You needed to stay E In x t p im re i s d si a o t n io _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ _O O_ _O O_ O O M Pe e r l f e o e rm __ a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _ _ O O L M in ed g i u c i i s n ti e c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _O O _ _ O O _ _ O O _ __ _O O _ _ O O anonymous to do you r thing, so you decided to sell you r informa- Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O tion via the Internet. You studied computers so you could do what Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+you had to do, and made a point of getting contact information ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES for other gangs in the city. You knew enough people to spread _A_l_li_e_s_______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+the information about you r new “service” with out alerting you r _ _ C G _ _ o e _ _ n n _ _ t e _ _ a r _ _ c a _ _ t t _ _ a i _ _o _ _n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O F_ _ _ _ o_ _ r_ _ t_ _ it_ _ u_ _ d_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O bosses, and it did n’t take long for you to acquire a regular _ _ R_ _ e_ _ s_ _ o_ _ u_ _ r_ _ c_ _ e_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O _O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+clientele of satisfied customers. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+One of you r customers was quite impressed with
+MERITS/FLAWS HUMANITY/PATH HEALTH you r initiative and creativity. She came to you in __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 the night and made you an of fer you thought was __________________________ Injured -1
+great — immortality. She told you that the family _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2 had caught on to you r antics and the head had already _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ C In r c ip ap p a le c d itated -5
+or dered you r execution. You did n’t want to give the m _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE the satisfaction, so you took her up on the of fer. __________________________
+__________________________
+After you r Embrace, you r sire introduced you to the Kindred and helped set you
+picture of politics and events from that, but you use it up as a courier during the Camato spread rumors that can create strife. You won’t be
+rilla’s siege of New York City. obvious about it, but you might casually mention
+You helped deliver sensitive to the Tremere primogen’s childe that you saw
+information and track Sabbat an Assamite lurking around the prince’s
+movements to the Camarilla’s favored nightclub. You walk a thin line
+benefit, and they’re still a little between giving too much information
+grateful. No one thinks you and too little, and the temptation to cross
+made a major difference, but that line is always present. Eventually, every little bit helps. you’ll give in. Concept: You get sensi Roleplaying Hints: Show deference
+tive material from point A to and respect to Camarilla Kindred. You
+point B with a minimum of know they’re higher up in the “or ganizafuss for other Kindred and
+tion” and that you can’t afford to rock the occasionally a primogen
+boat. That do esn’t mean you are n’t planmight hire you. Camarilla ning for the time when you can parlay
+Kindred treat you as someyour work into better standing (and what neutral because you’re
+acceptance), or possible betrayal of not a member of the sect, but
+Camarilla operations to the Sabbat that means they do n’t entirely
+(if they of fer the right price). do n’t trust you. This means that somerule out the possibility of using
+times you have to submit to what you know to increase tension
+uses of Disciplines so you among the Kindred and the reby
+can’t reveal what you’re make you r own business more
+transporting or otherwise lucrative. Just be careful
+betray you r employers. Not about the controls and
+that you would at this point; you safeguards they implant. know where the food is, and it’s not
+Equipment: A 1994 in betraying bloodsuckers who can
+red for d Taurus, a 9mm rip you r head of f with a thought. pistol with silencer, some Your personal indulgence is
+what shabby clothes and a calculated misinformation. You
+take what you know and build a
+Clanbook: Ravnos Pentium III computer system. === PAGE 76 ===
+D s e ViL LAyer
+Quote: you r existence serves no purpose. Now it ends. Prelude: You were born in Nepal and served in the British regiment, the Royal Gurkha Rifles. you r unit remained with NAME: NATURE:Masochist GENERATION: 8th
+the British after India’s partition in 1947 and continued to PLAYER: DEMEANOR: Fanatic have N: CHRONICLE: CLAN: Ravnos CONCEPT: Devil Slayer serve Queen and Country as duty demanded. In the early ‘60s, ATTRIBUTES
+you r unit was assigned to Malaysia during what the govern- PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO ment called “confrontations.” You certainly got involved in Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO a confrontation — in the middle of the night, no less. ABILITIES
+you r unit fought bravely, but it’s not always easy to stand TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O you r ground when you’re facing the supernatural. You held out Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+as best you could while men all around you died. You fought, B D r o a d w g l e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _O O_ O O D Et r i i q v u e e _ t _ t _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O_ O of In in v a e n st c ig e a _ t _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _ _ O O battling fiends that could twist the ir bodies into monstrous E E m xp p r a e t s h si y o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _O of M ir e e l a e r e m __ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O L L a in w g _ u _ is _ t _ ic _ s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _ _ O O
+shapes or even separate the ir heads to move independently — I L n e t a i d m e i r d sh at i i p o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O P S e e r c f u o r r i m ty a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ _O O M Oc e c d u ic lt i _ n _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O_ _O O penangallan, the locals called the m. for tunately, some divine Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O power was on you r side, as several bloodthirsty monsters joined ADVANTAGES
+what remained of you r unit and fought of f the abominations. BACKGROUNDS DISCIPLINES VIRTUES
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+You suffered mortal wounds in the fighting, but _H_e_r_d________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO one of the new monsters took pity on you and ____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO gave you his vitae. The Embrace awakened ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO you to the larger world — a darker world
+where monsters wage wars nightly for the MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________P_a_r_a_d_o_x__________ Bruised right to exist. you r sire trained you in you r __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 new responsibilities as one of the Kshatriyas __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+— a Ravnos warrior, with a duty to destroy __________________________ Crippled -5
+__________________________ Incapacitated monsters that have no reason to walk the Earth. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+Not too long ago, you r sire sent you along __________________________
+__________________________ with several other Ravnos to California to meet
+with an ancilla who was coordinating an You have adopted the Path of Paradox as you r investigation into increased asuratizayya moral compass, but the restrictions chafe you, activity in America. You spent the driving you to act against the m. This
+journey in a locked container in a means that you may never fully freighter’s hold and in voluntary master the path, but you do not
+torpor. Disturbing and bloody yet consider it an impossible dreams punctuated you r obstacle. slumber. When you arrived Roleplaying Hints: in California, you r attempts You hate to be defined
+to contact the ancilla Vivek by you r duty and mis Lalji proved fruitless, as sion, at least by others. did attempts to inform You occasionally behave you r sire of the situation. contrary to expectations. Concept: You’re a If others think you should
+warrior, but you try not be a stoic, silent warrior, to revel in bloodshed. The you will be boisterous and
+Beast would do otherwise, undisciplined. If others no matter how much you expect you to be a thievtry to deny it. Despite you r ing scoundrel (a common
+training, you hate to give reaction when they learn in to it, so you try to avoid you r clan), you act as if
+combat unless absolutely such behavior is beneath necessary. You resent hav- you. You are starting to
+ing been Embraced to fight wonder if you’re simply a seemingly endless stream a reflection of others
+of asuratizayya and would around you and if you r much rather find some existence has become a
+other means to deal matter of fighting one exwith the m — or even pectation after another. better, ignore the m. Equipment: Ca Violating the sual clothing, kukri,.45 tenets of Paradox satis- ACP pistol, passport. fies you r need for criminality. ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 77 ===
+Clanbook: Ravnos
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________F_____a__n___a_____t_____ic_________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________D_____e_____vi_____a___n__t_________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____M_____a_____s_____o_____ch_____i_____s_____t____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____T_____r_____ad_____i_____t_____io_____n_____a_____lis_____t__________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____8_____t_____h___________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____2_____t_____h______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____R_____a_____v_____n_____o_____s________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____R_____a_____v_____n_____o_____s________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____D_____e_____v_____il_____
+S_____l_____ay_____e_____r__________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____G_____u_____n_____
+R_____u_____n_____n_____e_____r__________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+____________________________________________________________
+__5___
+_____x _____n___o__i_____ta_____r_____e_____n__e___G_____
+(cid:31) xo
+(cid:31) dar
+(cid:31) aP fo (cid:31) ht (cid:31) aP
+____________________________________________________________
+____________________2_____ x_____
+__s___e_____il_____lA_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+_________________________1
+_____x
+_____d_____re_____H_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+)1__ ___x
+_____te_____e_____rt_____S_____(
+_____ec_____n_____eu_____lf_____n_____I
+__________2_____ x_____ s_____t_____ca_____t_____n_____oC_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+_______________)1___
+__x_____ n_____o_____it_____a_____tr_____o_____p_____sn
+a_____r_____T_____(
+_____ec_____n_____e_____u_____lf_____n___I__
+_____________________________________________h___g__u_____o_____T
+__________2 _____x___
+__g_____n___i__r_____ud_____n_____E_____
+_______________3_____ x_____
+s_____e_____c_____ru_____o_____s_____e_____R
+_____1
+_____x _____n___o__i_____ta_____r_____e_____n__e___G_____
+____________________________________________________________
+______________________________k_____c__i___u_____Q_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____2_____ x_____ s_____u_____o_____ic_____o_____re_____F_____
+_______________2_____ x_____
+_____sr_____e_____n_____ia_____t_____eR_____
+_________________________1
+_____x
+_____d_____re_____H_____
+____________________________________________________________
+____________________s_____s_____e_____le_____r_____iT_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+____________________2
+_____x
+_____k___c__i_____uQ__________
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+_________________________________y__r_____iW__________
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+________________________________________________
+2_____ x_____ g_____n_____id_____n_____a_____m_____m_____o___C__
+____________________________________________________________
+__________________________________________________
+____________________c____it____eh____t____a____pm________E
+___2__ _____x
+_____ci_____ta_____m_____s_____ir_____a_____h___C__
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________g_____n_____it_____a__d___i_____m_____it_____n_____I
+____________________________________________________________
+__________________________________________________
+_________________________e_____v_____is_____s__e___r_____p_____x_____E
+2_____ x_____ g_____n_____id_____n_____a_____m_____m_____o___C__
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+___________________________________y_____ld_____n_____e_____ir_____F
+_________________c___i_____ta_____m_____o_____lp_____iD_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+_______,___s_____r_____e_____p_____s__i___h_____W__________ l_____a_____re_____F_____(_____
+m__________s___i__l__a___m__________in_____A_____
+____________________________________________________________
+2 _____ x_____ d_____e_____n_____il_____p_____ic_____s_____iD_____
+_____)_____s_____r_____e_____p_____s__i___h_____W__________ l_____a_____re_____F_____(_____
+m__________s___i__l__a___m__________in_____A_____
+____________________________________________________________
+_______________e_____v_____it_____n_____e_____tt_____A_____
+________________________________________________________________________)___g_____n_____in_____o_____k_____c_____e_____B_____
+____________________________________________________________
+_____2_____ x_____
+___e__v_____i_____ti_____u_____tn_____I_____
+_______________)s_____u_____u_____t_____a_____F_____ s_____i_____n__g_____I___(_____
+y_____r_____t_____s_____r_____e__m________ih_____C_____
+____________________________________________________________
+_______________d_____e___t__a_____c_____id_____e_____D_____
+)e_____lt_____t_____e_____M_____
+_____, e_____c_____n_____a_____r_____u_____d_____n_____E_____(_____ e_____d_____u_____t_____i_____tr_____o_____F_____
+____________________________________________________________
+____________________
+_____t__n___a_____l_____ig_____iV_____
+_________________________)_____e_____c_____n_____a_____r_____u_____d_____n_____E_____(
+_____e_____d_____u_____t_____it_____r_____o_____F_____
+____________________________________________________________
+_______________2
+_____x_____ t_____n_____e_____it_____a_____P
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+__________________________________________________
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+_______________e___v__i_____t___c__e_____l_____f___e__R_____
+______________________
+SS _ S __ SSWWW __ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____ _____ &&&&&
+_____
+SS S SS _____ TTTTT
+_____ IIIII ___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW
+__ WW ________ AAAAA _____ LLLLL _____ FFFFF _____ _____ &&&&&
+_____
+SS S SS
+_____ TTTTT
+_____ IIIII ___ RR __ RRR _____ EEEEE _____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+________________________________________e_____e__l___e_____M_____
+_________________________s_____t_____f_____a_____rC_____
+____________________________________________________________
+__________________________________________________
+__________________________________________________w_____a_____L
+__________s_____c_____im__________e___d____a___c_____A_____
+____________________________________________________________
+__________________________________________________
+___________________________________t_____l_____u__c___c_____O_____
+______________________________e__g___d_____o_____D_____
+____________________________________________________________
+__________________________________________________
+_____
+2_____
+_____x
+_____e_____s_____iw_____t_____e_____e_____r_____tS_____
+_________________________e_____cn_____a_____n_____iF_____
+____________________________________________________________
+__________________________________________________
+____________________e_____s_____iw_____t_____e_____e_____r_____tS_____
+____________________sm__________ra_____e_____r_____iF_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________ n_____o_____it_____a_____g_____it_____s_____e_____v_____n__I___
+
+=== PAGE 78 === g r
+uN uNNer
+Quote: You want it, I can get it. 9mm, 10mm, black talon, glaser. You name it. Of course none of it’s traceable. What do you think I am? Stupid? NAME: NATURE:Traditionalist GENERATION: 12th
+Prelude: Born a minority on the wrong side of the tracks, PLAYER: DEMEANOR: Deviant have N: CHRONICLE: CLAN: Ravnos CONCEPT: Gun Runner you did n’t have many options for a lucrative career, at least not a
+ATTRIBUTES legal one. To you r credit, you tried to work with in the system, but PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO the system did n’t care about you r competence or skill base, only Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+about quotas. After you finally gave up, “affirmative action” was
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES a four-letter word to you. Not ready to start flipping burgers, you
+TALENTS SKILLS KNOWLEDGES looked up a cousin and told him you wanted a piece of the pie. Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+At first, he did n’t take you seriously — after all, you had Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+a reputation for honesty and following the law. That actually Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O worked in you r favor, once you convinced him that no one Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O would expect you to be moving what ever illegal commodity Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O needed transporting, so he gave you a chance. with in a year, ADVANTAGES
+you became his best runner. If he had anything impor- tant, BACKGROUNDS DISCIPLINES VIRTUES
+_A_l_li_e_s_______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO he gave it to you. Usually, it was firearms. _C_o_n_t_a_c_t_s____________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+Not that you cared how you r cargo was _H_e_r_d________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO used. You’d just drive a hundred miles, _R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO picked up you r load, drive back, drop it
+of f, take you r money and live life in the MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised fashion to which you wanted to become __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 accustomed. Everything was great until __________________________ will POWER Wounded -2
+you r usual contact at the other end of _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated the pipeline changed. The new guy _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+would only meet you after midnight, __________________________
+__________________________ and you’d swear he followed you (with
+You like to give people guns. You’d headlights of f) for several miles after
+rather make the m pay for it, but if you can get you made you r pickup. Convinced he
+a firearm into the hands of (say) a troubled was stalking you, you tried to back
+teen who’s likely to shoot up his high out of the business, but you r cousin
+school, you’ll do it. This desire rewouldn’t have it. He said the new pels you, but you can only resist
+source would only deal with you. the urge for so long before it
+This situation continued for becomes overwhelming. six uncomfortable months before
+Roleplaying Hints: Keep you r contact revealed his true
+you r distance from mortals nature. He said he had a place
+and try to find Kindred who for you in his or ganization, bigger, can tell you what’s up. do n’t
+better and more profitable. You look too eager or they’ll up
+only had to die to join. He did n’t the ante. You’re will ing to
+give you much choice; fighting back work with anyone who can
+was like beating on a wall. pay you r price, and you try
+Since you r Embrace, you r sire has to present an aura of confihad you running guns and equipment
+dence. Unfortunately, you for anarchs in California. how ever, you
+come across as intensely recently flipped out on a back road and
+frantic instead. found you rself drenched in blood in some Equipment: for d one’s farmhouse, surrounded by a dead family (who m
+Expedition, casual middleyou killed). You do n’t know what caused the frenzy, class clothing (not hing too and you’d really like to find out. Unfortunately, you
+stylish — you’re trying to have n’t been able to find you r sire and the anarchs
+project a “normal” image, you met with have pulled up stakes. what ever that means), and
+Concept: You’re using you r contacts on the an assortment of firearms
+street and the underworld to keep up you r business, so you’d rather not use. you can maintain you r mobility and track do wn other
+Kindred who might know what the hell happened. You have vivid memories of a nightmarish battle fought through several days and vague impressions
+of the carnage you inflicted during that time. ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 79 === i s
+MMigrANt Mugg Ler
+Quote: Yes, Señor Esposito, I can get you r family across the border and into Arizona and no border patrol will be the wiser. Trust me, I have
+it all covered. NAME: NATURE:Autocrat GENERATION: 13th
+PLAYER: DEMEANOR: Caregiver have N: Prelude: You grew up in a middle class family in a relatively normal CHRONICLE: CLAN: Ravnos CONCEPT: Immigrant neighborhood, but you were n’t exactly normal in the eyes of others. ATTRIBUTES Smuggler
+You were Rroma, and you r grandparents died in the German death PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO camps during the Second World War. you r parents came to America Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO as children; somehow they managed to get a piece of the American
+ABILITIES dream and even buy a house. you r father teaches anthropology at a TALENTS SKILLS KNOWLEDGES
+major university and you r mother teaches physics at the same institution. A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+You did n’t give a huge amount of thought to you r Rroma heritage, do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O although you r parents made certain you understood just what it meant E E m xp p r a e t s h si y o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _O of M ir e e l a e r e m __ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O L L a in w g _ u _ is _ t _ ic _ s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _ _ O O
+and how much you r people had suffered — and how for tunate you I L n e t a i d m e i r d sh at i i p o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O P S e e r c f u o r r i m ty a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ _O O M Oc e c d u ic lt i _ n _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O_ _O O were now. The moment that drove you r background home to you Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O happened when you went to a favorite restaurant and saw an INS ADVANTAGES
+of ficial going through employee records. The restaurant employed BACKGROUNDS DISCIPLINES VIRTUES
+_A_l_li_e_s_______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO several Mexicans and so came under government _C_o_n_t_a_c_t_s____________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO
+scrutiny. When you later learned that more _ _ H I _ _n e_ _f r_ _l d u _ _e _ _n _ _c _ _e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O F_ _ _ _ o_ _ r_ _ t_ _ it_ _ u_ _ d_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO than half of the employees got deported _ _ R S _ _ e t _ _a s_ _ o t _ _u u_ _s r_ _ c_ _ e_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O
+back to Mexico and the business itself was ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO fined, you wondered just what America MERITS/FLAWS HUMANITY/PATH HEALTH
+represented. The inscription on Ellis __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 is land reads, “Bring us you r poor, you r __________________________ Injured -1
+__________________________ will POWER Wounded -2 tired, you r huddled masses.” How can __________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5 that mean anything if the United States __________________________ Incapacitated
+spends more time keeping people out _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ than bringing the m in? __________________________
+All this reminded you of you r you when the agents stopped you turned out to be family’s history — the Rroma and you r saving grace… to a degree. they decided to
+the ir separate culture have not remove the roadblock and did n’t care too much about been welcome anywhere for most the Masquerade (but did n’t leave any survivors). You
+of the ir history and were for ced to quit running immigrants after that, but the motorcytravel simply to avoid more trouble clists came looking for you again, this time to bring you than they could handle. Not that “into the fold.” Through the Embrace, you discovered
+traveling helped when the Nazis a distinctly horrifying part of you r Rroma heritage. decided to open the ir extermina- Concept: As a Ravnos, you’ve given up tion camps. You were n’t happy, smuggling mortals anywhere, instead applying
+but you were n’t sure what to do. you r skills to aiding Kindred. You help the blood You started by talking to hunted escape the ir punishment, get Kindred into the restaurant owner. Once you or out of Sabbat-controlled are as and otherwise
+convinced him of you r sincerity, behave in much the same way you did while he introduced you to a few people alive. You do n’t base you r identity on you r
+and they helped you get started ethnic heritage, but you do n’t deny it, either. in the illegal immigration Roleplaying Hints: You’re in control business. It did n’t take you at all times, even if things are falling apart
+long to become one of the around you. Two years of running the border best — you knew the patrols, and looking out for INS patrols have given
+studied INS strategy when ever you an iron nerve, and little scares you. Of you could and were otherwise course, you’re not yet fully aware of just how
+careful and meticulous. You frightening older vampires can be, so the re are did n’t feel too guilty about still surprises. Until the n, a Camarilla sheriff is
+charging for you r services, no more worrisome to you than a county sheriff. since you needed to eat too. You hate to see people ground up under the
+Everything went weight of government or bureaucracy, and will act smoothly for the first year to help the m, almost like Robin Hood. This means
+or so, before the government you will help a blood-hunted Caitiff in defiance of a caught up with you. You prince’s wishes and you’ll give an anarch a place to stay
+were looking at prison time while she’s avoiding her sire’s attempts to drag her back. and worse, just for helping Equipment: An old, beaten-up van with three others find the ir dreams or escape sets of license plates and titles; 10-gauge pump shotgun
+the ir nightmares. The small pack of Clanbook: Ravnos you keep under the driver’s seat; clothing appropriate motorcyclists who were right behind 78 for all social classes and occasions. === PAGE 80 ===
+ChapteR th Ree: or phans in gehenna’s wake
+
+___L__a_____w________________________________________
+S________u__r_____v_____iv_____a_____l_____
+_________________________
+__________________________________________________
+____________________________________________________________
+___ __L_____aw________________________________________
+S________t__r_____e_____e_____t_____w_____is_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___D_______r__i___v_____e______________________________
+S________t__r_____e_____e_____t_____w_____is_____e____________________
+__________________________________________________
+____________________________________________________________
+___F_____i__n_____a_____n___c__e_________________________
+_____Po_____l_____it_____ic_____s___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n__________
+S________t__e_____a_____l___t__h___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______c_____ad_____e_____m__________ic_____s__________
+P_____e_____r_____f_____o_____rm__________a_____n__c___e_______________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT
+__ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS ____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___K__n_____o_____w_____le_____d_____g_____e_____ab_____l_____e
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___V_______ig_____il_____a_____nt_________________________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___D_______is_____c_____ip_____l_____in_____e_____d__________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___S_______h_____re_____w_____d_____
+_____x__
+___2__________
+____________________________________________________________
+_____Fo_____r_____ti___t__u_____de_____
+(_____E_____nd_____u_____ra_____n___c__e_____)__________________________________________________
+___C_______le_____v_____e_____r_____ x_____
+2_______________
+____________________________________________________________
+_____Fo_____r_____ti___t__u_____de_____
+(_____E_____nd_____u_____ra_____n___c__e_____)__________________________________________________
+___R_______at_____i_____on_____a_____l____________________
+____________________________________________________________
+_____Ch_____im_____e_____r_____st_____ry_____
+(_____Ig_____n_____is_____
+F_____at_____u___u__s_____, F_____a_____ta_____
+M_____o_____r_____ga_____n_____a)
+___A_______tt_____e_____n_____t_____iv_____e_____ x_____ 2_____
+___V_______ig_____i_____la_____n_____t______________________________
+_____Ch_____im_____e_____r_____st_____ry_____
+(_____Ig_____n_____is_____
+F_____at_____u___u__s_____, F_____a_____ta_____
+M_____o_____r_____ga_____n_____a)
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___ __M_____a_____g_____ne_____t_____ic____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __E_____lo_____q_____ue_____n_____t____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__o_____m_____m_______a___n_____d_____in_____g__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __D_____ip_____lo_____m_____a_____t_____ic_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r_____is_____m_____a___t__i_____c x_____ ___3__
+P____e____r____su____a____s____iv____e____ x____
+2____________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r_____m_____in_____g____________________
+I____n____g____r__a__t____ia____t____in____g____ x____ 2________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____T_____o_____u___g__h______________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____W________i__r_____y______________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____T_____e_____n_____ac_____io_____u_____s_____ x_____ 2_____
+____________________________________________________________
+_____In_____f_____lu_____e_____n_____ce_____
+__(___T_____r_____a n _____sp_____o_____r_____ta_____t_____io_____n_____
+x_____ 3_____)__________
+_____ R_____e_____s_____ili_____e_____nt____________________
+____________________________________________________________
+_____ R_____e___s__o_____u_____r_____ce_____s_____ x_____ 4_____, ( S________t__a_____t_____u___s__
+x_____
+_____1)_________________________
+_____D_____e_____x_____te_____r_____o_____u__s___ x_____ ___2__
+____________________________________________________________
+_____H_____e_____rd_____ x_____
+4_________________________
+____________________________________________________________
+_____A_____g_____il_____e______________________________
+____________________________________________________________
+_____ In_____f_____lu_____en_____c_____e
+(_____F_____in_____an_____c e ___ __x _____1, _____Tr_____a_____ns_____p_____or_____t___a__t_____io_____n
+_____x
+1)
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____ C_____on_____t_____a_____ct_____s_____ x_____ 4__________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____F__a___m_____e_____ x_____
+___1______________________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____A_____lli_____e_____s
+_____x__
+___1____________________
+_____R_____es_____o_____u_____rc_____e_____s_____ x_____ 3_______________
+_____Co_____n_____t_____a___c__t_____s_____ x_____ 1__________
+____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) rel_____gg_____u_____m_____S
+_____tn_____a_____rg_____im_____m_____I_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+__________r_____e_____d___a__r_____T_____ e_____d_____is_____nI_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_____________________________________________so_____n_____v_____a_____R_____NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____________________________________________so_____n_____v_____a_____R_____NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+_________________________t_____a_____r_____c___o__t_____u_____A_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________ro_____t_____c_____e_____r_____iD_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________re_____v_____ig_____e_____ra_____C__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+____________________y_____ra_____n_____o_____is_____iV__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 81 === i t
+Nsi De rADer
+Quote: Yes, Charles? I have some investment advice for you. Sell
+Cost-Less.com stocks now. Yes, I’m sure. Apparently, out of work, overweight, singing bald actors can’t save the m. NAME: NATURE:Director GENERATION: 13th
+Prelude: you r family never had much, a state of affairs that PLAYER: DEMEANOR: Visionary have N: left you very unhappy. While all you r friends had new clothes, you
+CHRONICLE: CLAN: Ravnos CONCEPT: Inside Trader
+ATTRIBUTES wore hand-me-do wns and castoffs from thrift stores. Through a PHYSICAL SOCIAL MENTAL
+string of lucky breaks and honest work, you managed to earn a Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O scholarship to a prestigious university and a degree in business. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES
+Once out of school, you carved a career for you rself in the
+TALENTS SKILLS KNOWLEDGES business sector, quickly working you r way to the top (and backstab- Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O bing more than a few competitors to get the re). That’s the way Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O business works, after all. Still, it was n’t enough. Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+As an executive in a multinational corporation, you had Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O access to sensitive financial information that could be used to Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O make or lose billions of do llars. You had no intention of using
+ADVANTAGES that information in such a way or passing it to anyone who did, BACKGROUNDS DISCIPLINES VIRTUES
+but someone else had other ideas. _ _ C F _ _ o a _ _m n_ _ t e _ _ a_ _ c_ _ t_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O C F _ _ _ _ h o _ _r im_ _t _ _i e t _ _ r u _ _ s d _ _ t e _ _ r_ _ y_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO
+_I_n_f_lu_e_n_c_e____________O_O_O__OO ____________________O_O_O__OO
+He came to meet you late one night to discuss _R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO a business proposition you could not refuse — _ _ S_ _ t_ _ a_ _ t_ _ u_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O
+not because you did n’t want to, but because ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO refusal could be fatal. The man simply needed MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised enough information to make a killing on the __________________________ OOOOOOOOOO Hurt -1
+stock market — not hing important enough for _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ will POWER I W nj o u u re n d ded - - 2 1 the SEC to know about. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated
+You cooperated, wanting to believe the _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE promise that it would n’t be necessary again, but __________________________
+__________________________ the man kept coming back. Each time, he needed
+a little more. He always seemed to know when you could n’t turn another Kindred over. you r sire set the m up, held back or tried to lie, so you gave up. and that game’s still playing out. You’re less concerned with in a year, you were a nervous wreck. about mortal authorities now and work
+You’d compromised you r career for with other finance-minded Kindred a man who se name you did n’t to make as much money as possible. even know; every time the you r next challenge, of course, is to
+phone rang, you expected it to be make headway in Kindred society. someone from the Securities & That will be difficult for a Ravnos, Exchange Commission to tell even for one of the Phuri Dae. you that “the jig is up.” Salva- You’re will ing to violate tion — in a particularly ironic confidentiality if it will net you an
+manifestation — arrived from advantage. Sell out the primoanother corner. Someone else gen who cut a deal to remove came to you in the night. She a rival? Sure, if the rival has
+reminded you of the first man more to of fer. You’re not very in a way you could n’t precisely trustworthy when it comes
+identify, but she made it clear to dealing with others and she was the re to break him. you never put anyone’s well She told you his name and being ahead of you r own. that he worked for someone Roleplaying Hints: else, and that they were about You’re a predatory businessto sacrifice you now that the ir man; whether you’re in the
+plan had netted the m the boardroom or Elysium, everyone money they needed. around you is either of f-limits or
+She of fered you a way prey. You started at the bottom in out. All you had to do was ac- mortal life and you can do it again if you
+cept her of fer of “immortality.” have to. Show deference where necessary, go
+Concept: You’re still through the motions and throw any impedia businessman and you ments to you r upward mobility to the sharks. managed to hold onto you r Equipment: Cellular phone, pager, position than ks to the Em- European sports car, expensive suits, brace — the Ventrue who were nice mansion in the really expensive set to betray you to the SEC Clanbook: Ravnos part of town. === PAGE 82 ===
+p riNCe ’ s A DVis Or You found out that the CEO had arranged to monitor bank ATM transactions through software the corporation
+Quote: My advice is to watch that primogen. He’s planning had developed for those banks and was giving the informato move against you and he has a few all ies so far. Nip it in the
+tion to the stranger. bud now and nobody will think twice. Wait too long and… just stop it. Now. When you next saw the man, you confronted him. You
+were convinced he could n’t make you back do wn again, but
+Prelude: You’ve always been able to ingratiate you rself the n you felt the will to fight drain away. This time, he did n’t
+into power structures and gain the favor of those at the top. talk. He Embraced you, saying you were too intelligent to
+Of course, you actually make you rself useful once you’re was te as a mortal. the re. You did it throughout you r school and college years, and kept it up once you made it into the workplace. Others Concept: You observe, not e and draw conclusions. You
+called you a suck-up or “teacher’s pet” (depending on when realize you can’t always be right, but of ten you’re close enough and where), but you always came out ahead, so the insults that it do esn’t make a big difference. Since you r Embrace
+never really mattered. and subsequent introduction to the Camarilla prince, you’ve worked you rself into his graces much as you did in life. you r
+with in a few years, you ended up as executive secretary sire is pleased with you r position, but makes it clear that you
+to a CEO of a major software corporation. you r ability to owe him you r first loyalty. You feel otherwise, but at the mowatch or ganizations and understand how they work made
+ment expedience requires you to serve two masters. Someday you invaluable to you r employer, who came to rely on you r
+soon, perhaps you can convince the prince to destroy or observations about his subordinates. banish you r sire. Until the n…
+Everything changed the night you decided to work late you r personal comfort and status are primary in you r
+and saw the CEO come in with a man you’d never met before. eyes; if you can improve what you have, do so. If you r gains you r employer treated him with obvious deference, despite the
+come at the expense of others, do n’t stop to worry about it clear difference in social class be-
+— if they deserved to keep what they have, they would n’t tween the two. This man
+get in you r way. dressed like he belonged in a pool hall, not you r Roleplaying Hints: do n’t sit back and watch, particiworkplace. Curious, pate. It’s easier to understand social dynamics when you’re
+you worked late more part of the m. of ten, hoping to Equipment: Cellular phone, Mace, BMW, penthouse catch further apartment and fashionable clothes. glimpses of
+this man. You saw him on several
+more occasions and engaged
+NAME: NATURE:Architect GENERATION: 11th him in con- PLAYER: DEMEANOR: Curmudgeon have N: CHRONICLE: CLAN: Ravnos CONCEPT: Prince's Advisor
+versation a
+ATTRIBUTES few times. PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+You did n’t Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O understand
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES his arrangeTALENTS SKILLS KNOWLEDGES
+ment with Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O the CEO Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O at first, but Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O the man Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O eventu- Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O all y came to
+ADVANTAGES you directly for BACKGROUNDS DISCIPLINES VIRTUES
+information. He _A_l_li_e_s_______________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO asked a few questions _I_n_f_lu_e_n_c_e____________O_O_O__OO ____________________O_O_O__OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO and you found you rself un- _S_t_a_t_u_s______________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO able to work up the energy ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+to resist. You did rememMERITS/FLAWS HUMANITY/PATH HEALTH ber the conversation, __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 how ever, and used that __________________________ Injured -1
+__________________________ will POWER Wounded -2 information to track __________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5 what you r employer __________________________ Incapacitated
+was up to. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________
+__________________________
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 83 ===
+Clanbook: Ravnos
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________C_____u__r___m_____u_____d_____g_____eo_____n__________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________D_____ir_____e_____c___t__o_____r____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____A_____r_____c_____h___i__t_____e_____c_____t____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____P_____er_____f_____e_____c_____t_____io_____n_____is_____t__________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____1___t__h___________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____2_____t_____h______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____R_____a_____v_____n_____o_____s
+_____a_____nt_____i_____t_____ri_____b_____u_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____R_____a_____v_____n_____o_____s
+_____a_____nt_____i_____t_____ri_____b_____u_____
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____P___r__i_____nc_____e_____‛s_____
+A_____d_____vi_____s__o___r_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____Ps_____yc___h__ol_____og_____ica_____l
+W_____ar_____fa___r__e
+___S__p__e___cialist
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+_______________2_____ x_____ s_____e_____c__r___u_____o_____s___e__R_____
+____________________2_____ x_____
+__s___e_____il_____lA_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+__________1_____ x_____ s_____t_____ca_____t_____n_____oC_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________2_____ x_____ _____su_____t_____a_____tS_____
+2_____ x_____ _____no_____i___t__a_____r_____e___n__e_____G_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_____1
+_____x
+_____n___o__i_____ta_____r_____e_____n__e___G_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________,_____1 x_____ a_____id_____eM_____(
+_____ec_____ne_____ul_____fn_____I
+____________________________________________________________
+__________2
+_____x___ __g_____n___i__r_____ud_____n_____E_____
+____________________________________________________________
+_________________________1
+_____x
+_____d_____re_____H_____
+________________________________________yd_____a_____e_____t_____S
+_____2_____ x_____ c_____it_____e_____g_____re_____n_____E_____
+____________________________________________________________
+)_____1 x_____ n_____o___i__ta_____t__r___o_____ps_____na_____r_____T
+____________________________________________________________
+____________________lu_____f_____e_____c__a___r_____G_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+____________________lu_____f_____e_____c__a___r_____G_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+__________________________________________________
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+__________2
+_____x__ ___t_____ra_____w_____l__a___t_____S_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+________________________2____ x____
+y____t____ti____W____
+__________2_____
+__x___ _____tn_____e_____u_____qo_____lE_____
+____________________________________________________________
+__________________________________________________
+________________________________________________
+__________3_____ x_____
+g_____n_____il_____iu_____ge_____B_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________e_____v__i___s_____se_____r_____p_____xE_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____2_____ x_____ e_____v_____is_____au_____s_____r_____eP_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+)_____an_____a_____gr_____o_____M_____ a_____ta_____F _____, s_____uu_____t_____aF_____
+s_____in_____g___I__(
+_____yr_____t_____sr_____e___m____i___h_____C
+______________________________l_____a_____n__o___i_____t_____a_____R
+_______________2_____ x_____
+r_____e_____v_____e_____lC_____
+___________________________________)s_____r_____ep_____s_____ih_____W_____ l_____ar_____e_____F_____(
+m_____s_____il_____am_____i_____nA_____
+________________________________________
+_____y__l___iW__________
+_____2_____ x_____ _____e_____vi_____t_____a_____e_____rC_____
+__________________________________________________)e_____c_____na_____r_____ud_____n_____E_____( e_____d_____ut_____it_____r_____oF_____
+____________________________________________________________
+__________l___u__f_____t_____h_____g_____i__s___n_____I_____
+________________________________________, s_____u_____ut_____a_____F
+_____si_____ng_____I_____( y_____r_____ts_____r_____em_____i_____h___C__
+____________________________________________________________
+__________l_____u_____f_____th_____g_____i_____s_____n__I___
+________________________________________________________________________________________________________________________
+____________________________________________________________ e_____lb_____a_____e_____g_____d_____el_____w_____o_____nK_____
+___________________________________________________________________________)__a___n_____a_____gr_____o_____M_____ a_____t_____aF_____
+____________________________________________________________
+2_____
+_____x_____ e_____v_____it_____i_____u___t__n_____I_____
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+2_____
+_____x _____tn_____a_____v_____r_____es_____b_____O_____
+_________________________)_____e_____lt_____t_____e___M_______,__e___c_____n_____a_____ru_____d_____n_____E_____( e_____d_____u_____t_____it_____r___o__F_____
+____________________________________________________________
+__________t_____na_____v_____r_____e_____s_____b_____O_____
+______________________
+SS _ S __ SSWWW __ WW ________ AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&&
+_____
+SS S SS _____ TTTTT
+_____ IIIII ___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&&
+_____
+SS S SS
+_____ TTTTT
+_____ IIIII
+___ RR __ RRR _____ EEEEE _____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+__________n_____o_____i___t__a_____g_____it_____s_____e_____v_____n_____I
+__________s_____c_____im__________e___d____a___c_____A_____
+____________________________________________________________
+__________________________________________________
+___________________________________h_____tl_____a_____e_____tS_____
+__________n_____e_____K_____ l_____a_____m_____in_____A_____
+____________________________________________________________
+__________________________________________________
+____________________e_____s_____iw_____t_____e_____e_____r_____tS_____
+_______________e_____t_____t_____eu_____q_____i_____tE_____
+____________________________________________________________
+__________________________________________________
+____________________2
+_____x_____ l_____a_____v__i___v_____r___u__S_____
+____________________sm__________ra_____e_____r_____iF_____
+____________________________________________________________
+__________________________________________________
+_______________
+___e__g_____u_____f_____r_____e_____t_____b___u__S_____
+__________n_____o_____is_____s_____e_____r___p__x_____E_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________e_____e_____le_____M_____
+
+=== PAGE 84 === p w s
+sy ChOLOgiCAL Arf Are pe CiAList
+Quote: The plan is to convince the Kindred that the ir defenses are useless and our for ces are overwhelming. We begin the siege with terror. NAME: NATURE:Perfectionist GENERATION: 12th
+PLAYER: DEMEANOR: Director have N: Prelude: In mortal life, you worked for the CIA as a spe- CHRONICLE: CLAN: Ravnos Antitribu CONCEPT: Psychological
+ATTRIBUTES Warfare Specialist cialist in psychological warfare. you r job was to identify enemy
+PHYSICAL SOCIAL MENTAL weaknesses in morale and turn the m to you r advantage, as well Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O as to minimize enemy strengths. You fought with words and Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+propaganda, not bullets or bombs. You softened up the enemy ABILITIES
+TALENTS SKILLS KNOWLEDGES in preparation for physical warfare. Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+You participated in operations against Manuel Noriega Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+and Saddam Hussein, as well as a score of classified operations Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O the government still has n’t released to the American people. Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+You spent most of you r time involved in the so-called “war Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O on drugs,” although you were convinced the government had
+no chance of winning, even before you discovered what you
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES were really up against. _G_e_n_e_r_a_t_i_o_n__________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+_H_e_r_d________________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO
+You and you r subordinates became involved in actions ____________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO against a South American drug cartel that either had ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO incredible luck or more military equipment than ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+any civilian should. you r part of the opera- MERITS/FLAWS HUMANITY/PATH HEALTH tion went smoothly, but when the soldiers __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 followed up for a midnight raid, they ran __________________________ Injured -1
+__________________________ will POWER Wounded -2 into something worse than anything you’d __________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5 ever imagined. Over the comm, you heard the __________________________ Incapacitated
+screams of terror and agony as the men were _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ brutally shredded in battle against god-knows- __________________________
+what. Eerily, you heard no gunfire. plan and occasionally direct shadow wars on American soil, After the screaming finally stopped, against creatures that have undermined society for censomeone spoke, saying you were next. turies. The Sabbat may not be much better, but at
+You’d never been on the receiving least they’re on you r side. end of such tactics before, but
+You like to distort perceptions, beliefs you did n’t lose you r cool that
+and attitudes, not through Chimerstry, but quickly. You got everyone ready
+through the application of psychology and to leave and went straight to
+deception. Some might call you a liar. the waiting helicopter. You
+Others might call you a born diplomat. told the pilot to pull out and
+Roleplaying Hints: Be observant, he flashed you a grin, showwatch you r surroundings and do n’t let ing wickedly sharp fangs. you r guard do wn. The last time you
+Concept: you r primadidn’t pay attention, the Sabbat set up ry weapon is terror, which
+a shovel party for you. The Vaulderie is why the Sabbat went
+makes you loyal to you r pack, but to such pains to recruit
+you do n’t really care a lot for the you. You’re a member
+Sabbat. You hate the Camarilla of a nomad pack that’s
+for what the “Kindred” of that usually the first to
+or ganization have do ne to the scout Camarilla cities
+United States and the world about to come under
+throughout history and you siege. You enjoy the
+realize that the Sabbat of opportunity to fers you you r only chance
+to strike against the m. You’re still patriotic and you have n’t fully bought
+into the Sabbat’s ideal of vampiric superiority
+over mortals. Equipment: Wooden stakes, lighter, but ane, black van,.45 ACP pistol
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 85 === s h
+ABBAt eretiC
+Quote: The Sabbat was founded in lies and built on deception. It is time for us to lead the Sabbat into victory, for the truth shall prevail! Prelude: you r life before the Embrace was aimless and
+NAME: NATURE:Pedagogue GENERATION: 13th with out purpose. You drifted from faith to faith and religion to PLAYER: DEMEANOR: Martyr have N: religion in search of something you could believe in, something CHRONICLE: CLAN: Ravnos Antitribu CONCEPT: SSaabbbaatt H Heerreettiicc
+ATTRIBUTES larger than you rself to be a part of. Sadly, no mortal faith could
+PHYSICAL SOCIAL MENTAL fill the void in you r soul. You knew the re had to be something Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O better, something finer to work toward, but you did n’t know what. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+All that changed the night she came to you and told you of
+ABILITIES
+TALENTS SKILLS KNOWLEDGES immortality and Caine and the coming war against those who Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O would devour the ir own childer. Her words about Gehenna and Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O the Antediluvians stirred you r heart. When she proved she was Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O one of the undead — a Cainite — you knew you’d found you r faith. Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+At least, you knew until the Embrace. You were taken in to Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O the Sabbat and subjected to the harrowing Creation Rites. You had
+ADVANTAGES you r humanity stripped away in front of you r future packmates and
+BACKGROUNDS DISCIPLINES VIRTUES replaced with a gnawing, driving hunger that not hing could banish. _M_e_n_t_o_r______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+_S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+The Embrace was not the promised fulfillment; this was damnation! ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+You had traded away you r life for a false existence as a parasite. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO you r sire laughed at you. As she said, “You should see the ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+expression on you r face!” To her, it was a tremendous joke — MERITS/FLAWS HUMANITY/PATH HEALTH you r faith, you r need, you r search for something. You snapped, __________________________ ___________C_a_in_e____________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 lost control, became a raging monster and tried to kill her, but __________________________ Injured -1
+__________________________ will POWER Wounded -2 the pack stopped you and held you do wn until you calmed. The __________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5
+Vaulderie eased you r feelings of betrayal, but __________________________ Incapacitated you had become a hollow woman. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ the n the Week of Nightmares hap- __________________________
+pened. you r pack staked you and can see it as plain as anything. you r sire until it was over, but You know that preaching too you had visions — you saw loudly will bring the Inquisithe Ravnos Antediluvian fall in tion or the Black Hand, but
+battle with a dragon and a every revolution starts small. tiger, you saw him destroyed
+You want to subvert the Sabunder the light of four suns. Finally, bat’s social or der completely. When you felt the Antediluvian’s
+you get the chance to break do wn ultimate curse and how it
+its structure in some way — condestroyed the Ravnos. verting another vampire to you r
+When you r pack released cause, undermining a Lasomyou, you started asking quesbra’s authority, etc. — do so. tions and learned that Ravnos
+Roleplaying Hints: Watch all over the Sabbat suffered
+everyone around you for signs of similarly. You also learned that the
+possible sympathy to you r cause
+Lasombra and Tzimisce clans had or dissatisfaction with the
+never suffered such a curse. Sabbat as it currently exists. You knew the n what
+Be slow to recruit, but once you’d been looking for. you bring in converts to you r
+Concept: You have cause, vehemently express
+found you r mission in you r beliefs until they’re
+life. You must bring swayed. You know you’re
+the Ravnos Antitribu right, and they should see
+into do minance in the truth in you r words
+the Sabbat, now and the conviction
+that you know that drives the m. that you rs is the
+only clan who se Equipment: Antediluvian has Tattered, filthy assuredly been clothing that probdestroyed — the La- ably has n’t been
+sombra and Tzimisce changed in two are clearly lying and you years. Clanbook: Ravnos
+
+=== PAGE 86 ===
+ChapteR th Ree: or phans in gehenna’s wake
+
+___I__n_____t_____im__________id_____a_____t_____io_____n_____
+S________u__r_____v_____iv_____a_____l_____
+_________________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____l______________________________
+S________t__r_____e_____e_____t_____w_____is_____e____________________
+__________________________________________________
+____________________________________________________________
+___ __M_____e_____l_____ee______________________________
+S________t__r_____e_____e_____t_____w_____is_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n__________
+S________t__e_____a_____l___t__h___________________________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____l______________________________
+S________t__e_____a_____l___t__h___________________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________ FFFFF _____ LLLLL _____ AAAAA _____ WWWWW __________
+SSSSS
+____________________
+___A_______t__h___l_____e_____t_____ic_____s_______________
+O__________c_____cu_____l_____t___________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________ FFFFF _____ LLLLL _____ AAAAA _____ WWWWW __________
+SSSSS
+____________________
+__________________________________________________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___ __P_____a_____ti_____e_____n_____t____________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___S_______h_____r_____e__w________d____________________
+____________________________________________________________
+_____F__o___r_____t_____it_____u_____de_____ x_____ __2___ _____(E_____n_____d_____u_____ra_____n_____c_____e_____, M________e__t_____t_____le_____)
+___ __I_____n_____si_____g_____h_____t_____f_____ul__________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___A_______le_____r_____t_____ x_____ 2____________________
+____________________________________________________________
+_____A_____ni_____m_____al_____is_____m_____
+(F_____e_____ra_____l _____W_____h_____is_____p_____er_____s_____, B_____e_____ck_____o_____n_____in_____g)
+___D_______e_____d_____ic_____a_____t_____e_____d__________
+____________________________________________________________
+_____F__o___r_____t_____it_____u_____de_____
+(_____E_____n_____d_____ur_____a_____n_____ce_____,_____ M_____e_____t_____t_____le_____)__________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___C_______le_____v_____e_____r_____ x_____ 2_______________ ___S_______h_____r_____e_____w_____d______________________________
+_____C__h___i_____m_____e_____rs_____t_____r_____y
+___(__I_____g_____n___i__s_____ F_____a_____tu_____u_____s_____)_________________________
+___I__n_____g_____r_____a_____t_____ia_____t_____in_____g_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___E__x_____p_____r_____e_____ss_____i__v___e_____ x_____ 2_____ ____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ _______________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r_____is_____m_____a_____ti_____c_____ x_____ 2 P____e____r____s____u____a____s____iv____e____
+x____
+2________
+__________________________________________________
+____________________________________________________________
+___ __Co_____m_____m_____a_____nd_____in_____g_____ x_____ 2_____ ____________________________________________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+___D_______ig_____n_____i_____fi_____e_____d_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__ __ _ _ __ __ T N__ __ _ _ __ __i i r __ __ _ _ __ __ m e __ __ _ _ __ __l b e __ __ _ _ __ __ l s e__ __ _ _ __ __s __ __ _ _ __ __x
+__ __ _ _ __ __ 2 __ __ _ _ __ __ __ __ _ _ __ __ __ __ _ _ __ __ __ __ _ _ __ __ __ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __ __ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+________________________________
+II _ I __ II _____ NNNNN _____ FFFFF _____ LLLLL UU U UU _____ EEEEE _____ NNNNN _____ CCCCC _______ EE _ E __ EE _____ SSSSS ______________________________
+_____S_____t_____e__a___d_____y____________________
+SSSSS _____ OOOOO __ CCC _ CC __ III __ II ___ AAAAA _____ LLLLL _____________________________________________
+________________________________
+II _ I __ II _____ NNNNN _____ FFFFF _____ LLLLL UU U UU _____ EEEEE _____ NNNNN _____ CCCCC _______ EE _ E __ EE _____ SSSSS ______________________________
+_____R_____u_____gg_____e_____d_____ x_____ 3_______________ W _______i___r_____y_____________________________________________
+_____R_____e___t__a_____i_____ne_____r_____s_____ x_____ 2_____ ____________________________________________________________
+_____F_____e_____ro_____c_____io_____u_____s_______________V
+_____ig_____o_____ro_____u_____s___________________________________
+__________________________________________________
+____________________________________________________________
+(cid:31)
+PPPPP (cid:31) HHHHHYYYYY (cid:31) SSSSSIIIII (cid:31) CCCCCAAAAALLLLL
+(cid:31)
+_____ M_____e_____n_____to_____r_____ x_____ 2_______________ ____________________________________________________________
+_____L_____it_____h_____e___
+__x_____
+2__________ PPPPP ________ HH __ HHH T YYY YY _____o SSSSS ___u__ IIIIICCC g CC _____h AAAAA _____ x LLLLL _____ 2___________________________________
+__ __ _ _ __ __ I R n__ __ _ _ __ __e
+f__ __ _ _s __ __ l o __ __ _ _ __ __ u u e__ __ _ _ __ __r n__ __ _ _ __ __c c__ __ _ _ __ __e e__ __ _ _ __ __s ( __ __ _ _ __ __x S__ __ _ _ __ __ 1 t r __ __ _ _ __ __ e__ __ _ _ __ __ e__ __ _ _ __ __ t __ __ _ _ __ __ x__ __ _ _ __ __ 1__ __ _ _ __ __ )__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+__ __ _ _ __ __
+PPPPPAAAAATTTTT
+P HHHHH at ///// h o HHHHH f C UUUUU ai MMMMM ne
+AAAAANNNNNIIIIITTTTTYYYYY
+_____In_____f_____lu_____e_____n__
+BB _ B __ BB ce_____ AAAAA __(___S CCCCC _____t KKKKK _____r GGGGG e _____e RRRRR t_____ OOOOO x_____ UUUUU 1_____) NNNNN _____ DDDDD __________ SSSSS
+_________________________
+PPPPP
+(cid:31) AAAAA P TTTTT at HHH (cid:31) HH h ///// of HHHHH (cid:31) Par UUUUU ad (cid:31) MMMMM ox AAAAA (cid:31) NNNNNIIIIITTTTTYYYYY
+_____G_____en_____e_____r_____a__
+BB t_ B __ BB i_____o AAAAA n_____ CCCCC x_____ KKKKK ___2__ GGGGG _____ RRRRR _____ OOOOO _____ UUUUU _____ NNNNN _____ DDDDD __________ SSSSS
+_________________________
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC c_____i___t__e_____r_____e_____H_____
+t_____a_____bb_____a_____S_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________________e__e_____g_____g_____u_____h_____T_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____u_____b_____i_____rt_____i_____t___n__a_____
+_____so_____n_____v_____a_____R_____NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________so_____n_____v_____a_____R_________________________NNNNNAAAAALLLLLCCCCC
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________h_____t1_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+____________________e_____u_____g_____o_____g_____a___d____e___P_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________ts_____i_____m_____r_____o_____f___n__o_____C_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________r_____e_____n___o__L__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_________________________r_____y_____tr_____a_____M__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 87 === t
+huggee
+Quote: I am a Thug. My father was a Thug. My grandfather was a Thug. But only I was chosen to drink of Kali’s blood and
+become as Shiva. Do not stand in my way — my duty is sacred. NAME: NATURE:Conformist GENERATION: 11th
+Prelude: You were raised in the Thuggee cult, a group PLAYER: DEMEANOR: Loner have N: CHRONICLE: CLAN: Ravnos CONCEPT: Thuggee of men who worship the goddess Kali through the act of ATTRIBUTES
+sacred strangulation. You once had a life beyond murder. PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+You had a family, a respectable job and sufficient wealth Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO for happiness, but none of that filled you with the joy that
+ABILITIES service to Kali could. TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+You had to make sure you r murders did not attract the Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O attention of the authorities. Most people think the Thuggee do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+were broken nearly two centuries ago. You were taught that E E m xp p r a e t s h si y o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _O of M ir e e l a e r e m __ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O L L a in w g _ u _ is _ t _ ic _ s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _ _ O O the Thuggee all owed the m to believe this. Now that you I L n e t a i d m e i r d sh at i i p o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O P S e e r c f u o r r i m ty a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ _O O M Oc e c d u ic lt i _ n _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O_ _O O
+know the true nature of the highest ranks among the Thug- S S t u r b e t e e t r w fu is g e e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O S S t u e r a v l i t v h a _ l_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ _O O P S o ci l e it n ic c s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ O O _ _ _O O gee, you suspect that many more for ces are at work than you ADVANTAGES
+can understand... yet. BACKGROUNDS DISCIPLINES VIRTUES
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO C__h_im__e_r_s_t_r_y__________O_O_O__OO Conscience/ConvictionOOOOO
+One night, three Thuggee came to you and _R_e_s_o_u_r_c_e_s___________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+_R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO took you to a ritual, where you were stripped ____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO and they drank you r blood. they returned it ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO to you after transforming it into the blood
+of Kali, the reby making you into a true MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ ___________P_a_r_a_d_o_x_________ Bruised
+Thuggee — a Ravnos. __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1
+Ravenous for the taste of blood, you __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 could not stop you rself when you r wife and __________________________ Crippled -5
+__________________________ Incapacitated children were brought before you. The others _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+said that to become as Shiva, you must shed __________________________
+__________________________ the trappings of you r mortal life. For a time, you mourned the act but now you understand
+do not foolishly deny it as the Western Kindred so why it was necessary. of ten choose to do. When the Week of Night You strangle people, per you r
+mares came, you barely religious duty. You kill Kindred
+kept control of you rwho are far too blind to ever self as the others leapt
+understand the ir svadharma so on one another and
+that they can not harm others devoured each other’s
+through the ir existence. vitae. Now, you’re the
+Roleplaying Hints: last surviving true Thug Despite you r self-awaregee and the asuratizayya ness and purpose, you
+you were Embraced to are not a machine. You
+fight have driven you out can feel and express
+of you r homeland. You emotion. You regret
+seek a way to fulfill you r deeply the loss of you r
+sacred duties in Europe or brethren and you r home
+America, or where ver else to the enemy, and you’re
+you may find you rself. not averse to finding all ies
+Concept: You are the to reclaim what you lost, divine murderer, given the
+even if they are Western. blessings of you r goddess
+After all, they can learn, to take life and destroy the just as you did. undead as you see fit. You
+Equipment: Weighted are not stupid or needlessly
+scarf used for strangling, bagh bloodthirsty, but you undernakh (tiger claws, treat as a
+stand you r svadharma and knife in each hand), assorted
+knives, Western clothing, small apartment. Clanbook: Ravnos
+
+=== PAGE 88 === s C: AMp Le Oterie The trip to Calcutta was uneventful. The five spent
+the journey in voluntary torpor to conserve vitae and t g r awoke in a Calcutta warehouse a few weeks later. Again, he rAVe OBBers
+they were provided for, this time by Dr. Lawrence’s own
+The Grave Robbers are a coterie of Ravnos loosely people who had gone ahead and arranged a have n and linked through common interests before the Week of other necessities for the coterie during the ir stay on the
+Nightmares. they have for med a more tightly knit group Indian subcontinent. for mutual protection in the wake of the Antediluvian’s Events after the coterie’s arrival were not always curse. they intend to find out just what happened and pleasant. The Eastern Kindred who warred against the
+what it means for the world. they have strong reason Indian Ravnos were much more common than they to believe that the end has already begun, and they had been before the Week of Nightmares and had no
+think the proper knowledge might enable the m to put intention of all owing Western Kindred to stay in the ir a stop to it. territory. for tunately, the coterie found it easy to lose
+the mselves in India’s crowds. h is t Ory
+The coterie started searching with the hints provided
+Dr. Lawrence Mayhew, archeologist and tomb robber and discovered a few have ns in Calcutta itself — at from the previous century, was still recovering from the least, a few that had n’t already been ransacked by for effects of the Week when he received the first package. mer ghouls or the Eastern vampires. From that starting
+It contained the writings of a medieval Kindred histo- point, the Grave Robbers found have ns in other cities rian and an invitation to receive further information. and at least one have n that may have belonged to an
+Lawrence, his curiosity piqued, took up the invitation. ancient Methuselah. He did n’t find anyone at the listed hotel, but the clerk
+Real success came when the coterie believed they gave him another package, this one with more history
+had located the Antediluvian’s resting place. Unforand some information that would eventually guide him tunately, when they traveled to the site, they found
+to Indian elders’ have ns. a scene literally from Hell. The place resonated with
+When Lawrence fully understood what he’d re- remnants from the vicious battle waged several months ceived, he contacted two of his childer, both of who m before, making any length of stay distinctly unpleasant. shared similar interests. they brought in two other The coterie departed shortly the reafter with out having
+Ravnos who could assist. When Lawrence got the made any real investigation. other four Ravnos to meet, he presented his plan — to
+The you ngest member of the coterie, Gwendolyn go to India, locate the have ns of ancient Ravnos and
+Brand, has suffered nightmares every night since the decipher everything they could. And if possible, to use
+visit. The coterie has ceased explorations and are now this information to stop or slow any further disasters. collating the ir findings. they’re not sure what to do with
+The other four Ravnos did n’t exactly believe every- what they’ve found, or if it’s even half as pertinent as thing Dr. Mayhew had to say — the good do ctor had they’d hoped, but it certainly makes fascinating reading. trouble with some of it himself — but the opportunity
+h to ransack elder have ns with out much risk of retaliation AVeN
+proved tempting. Lawrence’s ghouls purchased a nice manor in Cal The Grave Robbers debated travel arrangements, cutta, away from the center of the city and most of the as movement is always risky for Kindred and even more real problems. Mostly is olated, the have n provides as
+so when it takes the m halfway around the world. Law- much privacy as the coterie needs, as well as necessary rence’s mysterious benefactor came through again, this proximity to the city for the purposes of feeding. time of fering passage on a cargo vessel that would take The house was or iginally built for a wealthy British
+the m to Calcutta and of fload the m after dark. family during India’s colonial period, but the family sold
+The newly for med coterie debated the wisdom of it when India gained independence in the late 1940s. taking the of fered passage. with out any idea as to who The décor is relatively subdued, although Lawrence of fered it, nor a clue as to motive, the risk seemed high. did send along several rare art objects he’d picked up
+they eventually agreed to go, because they found the over the years. opportunity sufficiently tempting and also reasoned that In preparation for the coterie’s arrival, the ghouls who ever wanted to send the m could probably kill the m had the most advanced security equipment available
+in America as easily as in Calcutta. installed as quickly as possible. The grounds are covered
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 89 === with security cameras, motion detectors and hidden inevitable that one day he would learn too much. microphones. The windows are heavily barred and the Dr. Mayhew came to the attention of Jayakumar, a
+do ors practically require explosives to for ce open. Ravnos of the Brahman caste who took an interest in
+The coterie rests by day in the basement, which is Mayhew’s activities. At first, Jayakumar approached divided into smaller are as. The basement do or can be him as a fellow scholar and discussed India at length
+barred and locked from the inside. In addition, each into the evenings and on to the morning. Mayhew coterie member has a personal “bedroom” for appear- of ten found himself arriving at his family’s home an
+ances, as well as extensive work are as for research. hour or two after sunrise. The house has high-speed Internet access, all ow- It was n’t long before Mayhew’s erudition and curiing the coterie to obtain information and news from osity convinced Jayakumar that he would make a good anywhere in the world as well as research materials that Ravnos of the Brahman jati. Of course, Jayakumar did
+might otherwise be difficult to get. not consult Lawrence in advance. Jayakumar arranged events to appear that Lawrence had died in a terrible
+t V he AMpires accident. Mayhew himself was brought to Jayakumar
+Four members of the coterie have known each other and subjected to the ritualistic Embrace favored by for decades but have only been working together for a Brahman Ravnos. few months. they are n’t quite a smoothly oiled machine Lawrence adjusted quickly to his new state, although
+(and may never be), but at least they have a reason he bitterly resented the loss of daylight hours. The fact to work together. The coterie’s presence has recently that human frailties no longer troubled him was much
+become known with the ir first release of some of the more of a boon, at first. do cuments they translated to Ravnos in America and Jayakumar wanted Lawrence’s counsel about the
+Europe. At this point, the coterie as a who le is seriously West. The Brahman saw the time fast approaching when considering returning to America. After the ir visit to the Ravnos would have to move out to prepare for the
+the site of Zapathasura’s destruction, things have n’t asuratizayya’s final onslaught. He knew that to do so, been quite as comfortable for the m as before. they would have to know what to expect. L AwreNCe M Ayhew, the L eADer After Jayakumar got everything he needed from
+Mayhew, he sent his childe away. Lawrence, who had
+Background: Lawrence Mayhew is an Oxford long grown tired of his sire, did not object. He left for
+educated archeologist who followed his family to India
+America to put as much distance between himself and in the late 19th century so he could explore India’s
+India as possible. He managed to insinuate himself into jungles, temples and other ruins. The subcontinent
+Harvard’s faculty and spent several decades comfortably always fascinated him — its culture, religion and so on. ensconced with in its halls. During this stay, Lawrence
+He spent his years in India digging up anything
+Embraced Johann Matheson and Zachary Carter, his he could find and learning what ever he could. It was
+two best students (and partners in crime). Image: Lawrence Mayhew is a fit gentleman, apparently in his early 30s, with dark brown, precisely trimmed hair and brown eyes. He likes to wear conservative
+business suits when not digging in tombs. Roleplaying Hints: You’re soft-spoken and unassuming unless you believe you absolutely must get what you want or need, at which point you’re very intense, driven and likely to run over anyone’s objections. You
+have several decades’ experience dealing with unruly students, and you find it easy to extend that experience
+to others. When around Kindred elder to you, how ever, you hold back no matter how stupid they sound. you r time with Jayakumar taught you not to toy with those
+more powerful than you. Sire: Jayakumar
+Nature: Architect
+Demeanor: Director
+Clanbook: Ravnos
+
+=== PAGE 90 ===
+Generation: 9th Gwendolyn had been on several digs and was in Embrace: 1879 volved with Johann Matheson in selling rare art and
+Apparent Age: 34 other items picked up at archeological sites on the black market. The business was lucrative enough to
+Physical: Dexterity 3, Stamina 4, Strength 3 help pay the bills, and Gwendolyn did n’t see what she
+Social: Appearance 3, Charisma 4, Manipulation 3 was do ing as wrong. After all, she dug up the things
+Mental: Intelligence 4, Perception 5, Wits 3 in the first place; why should n’t she decide not to pass
+Talents: Alertness 3, Athletics 2, Brawl 1, do dge 2, everything along? Empathy 1, Expression 4, Intimidation 2, Leadership 3
+Unfortunately, one of her colleagues found out
+Skills: Animal Ken 2, Drive 2, Etiquette 3, Firearms what was going on and reported her. As a result, she was
+2, Survival 3 suspended from access to university resources and only
+Knowledges: Academics 5, Computer 1, Investigation avoided arrest because she thought quickly enough to
+4, Linguistics 2, Occult 4, Politics 3 get away from her usual haunts and call Johann. Disciplines: Animalism 2, Auspex 4, Chimerstry 3, Johann, who already intended to Embrace Gwen Dominate 2, for titude 3 do lyn, did so right the n and the re. He took her back
+Backgrounds: Contacts 5, Influence 1, Resources 5, to America, where she met Johann’s sire, Lawrence. Retainers 2, Status 2 Lawrence, for his part, was enthralled to find another
+Virtues: Conscience 3, Courage 3, Self-Control 5 Oxford scholar in his circle, even if she was a woman. Morality: Humanity 7 Not long afterward, the coterie departed for India will power: 7 to research some leads a benefactor had passed along
+to Lawrence. Gwendolyn’s skills served her in good
+Crime: Not a major weakness, although it shames stead during the sojourn on the subcontinent. She
+Lawrence no end. He’s discovered that he has quite the assembled much of the historical text shortly after
+taste for stealing others’ work and making it his own. visiting the site of Zapathasura’s destruction. She has
+Plagiarism is an ugly word, and Lawrence prefers not to since suffered from daily nightmares about the event and
+think of what he do es as such, but that’s it. He profits occasionally awakens babbling in Sanskrit, a language
+from others’ work. she could barely manage to translate before. Gwendolyn g B, V
+weNDOLyN rAND the is iONAry suspects that what ever remains of Zapathasura’s spirit
+Background: Gwendolyn is a you ng, ambitious and has entered her body. gifted archeologist. As an Oxford graduate, her career
+Image: Gwendolyn is a tall, slender, blonde with might have led to incredible discoveries in the mortal
+dark eyes. She’s always smoking a cigarette and dresses world, had she not been caught stealing. as casually as possible. She rarely smiles and the n usually
+at another’s misfortune. Roleplaying Hints: Bitter, cynical and resentful of you r Embrace, you’re torn between wanting to get
+back at Johann for taking you r mortality and for giving him because he got you out of England before the police carted you of f. To everyone else, act abrasive until
+you’re convinced they’re not as bad as you initially thought. do n’t tell anyone about you r suspicions regarding Zapathasura — they’ll think you’re crazy. You
+think you’re crazy. Sire: Johann Matheson
+Nature: Rogue
+Demeanor: Curmudgeon
+Generation: 11th
+Embrace: 1999
+Apparent Age: 28
+Physical: Dexterity 2, Stamina 2, Strength 2
+Social: Appearance 3, Charisma 2, Manipulation 3
+Mental: Intelligence 3, Perception 5, Wits 4
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 91 ===
+Talents: Alertness 2, Empathy 2, Expression 3, Intimi- handle the situation, but it ended in gunfire. What disdation 3 turbed her was the fact that Johann took two bullets to
+Skills: Firearms 1, Survival 3 the chest during the fighting and did n’t look as nearly
+Knowledges: Academics (Archeology) 4, Computer dead as he should have been. 2, Investigation 3, Linguistics 4, Occult 3, Science 2 After that night, Johann took Marion along when Disciplines: Auspex 3, Chimerstry 1 ever he needed backup. He convinced her to continue despite the bad first experience. While she was good
+Backgrounds: Contacts 3, Mentor 1, Resources 3 at her job, it was inevitable that something would go
+Virtues: Conscience 2, Courage 3, Self-Control 5 wrong eventually. The bullets would have killed her if
+Morality: Humanity 7 it had n’t been for Johann’s vitae. will power: 8
+Image: Marion has black hair, dark eyes and pale
+Crime: Gwendolyn steals. She’s not a kleptomaniac; she skin. She wears clothing that gives her maximum range
+only takes valuable things. She may sell the m or keep of motion and restricts or catches as little as possible. the m afterward, but if she sees something she wants, Roleplaying Hints: You do n’t trust anyone other
+she’ll try to get it. than Johann, and him you trust enough to get you into
+M AriON f reNCh, D ACOit trouble. You stick with him anyway because with out you, Background: Marion’s father taught her how to he’d be brightening sunsets by the weekend. You’re curishoot before she was 12 and she learned how to fight ous about the investigations but do n’t have the expertise and defend herself before she turned 16. When she the others do — a degree in Western literature is n’t a
+graduated from high school, she joined the Army for big help when it comes to excavating ancient Ravnos four years before going to university on the GI Bill. have ns. In a fight, you use Chimerstry — sparingly — to
+This is n’t to say Marion was a killing machine create distractions. on two legs — far from it. She was, how ever, quite Sire: Johann Matheson competent. While attending university, she put her Nature: Survivor
+fighting skills to use and hired herself as a bodyguard Demeanor: Gallant to supplement her cash. Her most lucrative job, and
+Generation: 11th the one that changed her life the most, was the night
+Embrace: 1987
+Johann Matheson hired her. Apparent Age: Late 20s
+Johann stressed that anything she saw “never hap Physical: Dexterity 4, Stamina 4, Strength 3 pened” and took her along to meet some people about
+Social: Appearance 2, Charisma 2, Manipulation 2 a shipment. The situation broke do wn, the people got
+Mental: Intelligence 2, Perception 3, Wits 4 of fended and one drew a gun. Marion did her best to
+Talents: Alertness 3, Brawl 4, do dge 3, Expression 3, Intimidation 2, Streetwise 2
+Skills: Animal Ken 2, Drive 2, Etiquette 1, Firearms 2, Melee 2, Stealth 2
+Knowledges: Academics 3, Computer 1, Linguistics 1
+Disciplines: Animalism 2, Auspex 1, Chimerstry 3
+Backgrounds: Contacts 2, Resources 3
+Virtues: Conscience 2, Courage 5, Self-Control 3
+Morality: Humanity 5 will power: 7
+Crime: Marion has taken up mugging and other unsavory habits to supplement her resources. She has the skill
+and ability to take what she wants from others. j M, f s
+OhANN AthesON AithfuL tu DeNt
+Background: Johann attended Harvard in the mid60s and dropped out a year before earning his degree to protest the Vietnam War and do dge the draft. Lawrence
+Mayhew, while part of Harvard’s faculty, never actually
+Clanbook: Ravnos
+
+=== PAGE 92 ===
+Johann’s efforts dropped several unique and interesting items into the archeologist’s possession. Image: Johann is a you ng-looking man with sandy
+blond hair and green eyes. He dresses appropriately for the situation at hand. When meeting customers, he wears business suits and ties. When feeding, he
+usually dresses in counterculture styles. In India, he’s taken to khakis and pith helmets, much to the coterie’s amusement. Roleplaying Hints: You act you ng and cocky and
+give the impression you can do anything and are will ing to try — even when you’re wrong. You’re not stupid, but
+you are extremely overconfident. The fact that you’ve
+Embraced twice with in 30 years of unlife shows you r lack of restraint. Sire: Dr. Lawrence Mayhew
+Nature: Thrill-Seeker
+Demeanor: Rebel
+Generation: 10th taught classes. He did, how ever, keep track of promis- Embrace: 1971
+ing students and of fer the m the opportunity to attend Apparent Age: Early 20s private discussions. He was about to of fer Johann that Physical: Dexterity 3, Stamina 3, Strength 3
+chance when the you ng man dropped out. Not deterred Social: Appearance 2, Charisma 3, Manipulation 2 at the apparent loss of one of archeology’s future brilliant
+Mental: Intelligence 4, Perception 3, Wits 4 minds, Lawrence convinced Johann to at least attend
+Talents: Alertness 2, do dge 2, Expression 3, Leadership his private sessions. 1, Streetwise 2, Subterfuge 2
+Johann’s grasp of archeology and related topics
+Skills: Animal Ken 2, Drive 2, Firearms 1 greatly impressed Lawrence, to the point that he decided
+Knowledges: Academics 4, Computer 2, Investigation to Embrace Johann years before he actually followed
+3, Linguistics 3, Occult 4 through. Unfortunately, Johann had a predilection for
+Disciplines: Animalism 3, Auspex 2, Chimerstry 3 chemical experimentation of which Dr. Mayhew disapproved. He tried to convince Johann to stay away from Backgrounds: Contacts 4, Herd 2, Influence 1, Mentor
+pot and LSD, but Johann laughed it of f as something 2, Resources 4, Retainers 1
+“everybody else was do ing.” Virtues: Conscience 3, Courage 3, Self-Control 2
+Lawrence primarily opposed Johann’s drug use Morality: Humanity 5 because he liked to use his “advanced students” as a will power: 7
+herd, and the presence of drugs in Johann’s system made Crime: You traffic in stolen artifacts, but you r actual the Ravnos uncomfortable. Nevertheless, Johann’s vice is drugs. You’ll try anything once, usually many
+brilliance made up for any shortcomings Lawrence times more of ten. You try to get you r herd hooked on perceived. He Embraced Johann when he did mainly you r favorite drugs (currently MDMA and cocaine) and
+out of loneliness. He found the prospect of someone the n feed on the m while they’re high. with who m he could openly discuss his experiences
+A u
+NjALiKA NDerwOOD extremely tempting. Background: Anjalika is the daughter of a Brah The Embrace did n’t cure Johann of his fascination
+man woman and an English lord. Born in India but with drugs. He regularly feeds on mortals who are under
+raised in England, she grew up speaking both her chemical influence, especially those who have taken
+mother’s and father’s tongues, and shifts between drugs Johann never tried. In addition, Johann used Lawthe two with startling ease. She entered Oxford for
+rence’s connections to get a foothold in a lucrative black a for mal education and studied literature, focusing
+market in stolen antiques and archeological treasures. primarily on Indian writings. After graduation, her
+Lawrence disapproves, but learned to keep quiet after
+Indian relatives invited the family to come to India
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 93 ===
+Anjalika was prepared to argue with her sire over the se duties. She had spent years applying herself to work
+that she did not enjoy, existing from night to night in a constant state of despair. Jayakumar or dered her to go
+to Boston and find an itinerant childe of his, Lawrence
+Mayhew, and convince him to return to Jayakumar as soon as possible. Jayakumar cautioned Anjalika that this task was
+only the first part of her duty and that failure to return could mean disaster. Being the modern woman she was, Anjalika did not believe him. Leaving India was like
+dropping a heavy burden and setting it on fire. Once back in Europe, she had no intention of returning to
+the subcontinent. She did intend to meet Dr. Mayhew, who could probably tell her more about what Jayakumar had refused to explain, especially if he was one of
+Jayakumar’s older childer. She stopped in London with a vague thought of visiting her parents, but could n’t bring herself to actufor an extended stay. Anjalika was excited because she all y walk in and greet the m — the Embrace and the ten
+wanted to see the places she’d read about and better years that had followed it were too great a barrier for understand her heritage. her to surmount. She traveled on to America and met
+The stay was n’t all that she’d imagined. Her mother’s with Lawrence Mayhew, to who m she told everything family, being Brahman, was wealthy by Indian terms. about her experiences with Jayakumar. But the city was crowded with people and animals, Dr. Mayhew invited Anjalika to remain in Boston
+and Anjalika found the sheer poverty overwhelming. with him and help him place certain events in Indian
+She was accustomed to England and Europe, where mythology in context with the Ravnos history they population density was much lower and the standard of had both picked up from the ir sire. After the Week of
+living much higher. Certainly, she’d seen her share of Nightmares and Lawrence’s receipt of packages from homeless people, but not camped out on every square an anonymous source, Anjalika agreed to travel to
+foot of sidewalk. India with him to learn what happened. She fears that
+Anjalika found some things about her stay enjoy- Jayakumar still walks and will take her freedom from able. She had access to Calcutta University’s library and her when he sees her again. met a few scholars who se work she’d studied closely. Image: Anjalika is a small, slender woman, with
+Things remained pleasant until the final week, when long black hair and green-flecked brown eyes. Her skin her relatives took her to meet an “old friend of the fam- is a dusky brown with ashen undertones if she has n’t fed
+ily” named Jayakumar. Jayakumar did not look very old, recently. She dresses conservatively, preferring a busibut he spoke with Anjalika well into the night about nesslike demeanor to avoid drawing attention to herself. India’s history. At least half the time, Anjalika thought Roleplaying Hints: You’re quiet and subdued he was speaking from experience. Before the night was around people you do n’t know, but that can change in
+through, Jayakumar Embraced her and for bade her to a second if conversation shifts to a topic you know well. return to her family. You can spend hours discussing a few passages from the
+The Ravnos elder told Anjalika that he would tell Upanishads or the Rg Veda if given the chance. You her family she’d died in a terrible accident, and that hate to discuss or think too much about you r undead
+he wished her to remain with him to learn about her state — you feed when absolutely necessary, but you duties and responsibilities as a Ravnos of the Brahman refer to aspects of Kindred existence with euphemisms. jati. Anjalika tried to leave several times, but on each The only aspect of being Ravnos you do n’t loathe is the
+occasion Jayakumar and his retainers prevented her ability to talk to and relate with animals. escape. He kept Anjalika with him for over a decade Sire: Jayakumar before he deemed her ready to assume the duties for Nature: Pedagogue
+which he’d Embraced her. Demeanor: Penitent
+Clanbook: Ravnos
+
+=== PAGE 94 ===
+Generation: 9th they’re not necessarily pivotal to events, but they have
+Embrace: 1975 a good idea of what’s going on — perhaps better than
+Apparent Age: 24 many others do. Physical: Dexterity 3, Stamina 2, Strength 2 the re’s also the question of the ir benefactor. The entries for Marcia Felicia Licinia and Durga Syn hint
+Social: Appearance 3, Charisma 3, Manipulation 2 that one or both are involved somehow, but that’s not
+Mental: Intelligence 4, Perception 3, Wits 3 necessarily the case. who ever is the coterie’s benefac Talents: Brawl 1, do dge 1, Empathy 2, Expression 4, tor might just as easily bring the characters into similar
+Subterfuge 2 investigations to increase opportunities to gather more
+Skills: Animal Ken 4, Drive 1, Etiquette 3 information. Finally, what happens when the benefac Knowledges: Academics 4, Computer 1, Investigation tor steps in to gather the fruits of her proxies’ labors? 2, Linguistics 3, Occult 3
+Disciplines: Animalism 5, Auspex 1, Chimerstry 2 ur ViVOrs
+Backgrounds: Mentor 2, Resources 1, Retainers 1
+Virtues: Conscience 4, Courage 3, Self-Control 3 t AtiANA s tepANOVA, A LAst Or
+Morality: Humanity 7
+Background: Tatiana Stepanova was the daughter will power: 6 of a Russian noblewoman who dallied with an itinerant
+Crime: To draw attention from you r faults, you point out raconteur. After her birth, her father sensed something and exaggerate flaws you see in others. If you get rolling, not quite right with her and never really liked the girl. you will thoroughly humiliate anyone who irritates or As Tatiana grew older, the feeling became mutual. She
+of fends you. If this other is Kindred, you might push it grew up a disobedient child and did what ever she could until you trigger frenzy. to vex her parents. u g r When Tatiana discovered that her parents intended
+si Ngthe rAVe OBBers to marry her of f to another family to cement an all iance, The Grave Robbers are presented as having a semishe was angry. When she met the filthy old man who
+permanent base in Calcutta and a more permanent base was to become her husband, she became enraged. She
+in Boston, Massachusetts (specifically, Harvard). As of decided to leave before the arranged marriage could sap
+2001, the coterie is likely in America considering the ir all freedom from her existence. In the years following
+next project. The next endeavor could take the m anyher departure, she had to learn to survive on her own, where and involve the m in nearly any plot, especially of ten disguising herself as a man to avoid unwanted atif it somehow relates to the Final Nights. tention and taking up robbery when she had no other
+In the ir investigations, they might disturb a powerful way to feed herself. elder or Methuselah of any clan, or they might accidentally stumble across information of more contemporary use. Because they’re Ravnos, any prince may decide
+to deny the m entrance into his do main, which could cause problems (and lead the m to contact characters
+for assistance, especially if something they need is in a museum or library with in the for bidden do main). Alternatively, Johann’s black market dealings might
+net him something important to an elder local to the characters, which could lead to intrigues as the elder
+tries to get the coveted item. The characters could get involved on either side. The Grave Robbers are not stereotypical Ravnos — none are “Gypsies,” and all have goals beyond
+swindling, lying or stealing. they’re all concerned about the apocalyptic rumors and events that have occurred in the past few years. Some of the m can see the
+red star quite clearly, all survived the traumatic Week of Nightmares and they’ve stood at the site where the
+Ravnos Antediluvian fought for its existence and lost. ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 95 ===
+One night, while burglarizing a merchant’s house, other Brujah during the French Revolution, but chose she saw a man bite another on the throat and apparently shortly afterward to move on to the relatively you ng
+drink. Frightened, she tried to hide before he not iced her. United States of America. The next night, Tatiana saw the man again, but Tatiana moved frequently, establishing identities as only for a moment. In the following weeks, she caught a Gangrel and a Malkavian as well as her or iginal Brujah
+glimpses and hints of his presence, but not hing definite. alter ego. She quickly learned to avoid the Sabbat and
+Her thieving excursions also became trickier, almost as spent her time with in Camarilla-aligned do mains. In if someone were putting obstacles in her path. Times her routine efforts to make herself useful, she fell in with
+got leaner, although she managed to survive despite the the Ventrue archon Lucinde and worked with her on increased difficulties. several occasions. with in six months, the man presented himself In the 20th century, Tatiana has also fallen in with
+to Tatiana. It was a cold, winter night, with snow anarchs and associated with Lilith Storm, a prominent piled high on the ground. The first thing she not iced Brujah anarch in Seattle, when Petrodon was destroyed. was that his breath did n’t steam. Knowing legends Tatiana had heard of a plot against one of the Justicars
+of vampires, she turned to run, but found him wait- but had not yet discovered enough evidence by the time ing behind her. She barely got away. The following Petrodon was ash. She contacted Lucinde to warn her
+night, the scene repeated itself. For two weeks, this about rumblings among the anarchs, only to receive an bizarre apparition haunted her. Before long, she could invitation to work for the new Ventrue Justicar as one
+only huddle in her room and wonder when he would of her archons. Her first of ficial mission was to assist simply kill her. Lucinde in the capture of Genina, a Samedi who was
+The moment came soon enough. When he took her under a global bloodhunt from the Camarilla. blood, she thought she would die; she did not suspect Tatiana knows of Danya, the Ravnos art thief on the he would make her one of the Ravnos. Her sire, Vasiliy, “Camarilla’s Most Wanted” Red List, another Kindred
+taught her little of the Kindred and primarily used her under global blood hunt. She sees Danya as a rival and for her talent at burglary. He did n’t fully realize how strongly desires Danya’s destruction. strong her knack for deception was. When the Week of Nightmares struck, Tatiana
+Tatiana deeply resented the Embrace — the thirst barely managed to fight of f the frenzy. She held on to for blood violated her sense of humanity on a primal her self-control mainly because few Ravnos were nearby. level, and the strong compulsion to conceal her true The violent images and feelings drove her into hiding
+self bothered her in a way she did n’t fully understand. until the event ended, further insulating her from any
+She had concealed herself from others for years before potential consequences. She do esn’t know what hapthe Embrace, but now she felt as if she had no choice. pened to the rest of the clan and is very disturbed about
+Vasiliy believed that the Ravnos blood manifested in a what she perceives as an attack aimed at her. desire to steal, a compulsion he tried to exploit. Image: Tatiana Stepanova is a mildly attractive
+It took Tatiana three decades to break free of black-haired woman. As one of the Kindred, she has
+Vasiliy’s hold, after which time she used the few tidbits pale skin, but she of fsets the effect with cosmetics and of information her sire had dropped to wend her way Obfuscate. She cultivates a for midable image and presinto Kindred society. She made a point of being useful ents herself as much more dangerous than she truly is. to the other Kindred she met, rather than antagonizing Her steady gaze has unnerved more than one primogen
+the m. the ir power frightened her at first, but she came or prince who sought to dissuade her attention from to realize that such power could be hers. Through the the ir do mains. careful application of prestation and the ability to make As an alastor, Tatiana bears the identifying tattoo
+herself useful as needed, she exchanged her services for on the palm of her left hand, and wears gloves or uses lore and teaching in Disciplines that did n’t otherwise Disciplines to conceal it. come naturally. Roleplaying Hints: all ow none to see you r true self; After learning more of the other clans, Tatiana trav- keep it hidden under layers of deception. Manufacture
+eled across Europe, meeting and dealing with Kindred identities as needed to deal with any level of mortal and building up the information she needed to more or Kindred society to get what you want. If you must
+fully conceal her true self. Eventually, she settled on a masquerade as an anarch one night and a Camarilla
+Brujah identity she had manufactured from experiences elder the next, do so. Everyone you meet is a potential in Russia and France. Tatiana participated with several tool — do not hesitate to recruit those who can help
+Clanbook: Ravnos
+
+=== PAGE 96 === you get what you want, or to repay the m what they are
+owed. Project a sense that you are honorable to neonates
+(who are still you ng enough to believe such foolishness) so that you can exploit it at you r leisure. All you r self-assuredness conceals massive paranoia
+that someone will learn something about you. Anyone coming close to the truth must be neutralized or destroyed if necessary. Sire: Vasiliy Vasilevich
+Nature: Survivor
+Demeanor: Judge
+Generation: 8th
+Embrace: 1764
+Apparent Age: 22
+Physical: Dexterity 3, Stamina 3, Strength 3
+Social: Appearance 2, Charisma 5, Manipulation 5
+Mental: Intelligence 5, Perception 4, Wits 5
+Talents: Alertness 3, Athletics 2, Brawl 2, do dge 3, Empathy 3, Intimidation 4, Leadership 4, Subterfuge 5 with the ir assigned lots in life, and began a lucrative
+Skills: Animal Ken 3, Drive 1, Etiquette 3, Melee 3, career mugging tourists. Stealth 3, Survival 3 One night, Sanjay and his companions chose a target
+Knowledges: Academics 2, Investigation 5, Law (Ca- who looked like a wealthy European, not realizing that marilla) 3, Linguistics 2, Occult (Vampire Clans) 4, the man’s pale complexion stemmed from something
+Politics 3 other than his racial background. When they confronted
+Disciplines: Animalism 2, Celerity 2, Chimerstry 5, the man with the ir knives and threats, he laughed at for titude 2, Obfuscate 3, Potence 2, Presence 4 the m. The largest boy, Ekaja, moved to attack the man
+Backgrounds: all ies 4, Contacts 5, Resources 4, Re- and fell screaming after his second step. None of the tainers 2, Status 4 other boys could see what had hurt Ekaja so badly, but
+he sounded as if he’d been ripped open. A second you ng
+Virtues: Conscience 2, Courage 3, Self-Control 5 thug moved and he, too, fell screaming. The rest ran, Morality: Humanity 5
+except for Sanjay. Always the opportunist, Sanjay said, will power: 8
+“Teach me you r magic.”
+Crime: Infiltration. Tatiana uses her skills at disguise
+So the man taught Sanjay his magic. He was a and deception to assume other identities and claim
+Ravnos of the Kshatriyas (“warrior”) caste, Embraced membership in other clans. She won’t try to impersonate
+over a century before to fight against the asuratizayya. a Tremere or a Ventrue, but no other clan is of f-limits. He coached Sanjay in presenting the proper attitude
+She especially delights in manipulating those who and behavior to fit in as one of the Kshatriyas. Five
+perceive the concept of “clan” as more binding and years passed before Sanjay met another Ravnos, and
+fraternal than is the norm. This compulsion stems from another 10 before Vivek, his sire, felt he was truly
+her need to conceal her true identity from others, to ready to battle the Eastern Kindred. Sanjay enjoyed
+the extent that she will do her best to dispose of any his new existence to a point — he had all the money, who learn too much about her. fine clothes and women he could ever want — but as
+s C, one of the undead, he could no longer truly enjoy the se
+ANj Ay hAKrABArti r K benefits. He learned the gifts common to the Ravnos
+e NegADe sh Atriy As and he learned to fight, but he also indulged other, less
+Background: Sanjay Chakrabarti was born in New pleasant, pursuits. Delhi to a family living on five by five square feet of
+Sanjay loathed the fact that his condition made it sidewalk. Sanjay resented his position in society as a
+impossible to enjoy mortal activities. He recruited his member of the lowest caste and blamed his parents for
+mortal friends to help him as necessary and made Ekaja bringing him into the world. Instead of adjusting to his
+his ghoul. Ekaja also served as his proxy for worldly role, he fell in with several others also less than thrilled
+pleasures. The ghoul brought women to bring to Sanjay’s
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 97 === have n and thoroughly degraded the m under Sanjay’s primogens and archons when you must, but mark time
+appreciative gaze. Once a woman had suffered sufficient until you can devour the m as you devoured you r sire. indignities that Sanjay no longer enjoyed the sport, he Sire: Vivek Lalji would drain her to death and have Ekaja dispose of the Nature: Monster
+remains. Vivek knew of Sanjay’s excesses and tried to
+Demeanor: Deviant limit the m, to teach Sanjay to resist such temptations, Generation: 10th
+but Sanjay did not listen. Embrace: 1958
+When rumors swept through India that the asura Apparent Age: 17 tizayya had begun the ir long-rumored and of t-prophesied
+Physical: Dexterity 3, Stamina 3, Strength 3 invasion the West, starting with the state of California
+in the United States of America, Vivek was among those Social: Appearance 3, Charisma 2, Manipulation 3 who went to investigate the matter. He took Sanjay Mental: Intelligence 3, Perception 3, Wits 4
+with him to keep an eye on him and tutor him further Talents: Alertness 2, Brawl 3, do dge 3, Leadership 1, in the Path of Paradox. Streetwise 4, Subterfuge 2
+Upon arrival in Los Angeles, Vivek and Sanjay Skills: Animal Ken 2, Drive 3, Etiquette 1, Firearms made contact with local Kindred and began the 2, Melee 2
+process of locating the asuratizayya for destruction. Knowledges: Investigation 1, Linguistics 1, Politics 2
+Before they and the other Ravnos managed to accom Disciplines: Animalism 1, Chimerstry 3, for titude 2 plish much, the Week of Nightmares struck. Vivek
+Backgrounds: Contacts 2, Fame 1, Herd 3, Influence fought the frenzy and attempted to inflict his Beast
+1, Resources 3, Retainers 1, Status 1 on a ghoul to maintain control. Sanjay did not try
+Virtues: Conscience 1, Courage 2, Self-Control 2 to resist. Instead, he fell upon his distracted sire and
+Morality: Humanity 4 drank his soul. In this horrific act, Sanjay discovered a
+will power: 5 joy that transcended all he had regretted, and wished
+to experience it again. Crime: Initially, Sanjay’s preferred crime was to use women and kill the m. Since discovering diablerie, he’s
+Since the Week of Nightmares, Sanjay has decided lost interest in killing mortals, but he still do es it on
+he’d rather indulge his urges than fight a war he do esn’t occasion to see if he can invoke the same rapture he
+care about. Los Angeles is the perfect city for him — experienced before. He do esn’t do it of ten, in the wake
+America’s decadence is distilled and reproduced for mass of one murder that nearly brought a police investigation
+consumption in the City of Angels, and he’s more than to Ekaja’s do orstep (and thus to him). happy to partake. He regrets diablerizing Vivek, but he
+also desperately wants to experience that sensation again. B t riAN hOMpsON
+As for the mortal world, Sanjay has moved on to
+Background: Brian grew up listening to the blues. drug dealing and prostitution. Along with Ekaja, Sanjay
+He spent half his life wishing he could play, and the has slowly solidified his influence with a few mortal
+other half actually learning to. As a teenager, he took gangs. He do esn’t realize yet that he’s stepping on other
+what ever jobs he could to pay for a Gibson Les Paul
+Kindred’s territory and that only the chaos sown by the guitar and Marshall amplifier stack, as well as for lessons. Eastern Kindred’s invasion has kept him safe so far. That
+Despite all that, something was missing from his chaos is passing quickly. music. Brian could n’t put his finger on it — it was
+Image: Sanjay is a you ng Indian male, with short, something he could hear when he listened to Stevie black hair and dark skin. He wears the most stylish
+Ray Vaughn, but not hing that existed in his own music. American clothes he can afford. He tries to present a
+He may simply have been his harshest critic, or he may quiet and respectful front when dealing with American
+genuinely have lacked the ability to truly play the blues. Kindred, but his contempt for the Western vampires
+Brian tried to join a few bands, but he never got occasionally spills for th. very far, and each try led to greater disappointment. Roleplaying Hints: You’re the man! You’ll rule
+The night after his final rejection, after deciding to the streets with in two years if you play you r cards right, give up the music and try to make a “serious” living, but you do n’t want to bring the native Kindred’s anger
+he got one final chance. He received an invitation to do wn on you r head, so you won’t move too fast. Play
+meet a man at a blues club in New or leans called The the ir games when you have to — respect the princes, Crossroads. The invitation’s wording implied that the
+Clanbook: Ravnos
+
+=== PAGE 98 === retreated from the public. He’s rumored to be working
+on his next CD, but no one knows for sure. A year ago, Brian and Legba fought as Zapathasura’s curse drove both to frenzy. Brian recovered several nights
+later and has seen no sign of Legba since. He do es not know if Legba still exists or if he was destroyed, but he
+would like to know the truth. Image: Brian is a you ngish white male, of ten dressed in denim and leather. He occasionally emulates
+the fashion preferences of his blues idols, but has n’t yet established his own image. His hair is shaggy and
+unkempt, and he was cultivating a beard when Legba
+Embraced him. Roleplaying Hints: You’re standoffish; you do n’t want to let anyone near you as long as you want human
+blood. You are trying to work on you r next album, but the creativity that existed before Legba Embraced you
+seems to have drained away. You have to fight every inch to write a song, which drives you to utter distracman felt Brian had potential and could help where tion. When you’re around others, you try to hide you r
+Brian had failed. frustration and put on a good act. Brian went to The Crossroads. After all, what was Sire: Papa Legba one more disappointment piled atop so many others? Nature: Bon Vivant
+No one else was at the club when he arrived, only the
+Demeanor: Gallant man who’d sent the invitation. The man of fered Brian
+Generation: 10th a drink and asked him to play a few songs. The drink
+Embrace: 1997 hit Brian like a sledgehammer and the music flowed
+Apparent Age: freely as it never had before. Brian felt as if the strange
+Physical: Dexterity 4, Stamina 3, Strength 2 man had reached inside him and pulled out the deepest
+parts of his soul. Social: Appearance 3, Charisma 3, Manipulation 2
+“I can help you play the blues, but you have to Mental: Intelligence 2, Perception 2, Wits 3 do something for me in return,” the man said. Brian Talents: Athletics 1, Brawl 2, do dge 1, Empathy 2, accepted the of fer and for ten years, he played as few Streetwise 2
+others ever had. The fact that the man — named Legba Skills: Animal Ken 2, Drive 2, Performance (Blues)
+— needed him to do things every so of ten did n’t bother 4, Survival 1
+Brian too much. At first he did little things, like quick Knowledges: Academics 1, Computer 2 delivery jobs. As the years passed, the tasks became
+Disciplines: Animalism 2, Chimerstry 1, for titude 2 more difficult and dangerous. with in five years, Legba
+Backgrounds: Contacts 3, Fame 3, Herd 3, Resources 2 had Brian disposing of a corpse. The you ng musician
+Virtues: Conscience 3, Courage 3, Self-Control 2 found he could not refuse Legba’s requests, no matter
+Morality: Humanity 6 how hard he tried. will power: 6
+Brian’s musical career did n’t exactly skyrocket, but he was no slouch, either. He had a recording contract Crime: Betraying trust. Brian has n’t had a chance to do
+with BMI and released six albums with in ten years of this yet, but as soon as he gets close to someone, he’ll making his deal with Legba. He’d just received his first be driven to turn on her at the worst possible moment. of fer for a major United States tour when Legba came Since he needs to build a relationship before he can
+to him and said it was time to pay in full for the music. destroy it, this vice is unlikely to come up of ten. Legba the n Embraced Brian. K r hALiL AVANA
+Needing to come to terms with the Embrace and the Khalil Ravana recently emigrated from India to hungers it awakened, Brian turned do wn the tour and the United States and expanded his horizons from
+stealing wallets to stealing souls. He’s sold information
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 99 === to the Sabbat, played hostage negotiator for a Setite information about the recently Embraced childe of
+neonate and became entangled in a Ravnos elder’s the Prince of New York City. schemes for a time. Unfortunately for Khalil, dealing with the Sabbat
+Khalil had the luck to survive the Week of Night- is never safe. He learned that simply being of Ravnos mares, despite his proximity to the site of Zapathasura’s lineage was more dangerous than ever — one of the
+destruction. He encountered the Setite elder, Hesha Kindred with who m Khalil had dealt, a Ventrue trai Ruhadze, and after a shaky introduction negotiated a tor, discovered the Ravnos clan’s current situation and deal with the Setite to smuggle him into America. In decided it would be simple to dispose of Khalil Ravana. exchange for passage to the West, Khalil gave Hesha The Ventrue miscalculated and suffered the fate he’d
+information about the Eye of Hazimel, an artifact the intended for Khalil when the Ravnos consumed the
+Setite desired. Ventrue’s heart’s blood. Once in the United States, Khalil hitchhiked to After this act, Khalil became addicted to diablerie, New York City. Before and during the trip, he expe- and his previous patience with his Setite hostage wore rienced and resisted telepathic compulsions from an thin. how ever, he soon found his all iance with Raunknown elder. Once in New York, he was guided to a mona coming back to haunt him. Ramona had built
+you ng Setite — Hesha’s for mer ghoul. Khalil held the up sympathy for his hostage and freed her. Worse, she neonate hostage to bait the Setite elder. During this had the n found Hesha and led him straight to Khalil. time, the Ravnos met the Gangrel Ramona, who had The hapless Ravnos barely escaped the trap set for him. experience with the Eye of Hazimel and had seen the Now, Khalil has perhaps more enemies than anyone
+curse it carried — hideous wounds and stigmata that else in New York because he betrayed the Camarilla and could not be healed, even with the powers of Caine’s the Sabbat. Worse, his addiction to diablerie led him
+blood. Khalil learned how to heal the wounds from the to diablerize one of his own clan, a fool named Ghose, elder who had led him to New York. and turn his mortal family into ghouls. Subsequently, Khalil traded this knowledge to Sabbat and Ca- Khalil left New York for Chicago. He remains controlled marilla Kindred in New York City, as members of both by his addiction, haunted by the manipulations of an
+sects had suffered Eye-inflicted injuries. In exchange elder and with no real all ies. for teaching the m how to heal the wounds, the Ravnos Image: Khalil, despite his greatest efforts to the asked for information on Hesha’s location. Unfortu- contrary, can never really escape his urchin’s or igin. Even
+nately, this information did n’t help much. Khalil traded in a three-thousand-do llar suit, Khalil looks like little the location of the Eye of Hazimel to the Sabbat in more than an Untouchable in a three-thousand-do llar
+exchange for potent blood. In exchange, he received suit. His hair is just shorter than his should ers and his features are fine, almost to the point of being feline. Khalil was Embraced with two days growth of facial
+hair, which he shaves when he needs to be presentable but otherwise ignores. Roleplaying Hints: Survive. You know you can, you know you will; it’s just a simple question of do ing
+what ever it takes. One night, you’ll manage to turn things back around, but until the n you’re going to
+need to make a few sacrifices, and you r humanitas may be among the m. Sire: Unknown
+Nature: Bravo
+Demeanor: Autocrat
+Generation: 9th (presumed Embraced at 11th Generation)
+Embrace: 1878
+Apparent Age: late 20s
+Physical: Strength 2, Dexterity 4, Stamina 4
+Social: Charisma 3, Manipulation 3, Appearance 3
+Mental: Perception 4, Intelligence 2, Wits 4
+Clanbook: Ravnos
+
+=== PAGE 100 ===
+Talents: Alertness 3, Brawl 1, do dge 3, Empathy 2, In the final decade of the 20th century, Durga Syn
+Intimidation 2, Streetwise 5, Subterfuge 3 seemingly vanished. She was in Russia when a super Skills: Animal Ken 2, Drive 1, Performance 4, Security natural for ce apparently imprisoned all Kindred in
+3, Stealth 4, Survival 5 that nation. In truth, she was actively warring against
+Knowledges: Investigation 3, Law 2, Linguistics 2, the newly arisen Baba Yaga. The Week of Nightmares
+Occult 2 interrupted her efforts; her childer were for ced to stake her during that terrible time so that Zapathasura’s curse
+Disciplines: Animalism 2, Auspex 1, Chimerstry 4, would not bring her (or the m) terrible harm. Afterward, do minate 1, for titude 4, Obfuscate 1 just when she had her for ces ready to strike directly
+Backgrounds: Contacts 4, Fame 1, Resources 3 against Baba Yaga, an unknown Kindred destroyed the
+Virtues: Conscience 2, Self-Control 3, Courage 2 hag with little effort. Morality: Humanity 4
+In the wake of the Week of Nightmares and Baba will power: 9
+Yaga’s destruction, the curse has weakened considerably, D urgA s yN to the point that Durga Syn has banished it for nights
+Durga Syn’s long history is intertwined with the at a time with little effort. She expects it to dissipate
+Nosferatu Methuselah, Baba Yaga. In her mortal life, with in a year or two, but still maintains a frail appear Durga Syn was a priestess of a pre-Christian religion ance to disguise her true strength. that venerated nature. Her understanding of the myster- Durga Syn strongly suspects the cause of the Week ies and mastery of the rites gave her a reputation that of Nightmares, but fervently hopes she’s wrong. She
+spread far beyond her home. Supernatural and mortal knows that if she is correct, Gehenna has already begun. beings alike came to her for counsel and assistance. It She actively searches for other signs of its arrival. Baba was only a matter of time before the hag, Baba Yaga, Yaga’s destruction only strengthened her conviction —
+learned of the you ng priestess’ reputation. she believes that the Nosferatu Antediluvian may be
+Baba Yaga came to Durga Syn and of fered her more awake and walking the land. power than she could ever have as a mortal, and an Concerned that direct action will attract the ateternity in which to perfect it as well as to study and tention of powers she’s not prepared to face, Durga understand nature. Durga Syn turned do wn the of fer. Syn prefers to guide others to find what she needs. She
+The hag the n cursed Durga Syn and her homeland for recently gave a Ravnos coterie enough information all time. The curse turned the you ng woman into an to find elder have ns in India and hopefully shed more
+ancient, brittle caricature of her for mer self. light on the Week. The coterie members believe they’re
+Crusaders swept through Durga Syn’s homeland dealing with a ghoul. shortly the reafter and nearly killed her. As she lay M h
+AtA Ari dying, Baba Yaga came to again of fer the Embrace, The woman called Mata Hari is best known for the
+but found unexpected competition. Ravnos who had accusation of espionage leveled against her, for which
+come to make the same of fer distracted Baba Yaga she was executed in front of a firing squad. What is
+with illusions as one of the m Embraced the priestess not known is that in her you nger years, while studying
+against her will. Eastern dance styles, she came to the attention of an
+Repelled by what she had become, Durga Syn Indian Ravnos. Mata Hari’s exotic dance centered on distracted herself by warring on Baba Yaga and her Shiva, one of the gods this Ravnos had worshipped
+servants at every opportunity, if only to pretend she during his mortal life, before the Embrace stole his faith had not fully lost her soul. After Baba Yaga fell into along with his mortality. torpor, Durga Syn spent much of her time trying to
+Mata Hari’s dance reminded him of his days in the locate the hag’s have n and also countering the Russian
+sun, and so he followed her career. To his disappoint Nosferatu’s schemes. ment, it never got far; she ended up dancing nude simply
+For a time, Durga Syn advised the fiend Vlad to make ends meet. He lost interest shortly the reafter, the Impaler and assisted him in his ongoing quest for believing she had tainted the purity of her chosen art
+Golconda. She is rumored to have for etold many of for the sake of illusory gain. the disasters that have befallen the Kindred, from the
+A decade and a half later, he saw her face again. anarch revolts to the fall of the Giovanni’s predecessors. Mata Hari had been accused of committing acts of
+She also developed rituals that would enable her to espionage for the Germans and was to face the firing
+temporarily banish Baba Yaga’s curse, but no final cure. squad. The Ravnos visited her in prison and of fered
+ChapteR th Ree: or phans in gehenna’s wake
+
+=== PAGE 101 === her the strength of his blood to support her through were trying to unearth the Nightmares’ cause. While
+the or deal, with gift of immortality to come soon after. no direct evidence exists pointing directly to Marcia as
+Mata Hari accepted his proposal, and he lent her his the source, the writings have been updated with a few durability for the execution. Though she appeared dead, modern observations. she remained very much alive. It seems unlikely that an elder of Marcia’s power
+The Ravnos’ ghouls procured Mata Hari’s body and could have survived the Week of Nightmares. On the returned her to the ir master, who promptly Embraced other hand, rumors abound of powerful elders and even
+her. In exchange, she danced for him when ever the Methuselahs who lay in torpor before the Week, were mood struck him. She had also developed considerable awakened by the battle and ensuing curse, and who
+cunning and caution than ks to her experience during may have survived simply because they were too weak the First World War and her close brush with true death. to succumb to frenzy. If the rumors are true, a handful
+She has no desire to repeat the experience. of potent Ravnos elders may indeed have survived. If
+Eventually, the two traveled to America. Those any did, they could become dangerous wild cards in who are aware of Mata Hari’s Embrace believe that she the Final Nights. and her sire assumed new identities once they arrived
+s C pirit reeK
+in the United States. Rumors have also placed her as
+The kumpaniya known as Spirit Creek may not be a working for archons, princes and other Camarilla and
+collection of Ravnos at all, but rather a coterie of other independent luminaries, applying her skill at espionage
+Kindred led by one of the few remaining Deceivers. to good effect. The group’s leader, do ug Schoeneck, is the only known
+M L
+Ar CiA i CiNiA Ravnos is the coterie, which has three other members. Marcia Felicia Licinia was among a small lineage Under the guise of a guitar band, Spirit Creek of Ravnos who tried to exist according to the virtues of plays a dangerous game, traveling between the tenuous
+chivalry in medieval France. Marcia vanished during the Camarilla do mains of Milwaukee and Chicago and the
+Inquisition, her sire several decades before that; the rest Sabbat-infested city of Detroit. To outside observers, the of the lineage reportedly fell to the Beast or turned to group leads a sort of “Radio Free do main” unlifestyle, other, less strict moral guidelines throughout the swiftly taking the ir underground music where ver they can play
+changing times. Before her disappearance, Marcia spent for the evening. Others suspect the group’s goal is not a lot of time researching her Eastern cousins from India so straightforward, how ever. Rumors run rampant, linkand trying to discern the ir purpose in coming to Europe. ing the m to nomadic Sabbat packs, a band of Gangrel
+After her third expedition, she returned to Paris archons last seen active outside of Chicago, or even as in the mid-15th century mere nights before her elabo- the eyes for an unknown Inconnu Monitor. Perhaps
+rate have n was burned to the ground. From that point more likely, the group has made no secret that they for ward, most Kindred assumed that Marcia had met communicate with other Ravnos, using the ir tours as
+Final Death. Her studies on the Path of Paradox and its opportunities to find out what do ug’s fellow Ravnos permutations, along with extensive discussions of the know about recent events in the clan’s history. clan’s history, were also believed destroyed. the or ies as If anything is certain about Spirit Creek, it’s that
+to who or what caused the fire range from anarchs to the the group has access to an enormous network of constrict Rroma Ravnos who believed none outside the ir tacts, with members ranging from black marketeers families should receive the Embrace to the Inquisition to the owners of safe have ns. Spirit Creek traffics in
+and its witch-hunters, but no one ever discovered the information primarily, and can almost certainly of fer truth, or cared much after a time. something in return to anyone who knows something
+Shortly after the Week of Nightmares, Marcia’s that they do not. writings turned up in the hands of a few Ravnos who
+Clanbook: Ravnos
+
+=== PAGE 102 ===
+N: N: g: AMe Ature e Ner AtiON p: D: s: LAyer e MeANOr ire
+C: C: h: hrONiCLe ONCept AVeN
+A ttri Butes
+p s M hysiCAL OCiAL e NtAL
+Strength____________O__O_O_O_O Charisma____________O_O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O_O__O_O Wits________________O_O_O_OO
+A
+Bi Lities t s K
+ALe Nts KiLLs NOw LeDges
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge______________O__O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O_O__O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O_O__O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O_O__O_O_O
+A
+DVANt Ages
+B D V
+ACKgr OuNDs is Cip LiNes irtues
+____________________O_O_O__OO ____________________O_O_O_O_O Conscience/ConvictionOOOOO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Courage____________OOOOO
+M /f h /p h erits LAws uMANity Ath eALth
+__________________________ __________________________ Bruised
+__________________________ O O O O O O O O O O Hurt -1
+__________________________ Injured -1
+__________________________ w iLLp Ower Wounded -2
+__________________________ Mauled -2
+O O O O O O O O O O
+__________________________ Crippled -5
+__________________________ Incapacitated
+__________________________
+B LOOD p OOL w eAKNess
+__________________________
+__________________________
+Addicted to vice
+__________________________
+
+=== PAGE 103 ===
+O t the r r Aits
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O r e
+ituALs xperieNCe
+N AMe L e VeL t OtAL: _______________________________
+________________________________________ t s:________________________
+OtAL pe Nt
+________________________________________
+Spent on: ________________________________________
+________________________________________
+________________________________________
+_________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+D erANge MeNts
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+B B / V
+LOOD ONDs iNCu Li
+B OuND tO r Ati Ng B OuND tO r Ati Ng
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+OMBAt
+A we ApON DAMAge rANge r Ate CLip CONCeAL rMOr
+
+=== PAGE 104 ===
+™ e B
+xpANDeD ACKgr OuND
+A LLies M e NtOr
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+________________C_O__N_t_A_C__t_s__________________________________r__e_s_O_u__r_C_e_s_______________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________ f__A_M_e_ ____________________________________ r__e_t_A_i_N_e_r_s________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________h__e_r_D______________________________________ _s_t_A__t_u_s_ ________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_______________ _i_____________________________________________O_______________________
+Nf LueNCe the r
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ p
+OssessiONs
+______________________________________________________________________________________ g (C ) e (O )
+e Ar ArrieD quip MeNt w NeD
+__________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________ f________ g________________________________________ V________________________ ee DiNg r OuNDs ehiCLes
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+______________________________________h______________________________________________
+AVe Ns
+______ L__
+__
+A
+_ t
+_ i
+_ ________________________________D__ e
+_ s
+_ r
+_ i
+_ p
+_ t
+_ i
+_________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_____________________________________________________________________________________
+
+=== PAGE 105 ===
+™ h
+is t Ory p
+re LuDe
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+A ppe ArANCe
+____________________________________________________________________________________
+____________________________________________________________________________________
+Age _______________________________________________________________________________
+App aren't Age ______________________________________________________________________
+DAte Of Birth ________________________________________________________________________
+RIP________________________________________________________________________________ h Air ______________________________________________________________________________
+eyes ______________________________________________________________________________ rACe ______________________________________________________________________________
+NAtiONALity __________________________________________________________________________ height ___________________________________________________________________________________
+weight ___________________________________________________________________________________ sex __________________________________________________________________________________
+V is uALs
+C Oterie C h Art C h ArACter s Ket Ch
+
+=== PAGE 106 ===
+TM
+W W W. W H I T E - W O L F. C O M is BN 1-58846-209-9
+WW2364 $14.95 U.S. PRINTED IN USA
+CL
+A
+L NB
+A
+OO
+N k: B
+OOk: CLANBOOkWW: WW2W3W623464

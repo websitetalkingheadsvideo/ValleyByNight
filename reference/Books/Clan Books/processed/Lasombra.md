@@ -1,0 +1,3078 @@
+=== PAGE 1 === iC
+
+< tt
+
+A Sourcebook for VAMPIRE:The Masquerade"
+
+=== PAGE 2 ===
+|_LASOMBREL
+
+CATHEDRAL OF DARKNESS
+
+By RicuarD E. DANSKY AND ELIZABETH DITCHBURN
+
+=== PAGE 3 ===
+Swallow darkness, boys, give ap yoar year. ~f Ravy Bradbary, The Halloween Tree
+
+=== PAGE 4 ===
+I do not need to explain myself to yoa. I exist that is enough reason for me to rale. [have the noblest blood of oar kind in my veins, and soon I shall have yoars on my lips. | was born to command and reborn to
+
+do minion, and no matter how far you ran, you can not hide from me. The kine woald taagh if you told the m aboat vampires who were afraid of shadows. Goa and |
+
+know better. il give you to ten. Start ranning. === PAGE 5 ===
+~ CREDITS
+
+Written by: Richard E. Dansky and Elizabeth Ditchburn
+
+Developed by: Robert Hatch
+
+Edited by: Robert Hatch and Cynthia Summers
+
+Layout and Typesetting: Matt Milberger
+
+Art Directors: Lawrence Snelly and Aileen E. Miles
+
+Vice President in Charge of Production: Richard Thomas
+
+Interior Art: Pia Guerra, Jason Felix, Fred Hooper, Leif Jones, Joshua Gabriel Timbrook
+
+Front Cover: Timothy Bradstreet and Grant Goleash
+
+Back Cover: Matt Milberger
+
+780 PARK NORTH BLVD. SUITE 100
+
+USA a]
+
+CAME STUDIO
+
+©1996 by White Wolf. All rights reserved. Reproduction with out written permission of the publisher is expressly denied, except for the purpose of reviews. Vampire: The Masquerade and Clanbook: Lasombra are trademarks and copyrights of White
+
+Wolf. The mention of or reference to any companies or products in the se pages is not a challenge to the trademarks or copyrights concerned. Because of the mature the mes involved, reader discretion is advised. PRINTED IN can ADA
+
+4 Clanbook: Lasombra @
+
+SPECIAL than KS TO%
+
+Richard “Lasombra Rule!” Dansky, for his oh-so-humble opinion of the book you now hold. Rob “Tzimisce’d Kick the ir Asses” Hatch, for being the opposing side in the new Sabbat Civil War. Ken “don't Go the re” Cliffe, for being so desperately above it all (even in his skirt). Ethan “Rawhide” Skemp, for rollin’, rollin’, rollin’ do wn
+
+to Garou Gulch. Ronni “Mortified” Radner, for dealing so well with the deluge of drunken humiliation heaped on her concerning (ONE WHO SHALL REMAIN NAMELESS). Cynthia “Pinup Girl” Summers, for her postal posters. lan “Dr. Volcano” Lemke, for discovering clever new juxtapositions of monitors and walls. Steve “Homer” Wieck, for that big ol’ financial do H! Chris “Fetish?” Henry, for Tracey's naked body, the wall, and the sandwich filling. === PAGE 6 ===
+PIS
+
+CHAPTER ONE: Dusk tN MARRAKESH
+
+CHaprer Two: AN Evenine’s Discussion with MONsIGNOR ALFONSE
+
+CHAPTER THREE: AN EVENING AT THE FEET OF do n MIGCEL
+
+Cu Hapr Ter Four: AccEPTABLE MODERN LASOMBRA
+
+Appe Npix: CERTAIN Espectatty not EWORTHY LASOMBRA
+
+ES LS SS | ee ee
+
+@® Contents
+
+=== PAGE 8 === ache @
+
+Yl
+
+She said it was justa little game — hide-and-go-seek. I’ve led a pack long enough to know better; games with us are just a way to disguise tests or exercises. The rules of this one were simple: | was to track her through a marketplace full of kine. She did n’t bother to say what
+
+would happen if | lost her trail; it was n’t her style. She just slipped into the thickening shadow of a building, but I could hear her voice as if she were walking beside me as
+
+I headed after her, or at least what I hoped was her. “I hope you are enjoying Marrakesh, childe. It is one of my favorite cities; so much shadow to work with, especially here in the bazaar. The sights, the fragrances, the smells... ah, it is like nowhere else on earth.”
+
+Never mind the market's smells; it was her fragrance on which I centered. She'd transformed the are a behind a row of stalls into an inky void. Only the scent of her perfume (and underneath it, her vitae) gave me any
+
+indication of which way she was headed as she continued tospeak. Her voice seemed to flow out of a do zen different shadows, and it was hard not to follow the sound instead of scent. the n again, this was n’t supposed to be easy. “As with some few of the others, my dear protégé, you
+
+were chosen for the Rites because of you r potential. The rest were mere can non fodder, but you — you were worth keeping. You have proved you rself time and again since you r initiation, and it has been positively heartwarming to
+
+watch. Incidentally, I was truly impressed with the way you handled the scout who tried to go over to the Camarilla. | was gratified that you realized that he needed to be made an example of. And making his Toreador, ahem, ‘friend’
+
+participate in the Blood Feast — that was an inspired stroke. I trust you heard that the Camarilla called a Blood Hunt on her for diablerie. Such nonsense! they would keep all weak, just to protect the ir paranoid elders.”
+
+I caught a glimpse of her ahead of meas | left the dark stalls behind. She was moving through a crowd, coming toward me; her oval face looked as pale as the moon in the desert night. the n I saw her in two other places in the
+
+crowd, and realized it was n’t her at all, just a nightshade. | hate those things. «® Chapter One: Dusk in Marrakesh
+
+=== PAGE 9 ===
+= = See ee ee
+
+The first one walked beside me as I hurried through the crowd after her. She still spoke to me, though the voice did n’t emanate from the shadow creature beside me. It was the re as a mockery, so I did the sensible thing and ignored ir. “No matter how promising the pupil, the re is always
+
+the danger that he might be captured by the Camarilla. Let the Brujah brutes and Toreador fops wag the ir tongues in front of the ir babes. It suits the m well since the ir words are so much more impressive than anything else they do. We Lasombra prefer to be certain that our newer members can not be for ced to reveal anything truly important if captured. “I know what you think of the Camarilla’s skills, especially when it comes to locating spies and interrogating prisoners. The members of the seven clans are foolishly
+
+sentimental, but do not underestimate the m. they would not have survived this long if they did not have some strength and cunning.”
+
+Her image beside me disappeared, replaced by a tendril of shadow that wrapped itself around my ankle. | fell heavily to the ground as it pulled my leg out from under me. Damn! Not even time to roll with it, and |
+
+knew how much emphasis she put on grace. Seow
+
+Well, damned if 1 would hobble along after her. | stumbled to my feet and will ed vitae into the twisted ankle. It took only a second, but in that time her scent grew fainter. | suppressed the urge to curse at the loss of
+
+og time; it would only encourage her. \\\\iiitte
+
+ALIN)
+
+PaNMWOT VENUE
+
+“You know enough about the Camarilla to make up you r own mind about the m, though I will listen to you rant about the m later if you wish. For now, I think | would like to make a purchase. From where I stand, I see a lovely
+
+bronze mirror which would make a nice addition to my collection.”
+
+RTL
+
+She was close, the n. | could see the mirror too, at a stall not 20 feet away. This was my way out of the game. She was obsessed with mirrors; she had three rooms full of the m in her mansion. Like an itch she could n’t scratch, she couldn't help peeking into mirrors. I could n’t understand it myself. It’s not like she ever saw anything the re. Hell, it’s not like any of us ever see anything the re. But that did n’t matter. Right here, right now, | could use a mirror to distract her and buy the few precious
+
+seconds I'd need to catch her. “do n’t try to hide you r smirk; I know what you think of my little perversion. Perhaps when you no longer remember what color you r eyes are you won’t find it so amusing. People tell me mine are everything from blue to
+
+hazel. Childe, you are too fond of protesting that looks do not matter. As you r sire and elder, | tell you they most certainly do. Try that ‘it’s what's inside that counts’ line on a Nosferatu sometime, if you're feeling adventurous. Physical beauty, childe, like any other quality, has its
+
+importance, and more than you think. If you survive this
+
+8 Clanbook: Lasombra @
+
+=== PAGE 10 === night’s work, you will eventually be expected to create a childe of you r own, and you must learn to weigh all of her qualities. | know you better than to think you will
+
+Embrace aman. No, it will bea woman, and an attractive one — perhaps one who looks like me?”
+
+Her little cosmetics commercial gave me the break | needed. She was n’t the only one who could manipulate shadows. With a moment’s concentration, | called for th a tendril of shadow and used it to grab the mirror. The
+
+tentacle slithered its prize to me, and I was rewarded with a fleeting glimpse of her as she melted back into the darkness behind a stall. Her monologue, though, continued as if not hing had happened. “Do you remember when you asked why the Lasombra chose a ‘little lady’ like myself to join the ir ranks? Having
+
+heard so much talk of strength, you thought you had been chosen for you r physical prowess. I believe at the time | merely disabused you of the not ion that I was quite so frail as I look. It was an important lesson, | think, reminding
+
+you that physical strength can not compare with strength of will.”
+
+She was still nearby, the n, if she caught my involuntary wince at the memory. Even being turned into a vampire, hit over the head with a shovel and buried alive had n’t prepared me for all the realities of unlife as a
+
+Lasombra. It took two weeks of getting my ass whipped regularly by a five-foot-tall woman who could (and did) break every bone in my hand for calling her “little lady” before I even began to catch on. “Our clan realizes, more than any other, that the
+
+greatest strength of a vampire comes from the darkness with in. It was the ability to harness and control my inner darkness as a mortal that brought me to the attention of our leaders, and, as they predicted, it is what brought me
+
+through the Rites. It was for the same reason that I chose you, much as you tried to deny it at first. “T remember the moment you first realized just what it means to know the darkness of you r own soul. It came out the night you r old college friend came across you
+
+feeding. He was intelligent and will ful — strong friends are the sign of atrue leader, you know — but nevertheless he had to die. I know it was not easy for you, but | was quite proud that you realized so quickly that he must die. You did n’t whine or try to pass the responsibility to
+
+another. You drained him you rself, with but a slight hesitation. You realized the n that you would do what ever was necessary throughoutall of the dark centuries stretching before us. | would not have expected less of my childe. “To be Lasombra is to know you rself capable of anything. If you must slay a friend, a lover, a child or
+
+parent, the n you will do so, and do so with out hesitation. We expect no less, for we know our worth. This is a knowledge that we embrace rather than shrink from, and this is why we lead our kind.”
+
+@ Chapter One: Dusk in Marrakesh
+
+=== PAGE 11 ===
+“From the very beginning, Les Amies were the best of our clan, the real leaders. Mind you pronounce it properly, childe — you r accent is atrocious. To be introduced to the or der means that you are a true Lasombra and can appeal to Les Amies for support in you r endeavors. As for
+
+those Lasombra who are never introduced to Les Amies
+
+— well, they have no destiny, though I’m sure the
+
+Ventrue would think the m dangerous.”
+
+It did n’t take much brainpower to figure out that if you were n’t friends with Les Amies you'd probably find you rself short on buddies, amigos or what ever ata critical time. “It is my sire who will preside over the meeting of Les
+
+Amies tonight, and trust me, you will need you r strength. Oh—did I not mention you would be tested? Many of his the r childer have lost promising pupils when they srought the m to Marrakesh. | warn you now that this is
+
+10 simple ceremony, no cotillion as the Ventrue throw
+
+{ wr the ir pink, spoiled childer. No, this is a true rite of passage, and it will test both you r will and courage. Do not fail me. You will make me proud of you r performance
+
+tonight, or you r ashes will blow across the dunes when the sun rises.”
+
+She did n’t sound sarcastic, so she must have had more confidence in me than I did in myself at the moment. | was having only limited success with my tactic. The main problem was that the re really was n’t any
+
+place in this stinking maze that was free of shadows. Perhaps if | could at least get her closer to one of the lights
+
+I could improvise something. “Tam glad to see that my words have not shaken you r outward resolve. I am certain now that we will hunt together again tomorrow night. After all, I only choose the very best, and only the very best have the privilege of
+
+becoming and remaining Lasombra. We are harsh because we need to be. And you, my dear, favorite pupil, will learn to become harsher still.”
+
+I could n’t get her close toa light; she was far too good a chess player. the n it struck me: | could get the light to her with the mirror. I'd been Lasombra too long, | guess; I'd almost for gotten what mirrors were good for. “T know | have of ten hinted at the se things, telling you of you r destiny and of our rivals. | have told you that
+
+the Ventrue have nobility but no purpose, and the
+
+Tzimisce have purpose but no nobility. We Lasombra are superior because we have both.”
+
+I was ready. | was fairly certain | knew which shadow she'd pop out of next. | waited, counting under my breath, and the n pointed a beam of reflected light directly at the shadow, catching her in it just as she stepped out. She stood the re as if she were standing in the spotlight on a Broadway stage. Smiling, no less. “It was a clever way to end, childe, and a good run.” She walked
+
+over and took the mirror from my hand, glancing into it
+
+«® Chapter One: Dusk in Marrakesh
+
+=== PAGE 12 === as she always do es. I keep wondering if she expects that somewhere, somehow, the re is a mirror that will show her what she looks like. I do ubt it. =
+
+She must have caught my frown, for her lips pursed shut and she handed the mirror back to me. “Itshines like a bronze lantern, and reminds me of one more story you should hear.” We walked together our of the marketplace
+
+as she finished her lecture. “the re was a time, some two hundred years ago, when it seemed all the world was being turned on its head, from one side of the Atlantic to the other, that | chanced across one who m I shall never for get. I was in Hispafiola, dealing with business relating to the sugar can e plantations some of my comrades controlled in the West Indies, do n’t frown so, childe — trafficking in kine is at least as old as Caine himself. “But you divert me. It was the re, on the road to the port just where it bent to hide the manor house from view, that I saw him. I could tell from the bones in his face that
+
+as a mortal he had been Castilan, perhaps, or Aragonese, and undoubtedly a noble. His velvet suit was of a modern cut, but the rapier at his side must have been older than
+
+I was, judging by the workmanship and the cut of the gems in its hilt. “At the time I wondered who he could be. | knew him for a vampire, and for old blood at that, just from the way he carried himself. If you have trained with the sword
+
+for hundreds of years, it shows in you r every movement. | wondered at his name, for here was someone who was not of the Camarilla, yet I felt | was acquainted with all the Sabbat of not e. He had me mesmerized, this vampire; [ could feel the power singing with in him, that dark knowledge, free from any pretense of false beneficence. “Tt was the n a mortal passed him carrying a bronze
+
+lantern, and | knew what he must be. My sight has always been keen and quick, and in that instant my eyes darted from the polished side of the lantern, which reflected only the wooden railing behind him, to his face. I caught
+
+a hint of a knowing smile as my eyes met his. In the next moment I fled, for an unknown ancient of our blood could only be one thing. 12 Clanbook: Lasombra @
+
+=== PAGE 13 ===
+Sometimes | wish she did n’t know so much about me. Killing a friend should be a private matter. On the other hand | was glad she knew what | would do for her, for our clan and sect, I could see her now, her dark hair streaming out behind her as she slid into a shadow. Out
+
+of the corner of my eye I saw her emerge from a different patch of darkness 40 feet away. Desperate to keep from losing her as she jumped from shadow to shadow, | filled the are a ahead of her with flickering shapes, hoping they
+
+would slow her do wn. “It is because you have acquired such knowledge of you rself that you are here tonight. As you might imagine, adding to our clan is more than a matter of simply biting afew necks. The Creation Rites were always meant to be a violent transformation, and they serve the ir purpose
+
+well, leaving those who survive with no illusions about what they are. The process is not with out its risks, how ever, and can of ten lead to certain undesirable psychological flaws. Homicidal mania, image obsession, aversion to authority — all of the se are desirable only in moderation. “After some watching it becomes apparent which new Lasofhbra will achieve greatness, and which will not. Those who m we find trustworthy come here to Marrakesh, or to Cadiz, or to Sao Paulo, for the ir testing. Those who
+
+don't — we shall not concern ourselves with the m tonight. “Thave brought you here to meet and to be accepted by certain of the elite or der of the clan. That sucha group exists is not something that we share with those of other
+
+bloodlines, and we do divert the inevitable speculation. [am certain that by now you have come across do zens of rumors about secret groups with in oursect. | myself have three file cabinets full of tales about the Black Hand, and accept not a single one as entirely true. Like a wilderness
+
+of mirrors, the se tales reflect the truth while misplacing it and thus hiding it. You are here, my handsome childe, to learn a piece of the truth.”
+
+The flickering shapes did n’t cause her even to pause. the re were simply too many darkened are as; if one were too much trouble to pass to, she would simply choose another. Maybe | could use this diversion to edge her into a better-lit are a. | hoped | could — | was running out of
+
+other ideas, and I had a feeling that if I did n’t end this quickly I’d be seeing the Hand soon enough. “The elite or der of the Lasombra is called Les Amies
+
+Noir, and those who prove the mselves loyal, trustworthy and capable are invited to join. The name, my dear childe, is French for a reason. Did you think it would be in Spanish, perhaps? they teach too little history to
+
+mortals the se days; the name was chosen during a period of time when every court in Europe spoke French. 10 Clanbook: Lasombra @
+
+=== PAGE 14 ===
+“It has troubled me ever since, childe, for though | knew I would have been destroyed had I stayed, | despise backing do wn more than anything else. Inaclan that until all too recently was overpopulated by males, I hate to do
+
+anything so passive. Of course our clan needed warning, and they would have gotten none had I been his meal that night, but that knowledge do es little to comfort me. “Be ever wary of other Kindred, but it is the ancients, especially the few remaining ones of our own bloodline, that you must fear most strongly. And do not get so caught up in the affairs of our kind that you for get that the re are equally deadly creatures that we share the
+
+shadows with, and they can be a far greater menace than a do zen ravening Gangrel. This is a dangerous world I’ve brought you into, my childe, and what | do, I do to ensure that you will survive its perils. “the re is so much more that I wish to tell you, my
+
+protégé, but it must wait until after you r testing. We should not keep do n Ibrahim waiting. Come, my dear, soon you will prove to the best among us that you are a true Lasombra. | have every faith in you.” q Chapter One: Dusk in Marrakesh 13
+
+=== PAGE 15 === li
+
+IN av
+
+Mi
+
+7" (
+
+=== PAGE 16 ===
+Come in, sit, sita while. You seem surprised to see a paisan here, my daughter. Why should that be? The do ns and do jias are not all the re are to the Lasombra heritage. Not every Cainite from Italy is a Giovanni — we were the re long before the Cappadocians and the ir usurpers
+
+slithered into Venezia. the re are Moors among us as well, respected and honored, save by those who still bear grudges from Ferdinand and is abella’s reconquest. the re are more than a few of those, alas. And you r own visage, it reflects the mysterious East. for ty years ago we'd never
+
+have Embraced you, you know. for ty years can change a great deal, even for our kind. But you are the future, childe. You are what the
+
+Lasombra are becoming, and you did not come here tonight to hear me ramble about you r part in all of this. At least, not yet. No, you have come because you r sire told you to go hear dim and dusty stories of the ancient past from Monsignor Alfonse. And ] am certain that you
+
+looked for ward to this evening in much the same way you might have looked for ward toa visit with an elderly uncle while you were alive. Dutifully, you would have gone, but
+
+«® Chapter Two: An Evening’s Discussion with Monsignor Alfonse 15
+
+(CHAPTER Two: *
+
+DISCUSSION: WIT! Mo NnsIGNoR ALFONSE never permitted you rself to enjoy the evening. A pity, that. The old of ten have much useful knowledge to share, but the you ng refuse to listen out of principle. So, make you rself comfortable. You are about to hear the history of our lineage, as it is, or was, or might have been. The facts the mselves do not matter. What we
+
+believe to be the facts, that is what matters. Never make the mistake of thinking that | am telling you the truth. | am telling you what we believe to be the truth, and all the difference in the world lies the re. So, where do | begin? The beginning? No, the tales
+
+of commoners begin at the beginning. Our tales begin where ver we choose. Close you r eyes, childe. Listen, and know you r blood. PAX ET BELLUM
+
+Listen. Can you not hear the tread of nailed boots, the cries in Latin as each night's castra is arrayed? The legions of Rome are marching, marching to our com-
+
+=== PAGE 17 === mands. Yes, Rome was ourcity, at least for a while. Scipio, Pompey, Tiberius, Trajan — the se are the names of our servants. Of course, it was not always ours. The Toreador and the ir Etruscan servants, they held it first. Of course, in those
+
+days it was a hovel ona hill, complete with a lovely view of fetid swamps and cowering from the oh-so-cultured Athenians in Magna Graecia. the n we arrived, and displaced the
+
+Tarquin kings, and suddenly the city was a place of power. The glory days of the Republic, when our lands expanded, and expanded again. The Ventrue came to us, and the madmen of Malkavy, and the city grew and prospered. You look confused at the not ion of our sponsoring the Roman Republic. That is because you are thinking in today’s terms, not yesteryear’s. Lose you rself in that time, not ours. Consider a place where only the finest citizens
+
+were permitted to go to war. “Return home with you r shield, or on it” — the se are words that our clan lives by to this very night. Why, to run for of fice, a man needed to show his battle wounds in the for um before the rest of
+
+the citizenry. This was a Republic of merit, not of toadying politicians, where streneth and mettle earned one power and spoils. Now tell me, how very different is that from our creed of today? That Republic, alas, grew weak. It became overextended, and we permitted our Ventrue guests to drag us into pointless conflict with the Brujah of Carthage. Clanbook: Lasombra
+
+r & 7— ha ale: i — =
+
+La a i Visa. Elephants in the Alps and all of that aside, we triumphed handily, as could be expected. The fields of Carthage were sowed with salt, the city laid was te, and Scipio
+
+Africanus awarded a hollow triumph. And ever our legions marched onward, pushing into the lands of the
+
+Assamites, the brutish Ganerel, the twisted Tzimisce. We cracked the ir castles and our bronze-shod phalanxes watched those monsters burn in the sun. We made those lands ours, and had we kept the m, they would be ours to this very night. Unfortunately, we gave the m to the
+
+Ventrue to administer, and thus we lost the m. Oh, sometimes not for centuries, but Ventrue handwringing and Ventrue inefficiency cost us province after province. Ventrue laxity and Ventrue backbiting left our borders undefended, so that when the Fiends finally regained enough of the ir strength to incite the barbarian
+
+tribes, the only opposition to the Huns and Visigoths were old men and beardless you ths. Meanwhile, we trusted the so-called Blue Bloods to administer our city, and what was the result? Bread and circuses! An Emperor as changeable as a tunic. Do you know that at one point
+
+the Ventrue and Malkavians were swapping Emperors? One after another... the Year of Four Emperors, it was called. Of course, the Ventrue won this petty game, staying at home with the ir puppets in the Praetorian
+
+Guard. The troops, our troops who made Rome great, === PAGE 18 === were furloughed to farms across the Empire so that they might not muster and pose a threat to the incompetence of the Ventrue. By the time Rome fell, we, of course, had long since
+
+abandoned the city and moved to the provinces. Indeed, once the Praetorian Guard began auctioning of f the
+
+Imperator, we abandoned Rome as lost. We would have healed her, but the Mad Ones and the Ventrue opposed us. “Wait,” they said. “This is temporary. A correction. An adjustment. Soon, all will be right again and we will retake Africa, Parthia and Britannia.” Liars. Well, the
+
+centuries proved us right. In Iberia, in Gallia, in other places, true Roman culture persisted long after Rome itself had declined from Matron of Cities to abandoned who re. The best parts of her lived on in us, a thousand
+
+niles or more from the Tiber. Montano, once greatest of Lasombra’s childer, did make one last attempt to salvage our treasure. It was he who brought Christianity to the Empire. Not out of faith, for he had none save in his own word, but in an attempt to inspire and unify. Eventually, of course, it failed. The
+
+Christian Empire split in two and warred upon itself. Unifying faith became dueling heresies, and Montano retreated once again to the service of his sire. Lasombra himself sojourned to Sicilia, with many of his closest childer. In Siracusa he built himself a castle, and what transpired the re is of great interest to you, | am sure. That remains, though, another story. We shall not
+
+move on unless | hear from you the lessons that the story of Rome ought to have taught you. Yes, the first is never to delegate to those who m you can not destroy and replace. Another is to rely on no for ce save you r own will to unify others. And the third? Exactly. Never trust a Ventrue farther than you can
+
+throw him. THE GREAT FALL
+
+Lasombra’s for tress in Siracusa was less of a castle and more of atomb. | have seen its ruins, venerated to this night by some of the weaker-minded of our clan, and | shudder. It was built as much to keep the unwilling in as to keep the unwanted out. Eventually, of course, it did neither. You must understand, Lasombra made a mistake. Well, he made many mistakes, but the re was one in
+
+particular, compounded and left to fester, that finally proved his end. We regard his end as fitting, ina way. He proved himself unworthy, no matter how great his power, to continue with us in our journey to greatness. Just as if you were observed making a blatant tactical error on the
+
+street tomorrow night and were laid low by some arrogant
+
+Brujah, you would be mourned, but not missed. So it was with Lasombra. By all owing Archbishop Gratiano to live and by ignoring Montano’s warnings, Lasombra made a grave error in judgment. q® Chapter Two: An Evening’s Discussion with Monsignor Alfonse
+
+=== PAGE 19 ===
+One is supposed to keep one’s friends close and one’s enemies closer. Gratiano was kept too near for one and too far for the other. Thus, Lasombra died. Other consequences followed as well, but you'll hear of the m in due time. So, the tale of Lasombra’s fall. It is simple, really. Arrogance and ignorance in equal proportions, mixed
+
+with just a touch of hearing what one wishes to hear. It’s a tragedy as well, the story of the good son spurned for the bad. It is much like King Lear in a way, save that nobody conveniently dies at the end. It is a messy story, and one
+
+that has not yet ended. Picture the great ruined castle of Siracusa in the nights when its dark stone lived. See its but tresses shoring the towers against the uncaring sky. Gaze do wn through a hundred murder holes on the town that once provoked
+
+Cicero to such eloquence. Feel you rself in its dark corridors, smothered in rich tapestries, as you wend you r way to the bed where Lasombra slumbered. Here the troubles began, on a carved frame of wood and a mattress stuffed with the feathers of Hera’s sacred geese. For here our
+
+for efather slept, and in his sleep, his dreaming mind wandered the world. He did not always sleep, even in his last nights. Though his hours of waking were few, they were frequent, and he took keen interest in the do ings of his progeny. He observed the m even as he slumbered, and constantly searched for new sons and daughters to add to his brood. He had grown bored with the old ones, perhaps. This
+
+would explain his dismissal of Montano’s warnings. One that he settled on, after centuries of searching, was a noble you th of paisan blood. Prideful and ambitious was this Gratiano, and arrogant in his worth. Sent north to stall the invading armies of the Teutons, he instead went over to his house’s enemies and agreed to trade his
+
+ancestral lands for some already with in the Holy Roman
+
+Empire’s borders. His dealings attracted Lasombra’s admiration, and our for efather set a trap from which the’ only escape was the Embrace. In those nights, you see, we did not Embrace any save those who desired it — if, of course, they met our standards. the se nights, we have
+
+grown more selective in some ways, less in others. But it was with in the cell of his ancestral home that
+
+Gratiano received Lasombraasa visitor and hageled with him over the terms of his Embrace. Such arrogance! Not since Abraham dared bargain with God over the righteous of Sodom and Gomorrah has such hubris been seen! And such arrogance on the part of Lasombra, not
+
+to see the danger. Eventually, though, the bargain was struck. Gratiano received the Embrace and followed his sire to Siracusa, the re to take his place in the endless hierarchy of progeny. For two centuries and more he was patient, but toa man of such boundless ambition, they must have been two centuries of torture! Prevented from acquiring what
+
+18 Clanbook: Lasombra @®
+
+=== PAGE 20 ===
+AWN Het | do not know if | myself believe this legend. It a) at explains a great many things, but | am not sure if the explanation is satisfactory. That hour, of course, was the true birth of the Sabbat. The fall of the greatest Antediluvian gave hope to the anarchs and struck fear into the elders. The Tzimisce
+
+struck the ir own little blow for freedom, led by Archbishop Gratiano’s disciple Lugoj, and soon war was joined in earnest. Those Lasombra who were but captured during Gratiano’s raid were among our sect’s true founders. Word of Lasombra’s fate quickly spread among our kind. Most had our innate respect for true inner strength
+
+and threw the mselves into the Sabbat cause. Our beloved
+
+Archbishop Mongada of Madrid was one of the se, and he, in consultation with Archbishop Gratiano, created the
+
+Sabbat as it is known today. the re is more than mockery in our series of bishops and archbishops, childe. the re is profound respect. Some few had too much love for the ir for efather, or too much fear of freedom, to walk our new road. the se
+
+became antitribu, even as Montano became antitribu. Most, in the ir daring, went to ground in Granada or among the Moors. Most have long since been destroyed. Montano still lives, though even among the weak-will ed vampires of the Camarilla he is regarded as unlucky to follow. His for ays against his clan, you see, tend to end
+
+with Montano returning in triumph — sans any who followed him out to battle. Now, the lessons you should have learned. One, Embrace those you intend to keep for a reason, and all ow not hing to alter you r plans. Two, never give a Tzimisce more knowledge, or more credit, than is absolutely necessary. Even now, they prance around the ir Carpathian
+
+fires claiming to have created the Sabbat. Three, avoid like the plague any excess sentimentality. At worst it will get you destroyed, at best hunted. you have not Montano's strength or power. You can not hope to emulate his feats. Finally, remember that the tragic hero always dies in
+
+the end. Stop trying to emulate him and discard you r sympathy for his plight. It is counterproductive, inefficient and likely to earn you poor marks from you r humble teacher. THE PURGING
+
+OF THE ANTITRIBU
+
+Now, the lessons of war. We fight endlessly against the Camarilla and its masters. Were the Antediluvians not part of the equation, | am sure that the re would be far less conflict between our Sabbat and the seven clans, but
+
+wt circumstances dictate otherwise. A disarmed opponent is less dangerous, do you not agree? Ergo, we must take the tool from the Antediluvians’ hands. 20 Clanbook: Lasombra @®
+
+=== PAGE 21 ===
+It sounds simple. In reality, it is war, a war that has i. 4 Yrs: 5 raged unceasingly since the simpering anarchs signed the i: ) TH i
+
+Convention of Thorns. Of course, the fools and histori- swan i ft " ans of the Camarilla have declared the “Sabbat Wars” ended four centuries hence. the se idiots have obviously not visited Philadelphia, Toronto, Baltimore or
+
+Tenochtitlan recently. Eh? My apologies, | was using the old for m. Mexico City, it is called now. The war still rages, childe. Jyhad, Crusade, what ever you wish to call it, it goes on night after night. It is merely the most overt phase that the scholars of the enemy call
+
+“The Wars.” they chose a moment when they had the upper hand, arbitrarily declared it a finishing point, and sat bloated and sassy on the ir supposed triumph. As you know, things are not quite that simple, and even the ir
+
+great victory in this supposed “war” was not quite the spotless triumph the Ventrue wish it were. you see, even as the but chers of the Camarilla drove us back, we succeeded in one of our most important goals. The antitribu, few to begin with, were extinguished by the time the 16th century staggered to its close. The “War” itself is hardly worth mentioning, save to
+
+a student of tactics. The memorandum sent over announcing you r visit indicated that you were a, ahem, “telecommunications expert,” so | won’t bore you with the details. The stories of how that imbecile Hardestadt was chased from his castle in the Schwarzwald, and how we subdued Zutphen and Naarden in the Netherlands —
+
+well, they are for another time. Let it suffice to say that superior tactics and skill are a match for numbers only to a certain point. That phase of the conflict was not one where we achieved overwhelming success. Where we did succeed, though, was in Granada. Itwas
+
+here that many of ourantitribu went to ground, particularly those of Moorish or otherwise is lamic extraction. Moriscos, those Spaniards who clung to the faith of the Prophet were called. Even as we fought the Camarilla, we sought out the traitors of our blood and destroyed the m. It was a matter of some debate, you know. Many of
+
+our noblest scions were unwilling to give up the independence of the ir fiefdoms, valuing the pride of the ir living heritage over the demands of the ir blood. Aragon, Castile, Sevilla — the se were once kingdoms, childe. Damnation, do you think it was easy achieving consensus? Only pride saved us from humiliation the n. It was pride, true, that demanded that the kingdoms remain separate, but it was
+
+greater pride in the blood of Lasombra that demanded that we destroy the se walking insults. It was agreed that all measures necessary to remove the se traitors, the se antitribu, would be taken, regardless of the cost to Castile
+
+or Barcelona. We began moving troops and arranging marriages the next night. q® Chapter Two: An Evening’s Discussion with Monsignor Alfonse I
+
+=== PAGE 22 === he might by accidents of birth and Embrace for
+
+Lasombra’s elder childer stood before him in all manner of things, this being only proper — he chafed under the restrictions imposed by his older siblings. It is foolish, I think, to suppose that a man who has betrayed his blood once will not do so again. When the
+
+whispered tales of the so-called “Anarch Revolt” made the ir way to Sicily, they wandered first to Gratiano’s receptive ear. He spoke with the se anarchs, made plans and contacts with the m. Through meetings and exchanges with a Fiend
+
+called Lugoj, he learned the secret of shattering the Blood
+
+Bond, and of the power that the Vaulderie could bring. Montano, ever dutiful, watched his you ngest sibling with alarm. He shared his concerns with his drowsy father, but was ignored or dismissed. Shamefacedly, for he knew a great do om was to come upon Lasombra, he made
+
+preparations against the night when flight would be necessary. Gratiano he watched more closely than before, but he dared not act and incur his father’s displeasure. Aware of Montano’s surveillance and his impotence, Gratiano laughed. With the aid of an Assamite all y, he chose several sacrifices from the anarch ranks and planted false memories with in the ir minds. Memories, of
+
+course, that spoke of meetings with Montano and plans made to slaughter the great and mighty of the Lasombra with in the ir own halls. The bickering began immediately, and did not end until two moons had passed and the floors were slick with
+
+blood and gritty with ash. Through it all, Montano remained aloof. His strength would have ended the bloodshed, but his honor did not permit him to use it. Gratiano knew his enemy well. When the tide of blood had ebbed and few still walked the halls, the n did Gratiano and his all ies strike. Smuggled onto the is land from the port of Ostia, they
+
+stormed the halls and slew or subdued all they found with in. Montano, faced with the choice of betrayal or death, chose instead to escape. None the re, not even crimson-faced Gratiano, his visage a mask of blood, had
+
+the strength to gainsay him in this. Lasombra had died before Montano fled. Only the fact that his sire would not see him flee all owed the antitribu to move. Yes, he is antitribu, more potent and more dangerous than Tepes himself. What, did you
+
+imagine him the hero of this piece? He lost, childe. Lost utterly. We do not sing the praises of the defeated. the re is a legend among certain of our elders. The leaend goes that at the last, Lasombra opened his eyes and saw his fate. He smiled the n, for this was what he had
+
+Embraced Gratiano to do. Glad was he to give his essence to the son strong enough to take it, and he went do wn into the endless dark with that smile still on his with ered lips. It was a father’s benediction to a prodigal son who
+
+has, at long last, come home. q® Chapter Two: An Evening’s Discussion with Monsignor Alfonse
+
+=== PAGE 23 ===
+Ferdinand and is abella, now the re was a triumph to savor... you look confused. the re is far more to the ir reign than the voyage of Cristobal Colon, my student. 1492 was a year of great do ings. The Jews, many of the m all ied with the Ventrue, were expelled from Spain. Colon, or Columbus as you call him, set sail on a mission for
+
+Archbishop Mongada himself. And finally, the Moors were driven from Spain. It was made a truly Christian country, even as those who m the un-Christian elements had harbored were expelled. You see, many of our Moorish brethren of treacherous nature had taken refuge among the communities that
+
+had given the m birth. Granada and the northern coast of
+
+Africa held most of the m, but where ver the Moors held land in Spain, the re were antitribu. We, with the full assent of those Moorish Lasombra who se loyalty was unquestionable, began at once to drive the Moors from
+
+the face of Iberia. In 1492, we finally succeeded. It was not easy, no. Ferocious and wealthy enough to enlist the support of the Assassins, our antitribu fought as well as one would expect. the ir mortal pawns were of such quality that many of the best were Embraced and
+
+turned upon the ir for mer masters. It was a nearer thing than it should have been, yes. In the end, though, the re was no do ubt of the outcome. We had learned the secrets of the ir steel, and our will was iron. they broke and fled, and we turned our
+
+attention back to the seven clans. It was not until 1566 that this threat, thought extinguished, reared its head again. The rumors ran like smoke, like wildfire. “Montano has been seen,” the gossips whispered. “Montano has returned,” the soldiers
+
+swore. “Montano has come to Granada to raise the antitribu,” the spies reported. The last, that we believed. And so, we acted. We do not permit our mistakes to haunt us, childe. It was Philip II, in so many ways such a poor tool, who served us well here. Summoning the Inquisition to |
+
+Granada, he flushed our antitribu into the sun’s light even as he for ced the hidden Mahommedans from Spain. the re were two years of bloody revolt and conflict, and 40 more of piracy and retribution, but when it ended, Montano had been beaten. Ina mere two years Granada was cleared
+
+of his supporters, and he was for ced to flee to Tangiers. Admittedly, that was just the end of the midgame. It took us four more decades to eradicate the lastof Montano’s
+
+Moriscos, but eradicate the m we did. | remember those nights, fighting ship-to-ship under a bloated moon. Imagine it! Cutlasses shining in the pale moonlight, the muzzle flash of the can nons, the scuppers pouring blood into the uncaring sea — it was a time like none | have seen since. The screams of the defeated as the blazing hulk of the ir
+
+ship consumed the m — that was sweet music to our ears. 2? Clanbook: Lasombra rL)
+
+=== PAGE 24 ===
+—_——
+
+The look of fear in the ir eyes as the black banner of the Ara ae alt ae =: Bt, Lasombra bore do wn on the skull and crossbones — that A ie bee ee. deers = = = 3 was more precious than blood to us. a 2 8 Zs
+
+F sat 2 22 22
+
+No, we will neversee those nights again. The antitribu gz Zz
+
+— 4 are mostly gone, save Montano and any he spawns. The zg = 2 4 nights of sailing for blood under a crimson moon, they are z= ‘3s
+
+} = =
+
+= £:, z=
+
+= 22, = 52: = 2g: ees
+
+TIT gone, foo. Now, the lessons. Simple ones, this time. Service to the Lasombra comes before city, before home, before pack. If you do not understand this, the n you are a
+
+detriment to the clan. Of course, you can best serve the clan through you r triumphs, so do not throttle you r ambition out of misguided loyalty. Second, eradicate you r mistakes, what ever the cost. This way they, unlike Montano, can not come back to haunt you. And at the last, it is permissible to wax
+
+nostalgic, but only about victories. Losses are only remembered to be learned from. Once the lessons have been taken from it, the defeat itself should be for gotten for ever. SOME QUESTIONS
+
+I see my accounts thus far have not completely satisfied you. You have some questions you feel I have not answered? Ask away, student. The Armada? We do not speak of that here, except to say that it was not nearly so great a defeat as the
+
+historians of the phthisical English would make it seem. We have learned all the lessons it could teach us, and we speak of it no more. Scandinavia? Obviously the lie has taken on a life of its own, and the Camarilla is a clutch of fools to be so easily taken in. Yes, we let it be believed that we fled
+
+north after the “Wars” ended, but consider the logic of the matter. We are lovers of warmth, and always have been. Even when we can not gaze upon the face of the sun, we are accustomed to feeling his caress in our gardens of the night. Spain, Italy, Morocco — the se are the lands
+
+that have traditionally given us succor and birth. As pleasing as the long nights of Oslo and Kovnhagn might be, can you imagine do n Ibrahim of Marrakesh attempting to “blend in” in the land of blond-haired, blue-eyed giants? Even if one do es not follow the pitiable Masquerade, a reasonable amount of caution is necessary. No, we sent the antitribu of the seven clans north. they fit in well the re, our Gangrel and tame Ventrue
+
+servants. From that comes the legend that the Sabbat broke and fled to the frozen lands of the north. We of the
+
+Lasombra, how ever, could never stomach it. Spain is ours, and it always shall be ours. Yes, the re is much faith with in the clan, and always has been. Many Lasombra still take Communion regularly, and it is considered a great honor to make confession to Archbishop Moncada himself. I myself have been
+
+@® Chapter Two: An Evening’s Discussion with Monsignor Alfonse
+
+Mm a)
+
+=== PAGE 25 ===
+
+We aan -
+
+\ i)
+
+‘, aw? \ we iw =
+
+SS aT ace ae
+
+4 6 ak 7%: a
+
+Clanbook: Lasombra ply / A vet Mal given the pleasure twice. Of course, the re are certain
+
+changes that must be made in the ceremony — the wine and wafer are necessarily replaced. It is not so much of a sin, | think. Remember what they stand for. Enough with the questions! You will drive me mad, asking about this and that when the re is so much that must yet be told. Now hush, childe, and hear of how we
+
+came to this continent. THE TAKING
+
+OF THE NEw Wortp
+
+It was the Archbishop's idea, of course. He controlled so many royal confessors and abbots that it was easy to convince kings and princes that exploration was the key toriches. We, how ever, were not seeking wealth when we
+
+had De Gama and Magellan outfitted. What did we wish? Land, free of the troublesome Camarilla. A place where the Sabbat could grow and the n grow strong, where we could demonstrate the superiority of our ideas. A place where our ideals would have room to develop out of the
+
+crucible of combat. We were not fleeing the Camarilla when we came west, childe. Never believe that. [t started with, appropriately enough, the Spanish. One Italian navigator, backed by Spanish money, was all that it took to establish our empire in the New World. One by one, our elders moved across the sea. First to
+
+Spanish and Portuguese possessions, the n into the English and French. the re were many of our kind still in the
+
+Netherlands when New Amsterdam was founded, and they came with the first patroons. Did you ever wonder why the Swedes, of all races, founded a colony in what they now call Delaware? It was at the suggestion of our
+
+followers stranded in Scandinavia. And once the colony was founded and our kind had been ferried over, we with drew our support and those lands were subsumed by the English. The same happened with the Dutch, the
+
+Portuguese and eventually even the French. It only makes sense, dear student. One government is much easier to direct than five. Redundancy is was teful. the re were local powers to be dealt with, of course. The Incas, the children of the Toltecs — the conquistadores took the m to task with out any encouragement from us. Sometimes a tool is so well crafted that it performs its
+
+function automatically. As for the British colonies that eventually do minated the continent, well, we made the m ours. Initially, the plan was to divide the Americas between the English in the east and the Spanish in the south and west, with the French in the north and center to be phased out as rapidly as possible. Things did not work out this way, obviously, but the re have been compensations. === PAGE 26 ===
+When first the British came to America, we targeted those of the ir cities that seemed most likely to become citadels against the wilderness. Philadelphia was deemed more important than New Amsterdam, and with good
+
+reason. Baltimore, Charleston, Boston with its polluted waters —all of the se were secondary targets. Rather than spread thin our resources, we concentrated on those we felt would be keys to the new lands. So we invested the m
+
+strongly and held the m, and hold the m to this day. No city that the English or French established, how ever, was free of us. Many Camarilla vampires who came in hopes of establishing the mselves as “princes” instead became
+
+prisci, coming over to our cause when they saw our strength in this land of blood and honey. To the south, we took Tenochtitlan — Mexico City, again my apologies — and made it ours. the re is no greater concentration of Lasombra anywhere else in the world, childe. the re is a legend that says that the grandfathers of
+
+the Aztecs founded Tenochtitlan when they saw, on a cactus, an eagle devouringa snake. they, wisely, took this for asign. Now consider why this matters to us. We are the eagle, free of the rule of our elders. Tzimisce is dead and
+
+Lasombra has been devoured. Who is the re now to clip our wings? The Camarilla, on the other hand, crawls in submission to the Antediluvians. As God condemned the serpent to crawl for ever in the dust after the Fall, so do es
+
+the Camarilla grope on its belly endlessly. With such potent auguries, is it any wonder that we have made Mexico City (you see, lam capable of learning from mistakes) our stronghold. the re we take counsel with the other clans of the Sabbat. the re dwell many of
+
+our most potent warriors and cunning strategists. | am told even Medina Sidonia lairs the re now. We entered the city with Cortéz and have never left it. The pelts of the Garou who dwelt with and protected the Aztecs are
+
+now rugs for the floors of our great leaders, and to possess one is a token of high status indeed. Indeed, the entire land of Mexico is ours, and even if our grand dream of using all of North America as a place of growth for the
+
+Sabbat has not come to fruition, we have at least made
+
+Mexico such a place. Of course, we would have had the rest of the continent as well, were it not for the short-sighted Tzimisce. But that is another story. Lessons to be learned from this? Only one: the re is always another game to be played. If given the choice between a game with high stakes that you may lose, and a game with higher stakes that only you can win, the
+
+choice should be simple. ~
+
+@ Chapter Two: An Evening’s Discussion with Monsignor Alfonse
+
+=== PAGE 27 ===? i
+
+OF T'ZIMISCE AGGRESSION the re is alwaysa fly in the ointment, and in our case, the flies spoke with Transylvanian accents. The Ventrue had driven the Toreador and the ir French servants from can ada (the Plains of Abraham — hah! they should
+
+have been called the Plains of Lot, for all the corruption in the city behind the m) and incited the American
+
+Revolution. It was easy to convince the French and the ir masters to aid our struggle across the Atlantic, and suddenly the tawdry tradesmen of the Ventrue were beset on two fronts. Wisely, they chose the easier target: the
+
+Toreador. We and our noble servants won freedom from the Old Country, and the future looked to be golden. A pity certain of our “all ies” had not won the ir freedom from the Old Country’s antiquated ideals. The
+
+Tzimisce saw Americaas another Carpathia, to be divvied up into miniscule demesnes for the m to lord over. Every home a brooding castle, every mountain a Wallachia in miniature. they took our infant America and nearly
+
+broke it to pieces. Read the or iginal Articles of Confederation, childe. they would have made you r America a
+
+Clanbook: Lasombra @ feudal collective that would have splintered endlessly into smaller and smaller states. No, far better that we stepped in and demanded both unity and leadership. Remember, the first capital of this country was in Philadelphia, oursecond-greatest stronghold in this hemisphere. So, we struck at the Tzimisce, and those of the
+
+antitribu who m they'd duped into following the m. The overt phase was, as always, a mere ripple on the surface which hinted not at the depths hidden below. Shays’
+
+Rebellion, | believe they called it. A mere footnote in history texts, known only to devotees of the dusty past. Under cover of night, how ever, things were very different. The conflict was dark and bloody, and quickly spread back across the ocean to those of our sect who remained in Europe. Of course, by the time word of the fighting
+
+reached Stockholm and Castile, things had gotten somewhat garbled. What was a war of ideals in the New World became a free-for-all in the Old. Senseless diablerie reached epidemic proportions, and to sire a childe was to sign one’s own death warrant. Laughing, believing we'd destroy
+
+ourselves, the Camarilla sat back and watched. Thus, they missed the ir greatest chance to shatter the Sabbat. === PAGE 28 ===
+In the Americas, the sides in the conflict stayed reasonably clear, and relentlessly the Tzimisce were worn do wn. the re was a cost to this victory, though. The for ces turned on the Fiends were not available to prevent the
+
+encroachment of the seven clans. All the while America was growing, and we had not the resources to exploit her because we were too busy making war upon those who ought to have followed us to our very own manifest
+
+destiny. Instead, ourcasualties in the conflict with the Tzimisce for ced us to surrender territory. Florida in 1819, later
+
+California, Texas and, by 1855, most of what became the
+
+American West. The American West, nonsense. The
+
+Camarilla West is a more truthful way of putting it, yes. Eventually, the Fiends and the ir followers were convinced of the long-term benefits of central or ganization, but by the time they did so the Sabbat was nearly in ruins. _Itcould have been destroyed, childe. One blow from the
+
+Camarilla could have swept us out of most of Europe; another would have swept the sect of f the map entirely. Yet they did not act, convinced that we would create our own ruin. It was the ir mistake, and a twofold one. First of all, they did not break the Sabbat when they had the chance. Mind you, even if they had, we of the
+
+Lasombra would have survived and even prospered. how ever, they left us our greatest tool. I think, sometimes, that they did so in or der to have an enemy who m they might conjure up to create crises and consensus at a moment's not ice. It matters not — they let the Sabbat live. the ir second mistake, of course, was not taking what
+
+was ours. By not making the effort to take Baltimore and
+
+Philadelphia, they gave us a dagger pointed at the ir
+
+America’s capital. By not driving us from Montreal and the cities along the St. Lawrence, they all owed us to control traffic into the Great Lakes. they let us keep such vital strategic points, and when the war finally ended, the
+
+reunified Sabbat had citadels to defend and call its own. It took us less time than you might imagine to rebuild our strength, and to rein it in more tightly this time. So what was the dreaded Sabbat Civil War? In the Old
+
+World, it was a rugby scrum cleverly disguised asa political struggle. the re were no sides the re, only appetites. In the
+
+New World, a philosophical exchange that devolved into auseless was te of resources. the re was no glory to be found, not in either side’s edition of the conflict. As for the dreaded Black Hand, the fiercest warriors of our sect, do you know what they did through our Civil
+
+War? not hing. they did not hing. they sat, and they watched, and they waited for the winner to be determined. the n they quietly went back to business as usual, for the Black Hand is missing a certain something in the
+
+4 Chapter Two: An Evening’s Discussion with Monsignor Alfonse
+
+=== PAGE 29 ===
+
+| Joop W6
+
+Clanbook: Lasombra initiative department. Give the ma target or an objective and one could wish for no finer all ies. Ask the m to make a policy decision, how ever, and the stars will fall before
+
+you see the m budge. Fanaticism has its limitations, yes. Yes, that might be considered a lesson of this tale. Another would be that internal dissent is far deadlier than an external foe. Yet another is that the Sabbat goes whither the Lasombra will it. The rest I leave as an exercise for the student. THE Mopern Ni Guts
+
+So, my student, where do es that leave us? It leaves us in the present, more or less. What is a century and a half to our kind? Very little, | assure you, very little, and the question was intended to be rhetorical. Today we are stronger than we have been in centuries. We control our Spain as we always have, and my
+
+home of Milan is ours as well. Here in the Americas, we controlall of Mexico, and drain the Ventrue’s do llars into it with carefully manufactured economic “catastrophes.”
+
+The Mid-Atlantic region of America is carefully under our thumb, and we still control the gate from the Great
+
+Lakes to the sea. New England, with its resources of money and the mind, will be ours soon — Boston perhaps in months. We hold Detroit as well, and through the automotive manufacturers the re gently squeeze the life
+
+from the Brujah’s beloved trade unions. We have seen setbacks in drug-infested Miami, but considering that we shall soon retake Cuba from that bearded buffoon Castro, I will gladly make the trade. Yes, it is a good time to be a
+
+Lasombra. the n again, it is always a good time to be a
+
+Lasombra, and a very bad time to be one of our enemies. === PAGE 30 ===
+FINAL QUESTIONS
+
+Are the re any final questions before | send you packing into the dawn? Just one? Go ahead; ask. The beginning, eh? You want to know the very beginnings of our clan. Well, childe, it is with the utmost respect for you r curiosity that I turn to you and say, “Who
+
+cares?” Lasombra himself is ash ona Mediterranean wind. Anything | tell you would bea lie, or at besta legend. We both know that legends are just lies cloaked in antiquity, anyway. So worry not about the or igins of our kind, or of our blood. Talk to members of the other clans. Hear the ir self-aggrandizing fables. Compare you r not es from tale to
+
+tale, read the Book of Nod, and I can guarantee that you will come to the same conclusion | reached long ago: it do esn’t much matter. Knowing the Antediluvians exist is enough with out worrying about petty squabbles buried
+
+for millennia. One rarely learns anything of strategic value from legends, anyway. Simply be proud that Lasombra’s blood flows in you r veins, and let that be enough. Good night, childe. I will speak well of you to you r sire, should our paths cross again. 4B Chapter Two: An Evening’s Discussion with Monsignor Alfonse 19
+
+=== PAGE 31 === a
+
+Aa ain
+
+AAW
+
+=== PAGE 32 === eae
+
+-CHap: AN
+
+OF do N. re Aa
+
+Good evening, class. Seat you rselves. We have much to cover tonight, and fewer hours of dark left than I'd like. Are you all comfortable? Good. Tonight begins you r education in what it truly means to be a member of Clan Lasombra. Through you r actions on the field of battle, you have proved you rselves worthy
+
+of being trained for advancement with in the clan. You will not be taught all of our secrets tonight — only the first hints of the first few. With time will come more knowledge, and patience is something we cultivate in our
+
+childer. Still, you will be taught many things, and you will be expected to retain the m all. | suggest you pay careful attention to my words; taking not es would not be amiss. Should an elder of our clan ask you to repeat any of what you hear tonight and not receive perfection as a response
+
+— well, it would reflect poorly upon me as a teacher. I do not enjoy being made to look unprofessional. You're all going to take not es after all? Splendid. all ow me to begin. ER “THREE: WENING”
+
+THE FEET’ * pe « ke
+
+MIGUEL: To Br LasoMBRA
+
+Just as vampires are nobility among mortals, we are nobility among our brethren. None can compare to us. Each of the other clans can be seen to reflect but one aspect of our glory. We have brought do wn Lasombra himself. We have fought the hordes of the ill-named Camarilla for centuries, and ever we wrest the ir cities from the m. We have
+
+dueled with the Ventrue for time out of mind, and ever have we been victorious. You will learn, by the by, that being confused with the Ventrue is a deadly insult. | expect none of you to sit still for it. But I digress. We are the epitome of our kind. That
+
+is why we lead the Sabbat unquestioningly, while those simpering Ventrue struggle merely to hold the ir precious
+
+Camartilla together. Rest assured, had we the numerical: advantage over the m that they hold over us, the sun would rise on a world free of the Camarilla. Chapter Three: An Evening at the Feet of do n Miguel 3]
+
+=== PAGE 33 ===
+
+Clanbook: Lasombra @
+
+Ah, the Camarilla. Misguided, mistaken, and frequently even mispronounced — what further proof is needed of the ir buffoonery than that provided by the ir own tongues when they but cher our beautiful espariol? And such as they would speak for all of us. Pathetic, is it not? Now, the difference between the Camarilla and our
+
+Sabbat is very simple. the ir or ganization exists to oppress our kind, ours to exalt it. Examine carefully the ir tenets. This Masquerade — what is it but for cing exalted vampiric nature to submit to the delicate sensibilities of humankind? The vaunted consensus of the ir Conclaves — this is not hing more than the will of the leaders being shackled by the voices of the less-talented masses. And the re
+
+is always the dark secret behind the Archons and Justicars and Traditions — the who le show is but a sham, a way for the Antediluvians to enforce the ir antiquated will s upon a world that no longer needs the m! Submit and submit
+
+again, and let us tell you when it is time for you to die at our masters’ pleasure — this is what the Camarilla preaches. Never mind this sad fumbling after lost humanity, never mind the pathetic mumblings of Traditions and hunters
+
+— the Camarilla asks you to bind you rselves in shackles of blood and steel, and to seek the torch or the stake at the pleasure of another. Our Sabbat, and I do say “our” with deliberation, is dedicated to the not ion of exaltation, We are dedicated
+
+to fulfilling our potential as superior intellects in superior bodies, to achieving all that our minds and frames all ow. To be free of the shackles imposed by preconception and the rules of any save the cold universe itself — that is what the Sabbat strives toward under our tutelage. The
+
+you ngest of our sect misunderstand this striving for ultimate freedom as permission to rant and rave in the streets, playing the ir asinine little games. We all ow this to flourish, for even the se ragtag rebels play the ir part in
+
+tearing do wn the artificial strictures of a society spawned by Antediluvian fever dreams. Those of us who are enlightened, though, as to our true aims, know that the
+
+Sabbat is dedicated to something infinitely nobler than the right to pluck pedestrians from the streets at will. Yes, what is the question? Why do they hold such a numerical advantage over us, you ask, if we are supposed to be such sublime specimens? My dear Miss Sforza, ponder this: quality versus quantity. they have the latter. === PAGE 34 ===
+Dr. Fatma Satkep’s not es oN PSYCHOLOGY AND OTHER MATTERS
+
+It has for some time been my duty and pleasure to observe those of our blood in hopes of finding some revelations of self-discovery, for both the clan as a who le and myself personally. What I have uncovered
+
+is of supreme interest to the psychologist as well as the strategist. Even along the closely tended stalk of our bloodline, some surprising variations and fixations have bloomed — or with ered. A few might be worth
+
+cultivating; others should be culled. Mirrors
+
+[tis something of a truism among our servants that if one wishes to discover where the master is, look in the mirror. Some the or is ts posit that our inability to cast reflections is a byproduct of our association with
+
+shadows, a.k.a. our talent for Obtenebration. | find this explanation unsatisfactory, having taught several Toreador antitribu basics of Obtenebration while still remaining able to observe the ir reflections. Ergo, it is something unique to us. Certain Giovanni to who m | spoke during the
+
+course of my research indicated that our peculiar handicap may in fact be something spiritual. they made a correlation between the abyss into which we can reach with the greater powers of Obtenebration
+
+and what certain of the ir ghostly servants refer to as the
+
+Void. Apparently this “Void” is a sort of spiritual not hingness where in dwell the dark reflections of the
+
+Restless Dead. Perhaps as the price for our dealings with it, we have given our reflections unto it. In truth, I do not know. What I do know are the precise limits of our clan’s distinguishing feature. We do not produce images in any sort of reflective surface. This includes mirrors, pools of water, polished metal, glass, puddles of mercury or anything else. Anything we wear or carry
+
+likewise do es not appear in reflection, as amusing as the not ion of a free-floating briefcase might be. We do in fact partially appear on mechanical media for recording images (as opposed to those based upon capturing reflections). Video cameras, color photography, security monitors, motion sensors and any
+
+other for ms of mechanical surveillance pick us up, albeit as shadowy flickers. Black-and-white photography, how ever, is the exception to this rule. Perhaps because this particular for m is based upon the absorption of light by a silver-based compound (a for m of reflection, perhaps?), our images do not appear in any black-and-white photographs. Again, | am not sure. It
+
+is my duty to report my observations, not to hypothesize explanations. <_<} SS See
+
+In any case, our peculiar relationship with mirrors has led to certain interesting behaviors and abilities. | not e a growing tendency toward Image Obsession (1 - 5 point Flaw) among the Lasombra. As we can not see our
+
+appearance, a large number of our kin find the mselves hypnotized by the vagaries of the ir own appearance. The compulsive behavior may be small at first (1 point), manifesting itself asa repeated questioning of others as to one’s looks (“do es my hair look all right? Really?”), to
+
+obsessive behaviors such as brushing hair, adjusting clothes and the like. The symptoms occasionally run the gamut to full-fledged mania (5 points), where in the afflicted Lasombra are constantly attended by ghouls
+
+intent on grooming the m and can speak of little save the ir appearance. for tunately, such cases are rare and are usually fatal in a matter of weeks. A great many Lasombra, incidentally, find that they can harness this obsession by wearing masks. This
+
+all ows for some manner of control over the appearance the mask wearer presents to the world, as well as eranting each Lasombra the opportunity to create asort of iconic visage to display. Indeed, the re seems to be a
+
+developing fetishistic competition among our you nger clan members as to the complexity and ferocity of the ir masks. Older Lasombra who tend toward masks, on the other hand, prefer plainer or even featureless vizards. Some few of our kind have somehow mastered the
+
+art of actually producing a Faint Reflection (2 point
+
+Merit). Those with this talent, which | feel is well worth cultivating, can actually appear in mirrors, albeit in extremely pale, ghostly guises. Objects moving behind a Lasombra casting a faint reflection will be clearly seen through her for m. how ever, of ten even a
+
+faint reflection is enough to all ay the suspicions of kine or Camarilla. SHADOWS
+
+Our very name, Lasombra, is synonymous with shadows. We rule from the m, we dwell in the m, and we use the m as our most fearsome servants. Why? It seems almost ironic, considering the long association our
+
+blood has had with Iberia, Italy and northern Africa, places known for the ir sunny climes. Apart from inclination and talent on the part of our late, illustrious for efather, | espouse the idea that a psychological root governs our fascination with and control over shadows. It is precisely because we were
+
+creatures of the sun once, far more than the pale
+
+Ventrue or Gangrel, that we have turned so completely to the night. Denied the light, we embrace the dark with a passion and a vengeance. It is a textbook transformation reaction, and one to which we have
+
+® Chapter Three: An Evening at the Feet of do n Miguel
+
+=== PAGE 35 === been subject for centuries. | would even go so far as to venture that when we Embrace new childer, among the qualities we look for is the sort of obsessive-compulsive
+
+nature that, denied a thing that is loved, will rebel against that thing viciously. Remarkable advances have been made in the uses of Obtenebration. It is only natural to expect such variations to develop over time, though some unfortunate side effects have manifested as well. For example, afew unlucky Lasombra are afflicted with an Enmity of
+
+Shadows (4 point Flaw), where in the shadows that the unfortunate Lasombra summons may well turn and attack him with out provocation (a Lasombra with this
+
+Flaw must make a will power roll [difficulty 6] each time he uses an Obtenebration power of Level 3 or above. A success indicates that the power functions normally; with a failure the summoned shadows attack
+
+the ir putative master). the n again, an increasing number of us are blessed with Strength of Shadows (4 point Merit), which permits us to strengthen the shadows we call so that even daylight will not immediately dispel the m. Even Strengthened shadows dissipate after four hours in the sun
+
+(according to one of my most trusted research assistants), but it certainly do es provide a nasty surprise to enemies when, even after sunrise, shadows hound the m. The most interesting new use of Obtenebration
+
+I've found is almost Tzimisce-esque in its brutality. Called, somewhat melodramatically, Shadow Parasite
+
+(Obtenebration Level Six) by its creator, this vile attack is startlingly effective. Based upon Arms of the
+
+THE Worip AND Aut Ir Houps
+
+We shall inherit the earth, have no do ubt of that. When the last twitching Garou has been made into a rug torest in front of a crackling fireplace; when the last mage has been burned alive, the pages of his grimoires serving as kindling; when the last restless ghost has been laid in
+
+its grave — the n will the earth belong to our kind. [have no do ubt that night will come soon, but in the meanwhile the se others must be dealt with. the re are many dangers walking the world and it is best that you be aware of the m
+
+all. Tue Future
+
+Look at you rself. Consider what you are. the n look on others, and realize that you have achieved a control, a perfection of psyche to which they can only aspire. You are the pinnacle toward which they blindly strive, the goal which they can but dimly see. It is our duty to assist
+
+Clanbook: Lasombra @
+
+Abyss, Shadow Parasite (required cost: three Blood
+
+Points) all ows one of the Arms to insert itself into the target and the n expand (Dexterity + Brawl, difficulty
+
+7 to insert itself, Stamina + Brawl to expand each round. Damage is Strength + successes and can only be soaked with for titude), literally ripping the target open from the inside. Of course, one must concentrate
+
+on expanding the tendril of darkness during this time, indicating that it is perhaps more effective as an assassin’s weapon than a warrior’s. Not nearly so terrifying, but perhaps as effective, is Darksight (Obtenebration Level Seven), a useful power for eavesdropping and scouting. Perhaps a refinement of Eyes of the Night, Darksight all ows its possessor to “choose” a specific shadow as a listening
+
+post. The vampire may the n see and hear (if she wishes) what would be seen and heard if she were standing with in that shadow. Both blood and will power (one point each) must be invested in each shadow used thusly, but the affinity between vampire
+
+and shadow remains until the shadow is dispelled by sunlight. Nor is the re any distance limitation on this ability; | have seen Lasombra in Philadelphia pause in midsentence to monitor a conversation in can berra
+
+via Darksight. This is hardly a comprehensive catalogue of the new neuroses and abilities developing among our kind. A fuller report will be made at a later date, when adequate funding makes more in-depth researches possible. Dr. Fatima Saieed
+
+Harvard University Extension School those who have the potential to achieve that goal whilst culling those who clearly never will; this is why we have earned the sobriquet Keepers. don't be fooled by the
+
+atavisms’ illusion of competence through physical prowess. they will never achieve the mental clarity necessary to plan the strategies that will ensure our survival even in the face of enemies terrible and ancient. Only with clarity of mind and purpose will we be able to take our
+
+kind to the stars and beyond. You heard me correctly. Let the meek inherit the earth; we shall keep it as a giant ranch or breeding preserve. Tous belong the heavens. Once we have united our kind and aided the m in achieving the ir fullest potential as the rightful lords of humanity, once we have
+
+cleared the earth of others who would challenge our supremacy, once we have established the vast cowering numbers of kine as herd in deed as well as name, the n shall we climb to the eternal shadows between the stars
+
+and, laughing, exist the re for ever. === PAGE 36 ===
+Sn SS See SEE SSS
+
+HE JYHAD
+
+Some of you look surprised. What, did you not have the vision to look past the Jyhad, seeing only eternal struggle until the last two vampires in the world sink do wn with the ir fangs in each other’s throat? The
+
+were wolves would applaud, I’m sure. No, you fools, we are engaged in a war, not a suicide march. One enters a war with one purpose: to win. the re will be no Gehenna for us, no final nights of blood and terror. Halfa millennium ago, we were potent enough to
+
+destroy Lasombra himself. If we were capable of that, what are we capable of destroying now? The Inconnu? The Antediluvians? Caine himself? Why not, Lask you? Again, [have digressed. you seem to have a talent for making me do that, class. In any case, we look past the
+
+Jyhad. It shall be fought, yes, and it shall be won, anc when it is won every last vampire will be united under our banner. The Necromancers will come from the ir graveyards, and the Ravnos will obey, and the once-prouc
+
+Ventrue will be glad to shine our boots as we assign each the ir proper role. the n will the real struggles begin. Yes, Enrique. you are correct. The Lupines. We shall have to war on the m some night, and the human wizards as well. The struggle among our own kind is merely the
+
+beginning, a preliminary to the real wars. The Jyhad is merely a necessary step in our assumption of do minion over all of our kind, not just the Sabbat. the n we shall lead all of Caine’s children into a glorious new age, when
+
+our kine are kine in fact, when we have no enemies and no reason to war among ourselves. This will be true freedom, the freedom to be with out worrying if the dawn and its servants will find you. Can you not see it? do n’t look too far ahead, Idina. the re are still
+
+dangers in the world, and the ones you should most fear are of our own kind. I know you have faced some on the streets or in the skyscrapers, but those were the ir childer, just as you were ours. You will be joining the adults soon, and much of what you have learned will prove deadly if you do not temper it with new knowledge. Listen carefully, childer. Much depends on it. Boogeymen and relics, for ever brooding on the lost
+
+J # glories of the Old Country. If you can get the m out of the ir workshops, they can be civilized, but they have regrettably medieval social tendencies. the ir transparJ ent attempts at playing eminence grise should be watched for, not ed and contained. the ir arrogance and ambitions
+
+are the keys to making certain that they're as productive as possible. @® Chapter Three: An Evening at the Feet of do n Miguel 35
+
+=== PAGE 37 === a SS Sa ae eS SS SS Se SS SS Se ay ga \ | Oh, a final warning: they carry grudges. If you annoy one, kill it quickly. It will save you decades of aggravation. ASSAMITE
+
+Ah, what a blade we point at our own breasts! Were the re any sense in the world, we would be glad to give the m our vitae as a gift while they went out to make war on our foes. Can you picture the sheer spectacle of the
+
+sons of has sam silently clearing the for ests of cowering
+
+Lupine atavisms? The blood sings at the thought. Unfortunately, the world is not a sensible place. Until that night, use the ir talents with discretion and show the m respect. Oh yes, and never, ever seek to cheat the m of the ir payment. We've invested too much training in you
+
+already. BRUJAH
+
+So-called egalitarians, they have no real interest in bettering the lot of others. Rather, they want us brought do wn to the ir level so that they can lord it over the rest of us in the democratic mire. for tunately, the ir chances
+
+of success are nil. In the meantime, those who serve us make superb can non fodder, and those who do not die easily. GANGREL
+
+Every time | look at a Ganerel, | am half-convinced lam going to watch him climb a tree and begin to gibber for blood-coated bananas. they are evolution in reverse, Rousseau's noble savage in the flesh. Consider the m a failed experiment and all ow the m to die of f with dignity. GIOVANNI
+
+Were the re more of the m, they'd be a danger. As is, they're an annoyance with potential. they have breeding, refinement, resources and direction, much as we do, and are working to an end muchas we are. the ir fascination with what was instead of what is will be the ir fatal weakness, though. Relying on the dead as all ies ignores the logical fallacy inherent in that strategy: were those all ies more competent, they would not be dead. MALKAVIAN
+
+you have seen, l'mcertain, certain households among the wealthy where the smallest child of the family is the absolute master of the house, and the rest of the family are slaves to the brat's whims? In such households, you see
+
+men who regularly shake the pillars of the financial world for ced to the ir hands and knees, babbling baby-talk and being ridden like beasts of burden. In such households, you find strong and beautiful women reduced to abject slavery and degradation by juvenile tyrants who se ice
+
+cream is too runny or who se porridge is too hot for the ir delicate palates. 36 Clanbook: Lasombra @
+
+=== PAGE 38 ===
+Think carefully on that image the next time you consider listening to the word of a Malkavian. NosFERATU
+
+In some ways, they are more like us than any other clan. Like ours, the irs is an aristocracy of merit. Like us, they look to survival past today's petty squabbles and proto-Jyhads. Unlike ours, the ir vision is limited from too much time in the tunnels, and the ir petty gossip-brokering
+
+continually undermines our work. If they would be so sensible as to unite under our leadership... but no, it will never happen. PANDERS
+
+“To pander” is a polite way of saying precious gift was prostituted when it was bestowed upon this ragtag lot, and I find the ir name fitting. é
+
+‘to pimp.” Our
+
+It is somehow conceivable that any vampires who emerge from the seething sludge of Panderhood will have demonstrated talents and survival characteristics that elevate the m into civilized society. Still, the strongest
+
+and fastest mongrel remains, irreducibly, a mutt. RAVNOS
+
+Consider the m God's little test of our patience. Those who can bear the ir company of ten profit; those who can not suffer the ir depredations. If you don't let the msee how much they annoy you, they will grow bored and seek a new target — perhaps one that you suggest. SERPENTS OF THE LIGHT
+
+the re's something refreshing about pure, unadulterated evil. the ir philosophy is a plainly demarcated dead end, while the ir single-mindedness borders on psychological disorder. they may call the mselves Serpents, but they move predictably, and in straight lines. Merely direct the m and make sure that you're not in the ir way, and all will be well. TOREADOR
+
+The victims of a fine distinction, the Toreador fail to realize that art is an expression of a cultured mind, not the culture itself. Whether they work in metal, music or flesh, all have this limitation in perception. how ever, we
+
+are sufficiently cultured to support the ir delusion; by all owing the m to live out this psychosis, we reaffirm our nature as civilized beings. TREMERE
+
+Foul sorcery, bubbling cauldrons and dark and stormy nights: the se are the toys of the Tremere. | strongly suspect that in private, they all wear those ridiculous dunce caps with moons and stars on the m. they are
+
+WN
+
+—Ts =
+
+SS
+
+' TH, ail a
+
+\ a
+
+=== PAGE 39 === treacherous little vipers, far more dangerous than any save the Tzimisce. Never let one escape from under you r thumb, else you will never pin him do wn again. they lead out of a sort of repressed desire for martyrdom (“Oh, we shall take up this burden and assume
+
+leadership of the Camarilla else all will fall to ruin. Oh, woe...”). We lead because we are superior to those we lead, and now you see why I consider it an insult to be compared to the m. Most Ventrue seem to be looking for someone to drive in the last nail in the ir self-crucifixion. Should the opportunity present itself, by all means assist the m. Back HAND
+
+[ have heard many whisper fearfully about the Black
+
+Hand. Remember, the Hand is directed by the Mind and the Will. So long as we use our minds and have sufficient will, we can bend the Hand to our purposes. If that sounds too pompous and philosophical for you, Enrique, consider this: even in the depths of the
+
+Sabbat’s Civil War, the Hand did not move. Some call this restraint. I see it as fear. Clanbook: Lasombra @
+
+RILLA
+
+At its most basic level, the Camarilla is a social experiment, like communism or a slave-based economy, that will eventually prove itself unworkable. It is our duty to has ten the night when the experiment is declared a failure, so that as much of the raw materials that went
+
+into it as possible can he salvaged for our own purposes. Of course, keeping those materials out of the hands of the
+
+Antediluvians is of prime importance as well. We must break the Camarilla and the n build the edifice Sabbat even higher with its pieces. the ir very existence is a threat to our survival as a species. they are the heralds of can nibals; on this we
+
+agree with even the Tzimisce. they have power, yes, but they do not understand how to wield it in the modern world. Treat the m the way you would treat some prehistoric beast loose on the streets of you r home city. It most certainly has the ability to devour you, but only if it
+
+catches you. After all, you know the terrain much better than it do es, and you can think faster. Furthermore, dispatching the creature might almost be looked upon as something of a civic duty. === PAGE 40 ===
+ANT. Some few of the se exist. So do some few two-headed calves and coelacanths. The parallel is precise. for tunately, the dupes of the Antediluvians are so eager to hunt do wn any with the lineage Lasombra that they take great delight in exterminating the se friendless, hopeless oddities. It is almost amusing, would n’t you
+
+agree, that they are do ing our work for us? And the rein lies another lesson for you, class. OTHERS
+
+LUPINES
+
+Dangerous but shortsighted, they are prone to attacking shadows. With that in mind, practice you r
+
+Obtenebration. This will give the m plenty of targets at which to fling the mselves, until they lie panting with the ir tongues hanging out. At this point, it is a matter of individual discretion whether to administer the coup de grace, or to of fera bone
+
+and a good scritch behind the ears. Aside from the thrice-bedamned Tremere, I'd not worry about wizards. they spend the ir time squabbling among the mselves so long as no external threat presents itself. Be very careful to avoid providing that external
+
+threat, and the mage population will regulate itself quite nicely. Try to avoid creating too many of the se, as they can prove a remarkable hindrance. Other vampires who become ghosts are the worst of the lot, and they have
+
+more power in the physical world than you'd think. Show reasonable caution in killing, and you should avoid having any spirits attach the mselves to you: Any Lasombra who is so unfortunate as to become personally haunted
+
+tends to find himself on the fringes of our society. Ghosts have no place among us, and a clan member reeking of the dead has one foot in the grave himself. CHANGELINGS
+
+The fae still walk the world, though now they tend to dress like the rest of us. I’m told the days of blousy poet shirts and outrageous baggy pants are gone, more’s the pity. If you must deal with a faerie, be very careful. Most are fragile, but
+
+given an instant they can summon the ir magics and create the most disturbing effects. Still, the re are sweet dreams to be had in the ir blood. I'd save the m for a special occasion. Enough of the other denizens of this world of darkness we dwell in. [tis time to return toa more fitting topic of discourse: the Lasombra. My. w
+
+ny, NY ie ral
+
+“NANNY
+
+=== PAGE 41 ===
+
+Clanbook: Lasombra @ b THE RAREST
+
+OF VINTHGES
+
+One might expect that a clan as dedicated to the proposition of survival of the fittest as we would have certain problems with what they delicately call “the
+
+Amaranth.” Other clans, even with out our predilection for culling the weak, are rent with dissent by this little matter, Consider this example from the oh-so-civilized
+
+Camarilla: sire suspects childe of tendencies better suited to CEdipus on a narrow road outside the bes, so he begins distancing himself from his progeny. The childe, no do ubt concerned that her sire has acquired rarefied tastes, comes to the conclusion that he is about to devour her
+
+and decides to do unto him first. Both mobilize the ir ghouls, the ir all ies and the ir pawns to do war upon each other, and an unnecessary bloodbath ensues. When the dust settles, valuable resources on both sides have been
+
+squandered, and the survivor now sees the beady eyes of vitae-hungry anarchs and elders in every shadow. Naturally, she immediately begins rebuilding her resources in anticipation of the next confrontation. In a matter of years, months, or even weeks, the who le was teful process
+
+begins all over again. Witness the Brujah; were they not so busy battening on each other we'd no do ubt be up to our ears in Rabble. No, contrary to what you might think, we have no problems with diablerie and its attendant symptoms. The matter is quite thoroughly controlled, and with that
+
+control ends the chaos that marks the Camarilla and the esser Clans of our Sabbat. By now I’m sure you’ve heard of Les Amies Noir. do n’t even try to tell me what you think it is; it’s quite seyond you r comprehension. how ever, one of its lesser functions is the Court of Blood, the body to which all
+
+Lasombra seeking to perform culinary exsanguination on another must appeal. Trust me, receiving permission to perform the unthinkable removes a great deal of the sleasure from the process. Still, the re are those Lasombra resolute on drinking
+
+the blood of others with in the clan. Such a matter is not taken lightly. One can not request the Final Death of another of our kind over personal matters — dislikes and insults and so on. No, it must be a situation where the
+
+intended prey has conclusively demonstrated that he or she is unfit to bear the proud name Lasombra. The
+
+Lasombra who proposes herself as hunter must gather evidence, and that evidence must be conclusive to bring before the Court when petitioning for a warrant of execution. The Court, consisting of anywhere from three
+
+to 13 members in good standing of Les Amies Noir, deliberates upon the evidence and the n grants its ruling
+
+=== PAGE 42 === as to whether or not the petitioner may begin her hunt. The intended prey is never made aware of the proceedings while they are occurring; no defense can be mounted. Indeed, all of the Court’s operations take place under the strictest veil of secrecy. It’s the only way to be fair. Yes, little one; you could be under consideration by the Court as we speak. As far as I’m concerned, the uncertainty adds
+
+a certain zest to life. The rulings vary, based solely on the merits of the case. It’s strictly apolitical, | assure you. Sometimes the prospective hunter is granted immediate permission to begin stalking her prey; other times the Court dictates
+
+that a warning must be is sued, a sort of for mal declaration of enmity. In many cases permission is refused, and the petitioner is shown how her perception of another’s activities as “incompetence” is merely an inaccurate
+
+interpretation of the facts. You’d be surprised at how many you ng Lasombra take a quick look at one phase of a decades-long plan, decide that matters are n’t proceeding fast enough for the m, and petition the Court for the right to remove the ir superior so they can take over and, ahem, “do things right.” for tunately, this sophomoric
+
+phase tends to pass quickly, at least in those who survive. In all honesty, permissive rulings from the Court are less common than restrictive ones, and we take this as a token of pride. It means that the re are few incompetents among us to be weeded out. Still, a petition to the Court
+
+of Blood is a serious matter, and a you ngster who brings a spurious petition to the Court’s attention ts of ten punished by having her intended target not ified of her ambition. Poetic justice, is it not? Mind you, most of
+
+those not ified do not immediately turn around and hunt do wn the ir accusers. Imagine the terror the se arrogant you ngsters must feel when informed by the ir betters that they are not even considered enough of a threat to be
+
+worth the effort of reprisal. It keeps was tes of the Court's time at a minimum. As for those Lasombra who have not yet been thoroughly enough initiated into the mysteries to be aware of the Court’s existence — well, any Keeper who has been initiated should be more than capable of defending
+
+a
+
+| himself against such a stripling. If he’s not, the n some thin blood gets itself excised from the Lasombra heritage. Evolution in action, as it were. Conversely, dealing with those outside our clan do es present a certain dilemma. Yes, the Camarilla must be
+
+broken to our will, and that of ten involves destroying its more potent members. The nonaligned clans must be brought into line, and again a certain number of the ir most powerful representatives will be necessary casualties of the struggle. As for our own dear Sabbat, well, the
+
+Tzimisce and others must be kept in line and that means the odd example being made. Still, we try to remove the potas bare minimum of the se obstacles on the way to achieving
+
+q® Chapter Three: An Evening at the Feet of do n Miguel
+
+=== PAGE 43 ===
+SS Sn SS Se our aims. After all, they represent the prime flowering of other vampiric talents, ones that must be cultivated for the coming conflicts with the se not of the Blood, It’s not
+
+as ifwe can squander the m. how ever, if it comes do wn to the m or us, the re is no real choice to be made. What was the question? Must we receive permission from the Court to feast upon those outside the clan? do n’t be naive. THE MAKING
+
+OF A LASOMBRA
+
+We are very particular when it comes to choosing new members of our clan. you can take some pride in this; you were the end products of a most rigorous selection process. Some of our you nger members have generated what they call a “profile” for our newest generation of
+
+childer. According to the se budding social scientists, we tend to Embrace people with, and I quote, “proven leadership qualities, a history of financial success, and a capacity for ruthlessness.” Those of us who make our
+
+choices with out consulting the sociologists prefer to say we look for grace, wit and determination. We take pride in preferring a sharp mind to dull strength, and ruthless persistence to a pretty face. After all, any ogre can
+
+command. It takes skill to lead. lr is an unfortunate fact that some of the older
+
+Lasombra from the old Iberian stock are regrettably racist, and in fact would prefer that only those kine with the proper how shall [put this? — breeding were given
+
+the privilege of the Embrace. Most of us under 400 years of age, how ever, have moved past such antiquated not ions of “racial purity” and what not. A woman of Kenyan descent and a man of Laotian blood who have demonstrated undeniable superiority to the irfellows are infinitely preferable to a man of purest Castilan stock with the
+
+manners and drive of a sheep. Let the latter feed the for mer; we need less hidebound arrogance and more hunery blood if we are to bring the Jyhad to a successful, swift close. As you may have not iced, we have no compunctions about winnowing out the weak among you. How many of
+
+you lost packmates, not to the enemy, but to those of the
+
+Sabbat? All of you raise you r hands. Do you realize what a compliment it is to you r natures that we bothered to separate you from the chaff? You are wheat, each and every one of you. Were you not, you would not be sitting
+
+rere tonight. We take only the best, and we keep only the best of he best. Only those of you who have proved you rselves trustworthy have survived to learn our secrets. Now, ittle ones, do you recognize the magnitude of what lies defore you — and the depths of the abyss over which you
+
+lave just crossed? Hooe 4G
+
+42 Clanbook: Lasombra @
+
+=== PAGE 44 ===
+THe MENTORING PERIOD
+
+Asyouno do ubt remember, upon you r init ial investment with our blood you were treated the same as the other new recruits. You were not coddled, and were for ced to learn the ways of the Sabbat along with the rest. We did, how ever, attempt to make certain that you r packs were led by you r sires. It was you r sires, each of
+
+who m was given the chance to observe you in battle and negotiation, who brought you here. You have proved you rselves to you r packs and you r makers, and have earned the right to the se lessons. No do ubt you r sires
+
+began the m. That is expected, so that you do not disappoint by being totally unprepared when brought here. Our mentoring process differs from that of the ineffectual Ventrue in several key ways. Beyond starting later in the childe's unlife, it is much less like a for mal apprenticeship. It is considered the sire's responsibility to earn the respect of herchilde, and the childe is all owed to learn from his mistakes, how ever dangerous the process might
+
+be. Those who do not learn, or who make mistakes too erievous to be recovered from, were obviously unworthy. As each of you grew in power and knowledge, you r sire began to exert more control over you r training. Think on this. Remember how she took more and more interest
+
+in you, perhaps ignoring those of you r pack who m you believed more deserving than you rself? Idiots. False modesty is something that will not be tolerated here. But those of you who knew you r worth were given as much of our knowledge as you could hold until tonight. Tonight, you are brought before Les Amies Noir. Tonight, you are ready to become Lasombra in truth. Tonight, you are no longer our childer; tonight you are Lasombra. eS Amices Noir
+
+And now, the moment you no do ubt have heen waiting for, those of you with wit enough to ant icipate it. Yes, my students, this is you r introduction to Les Amies
+
+Noir. Be honored that you have been selected to join our ranks. You have brethren centuries old who have never heen permitted to hear the words | will speak tonight. But what ranks are those, you ask. Very well, I shall tell you. Les Amies Noir is an or der of those Lasombra
+
+deemed trustworthy enough to hear and implement the details of our great stratagem. Its members are sworn to protect the hest interests of the clan and to defend the sect against those who would destroy us all. All true
+
+Lasombra are members; any of our clan who are not of Les
+
+Amies are not hing more than children or cases of arrested development. Bear in mind, though, that the re are many more of our clan who are not members than who are. Even amone the Lasombra, some are fit to lead and some are fit to follow. === PAGE 45 ===
+Bene AN AccoUNT OF THE Cuess Marcu BETWEEN do n IBRAHIM AND do na is AporA
+
+It must first be not ed that the re were several irregularities about this match. The stakes were very high, with do n Ibrahim’s status as a Grandmaster of the Lasombra depending upon its outcome, and do na
+
+is adora having wagered not only financial considerations, but also certain territorial matters. In addition, the re was difficulty in obtaining the proper pieces for the game. do fa is adora was will ing to play with a substitute set for the sake of expediency, but do n
+
+Ibrahim was most firm in insisting upon the standard set: eight kine (pawns), two Brujah (rooks), two Gangrel
+
+(knights), two Nosferatu (bishops), one Toreador
+
+(queen) and one Ventrue (king) per side. In the end, the do n’s insistence on maintaining the traditional set resulted in two Gangrel antitribu and one Ventrue antitribu being pressed into service. As a punishment for his obstinacy, the judges for ced do n Ibrahim to take
+
+the se substitute pieces on his side. The do n took this with very poor grace. The game initially proceeded along surprisingly traditional lines. do n Ibrahim, playing white, began with the Brixton opening, while do fia is adora, playing
+
+black, countered with a Sicilian defense. how ever, using a Karpov variation on the Brixton, do n Ibrahim blundered on move 9 (N-KB6 ch?, followed by BOB3!) and cost himself one of his knights. It has been speculated that, as the knights were in fact the antitribu substitutes, the do n was in fact attempting to rid
+
+himself of the of fending piece. how ever, less charitable observers commented that the do jfia’s habit of referring to the knights as “horsies” so infuriated the do n that his game suffered. [ have it on very good authority that the do fia is well aware of the proper terminology, and used the
+
+diminutive explicitly to subvert her opponent’s concentration. the re is precedent for this sort of behavior in previous Grandmaster-level matches, so the do nia was not censured by the judges. Regardless, the do fia abandoned the Sicilian to press heradvantage, while the do n's attack was crippled
+
+by his insistence on leading with his remaining knight
+
+(16 N-KN4, followed by 17 N-KR6?). It was not until the do na removed do n Ibrahim’s remaining knight from the board (19 N-KR3!) that the do n’s game returned to its usual style and excellence. The midgame, from move 19 until move 32, belonged to the do n unquestioningly. While do na
+
+is adora’s attack had been superbly conceived, the need to divert some of her pieces to deal with the annoyance of the second “horsie” left her with too much of her of fense relegated to the corner of the
+
+board. This all owed the do n to seize the center, and he began to systematically dismantle the do ra's defenses. In particular, 24 B-K5 ch! necessitated a response of KKN1 and produced 25 B-KR3, removing one of the do jia’s rooks. At this point, it was loudly whispered in the gallery that black was in a resignable position. how ever, the game had one final turn left. Rushing
+
+the endgame, and perhaps distracted by the incessant noises made by his king!, the do n made the fatal blunder of 33 Q-O6, moving his queen into jeopardy. The do n recognized his error almost as soon as it was made and
+
+demanded to be all owed to recast his move, but even as he began his protest do na is adora responded with NK3!, remeving the do n’s queen from the board. The do n immediately made vociferous opposition, but was overruled by the judges, who felt that his move and his opponent's had been fairly made. It was the n, | must in shame report, that the greatest irregularity occurred. the re are certain chess players among the living
+
+who, when they find the game going against the m, will overturn the board in arage. Inevitably they are regarded as having for feited, but it saves the m the humiliation of seeing the ir king mated. | regret to say that do n Ibrahim
+
+displayed the tendencies of this sort of player and, in his own fashion, made a most shameful display on the board itself. Eventually, he was restrained by the judges, but was regarded as having lost both the match and his
+
+Grandmaster rating. He also lost a great deal of standing in the eyes of many of his peers, and the re is a motion before Les Amies Noir not to permit him to compete in the chess competition the next time we gatherin Madrid. do n Ibrahim, of course, has registered a for mal protest. As for the surviving pieces, the pawns were served
+
+to the spectators, while the remainder were staked and returned to storage to await the next competition, as the tournament was suspended in the wake of the do n’s outburst. Diego Luis Alvarez Ramirez
+
+July 17th, Madrid, 1995
+
+' The antitribu had been unwilling to participate, and as such, both of his feet were, of necessity, spiked to the board. This produced minor delays when do n [brahim first castled, but this miniscule disruption of play was infinitely preferable to for cing one of the spectators to do minate the of fending king into quiescence. It was felt that invoking Entombment would have been undignified. “- Clanbook: Lasombra
+
+=== PAGE 46 ===
+Oh, do stop whimpering, Enrique. Wheels with in wheels, plots with in plots, you say. Nonsense. Les Amies is the “inside,” and the members of the clan who are not inducted are “outside.” with in the Sabbat, all Lasombra
+
+are “inside” and all others are “outside.” In the Jyhad, all members of the Sabbat are “inside” and all others are
+
+“outside.” Is that diagram simple enough for you? But back to the subject at hand. the re are some who claim that Les Amies dates back to the 1600s; others say that it is one with the founding of the Sabbat itself. | have found reference to it, or its ancestors, in various of our
+
+texts going back to the nights of the Merovingian kings
+
+— and | daresay it is even older. The name is French simply for the sake of compromise. When the or der was crystallized, French was the only language besides Latin that our Italian and Spanish elders shared. As Frangais
+
+was the language of trade and diplomacy — where do you think the term lingua franca came from, Omar? — it seemed appropriate. Yes, the re have been many attempts to change it to something that would, as they say, play
+
+better in Cadiz, but we do have a regrettable tendency toward the traditional. Those of Les Amies are the knights and protectors of our kind. Just as we are to guide the destinies of the other clans, they shepherd our less talented members. they are
+
+the protectors, the great ladies and lords of the Lasombra, and you r induction into the ir ranks is perhaps the greatest thing you will ever accomplish. Of course, this do es not mean that you can rest on you r threadbare laurels. Ever onward, ever upward you must strive, lest you be deemed unnecessary. This will inevitably bring you into competition with others of the
+
+Lasombra, yes, but it is for the good of the blood that the cleverest, most talented of us must ascend. The first thing that you must learn is that Les Amies must never be discussed among those not already inducted. Not other Lasombra, not you r packmates, not you r ghouls or you r mothers. Should you be discovered to
+
+have revealed the secret of Les Amies Noir’s existence, no power under Heaven can save you. for give me for the nature of that pronouncement, but it is simple fact. Consider the sad case of a childe of a dear friend of mine, one Pablo da Costa. While Seftor da Costa was a you ng vampire of boundless promise and
+
+potential, he was unable to maintain even the healthiest of silences. One night, his tongue loosened by the wine in the veins of his dinner companion, he rambled of Les
+
+Amies Noir for over seven minutes. A Court of Blood was convened that evening, permission granted almost instantaneously, and his sire, my dear friend do ria is abella, was the first to sink her fangs into his throat. We reward success; we do not tolerate failure. @ Chapter Three: An Evening at the Feet of do n Miguel
+
+=== PAGE 47 ===
+Currently, those outside Les Amies thinkof it—ifthey know enough to think of it at all —as a sort of appendage of the Black Hand. I see not hing wrong with fostering this illusion, and even (for maximum effect) or chestrating the occasional “disappearance” of one spreading it. As for the Black Hand itself, it is less of a threat than one
+
+évil Revelations and fancy the mselves majestic scourges. In reality they are far less impressive. Why, Enrique, you seem flustered. No? Very well the n, | shall continue. Membership in Les Amies is a heavy responsibility. One must safeguard the clan, make the decisions called for while seated on the Court of Blood (oh! the agony of the first time you grant permission! It is beyond words. The bliss of the second time, how ever...) and steer the
+
+Sabhat itself will y-nilly where it would best be served to go. But the re is recompense. the re is the respect that can only be earned, the knowledge and power that being a friend of the dark brings. And, of course, the re is Madrid. Once a decade, we
+
+gather in Madrid, under the auspices of our beloved
+
+Archbishop Moneada, for a revel that shakes the pillars of Heaven. All the amusements one can devise; dancing, chess, fencing, seduction, hunting, all the courtly games
+
+Clanbook: Lasombra @®
+
+Rea SOKIY
+
+(SOC SIX SOS
+
+Y SS Wieeeeceote e EE oa ENE ae
+
+would imagine. Many of its members follow the Path of
+
+OK OS COM
+
+PSS alagaees
+
+SPM K KK OSC
+
+Hii
+
+< BORE Se
+
+SOK BEES
+
+=aUTATVLRAUHILUIL TT
+
+PUPP irviesa ee ee
+
+JRET URE ER BY
+
+PELEU ERED Gta
+
+' i ee | of blood and power. The finest wine is poured into the
+
+‘inest vessels for us to drink from. Musicians are brought in from all over the world. Even the Toreador vie to play for us in Madrid. Yes, Enrique, games of seduction. While we can not indulge in the carnal act, the re is certainly pleasure to be
+
+gained in the sharing of blood, and in the power that desire grants one over another. The trick in the se games, you see, is to be the pursued and not the pursuer. He, or she, who admits desire is but putty in the hands of the ir paramour. Oh, yes, the re are many great do fas of our kind, adies great, beautifuland cruel. Catherine di Medici and
+
+Lucrezia Borgia, were they living today, would be like children dressing in the ir mothers’ finery among the m. Our do ras have played the se games for centuries, and will play the m for centuries yet. Sometimes a pursuit takes a hundred years to complete, but in the end the
+
+coup is counted, ne c'est pas? The female of the species, after all, is far more deadly than the male. We do have lesser celebrations, most not ably Palla
+
+Grande and Festivo dello Estinto. The two are very different, but are both derived from the masques and revels of our breathing days — though they serve very different purposes now. === PAGE 48 ===
+Palla Grande is our little joke, our Grand Masquerade. [tis the one time of the year when we know the faces we wear, the one night when we can present the visage we want to the world. Yes, | know some of you have taken to wearing masks at other times, but that dulls the enjoyment. To have one night, just one night, when you r face
+
+is of you r own choosing... and to mock the Camarilla even as we do so, that is a pleasure indeed. Just as the single kiss is ineluctably more erotic than repeated pecks on the cheek, so too is one night of false guises more
+
+riveting than workaday masks, dulled with the soot of each night's fires. Palla Grande is a celebration of sophistication and deliberation, and it calls us to look to the next gathering in Madrid. Festivo dello Estinto, on the other hand, is sheer revel. It is Saturnalia and Carnival for us, a time for abandon. the re are no masks here, just blood and bodies in motion. A week they give us, and that is sufficient. Any more would be degenerate, any less insufficient. the re must be
+
+a time, you see, when the plots are laid aside and the machinations abandoned, when even our vigilance can be relaxed, ever so slightly. Not too much, how ever. Drunk on blood is one thing; drunk by others who watch for you r weakness is entirely another. DENOUEMENT
+
+| see [ have been talking for hours. You will have barely enough time to return to you r have ns. No, Enrique, do not leave; you shall remain. Good night, students. | will see you once the sun sets tomorrow. Now Enrique, | have observed you most carefully jis evening. you r questioning, you r attentiveness, even
+
+ot you r very stance bespeak that you are destined for a very vecial role with in Les Amies not r. on
+
+What role is that, you ask? Let me respond by saying that the Court was convened before class, and it was agreed that you show not the slightest spark of that flame which illuminates the true member of Les Amies. you r
+
+transparent attempts to spy for the Black Hand are amusing, considering you r ill-disguised favoritism. What did they expect to gain from employing you, | wonder. how ever, you do not wish to was te you r last few seconds with political discussion, | am sure. We shall, as
+
+they say, cut to the chase the n. | have been granted permission to slake my thirst with you r thin blood, Enrique. | would appreciate it if, as | fed, you were so kind as to avoid making a mess of you r vitae. Most courteous of you, Enrique, most courteous. q® Chapter Three: An Evening at the Feet of do n Miguel 47
+
+=== PAGE 50 ===; “PLS are
+
+1 \ —_.. ia
+
+| a
+
+_Crapter. Four: “ACCEPTABLE
+- Mopern LASOMBRA
+
+—— it Mls
+
+7 al
+
+Not all Lasombra are from Barcelona and Cadiz. In The templates that follow are ready for immediate the se days of the shrinking planet and global community, use, or can be suitably altered to fit you r needs. Of course, Keepers can come from any background so long as they _it is wise to ask the ir permission before altering the m — have the proven potential for success. Of course, the re _ they are proud, and may take of fense if the ir approval has are still certain preferences with in the clan—sometimes not been sought. The consequences of of fending a
+
+it’s not even who m you know, but who m you r great- Lasombra, we all know, are not light at all. great-grandfather knew in the days of the galleons. @® Chapter Four: Acceptable Modern Lasombra 49
+
+=== PAGE 51 ===
+AINTITRIBU PIRATE
+
+Quote: All | ask is a tall ship and a star to sail her by. Of course, a few freighters loaded with electronics would he nice too. Prelude: You always loved the sea. Asa child you lived on the coast, playing on the rocks as the waves splashed against the m. You started sailing as a teenager, winning several races by the time you entered college. As a successful manager in the insurance industry, you soon bought you r own boat, spending as many weekends as you could alone with the waves and wind. That was you r undoing. You were out alone one night when you saw the ship. She was a sight to behold: a
+
+hundred feet from stem to stern if she was an inch, with the sleek lines of the
+
+Cutty Sark. Figuring that she must have been affiliated with some beer company or other, you sat back to enjoy the spectacle instead of trying to escape. By the time you realized you r mistake, it was too late. You sire boarded you r ship and
+
+Embraced you that night, the n took you home to where the ships he used in his real work were do cked. You had n’t realized that the re were still pirates on the high seas, but as a member of you r sire’s crew
+
+you've captured cargoes that would have turned Blackbeard green with envy — Japanese electronics, Colombian cocaine, South African gold and diamonds, and American chips and
+
+software. Nobody else thinks the re's pirates out the re either, so by the time the pigeons on the freighters figure out what you're up to, it’s far too late for the m. You stay out at sea most of the time, where you are safe from the Sabbat and pretty much anyone else. It’s every
+
+childhood fantasy you've ever had come true, except the vampire part, but you always liked sailing by moonlight best anyway. Concept: You were Embraced by a Lasombra antitribu who wanted
+
+a capable childe for policing the crew of one of the pirate ships the non-Sabbat Lasombra still maintain. After the initial shock of the Embrace id wore of f, you r love of the sea took over and you became a more than sR
+
+enthusiastic pirate. Roleplaying Tips: Sometimes it’s hard to remember that you're not the hero of Captain Blood. Of course, modern pirates tend not to use rapiers, but still, you get caught up in the fantasy. You worry more about the Sabbat than the Coast Guard, but when things get
+
+tense you drop into character as the bloodthirsty terror of the seven seas. You do have a very strong practical side, though, and use you r knowledge of business and you r contacts in the insurance industry to help find potential cargoes and buyers for what you've stolen. Equipment: AK-47, short-wave radio, atlas, videotapes of
+
+Errol Flynn pirate movies
+
+50 Clanbook: Lasombra ®
+
+=== PAGE 52 ===
+Lt Leone |
+
+Name: Player: Chronicle: Physical
+
+Strength ®@@@@0000
+
+Dexterity @@@00000
+
+Stamina @@@00000
+
+P= SSS Abilities
+
+Talents
+
+Acting 0000000
+
+Alertness @0000000
+
+Athletics @0000000
+
+Brawl @@000000 do dge @®0000000
+
+Empathy 00000000
+
+Intimidation @@000000
+
+Leadership_____— 00000000
+
+Streetwise @@000000
+
+Subterfuge (0000000
+
+Se —————e——— Advantages
+
+Disciplines do mimale 0000000
+
+Oterchration _@@000000
+
+Potence @0000000
+
+Nature: Bon Vivant
+
+Demeanor: Brsve
+
+Concept: Artitrils. Pirate
+
+Clan: Lasontra Artitiile
+
+Generation: 97/4 have n: Attbates
+
+Social
+
+@@@00000
+
+Manipulation @@000000
+
+Appearance @@@00000
+
+Charisma
+
+Skills
+
+Animal Ken____——0 0000000
+
+Drive @®0000000
+
+Etiquette 00000000
+
+Firearms @@@00000
+
+Melee @®@@00000
+
+Music 00000000
+
+Repair ®0000000
+
+Security. o0o0000000
+
+Stealth. 00000000
+
+Survival @®0000000
+
+Backgrounds enerdtion @0000000
+
+@@000000
+
+@@000000
+
+Mentor
+
+Resources
+
+Mental
+
+@@0o00000
+
+@@000000
+
+@@e@00000
+
+Perception
+
+Intelligence
+
+Wits
+
+—— oe HO OS gy
+
+Knowledges
+
+Bureaucracy 00000000
+
+Computer 00000000
+
+Finance @®e@000000
+
+Investigation @0000000
+
+Law @0000000
+
+Linguistics_____—s)9 0000000
+
+Medicine 00000000
+
+Occult 00000000
+
+Politics 00000000
+
+Science @0000000
+
+———SSSSS 9 oo
+
+Virtues ousness @@000
+
+Instincts
+
+Morale
+
+See pee es ee el
+
+—S——————— EEE————————we
+
+-~2—=(Other Traits———
+
+Fetting __ 99000000
+
+Navigation _ @0000000 pole 4. 90000000
+
+~e——= Path of ———
+
+Harmony
+
+@e@eeeooood0do0odo0
+
+—=——= will power ——*—
+
+@e@ee@eeodoododo0d a al A)
+
+<= Biood Pool = ea) a) as) P fam) i YT a (ee F
+
+Health
+
+Bruised
+
+Hurt -l
+
+Injured = -1
+
+Wounded -2
+
+Mauled 2
+
+Crippled -5
+
+Incapacitated
+
+<= Weakness ——<~ can nel Le seem in wire or other reflectine warfaces
+
+EB) Ee) Ey Ene
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+=== PAGE 53 === a re
+
+(CADET
+
+Quote: With all due respect, str, you r courier was accidentally rendered permanently nonoperative after a failure to identify himself properly. I will, of course, accept full responsibility. Prelude: You were so happy when you were accepted at a top military college. You thought you had no illusions; you had prepared you rself for four years of tough training, psychological hazing and challenging classes. Three years in, things were going just the way you planned. You were at the top of you r class and ahout to get a commission, just as you'd always dreamed. - you r plans had n’t included getting killed, though. Unexpectedly
+
+SY): called to a meeting with two school of ficials and someone you
+
+))\) i) #J) assumed to be a reserve of ficer, you were asked a number of questions about you r studies and you r postgraduate plans. It was the sort of thing one might expect if one were being considered as a recruit for an elite for ce, and you did you r damndest to impress in hopes of getting the
+
+assigment. Less a week later you found out just what that assignment was. Now you realize that you r plans have n’t been so much ruined as redirected. You're still an of ficer, but now you're in action every night, and the bastards on the other side deserve no quarter. On you r way to the top, you’re already running you r pack with an eye toward
+
+victories that will make you r superiors sit up and take not ice. Concept: You're ambitious, gunning for a field promotion and maybe more. the re are a lot of others Embraced around the
+
+--) same time you were, but you're the cream of the crop. You're not above helping the others fail, anyway. Better they do it now than later, when the re’s more riding on the ir decisions. Roleplaying Tips: You're here to kick ass and...well, kick ass. Power with in the Sabbat is a lot more appealing than another bar on you r sleeve would have been, and not hing you could have
+
+do ne while alive matches the thrill of the operations you're pulling of f now. You know you're the best of the best; now you just have to prove it to the world and you r clan elders. Equipment: Well-tailored conservative clothing, H&K
+
+9mm, survival knife, binoculars
+
+=== PAGE 54 ===
+Name: Player: Chronicle: SS
+
+Physical
+
+Strength @@800000
+
+Dexterity @@@0@00000
+
+Stamina
+
+= SSSSSSS=A Abilities
+
+@@@00000
+
+Talents
+
+Acting CO O000000
+
+Alertness
+
+Athletics
+
+Brawl do dge
+
+Empathy
+
+Intimidation
+
+Leadership
+
+Streetwise
+
+Subterfuge
+
+SSS = Advantages
+
+@@000000
+
+@8@800000
+
+@@000000
+
+@@000000 ss § @@OOO0000
+
+@@000000
+
+O0000000
+
+Disciplines
+
+Oltenchration
+
+Potence
+
+LOWNEE 6 @OOO0O000
+
+PAPRMENOK @O000000
+
+@@000000
+
+O0000000
+
+OO0O000000
+
+O0000000
+
+OO0000000
+
+Nature: Comiver
+
+Demeanor: did ar
+
+Concept: Cadet
+
+Social
+
+@@0@0@0000
+
+Manipulation @@000000
+
+Appearance @@000000
+
+Charisma
+
+Skills
+
+OOOO 0G06
+
+Drive @@000000
+
+Etiquette 00000000
+
+Firearms @@e@00000
+
+Melee @@000000
+
+Music 00000000
+
+Repair 00000000
+
+Security @0000000
+
+Stealth @0000000
+
+Survival 00000000
+
+Animal Ken pacherounes
+
+@0000000
+
+Reuemer —— @ 0000000
+
+Sablet Stee 0000000
+
+Li Lgsomppm |
+
+Clan: Laszenha
+
+Generation: 7374 have n: Attributes ——————
+
+Mental
+
+Perception @@000000
+
+Intelligence @e@000000
+
+Wits @@OOOOOO
+
+— ee 4
+
+———— SSS
+
+Knowledges
+
+Bureaucracy @0000000
+
+Computer 00000000
+
+Finance O00000000
+
+Law__ ss @O 000000
+
+Linguistics @0000000
+
+Medicine __@0000000
+
+Occult 00000000
+
+Politics @0000000
+
+Science 00000000
+
+Investigation
+
+—_————— ef-s
+
+—_—_—S eee
+
+Virtues
+
+Callousness @@000
+
+Instincts
+
+Morale or rr
+
+SE — Se
+
+~2— Other Traits—<-
+
+OO000000
+
+O0000000
+
+O00000000
+
+O00000000
+
+O00000000
+
+Q00000000
+
+Path of ———-
+
+Honorable Accord
+
+@e@e@eeeeodoododdad
+
+—-—<= will power ——
+
+@ee@e@eeeeoodnd
+
+Ese a a | a
+
+== Biood Pool =" ea eh a
+
+OOOOOOOOOO
+
+~2———= Health ———
+
+Bruised
+
+Hurt -l
+
+Injured -1
+
+Wounded 2
+
+Mauled 2
+
+Crippled 5
+
+Incapacitated
+
+Weakness =~ can nel le een in mire or other reflective sunfacer fa fy
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines: 3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1)
+
+=== PAGE 55 ===
+Cat BURGLAR
+
+Quote: Seems a shame to keep a diamond this beautiful locked in a vault where no one can see it, do esn’t it? I should do something about that.... Prelude: You were always getting into places you weren't meant to go, and it was a point of pride that no lock could stop you. When you were a kid you did it for kicks, but soon enough you realized the profitability of what you could do. Shopping in a store with abysmal security, you not iced that a Master Lock and a poorly placed security camera were
+
+all that stood between you and the jewelry cases. You came back after the store was closed, and with in a week you were of f the Ramen-and-water diet permanently. From the n on you made a career out of relieving overconfident stores and individuals of the ir jewelry. As you r skills grew, you occasionally returned one of the items you had stolen to you r victim, along with a not e explaining why it was n’t good enough to keep. the n came the night of you r Creation Rites. you r sire had been watching you, and plucked you of f the side of a building do wn which you were rappelling in anticipation of a relaxing evening’s B&E. Mind you, once you dug you rself out of the ground, you found that you r
+
+Embrace could be looked at as a positive for you r career. you r increased dexterity and sensitivity all ow you to pick even the toughest locks, and as an extra bonus the re is n’t a heat sensor in the world that can pick you up. Better yet, you now get tips on where the
+
+Ventrue and Toreador of the Camarilla stash the ir goodies. It’s always more lucrative to rob from other vampires, and those Camarilla fools have it coming. You share you r
+
+profits with you r pack members, and you occasionally get kicks out of taking art you've appropriated and returning it to its
+
+Toreador owner, once you r pack has...improved...it. Concept: You are a professional cat burglar and an expert with security systems. The Sabbat Embraced you because they wanted someone who could retrieve
+
+items from the have ns of Camarilla vampires, and because they liked you r sense of humor. You do n’t put too much stock in the latter, though, and perhaps that’s wise. Roleplaying Tips: You are the best at what you do. You do n’t brag too much
+
+about it, but that’s because you do n’t need to. You do n’t take risks, but you enjoy adding a certain flair to you r exploits. Deep do wn you are a practical joker, but you do n’t let it interfere with business. Equipment: Lock picks hidden inside
+
+a pen, climbing gear, L slide, small all en wrench, glass cutters, black clothing
+
+=== PAGE 56 === a SONBD TT
+
+Name: Player: Chronicle: Physical
+
+Strength | @@@00000
+
+Dexterity @e@0@e0000
+
+Stamina @@000000
+
+PSS Ahilities
+
+Talents
+
+Acting 0000000
+
+Alertness @@@00000
+
+Athletics @0@0@00000
+
+Brawl @0000000 do dge @@@00000
+
+Empathy 00000000
+
+——___ 00000000
+
+@@@00000
+
+O0000000
+
+Intimidation
+
+Leadership
+
+Streetwise
+
+Subterfuge
+
+= SSS Advantages
+
+Backgrounds
+
+Disciplines: @@@00000
+
+®0000000
+
+OOO000000 o Oo0000000
+
+Potence
+
+Nature: Jester
+
+Demeanor: Competitor
+
+Concept: Cat Burglar
+
+Attributes
+
+Social
+
+@@000000
+
+Manipulation @@000000
+
+Appearance @@000000
+
+Charisma
+
+Skills
+
+Animal Ken 00000000
+
+Drive____ Ss @0 000000
+
+Etiquette 00000000
+
+Firearms_ ss @OOQOO000
+
+Melee 0000000
+
+Music 00000000
+
+Repair 00000000
+
+Security @@0@0000
+
+Steallth___ ss @@@@0000
+
+Survival 90000000
+
+Reremes _——_ @@@@0000
+
+Contads 0000000
+
+Clan: Lazonhra
+
+Generation: 7374 have n: Mental
+
+@@@00000
+
+@@o00000
+
+@@800000
+
+Perception
+
+Intelligence
+
+Wits
+
+0 6SS a eee
+
+Knowledges
+
+Bureaucracy 00000000
+
+Computer o0o0000000
+
+Finance @@@00000
+
+Investigation O00000000
+
+Law__________@0000000
+
+Linguistics 00000000
+
+Medicine 00000000
+
+Occult @0000000
+
+Politics 00000000
+
+Science 00000000 ee
+
+Se ee a Eh a
+
+Virtues
+
+Callousness @0000
+
+Instincts
+
+Morale af aa Be cae ee
+
+-=—= (the r Traits —=--
+
+O00000000
+
+O0000000
+
+OO0000000
+
+O0000000
+
+OO0000000
+
+OO000000
+
+OO0000000
+
+Path of ———<-
+
+Catharr e@e@oeeoo0o0od0
+
+~e—<= will power ———
+
+@e2e0@e0e080000
+
+OOOOOOOOOO
+
+<= Blood Pool =
+
+OOOOOOOOOO ee See) ee) ee) 2)
+
+Health ———-
+
+Bruised
+
+Hurt
+
+Injured
+
+Wounded
+
+Mauled
+
+Crippled 5
+
+Incapacitated
+
+== Weakness ~*~ can not be seen im mine on other reflective wrfaces
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1)
+
+=== PAGE 57 ===
+CHILD PRODIGY
+
+Quote: “I mean,” she said, “that one can't help growing older.” “One can't, perhaps,” said Humpty Dumpty, “but two can. With the proper assistance, you might have left of f at seven.” That's from Alice. Most grownups do n’t get it. Prelude: Everyone told you what an exeptional child you were. It was fun at first. Classes at the special school, a computer of you r very own when you were four, classes at the university when you were seven. You did n't even mind not having friends you r own age; other children did n't understand anything you tried to talk to the m about. It was when you r parents kept putting of f the promised trip to Disney World that you realized they were using you
+
+and you r mind. the re was always one more class, one more seminar, one more science fair or one more talk show. What really brought it home was they way they reacted when you wanted to take classes that weren't hard sciences. they wanted you to concentrate on being a world-famous scientist, they gave you a line about the good you could do for mankind — but you knew that what they really wanted was to bask in the glory
+
+of raising a child genius. SN om.)
+
+That’s when you realized what you had to do to get you r way. for a year you played the m of f one another, getting the m to compete for you r affections. they were well on the ir way to divorce when the Lasombra took you. It seems that they needed someone with that special knack
+
+for manipulation, and you r other talents were an unexpected bonus. 4 4 i, Vampirism has some serious limitations, not the least of which is an eternity of being four and a half feet tall, but at least you r new family appreciates you r entire personality rather than treating you like a performing monkey. Concept: As a child prodigy among the kine, you became bitter about ) the lack of respect you r family and others had for you asa person. Among
+
+the Lasombra, you intend to use you r intellect to become an important power broker with in the sect, and you are certain that not hing, least of all you r child's body, will stand in the way. {
+
+Roleplaying Tips: On most levels — especially decisionmaking and strategy — you function as an adult. Psychologically, how ever, you are still a child. Under normal circumstances you can beas cold and calculating as any Lasombra (though you may feign innocence to encourage people to underestimate you), but when badly frightened you look for reassurance from you r mentor. Equipment: Loaded computer, teddy bear, Mace, copy of
+
+Alice in Wonderland
+
+Clanbook: Lasombra ®
+
+=== PAGE 58 ===
+Ct sone
+
+Name: Player: Chronicle: Nature: Child
+
+Demeanor: Dinecten
+
+Concept: ChiLA Prodigy
+
+Attributes
+
+Physical
+
+Strength @O000000
+
+Dexterity_______@@@®00000
+
+Stamina ®@@000000
+
+Se ———————EE= Abilities
+
+Talents
+
+Acting 0000000
+
+Alertness @®0000000
+
+Athletics 00000000
+
+Brawl 00000000 do dge @@000000
+
+Empathy 00000000
+
+Intimidation @Q000000
+
+Leadership 00000000
+
+Streetwise 00000000
+
+Subterfuge Ss @0 000000
+
+Social
+
+@0000000
+
+@e000000
+
+@@000000
+
+Charisma
+
+Manipulation
+
+Appearance
+
+Skills
+
+Animal Ken___— 00000000
+
+Drive 00000000
+
+Etiquette @@000000
+
+Firearms @@000000
+
+Melee @O000000
+
+Music @@OOO000
+
+Repair___ Ss 9JCOC}O 0000
+
+Security____— Ss 90000000
+
+Stealth___ ss @@000000
+
+Survival 00000000
+
+Clam: Laszenhra
+
+Generation: 1274 have n: Mental
+
+@@000000
+
+@ee00000
+
+@@e@00000
+
+Perception
+
+Intelligence
+
+Wits
+
+————— 0 6S
+
+OOO TN
+
+Knowledges
+
+Bureaucracy 00000000
+
+Computer @@@00000
+
+Finance 00000000
+
+Investigation___ @@000000
+
+Law____————— 7171770000
+
+Linguistics____@@@00000
+
+Medicine @0000000
+
+Occult @0000000
+
+Politics 00000000
+
+Science___————_ —( @@@@OO0O
+
+SOS Advantages S—=>==wree
+
+Disciplines
+
+Aupee 0000000
+
+Deminele ————@@ 000000
+
+Potence @@000000 oO0000000
+
+Backgrounds
+
+Kaomes Ss @@OOO000
+
+Retain @@000000
+
+Virtues
+
+Callousness
+
+Instincts
+
+Morale
+
+Oe OOS
+
+SSS SS SSE
+
+-2—<=(the r Traits—=
+
+S Path of ——=-
+
+@eeeeeeododo
+
+<= will power ———
+
+@eee@e@eoododododod0od
+
+ON YO)
+
+--2—<= Blood Pool ="
+
+EETBITILITIO
+
+5 | Ki a Ee Tl
+
+Health ———=-
+
+Bruised
+
+Hurt
+
+Injured
+
+Wounded
+
+Mauled
+
+Crippled 5
+
+Incapacitated
+
+Weakness can not be seem im mine on other reflective wrfaces
+
+Attributes: 7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1)
+
+=== PAGE 59 ===
+CONSULTANT
+
+Quote: So you want help taking out that Toreador who owns the nightclub you adore. the re’s a rate card for my services on the dresser. And stop dripping blood on the carpet; it’s Persian. Prelude: Asa mortal, you were a consultant in the telecommunications industry. You had a promising career, but you grew disgusted by the other you ng professionals in the ir skyscraper of fices who ignored the stench of urine from the homeless in the subway stations below. Had you been in Camarilla territory the Ventrue may have tried Embracing
+
+you, but it would n’t have changed the fact that you are Sabbat to the core. You see and understand the inner darkness of the power you wield, and you do not flinch from the knowledge that a cut on a firm’s balance sheet can drain kine dry as surely as a pack in frenzy. Concept: Embraced to handle some of the clan’s interests in the high-tech and telecommunications markets, you find that the ideals of the Lasombra resonate well with the disgust you feel for the hypocrisy of kine financiers and the ir
+
+Ventrue puppeteers. you are a crucial part of the more subtle Lasombra plans, and could even pass you rself of f as Ventrue if necessary, so long as no mirrors were brought into play. Roleplaying Tips: Among mortals and those outside you r immediate circle, you are the picture of the high-powered businessperson,: usa saying all the right things and smiling in just the right way as
+
+WY Mp ee ie you deal with those dedicated enough to work long hours. i Those who m you trust know that beneath you r pleasant exterior lurks something unimaginably dark. No one has yet seen you get angry. A few unlucky souls have, how ever, seen you get even. Equipment: Laptop computer, briefcase, tailored suits, cellular phone, sharpened silver letter opener
+
+=== PAGE 60 ===
+LL Lnsomipp
+
+Name: Player: Chronicle: Nature: Curmudgeon
+
+Demeanor: Ar.kitd
+
+Concept: Conwlant aa Be
+
+Clan: Litonha
+
+Generation: 7374 have n: aes CSCS
+
+Physical
+
+Strength @@O000000
+
+Dexterity @@000000
+
+Stamina ®@000000
+
+SSS —Abilities
+
+Talents
+
+Acting 0000000
+
+Alertness @®0000000
+
+Athletics 00000000
+
+Brawl 00000000 do dge 00000000
+
+Empathy @0000000
+
+Intimidation @@@00000
+
+Leadership @@000000
+
+Streetwise @0000000
+
+Subterfuge @@000000
+
+OO ————— Advantage S
+
+Disciplines do minate @@000000
+
+Obtercretion __@0000000
+
+Potence @0000000
+
+Social
+
+@@e00000
+
+Manipulation @@@00000
+
+Appearance @@000000
+
+Charisma
+
+Skills
+
+Animal Ken____— 0000000
+
+Drive @@O00000
+
+Etiquette @@000000
+
+Firearms ®0000000
+
+Melee 00000000
+
+Music SCO OO 00000
+
+Repair OO0000000
+
+Security. OO0000000
+
+Stealth 00000000
+
+Survival 97000000
+
+Backgrounds ona = ees 80000000
+
+@®0000000
+
+®@@@0000
+
+OO0000000
+
+O0000000
+
+O0000000
+
+( ellanee
+
+Mental
+
+@e@e@00000
+
+@@e@0o0000
+
+@@e@00000
+
+Perception
+
+Intelligence
+
+Wits
+
+—==———_—__— 0+ e Gewee0M@naaeo@”0N0”0aews———_——avwsi
+
+Knowledges
+
+Bureaucracy @@e@00000
+
+Computer @0000000
+
+Finance @@e@@0000
+
+Investigation @0000000
+
+Law__ SSS #0000000
+
+Linguistics____—-—Ss @QQ00000
+
+Medicine 00000000
+
+Occult @@000000
+
+Politics 00000000
+
+Science 00000000
+
+———— OS eae eo oee Naa
+
+Virtues ousness, @0000
+
+Instincts
+
+Morale
+
+2-90)
+
+Oe —————————overr
+
+== (the r Traits—<
+
+O00000000 va Path of ——-—
+
+@®@e@eeeeooodod will power ——-
+
+@72e2e0e0e0000 a A Te
+
+—2—<= Blood Pool =
+
+OOOOOOUOOOO
+
+| Ka 90 fs | Gf
+
+Health ——-
+
+Bruised
+
+Hurt
+
+Injured
+
+Wounded
+
+Mauled
+
+Crippled
+
+Incapacitated
+
+=< Weakness can not be seen in mine or other reflective wrhaces
+
+Attributes::7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+=== PAGE 61 ===
+THE FALSE PRIEST
+
+Quote: In nomine Pati, et Filii, et Spivitu Sancti, amen. Prelude: It seems that you spent all you r life preparing for the priesthood. It was expected of you. you r parents, you r aunts and uncles and both sets of grandparents were always talking about how you were going to be a priest, for
+
+as long as you can remember. You did n'teven question it until after you'd been at the seminary for a couple of years. the n you began examining
+
+you r beliefs, and you found that not only did n’t you want to become a priest, but you did n’t even believe in
+
+God. It became clear to you that you'd only been do ing what everyone else wanted you to do, and that you had been manipulated by you r family and by the +
+
+Church itself. You felt devastated and betrayed, and were on the verge of ' taking you r a \
+
+own life. Suddie n ly something with in you oe snapped, and e
+
+you were filled with an anger that swept away the fear and depression. You =
+
+decided that you would find a way to get back at those
+
+who had manipulated you. The only question was how. 60 Clanbook: Lasombra @
+
+You were still at the seminary a few months later when the for eign priest visited. You were intrigued by him. You couldn't quite place his accent, and while he spoke to all the students, you felt his eyes lingering on
+
+you. The next time you saw him, about two weeks later, he revealed what you r true future was to be. At least the
+
+Lasombra make no pretense about the fact that they intend to direct you r future, and should you r sire the
+
+Monsignor’s plans come to fruition, the re's something in it for you now. He finds you r lack of faith disturbing, but is will ing to nurture you through you r apostacy...for now. Concept: You are a traditional Lasombra, the mole inside the religious institutions of mortals. While
+
+this role no longer carries the importance it once did, you're still a useful asset to the clan, especially when it comes to reporting on the activities of hunters. Roleplaying Tips: You are in the habit of playing the serene prelate in front of others, but inside you are not calm at
+
+all. You may still have unresolved feelings about we
+
+~ you r experiences with the
+
+Church, but they are tempered with you knowledge of the harsh realities of life. Still, it would never do to let you r flock see you r inner turmoil. Comfort and guide
+
+the m as best you may, for are you not you r brother's keeper? Equipment: Clerical garb, religious texts, fourdoor sedan with fake
+
+wood paneling
+
+=== PAGE 62 ===
+Name: Player: Chronicle: Physical
+
+Strength____ ss @@000000
+
+Dexterity @@000000
+
+Stamina @@000000
+
+PEE Abilities
+
+Talents
+
+Acting ss @@O00000
+
+Alertness @@000000
+
+Athletics 00000000
+
+Brawl 00000000 do dge @0000000
+
+Empathy @@@00000
+
+Intimidation 00000000
+
+Leadership @@000000
+
+Streetwise 00000000
+
+Subterfuge @@O000000
+
+SEB Advantage S
+
+Backgrounds
+
+11s | | feretetere) purstion 99000000
+
+Disciplines
+
+Deminele 0000000
+
+Olbtercbrstion _@@@00000
+
+Nature: Avtit
+
+Demeanor: Caregiver
+
+Concept: Falze Priett
+
+Attributes
+
+Social
+
+Charisma @0000000
+
+Manipulation___ @@@®@®o000
+
+Appearance @@000000
+
+Skills
+
+Animal Ken CO OO000000
+
+Drive @0000000
+
+Etiquette §-—=S#s_—Ss @@OOO00N
+
+Firearms 00000000
+
+Melee 00000000
+
+Music @®0000000
+
+Repair 00000000
+
+Security. 00000000
+
+Stelth___ SS @0 000000
+
+Survival. OO000000
+
+Herd
+
+Kenic 6 @@OO0000
+
+@0000000 hag
+
+LIL momen
+
+Clam: Laszonha
+
+Generation: 7774 have n: Mental
+
+@@0@00000
+
+@@000000
+
+@@000000
+
+Perception
+
+Intelligence
+
+Wits
+
+——— 0 OSaN
+
+Knowledges
+
+Bureaucracy @@000000
+
+Computer 00000000
+
+Finance ®@0000000
+
+Investigation @0000000
+
+Law___ 0000000
+
+Linguistics @@000000
+
+Medicine 00000000
+
+Occult @@@0@0000
+
+Politics 00000000
+
+Science 00000000
+
+SSS HO OS
+
+SS _>=_ - S S
+
+Virtues ousness @@600
+
+Instincts
+
+Morale
+
+<2 OO
+
+SS O00 OSO“—<= OS $$ wu
+
+=== (Other Traits——-
+
+-o——= Path of ——=-
+
+Caine
+
+@#@eeeeee@ee@eod0
+
+-2—< will power ———
+
+@ee@e@eooododod0d
+
+OOOOOOOOOO
+
+== Blood Pool = eg)
+
+OOOOOOOOOO
+
+Health
+
+Bruised
+
+Hurt
+
+Injured
+
+Wounded
+
+Mauled
+
+Crippled
+
+Incapacitated
+
+—=—— Experience =~ do oOBao OoaoG
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines::3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1)
+
+=== PAGE 63 ===: 8 EE cae
+
+KING OF BEGGARS
+
+Quote: Daniel, Daniel, Daniel. How many times have I told you not to hold out on me? Now which finger will you miss the least? Prelude: Born to wealth and privilege, you found the atmosphere of you r parents’ home stuffy and boring beyond belief. You began slumming, creating a “street” persona for you rself so that you’d have someplace to escape to when the dinner parties got to be too tedious. One thing led to another, and you r street face became more real than you r real
+
+one. Using some of Daddy’s do ugh, you established contacts, the n cred, the n started or ganizing you r runners. In no time, you'd marked of fa profitable section of turf in the heart of the city. Literally do zens of thieves, pickpockets and panhandlers reported to you. Unfortunately, one of the m reported to someone else as well. The woman who Embraced you was most amused by you r low
+
+tastes in companionship, and somewhat impressed by you r adaptability. Now you r runners work for the clan and the Sabbat as well as for you, ferreting out wallets and secrets with equal aplomb. Concept: You're arich dilettante
+
+who se hobby turned into a calling. Talents that should have been wielded in the business world instead blossomed in the underworld, and you'rea for ce
+
+to be reckoned with on the streets. The clan uses you and you r minions to move information undetectably, as well as filch it. Roleplaying Tips: Toward
+
+you r charges you are kind and paternal — unless, of course, one tries to hold out on you. the n it’s object lesson time, and you make sure that other potential troublemakers watch. You can still move in high society with the best of the m; indeed, many ladies you knew during you r
+
+old life remark that the re’s something “dangerous” about you now. You keep an eye on all the exits, one hand in you r pocket, and the other in someone else’s (the better to steal his wallet). Equipment: Cellular phone, beeper, 9mm handgun, natty silk suit, pair of black leather
+
+gloves (too small) that you swiped as a souvenir
+
+=== PAGE 64 ===
+Name: Player: Chronicle: Nature: Commer
+
+Demeanor: Ar.4h:tect
+
+Concept: King of Began
+
+SSS Attributes
+
+Physical
+
+Strength _®@000000
+
+Dexterity ®@@00000
+
+Stamina @@000000 aS Abilities
+
+Talents
+
+Acting CO O000000
+
+Alertness @®0000000
+
+Athletics 00000000
+
+Brawl @0000000 do dge @0000000
+
+Empathy 00000000
+
+Intimidation @@®000000
+
+Leadership__ @0000000
+
+Streetwise @@@00000
+
+Subterfuge _@@@00000
+
+Os. Advantages
+
+Backgrounds
+
+Hed — @@@00000
+
+Disciplines do mindle _—@0000000
+
+Obereblration _ @@000000
+
+Potence @0000000
+
+Social
+
+Charisma @@000000
+
+Manipulation___ @@@@o0000
+
+Appearance @@000000
+
+Skills
+
+Animal Ken 0 OO0}0000
+
+Drive @®0000000
+
+Etiquette 00000000
+
+Firearms @®@000000
+
+Melee @@000000
+
+Music 00000000
+
+Repair O0o0000000
+
+Security. @®0000000
+
+Stealth _@@@00000
+
+Survival OO0000000
+
+Contacts
+
+Reromrees
+
+®@000000
+
+@@@00000
+
+O0000000
+
+O0000000
+
+O0000000
+
+Lgsommp | |
+
+Clam: Lasonhra
+
+Generation: 127 have n: Mental
+
+@e@e@00000
+
+@@000000
+
+@e00ee000
+
+Perception
+
+Intelligence
+
+Wits
+
+——— ee 0 OS aaa TR, Knowledges
+
+Bureaucracy 00000000
+
+Computer 00000000
+
+Finance @0000000
+
+Investigation 00000000
+
+Law______——S— ®®000000
+
+Linguistics 00000000
+
+Medicine 00000000
+
+Occult @@000000
+
+Politics oo0000000
+
+Science 00000000
+
+=== +0 oeeen te
+
+Virtues
+
+Callousness @@@00
+
+Instincts
+
+Morale or re a Ee, nL a nn a) a ra Geen. -=—= (the r Traits——-—
+
+O00000000
+
+O00000000 o00000000 em Path of ——=--
+
+Catharr
+
+@ee@eeeooodo0ooad
+
+—2——<= will power ———
+
+@e@eee@eeoodododaod
+
+BODRBBEEeoo
+
+-eo——= Blood Pool ="
+
+OOOOOOOOOO
+
+OOOOOOOOOO
+
+Health >
+
+Bruised
+
+Hurt -l
+
+Injured = -1
+
+Wounded -2
+
+Mauled 2
+
+Cipled 5
+
+Incapacitated
+
+~—<= Weakness =" can not be seen im mines on other reflective surfaces
+
+Attributes::7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+=== PAGE 66 === a. leo
+
+Zz as)
+
+1S
+
+Cerin SPECIAL
+
+~ not EWORTHY ©
+
+TASOMBRA tT ia
+
+MOoNTANO AND GRATIANO was perceived as a failure in life. In truth, the Armada failed because of Philip’s insistence on attacking prematurely, despite the fleet's woeful preparation. His Majesty's was te of good Spanish lives, both in the Armada and in the endless wars in Spain’s Dutch possessions, angered
+
+Like Caine and Abel or Romulus and Remus, the se two brothers are renowned for the ir antagonism. It is truly a pity, though, that Montano has not emulated
+
+Abel or Romulus and quietly all owed himself to be killed. So instead the ir strife, the strife of loyal childe against drinker of the Amaranth, goes on. many Lasombra. Sidonia had failed in Philip's mad scheme in life, so certain clan elders determined he would be an: Me ae Ps insult to the was trel king in death. For more information on Montano and Gratiano, mail Tae: Embraced and carefully trained by do via Beatriz, a see Children of the Inquisition. Lasombra of noble Aragonese breeding, Sidonia was
+
+do N MEDINA SIDONIA starved for a week and the n brought to the king’s chambers. Only the strength of do ria Beatriz’ slender hand do n Sidonia was Embraced more as an object lesson ie So aeee held the crazed neonate back from ripping out his liege’s to King Philip II of Spain than out of any tributes to his
+
+own talents. The admiral into who se charge the Armada was given, Sidonia is unusual for a Lasombra in that he throat. As he slavered and raged, she calmly instructed
+
+@ Appedix: Certain Especially not eworthy Lasombra 65
+
+=== PAGE 67 === the terrified monarch in the proper duties of kingship. For six hours she lectured him, with Sidonia how ling for blood the entire time. Initially the intent of do via Beatriz and her peers had been to dispose of Sidonia once his purpose had been
+
+accomplished, but she felt some guilt at using a Spaniard of noble blood this way. Exercising certain of her noble prerogatives, she instead gave Sidonia his true training in the ways of the clan and the Sabbat. A mild-mannered
+
+man in life, he had been changed by his experiences on the Channel and after his death. His for midable tactical ability remained, but any trace of subservience and malleability had been burned out of him. Certain of the other elders complimented do fa Beatriz on her perception, and do n Sidonia ascended the ranks of Les Amies Noir. To this day, do n Sidonia remains one of the Sabbat’s
+
+most cunning tactical minds. His accomplishments in cities as widely separated as New York and Manila have reinforced his status to the point where he is unassailable. lurks a mind better suited to a machine. 66 Clanbook Lasombra @
+
+Behind the visage of a slender and kindly grandfather
+
+Only two things can upset the do n’s legendary calm. do n Sidonia is obsessed with reducing England via siege, more so than he ever was in life. So far all of his efforts in this direction have come to naught, and the frustration of the failure has taken a visible toll. Sidonia has stated that he would gladly watch the sun rise, if only he could do it
+
+from Buckingham Palace, and not one of his companions do ubted his sincerity at the time. do n Sidonia also harbors a centuries-old grudge against the mercenary general Parma, who Sidonia believes betrayed him. Embraced by the Ventrue, Parma has spent the intervening
+
+years alternately opposing and ducking Sidonia. Should even a rumor of the mercenary’s presence reach do n
+
+Sidonia’s ears, the city that spawned the rumor will move to the top of the Sabbat’s list of future targets. ArcHBISHOP Amprosio Luis
+
+Moncapa oF Maprip
+
+Never a Pope (though not from lack of trying), Archbishop Mongada holds the same title in death that he did in life. how ever, in life and death he has probably had more effect on world affairs than have many men who occupied the Holy See. Once responsible for the
+
+massive abbey in Madrid, Mongada held palpable tempo-
+
+=== PAGE 68 === ral power over the nobles of the city, and indeed the country, through the numbers of the ir bastards who were inducted into holy or ders in his diocese. Through blackmailand extortion, he used his access to the se illegitimates
+
+to control the ir mothers and fathers and the course of the warring states that would someday coalesce into.a united
+
+Spain. Duels were fought, wars were initiated, and many, many estates were turned over to Holy Mother Church at
+
+Mongada’s direction. the se meddlings in the affairs of the great did not escape the attention of the Lasombra, who were impressed with the mortal’s talent and audacity. Sensing in him the potential for greatness, they bent what efforts they could to Embracing him. Behind monastery walls
+
+and the shield of the great Faith that surrounded him, though, Mongada avoided the Kiss for almost a decade. To this night, no other of those honored by being targeted for selection has evaded the Embrace for so long. When he was finally taken, how ever — ah, what a triumph for the Lasombra that was! A man of power, Moneada had disciples and protégés in every monastery in the Iberian peninsula. the se he soon Embraced, and the
+
+houses of God became home to those who would be the ir brothers’ keepers. In no time the great abbeys and nunneries were riddled with Lasombra, all devout yet devoted to the Sabbat and Archbishop Mongada. Behind walls of
+
+Faith that other vampires could not breach, Mongada and his children plotted the course of western Europe. It was Moncada who, through a vampiric royal confessor, suggested to Henry the Navigator of Portugal that new lands awaited his banner. Though the Lasombra
+
+of Portugal take credit for Vasco de Gama, it was Mongada pulling the strings that opened the curtains on the New
+
+World. Pizarro, Cortéz, De Leon, Balboa were but instruments of his will. The Papal decision to split the new lands between Spain and Portugal was or chestrated by Moneada; it would not do for his Spanish
+
+the se men and Portuguese children to squabble among the mselves when God had provided such rich booty. Indeed, the re are those who say that the Sabbat’s structure is modeled
+
+on the Church as a tribute to Archbishop Mongada, though he graciously declines credit for such a thing. Less to his credit is the fact that he was among the first, and certainly the most effective of the children of Caine at using the Inquisition to deal with political opponents. All good things come to an end, how ever, and
+
+Spain’s power waned. The potency of the monasteries diminished as well, and Moneada found himself holding strings with no puppets attached. It was the n that he truly turned his attention to the Jyhad and, stealinga march on
+
+his enemies, convinced the other elders of the Sabbat to move the ir base of power to the brave new world awaiting the m on the other side of the sea. Mongada himself did not venture across the seas, having grown too accustomed to his surroundings to leave: Out of courtesy Les Amies Noir returned to him each decade instead of causing him to stir from his beloved Madrid. Today, Moneada sits, a spider in a razored web, watching from his ruins in Madrid. His childer and
+
+erandchilder are everywhere in the clan, and his word carries or eat weight even in the se fallen nights. Of late, though, he has become obsessed with the accounting that God will inevitably demand of him for his sins, and as such he has begun entertaining odd guests. Some
+
+whisper that a Salubri has been seen in the monastic quarters; others claim that they have seen angels with wings of a steely sheen. The Archbishop refuses to comment on such matters, and gently encourages those
+
+who spread such rumors to lead War Parties, preferably on the other side of the Atlantic. LISETTE VIZQUEL
+
+A scion of a wealthy Cuban family for ced into exile by Castro’s rise to power, Lisette was raised on tales of her family’s noble history and curses against the man who had brought the m so low. While the Vizquels hardly were
+
+destitute, they regarded the ir residence in Miami as an exile, not as a home. you ng Lisette dutifully ingested all of this, as well as her parents’ superb work ethic, and excelled at school in both scholastics and athletics. The recipient of a full
+
+scholarship to Stanford, she was an Academic All-American in two sports while shattering long-held academic records in the classroom. It seemed that not hing could hold her back from a career of stunning successes. @ Appedix: Certain Especially not eworthy Lasombra
+
+=== PAGE 69 ===
+_—SS not hing, that was, except the auto accident. The wreck was so bad that her charred corpse had to be identified from her dental records. Lisette’s parents bore
+
+the loss stoically; she could see the ir strength as she watched her own funeral. The accident, of course, was a sham. Certain of the
+
+Lasombra of Cuba, for ced with the ir families into exile as the Brujah-backed Castro muscled his way into power, had been paying careful attention to Lisette for over a decade. they simply chose this moment to collect her. Among the quickest initiates into Les Amies ever, Lisette now leads War Parties in Miami and the Florida Keys. She watches with glee as Castro’s regime crumbles, and
+
+dreams of a night when she can set foot on the land that calls to her. All who know her fully expect that when
+
+Castro and his backers are finally thrown do wn, it is
+
+Lisette who will ascend to the seat of real power in Cuba. ALFONSO LOPEZ
+
+Contrary to the propaganda put for th by the clan’s leaders, certain Lasombra antitribu escaped the purges of the 15th century. A few fled north, to Scandinavia. Many more took refuge with the Moriscos, the hidden
+
+Muslim population of Granada oppressed by the Catholic governments under the thumb of the most holy
+
+Archbishop Mongada. Later, Philip I] drove the Moriscos out of Spain, so they took to piracy. Alfonso was one of the se, a daring and cruel man who se devotion to the
+
+Prophet was suspect but who could captain a vessel like no man alive or dead. His depredations grew to legendary proportions and even began to interfere seriously with the flow of treasure from the New World. At this point, the elders of Clan Lasombra decided
+
+that enough was enough. the ir attempts at using the ir pawns to capture him, how ever, merely sent more Spanish ships to the bottom. When they concentrated the fleet onthe home ports, he laughed and took his ship across the
+
+Atlantic to Port-au-Prince. Never captured or even seri68 Clanbook Lasombra ® ously threatened, Lopez became the bogeyman that the
+
+Lasombra frightened the ir childer with. It is highly dubious if many other of the antitribu have such frightful prowess with cutlass and can non as Lopez; nevertheless, it is the image of the pirate, laughing at the head of a band of equally adept renegades, that costs many Lasombra elders more sleep than they would care to admit. Lopez has not been seen in over 30 years. Last glimpsed
+
+in the vicinity of Dimona, is rael, he would seem to have either gone to ground or begun preparations for some new assault on his for mer clan onaseale previously unimagined. === PAGE 70 ===
+)) es Expanded Background all ies. kgr Influence
+
+Clan Prestige
+
+Contacts, Minor Resources
+
+Contacts, Major Retainers
+
+=O) —————————— e vw Possession
+
+Gear (Carried) Equipment (Owned)
+
+Feeding Grounds Vehicles
+
+Ee —————— —==—————_—_ 1 07> | a |) a | | AO
+
+Location Description
+
+=== PAGE 71 === song |
+
+Name: Player: Chronicle: Physical
+
+@0000000
+
+@0000000
+
+@0000000
+
+Strength
+
+Dexterity
+
+Stamina
+
+20 ——SSSS==a Ba Ba= Abilities
+
+Talents
+
+Acting 0000000
+
+Alertness 00000000
+
+Athletics o00000000
+
+Brawl 00000000 do dge 00000000
+
+Empathy 00000000
+
+Intimidation 00000000
+
+Leadership____—s 90000000
+
+Streetwise 00000000
+
+Subterfuge 00000000
+
+=== Advantages
+
+Disciplines do minate___ 00000000
+
+Obtenebration_9 99000000
+
+Potence 00000000
+
+VAMPIRE: The Masquerade”
+
+Nature: Demeanor: Concept: Clan: Generation: have n: Atribates mV
+
+Social
+
+@®0000000
+
+Manipulation @0000000
+
+Appearance @0000000
+
+Charisma
+
+Skills
+
+_ 90000000
+
+Music 00000000
+
+Repair 00000000
+
+Security. 00000000
+
+Stealth 00000000
+
+Survival. 00000000
+
+Animal Ken. Drive
+
+Etiquette
+
+Firearms
+
+Melee
+
+Backgrounds
+
+Ooo000000
+
+OO0000000
+
+O0000000 oOO0000000 o0000000
+
+O0000000
+
+Ooo0000000
+
+Mental
+
+@0000000
+
+@0000000
+
+@0000000
+
+Perception
+
+Intelligence
+
+Wits
+
+SSS OS ee
+
+Knowledges
+
+Bureaucracy O00000000
+
+Computer o0o0000000
+
+Finance 00000000
+
+Investigation 00000000
+
+Law__§__SssS—S—S 710000000
+
+Linguistics 00000000
+
+Medicine 00000000
+
+Occult 00000000
+
+Politics 00000000
+
+Science oeo0000000 ga
+
+OOO
+
+Virtues
+
+Callousness @0000
+
+Instincts
+
+Morale
+
+SS ease
+
+FF EEEE——————EEEOC
+
+-2—=(Other Traits ==
+
+O00000000
+
+O00000000
+
+~s——— Path of ———*
+
+Oo000000000
+
+—=——= will power ——- a i is i Eh iad ld
+
+= Blood Pool =
+
+OOOOOOOOOU i lV it yl |
+
+Health
+
+Bruised
+
+Hurt
+
+Injured
+
+Wounded
+
+Mauled
+
+Crippled +5
+
+Incapacitated
+
+—-=——= Weakness =" can nel be seem im mine or other
+
+Be a Cee
+
+Attributes: 7/5/3 Abilities: 13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+=== PAGE 72 ===
+VAMPIRE: The Masquerade”
+
+Merits & Flaws
+
+Type Cost Flaw
+
+| Oe << Experience +0 Oe
+
+TOTAL: TOTAL SPENT: Gained From: Spent On: ky SS Derangements == >! SDerangements er
+
+Name Name
+
+Combat aes Table
+
+=== PAGE 73 ===
+| Leong |__|
+
+VAMPIRE: The Masquerade” ee c
+
+Prelude
+
+Title
+
+Packs Led
+
+Significant Accomplishments
+
+Oe Appearance =o 0
+
+Age
+
+Apparent Age
+
+Date of Birth
+
+RIP
+
+Hair
+
+Eyes
+
+Race
+
+Nationality
+
+Height
+
+Weight
+
+Sete (hss sdb pn sat cosa
+
+Coterie Chart = Caracter Skxich — Sketch
+
+=== PAGE 74 ===
+Games for
+
+GAME STUDIO
+
+SUITE 100
+
+From the ir webs of shadows the
+
+Lasombra guide the destiny of the dread
+
+Sabbat. Unseen even by mirrors, the se lords of darkness glide through the night they rule, or chestrating the rise and fall of Kindred and kine alike. From the Sahara Desert to the Spanish
+
+Main, from the monasteries of Seville to the mean streets of New York City, no other clan so embodies what it means to be a vampire. Clanbook: Lasombra includes: @ The history of the clan and the foul diablerie of its progenitor; ® Details on the clan’s sinister rites
+
+and depraved games; e New Merits, Flaws and
+
+Obtenebration powers. W 2062
+
+Mature Minds moet 1-56504-211-5
+
+780 PARK NORTH BLYD. i
+
+$10.00
+
+9"781565'042117 |
+
+Printed in can ada

@@ -1,11 +1,11 @@
 # Version History
 
-## Current Version: 0.9.214
+## Current Version: 0.9.215
 
 **Date:** 2026-03-09  
-**Type:** Patch (git sync: add logo SVG endpoint for PNG export workflow)
+**Type:** Patch (git sync: add processed clan book markdown and README update)
 
-## Previous Version: 0.9.213
+## Previous Version: 0.9.214
 
 **Date:** 2026-03-09  
 **Type:** Patch (git sync: restore Laws_of_the_Night clan markdown files)

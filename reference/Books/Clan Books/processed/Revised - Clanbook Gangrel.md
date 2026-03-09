@@ -1,0 +1,3103 @@
+=== PAGE 1 ===
+TM
+CLANBOOK: WW2352
+TM
+TM
+
+=== PAGE 2 ===
+C l a n B O O K: ™
+B J e K y ames and llen iley
+Contents
+
+=== PAGE 3 ===
+C s t redits pe Cial han Ks
+Written by: James and Ellen Kiley Tim “Snake Fighting” Avers, is very scary fighting snake
+Developed by: Justin Achilli rolled up newspaper setting on fire. Editor: Cynthia Summers Ken “Out-of-Towner” Cliffe, for continuing his habit of
+Art Director: Richard Thomas party-do dging. Layout & Typesetting: Becky Jollensten Rebecca “Nutritionist” Schaefer, for dragging Chad out of the damn house before he ate one more bowl. Interior Art: Mike Danza, Richard Kane Ferguson, Michael Gaydos, Leif Jones, and Christopher Shy Brian “Joe Six-Pack” Glass, for bringing random beer in the homemade carrying case. Front Cover Art: John Van Fleet
+Front & Back Cover Design: Becky Jollensten G et B ent
+The raw, bone-chilling, ache-inducing, wet-ass, pre Super Bowl weather. © 2000 White Wolf Publishing, Inc. All rights reserved. Reproduction with out the written permission of the publisher is expressly for bidden, except for the purposes of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire the Masquerade, Vampire
+the Dark Ages, Mage the Ascension, World of Darkness and
+Aberrant are registered trademarks of White Wolf Publishing, Inc. All rights reserved. were wolf the Apocalypse, Wraith the
+Oblivion, Changeling the Dreaming, Hunter the Reckoning, were wolf the Wild West, Mage the Sorcerers Crusade, Wraith the Great War, Trinity, Guide to the Camarilla, Guide to the
+Sabbat, World of Darkness Blood Dimmed Tides, A World of Darkness, Laws of the Night, Children of the Night and
+Clanbook Gangrel are trademarks of White Wolf Publishing, Inc. All rights reserved. All characters, names, places and text herein are copyrighted by White Wolf Publishing, Inc. The mention of or reference to any company or product in the se pages is not a challenge to the trademark or copyright concerned. This book uses the supernatural for settings, characters and
+the mes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. Reader discretion is advised. For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at http://www.white-wolf.com; alt.games.whitewolf and rec. games.frp.storyteller
+PRINTED IN USA. Clanbook: Gan Grel
+
+=== PAGE 4 ===
+C l a n B O O K: ™
+Ontents a i 4 ftermath Of ndependen Ce
+C O: s, s, s: hapter ne t One teppe and ea a h G C 12 is t or y of the an Grel lan
+C t: i G 40 hapter wO nside the an Grel
+C t: B a m 80 hapter hree easts m OnG en
+Contents
+
+=== PAGE 5 ===
+Clanbook: Gan Grel
+
+=== PAGE 6 === a ftermath Of i
+ndependen Ce
+My shitkicker boots make a shuffle-the n-thump sound on the city sidewalk. The sound is n’t alien — they do have cement where I’m from. What’s fascinating is the chorus of echoes my footsteps set of f, reverberating through this corridor of glass and steel. If I stomp real good and listen real close, I can catch the echo whizzing back and for th across the street three times before the noise of the city overwhelms it. That game was fun, until the delivery truck roared past. I must look like a rube, or worse, a cheap tourist. Who else would be walking around do wntown on a Wednesday night with an armload of white-handled shopping bags, a baseball cap and the se boots? It’s a good thing I pay cash. The department store clerks might think I’d stolen a credit card. I do n’t care
+where they think the cash came from, so long as they do n’t sic the rent-acops on me. That would get complicated. I might as well be a tourist. I only come into town twice a year to pick up consumables, comestibles and indispensables. On my way back to the subway station, I mentally check through my purchases. It would suck to get halfway home before I realized I’d for gotten something. Five pairs of jeans — I’m hard on denim. One pair of chinos, which pass for dressed up. Three white dress shirts, five flannel shirts, needles, but tons, thread — I may be a walking stereotype, but
+I can and do sew on my own but tons, than k you. Batteries, all shapes and sizes. Good soap, deodorant, and cologne — the trick to smelling like a human. People are n’t stupid. Even if they do n’t know they can, they can smell a predator, and the n they get panicky. Camouflage is the key. Not just sight, but smell and sound, too. That’s why I bother to juggle this last bag with a greasy burger and fries
+— who expects to see a vampire carting around fast food? Another two blocks to the subway, 45 minutes underground, the n another eight blocks to the parking lot where I left my van. I hate leaving it so far away
+— it’s got everything I own in it — but it is n’t exactly built for city driving. My pride and joy is a ’69 Chevy Sportsvan — no power brakes, no power steering, and it might as well be built out of cast iron. I once hit a really pissed-of f aftermath of Independen Ce
+
+=== PAGE 7 === were wolf with it at about 60 miles an hour, and it felt like I’d gone over a speed bump. I call the m were wolves, and not because I think that’s what the furry bastards prefer to be called, but because when I see one slavering in the moonlight, I think, “Oh, fuck, were wolf!” and not “Oh, fuck, Lupine!” He did leave a dent in my bumper, though. One more block. I’ve got it pretty good, all things considered. I’m about
+the only Gangrel I know with a steady job. It’s not much — I’m just the night ranger at the National Park. I wish they’d come up with a better job title than that, because I’ve heard all the ‘80s guitar-rock jokes I can take. Still, the job means a small but steady paycheck and a secluded place to park my van on
+the grounds. Management becomes very understanding of you r odd schedule when the senator comes for a midnight nature walk, and his whiny kids get to see the deer and hear the wolves how l no matter how much noise they make tromping through the for est. I know the re are were wolves around, but so far
+they’ve left me alone. I guess we’ve got an understanding in place — as long as I do n’t fang the kiddies who visit the park or devour wolf cubs, they’ll turn a blind eye when the occasional poacher goes missing, or adventurous teens and lonely single mothers leave a little paler than they came in. The mouth of a dark all ey looms ahead, mid-block. As I pass, a quick slither of movement catches my eye. I freeze, and the shape freezes too. A voice
+that sounds like it’s been scraped from the bottom of a barrel drifts to my ears. “Everett.” I know that voice. * * *
+I’m lying on the for est floor, face pressed into the rotting leaves and twigs. It’s night, but the usual woodland sounds are hushed — something’s on the hunt. In fact, she’s standing right over me, her clawed feet just inches from my face. She’s been following me for some time now. I’ve seen her every couple nights for the past few weeks. I thought maybe she wanted to hook up. When I finally got
+the pluck to introduce myself, it turned out that what she really wanted to do was chase me through the for est until I died. So here I am, watching my blood soak into the humus, wondering, if this is what the bitch do es for for eplay…. the n I can hear a new noise. I can’t lift my head to see, but it sounds like booted feet, not bare and clawed like hers. For a wild moment, I imagine an ax-toting ranger come to rescue me, but the boots come to a stop not
+far from her and stay put. The man’s gravelly voice sinks quickly to my level. “This is him?”
+Her feet turn to face him, as I imagine the rest of her do es. “Yep.” the re’s a grunt from above. “do esn’t look too likely. I would n’t pick him.”
+I am strangely of fended. My soon-to-be-murderer is patient. “I did n’t ask you to approve him, Sheperd. I asked you to help me stand the watch.”
+The man, Sheperd, I guess, squats do wn, taking some time to fold his bulk do wn low enough to look at my face. He’s none to pleasant to look at — I wish he’d stayed standing. “You’ve beat him up pretty good, Jane. Think he’ll make it?”
+Her answer is couched in an amused tone. “I needed to make sure he was n’t the type to roll over and die. He’ll be fine. they all make it unless you kill the m outright beforehand, stupid.” I fail to see the humor in the current situation, Clanbook: Gan Grel
+
+=== PAGE 8 === and I am not feeling fine. My heartbeat a moment; when it clears, I can seem is fluttering, and it’s becoming dif- him perfectly. “Sheperd.” I should ficult to keep my eyes in focus. have smelled him a mile away, but his
+Sheperd stands back up. I am mo- sour, oily scent is alarmingly similar mentarily grateful that his face will to the odor wafting of f the French not be the last thing I see before fries I’m carrying. If I’m not misdying. “I’ll help you keep watch, Janey. taken, those are also the exact same
+But tell me you got somebody’s okay boots he was wearing that night, so on this?” many years ago. She laughs outright this time. He shambles out of the do or way
+“Who is the re to ask permission, where he’d hidden from sight. I’d
+Sheperd? Do you see any princes for gotten just how large he is. “You here? Hear one, or smell one? The did n’t present yerself to the prince, Gangrel do not ask here, Sheperd. We Everett,” he growls. simply do. If I am to ask anyone for I shrug, packages still draped the right, it should be the intended along my arms. “I’ve been here two childe himself.” nights. I have n’t fed, and I do n’t in Jane crouches beside me. Her face tend to. And the prince never attends
+swims in and out of my vision, her Elysium mid-week.” glowing red eyes multiplying dizzily. Her Sheperd smiles, and it is n’t a nice voice comes in clear, calm, and I fas- smile. He enjoys his job far too much. ten on to that like a drowning man to “Rules are rules.” He moves closer, driftwood. “It’s a simple choice. Die, or sidling along the building wall, kicking survive. Do you want to survive?” trash out of his way as he walks. I lifted my head from the leaves “Bullshit,” I reply. “I was here
+with my last strength. I remem- last winter, and six months before ber saying, “Yes.” that. I’m like clockwork, Sheperd, She was wrong, and no one’s complained about my though — it shopping habits was n’t, is n’t a before.” I keep
+simple choice. still, for the
+* * * moment. He’s
+I step into not fast enough the all ey, out to cut of f my of the light. exit. My vision Sheperd blurs grunts an
+for admission. “That was before,” he says. aftermath of Independen Ce
+
+=== PAGE 9 ===
+“Before what?” I ask. I know what he’s going to say. I try to calm myself do wn; white shopping bags flapping around in dark all eys might draw unwanted attention. “Before you left the Camarilla,” Sheperd mumbles. He has the grace to look at his shoes for a moment, as though even he knows just how artificial this little scene is. “Sheperd, this is crazy. Do you think I’m some kind of spy? do es the
+prince?” I watch him carefully. His suddenly guarded look answers my question. I do n’t believe I can keep the exasperation out of my voice. “Let me run through the logic for you. You’re Gangrel, too, Sheperd. Have you suddenly turned into a Sabbat stooge?”
+He practically snarls at me: “No.”
+“the n what makes you think that I have? What have I ever do ne that might give him that idea? And why do es he let you run around loose if he thinks we’re all devil-loving traitors?” I’m practically flailing now, arms flung wide in a messianic pose. I knew the re were bad feelings over the affair, but I
+had n’t expected things to get this bad so quickly. Sheperd stops dead in his tracks. Beads of blood sweat for m on his for ehead and slowly trickle do wn his temples. When he speaks, his voice is for ced. “The prince can…trust me.…”
+My heart sinks as I hear those words. I can feel the anger welling up from deep inside — anger at myself for walking into this, at Sheperd and his paranoid prince for setting it up, even at Xaviar for causing this who le damn mess in the first place. “You fucking idiot!” my mouth is shouting. “You let
+him do that to you? You let him chain you up like a pet pit bull, so that he can sic you on who ever he wants? What kind of Gangrel are you?”
+He moves faster than I thought he could, or maybe I’m just too busy spouting of f to have caught the first hint of movement. I whirl around, but too late; his bulk is interposed between me and the street. Claws have sprouted from his fingertips — he was n’t going to just let me walk out of here before, but now I’ve made him mad. I drop my bags, finally, but not before he rakes
+one of the m open with a vicious swipe. I block his next two strikes, left — right. It’s not easy; Sheperd is strong as a bull and those claws are sharp. I’m faster than he is, but I can’t keep this up for long. I leap up, grabbing the end of a dangling fire escape ladder to deliver a two-footed kick to his head. It’s enough to knock him back
+a few feet, and give me a second to consider my options. I could go up the fire escape, but Sheperd can probably climb faster, because he’s stronger. The two do or s I can see are metal, and if they’re locked I’ll be trapped in an alcove with no room to maneuver. Ten yards behind me, the all ey ends in a brick wall. If I’m going to get out of here, it’s got to be through Sheperd. He’s back at me now, claws swinging like scythes. I give ground back into
+the all ey, sniffing out what I can of what’s behind me while devoting hand-eye coordination to keeping clear of Sheperd’s nasty fists. I catch a promising odor along the wall to my left: bleach, a little mildew, the slightest hint of old vomit. I get a little too distracted by my nose, and Sheperd catches me upside the head. the re’s pain, and blood — it was a glancing blow, but I think he just folded my scalp in half. I can see my anger now, like a red film in front of my vision. I
+Clanbook: Gan Grel
+
+=== PAGE 10 === for ce the Beast back do wn — if I frenzy now, I’ll throw myself at him, and he’ll rip me apart. Sheperd takes a moment to gloat over first blood, and I take the opening. I lunge to my left, hand out, hoping my senses have n’t led me astray. My hand
+closes over the smooth wood of a mop handle, and I know I’ve got a chance. Flooding my muscles with as much blood as I can, I launch a quick flurry of attacks with wood, fists and feet. I catch Sheperd by surprise; I’m not hurting him, but I drive him back. Three steps, the n another, and one more bring us back to just about where we started. A feinted kick to the knee and a real backhand to the chin rock him back one last step. His gigantic foot comes
+crashing do wn with all his weight into the pile of my belongings. The flat crunch of crushed glass is all the warning I get. An almost visible plume of scent rises into the air from the pulverized cologne bottle. Even though I knew it was coming, it still nearly makes me gag. Sheperd turns around to see what the hell he just stepped in. I bring the
+mop handle do wn on my knee, snap the wood in two, and drive the sharp end up under Sheperd’s ribcage and into his heart. For a panicked moment, I’m not sure that it worked, but it just takes him a moment to go rigid and topple. I slump against the bricks for a moment, letting the anger and fear seep out of my body and into the cold clay. It do esn’t look like anyone has not iced our
+little dust-up. I glance do wn at Sheperd; his face is a strange mix of hatred and resignation, his naked talons tensed and bent. Grunting with the effort, I haul his heavy ass further do wn the all ey, out of sight from the street. His deputies might find him before morning. I’m hungry now, and for moment my fangs distend as I stare at the blood pooling in Sheperd’s shirt. I for ce the teeth back
+up into my head — the last thing I need, or any Gangrel needs, is to reinforce the rumors flying around by do ing something so stupid as diablerizing a sheriff. It’s not Sheperd’s fault, anyway. He just got caught flatfooted, in the wrong place at the wrong time when Xaviar dropped his little bombshell — what ever that was. How many other Gangrel are paying for our freedom, and do n’t even know why? Moving stiffly, I find my hat, fit my scalp back over my head properly, and use the hat to hold it in place while it heals. That’ll take a few nights. I change
+shirts quickly, mopping the blood of f my face with the old one and tossing it back do wn the all ey. The last thing I need tonight is a has sle with some well-meaning token-taker who thinks I should pay a visit to County General. I stuff what I can into the remaining bags. “That was 75 bucks you just cost me, Sheperd,” I grumble over my should er. “Tell the prince he’s lost my shopping do llar. I won’t be back.”
+Sheperd’s reply would n’t have been very witty anyway. I limp out of the all ey and the half-block to the subway. I never really need to come to the city. Just once in a while, it was nice to see the crowds of people, to walk through brightly lit, bustling shopping centers, to maybe catch a show, and, most important, to see some other Kindred for a change of pace. Telling Jane about this is n’t going to be easy when, or if, I see her again. I think next time I’ll have to or der my wardrobe over the Internet. aftermath of Independen Ce
+
+=== PAGE 11 ===
+Clanbook: Gan Grel
+
+=== PAGE 12 === s, s, t One teppe s: and ea a h
+is t or y Of the
+G C an Grel lan
+The savage in man is never quite eradicated
+— Thoreau
+This is an idiotic thing to do. It’s probably going to a J xe and avelin get me killed. But if I do n’t take not es on some of what
+I’ve heard, I know I’ll for get it. At least some of it. And
+I do n’t know much archaeology or cultural anthrofor Chrissakes, if I’m going to live for ever I’m going to pology. When I was alive, the subjects bored me, and be really pissed if I can’t remember everything I was now that I’ve got the perspective to appreciate the m, it’s
+told. Yes, now the only thing going through my head is: too damned bright out to do any field work. I’ve do ne a
+If I write all this stuff do wn the re’s no way I’ll live for ever. fair amount of reading since I died, though. The scientific
+This project for mally started a few years ago when I estimates I’ve explored put Caine’s murder of Abel, and found a rambling set of papers written by someone call- God’s curse — if you’re into this sort of thing — around ing himself Lord Ashton, ’95 or ’96. I do n’t think that 10,000 years ago. Or maybe 10,000 BC, which would
+Lord Ashton was altogether sane when he wrote what be 12,000 years ago. This stuff is all legend. It may be he wrote. I scanned a few of his more amusing screeds that none of it happened. Hell, I’ve only heard the name and e-mailed the m around to various dead friends on of one reliable witness — “Pard” — and when I went the Net. I’ve got some of the ir responses here and the re searching him out, I made it as far as the Sahara before
+below. It looks like on the who le Ashton was right — in panicking and giving up. the grand sweep — but if the people I’ve talked to can
+One of the things I need to think about at this point be believed, he fucked up several of the details. I’m gois the real history of reality. That sounds stupid, I know. I ing to try to distill reasonable truth out of the stuff I’ve can put it another way to make my problem clearer: Was
+read, both in e-mails I’ve received from older vampires, Bishop Ussher right? Did the Creation happen on Friday, from Ashton’s writings and the commentary on it, a few
+October 12 of 4004 BC? If Kindred are really the children conversations I’ve had with older Kindred, and history of Caine, the n we — okay, I — have to consider how and common sense. I do n’t guarantee it’s unassailable, closely the history of the world adheres to Judeo-Christian
+but it’s the best picture I can piece together out of the myth. Because if we’re really the children of Caine in any amalgam of myth, history and bullshit that I’ve gathered sense, that means at least part of the Biblical creation is
+over the last 50 years. Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 13 === true in some sense, and that throws a lot of science out the window. If we’re the children of Caine, and Caine’s the son of Adam, and Adam is the first man, created by
+God, the n maybe God really did put the dinosaur fossils in place to fool archaeologists. Or do we take it all as all egory and assume that the Antediluvians are maybe
+10,000 years old, and see where that leads the discussion? That’s my preference. But the re has to be a truth under the re someplace. We are vampires. Sunlight do es burn us, and moonlight, which is just reflected sunlight, do es not. Starlight do es not. Videotapes of sunlight do not. the re is something mystical about the sun. Scientists do n’t talk much about such things. I do n’t think I’m going to be
+able to adequately figure out the line between scientific truth and the supernatural world of the Kindred. I’ll try to collate the stories and hypotheses I’ve heard, in any case. I’m sure my sources have lied to me, repeatedly, but
+perhaps if we average the contradictory stories out we’ll see a bit of truth. For the sake of discussion, say the first vampires came about during the late Stone Age. In fact, we’ll make a few more grandiose assumptions, out of the
+Book of Nod: that Enoch existed between 10,000 and 8000
+BC, that Caine ruled it, that the Third Generation killed the Second Generation the re, and that Caine cursed the m. e nOCh
+I’ll start with Ashton’s commentary on our fabled progenitor, “Ennoia.” In Gnostic mythology, it’s worth not ing that “Ennoia” represents the female half of God. I can’t imagine that our Ennoia is that Ennoia, but one do es hear regular references to our Antediluvian as
+“Mother Nature.” I’m not convinced that Ennoia is n’t a feminization of Enoch, who the Book of Nod names as one of the Second Generation. Perhaps she was one of his mortal children, or a favored vampiric childe. Ashton describes Ennoia as a child of Lilith raised
+by a pack of wolves. Leaving aside Biblical commentary on the who le Lilith is sue and my opinion of feminists who’ve adopted this myth as the ir flag, consider what
+Ashton continues with: “[Ennoia] took a mate from the pack and… bore him children… and it is from the m that Lupines trace the ir ancestry.” This, apparently, explains the “special relationship” that Lupines and
+Gangrel have. I do n’t know to what Ashton was referring when writing this bit, but I’ve got to assume that he had something very specific in mind. We do n’t have a special relationship with Lupines. If you nuzzle up to a were wolf and try to be his buddy, odds are good that
+he’ll rip you to tatters. But it becomes more complex. Ennoia all egedly spent time in Enoch, the First City, after ditching the wolves. She slept with several men and bore the m a few children before leaving the city due to the discord she’d caused. So, according to Ashton, she slept around, bore children, and the n gave the kids to the men
+Clanbook: Gan Grel
+
+=== PAGE 14 === and left town. So none of the m realized that she was preg- obvious that the neonate would be able to survive on nant? Did she have kids by each man all at the same time? his own, our progenitor came to him and explained his
+(I suppose that’s no less likely than her having were wolf kids true nature and heritage. Now, this legend might well by a wolf father.…) But here’s the kicker — Ashton says be wrong — it strikes me as quite likely that it was made the se kids were rejected by the ir parents and became the up to justify the practice of abandoning childer after the
+Gypsies. has n’t this guy read a history book? The Rroma, fact. Let’s face it — many Gangrel are lax sires at best. so-called “Gypsies,” came out of India during the 10th or
+11th century. the re are n’t references to the m existing at all a n i ns Cripti On before this, unless you count one myth they spread around An acquaintance of mine found an inscription that they were the descendants of the innkeeper that told deep with in an empty, tomblike cave on the shores
+Mary and Joseph he had no room for the m. Even the n, of the Caspian Sea. Her best estimates say the cave that dates the m back to, well, 1 AD. Enoch must’ve fallen has been empty for about 300 years. The writing was before the rise of the Pharaohs, which even you r ancient
+a pre-Alexandrian script, she tells me. After research conspiracy mavens agree was around 6000 BC. That’s a with scholars familiar with old Turkic and Iranian long gap to explain away. texts, she put together the following translation. I
+d have some the or ies about its or igin, but for the time iasp or a being I’m keeping my mouth shut. Archaeologists say the earliest cities were contempo The great spider king gave me his silk when I was a raries of the Mesopotamian city of Ur, which existed around
+boy. As a man I tired of its taste and spat myself from his
+4000 BC. That gives a four-millennia period after Enoch court. The spider hunted the tiger queen and her pride. As during which humankind had been hunting and gatherthe tiger queen had do ne me no wrong, I put an arrow in ing and maybe building the occasional farming village. In
+the spider’s eye, spilling his fluid anew. His hunters struck any kind of hunter-gatherer society, Gangrel must have me as they did the pride. The hunters were the sky and been virtual gods; even in comparison to other vampires, fire and the stone and the flood. We were only stooped
+the Gangrel stood out as the ones who could do the most important things. they could travel with a nomadic group; and bloodied men. As we fled, the great spider king used they could help mortal hunters find the best prey; and they fire against my name and destroyed it. The tiger queen could stand up to any challenge. Of course, they could n’t carved a new name across my chest. She gave me her
+travel by day, but that’s a different story.… seed. For a third time was I born. Have I a court now? When I escape this cave, perhaps I shall learn. C l ainite e Gend
+I have a pretty plain opinion on the Kindred legends about the fall of Enoch, and about Ennoia’s relation- Something happened out the re. Nobody knows ship with the Ravnos Antediluvian, who m some call exactly what. Either Ennoia and Ravana just had a
+Ravana — I think they’re mostly specious or legend falling-out, or one of the m became infatuated with the misinterpreted as fact. I’ll discuss this more later when other and that other rejected the first’s advances, or we talk about the Rroma. For the time being, here’s the maybe they fought over a favored servant. If you believe legendry, as I understand it. Ennoia and Ravana were the legends, something happened to drive the m to one
+sister and brother in some sense. After the Ancients another’s throats. they fought for decades; they flung killed the Second Generation and Caine cursed the m, the ir childer at one another, and even encouraged the ir the siblings wandered westward, onto the vast steppe childer to Embrace new fledglings as soldiers. Ennoia’s of central Asia. they encountered native tribes, mostly broods were far stronger, by all accounts, but Ravana was
+nomads and wanderers, and they found sustenance and far more cunning and wielded the powers of deception. companionship in the m. they Embraced childer, cre- At last, Ravana called do wn some kind of unholy ating the creatures we now think of as Methuselahs of devastation from the sky to destroy or disable most of the Gangrel and Ravnos clans. A few myths place the Ennoia’s for ces. The handful that survived fled west into number of fourth-generation Gangrel at four or five, but Europe or Africa. By the few accounts that I’ve heard
+I believe that number might be too conservative. As I — remember, this stuff is sketchy — the survivors the n have said before and will say again, the only witnesses fought amongst the mselves, scattering north, south and are n’t talking. Legends say Ennoia did the same thing west. Those who went north latched onto the progenito her prospective childer that most Gangrel now do tors of Siberian tribes and the Vikings. Those who went to the ir own: She Embraced the m and the n abandoned south prowled the African plains above the Sahara or, if
+the m for a while. Oh, sure, she watched from a distance you like Ashton’s interpretation, perhaps they became or through the eyes of animals to make sure that the new the shapechangers of the Serengeti. The few vampires childe was holding up under the strain. And when it was who fled eastward were (perhaps incorrectly) presumed
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 15 === destroyed. The majority went west; it is from the se that most of the Gangrel clan traces its lineage. Our founder, Ennoia, drifted in and out of torpor for millennia after the fall of Enoch. The Jyhad with Ravana, if the re really
+was one, did n’t itself knock her into torpor for long. The scraps I’ve picked up suggest that Ennoia fell into a long torpor around the time of Christ; we continue to debate as to whether she’s woken up from it yet. O m
+the r yth OlOGy
+Torvus the Viking (his name, not my appellation) told me an entirely different creation myth; it is his opinion that Caine was a favored and blessed warrior of Odin. I have no do ubt that Gangrel such as the
+African Laibon and the Asian and a have different ones as well. And they may well be right; I’m just passing along the stories European Gangrel share. The main problem with historical research among the Kindred, and the Gangrel in particular, is that we
+have maintained an or al tradition throughout history, and that over time our elders tend to degenerate into monstrous beasts who lack the capacity for speech. If you’ve heard something from a reliable, ancient source, by all means let me know. p rehist or y
+When I passed around an early draft of this do cument, one copy of it fell into the hands of Dr. Nona Abbott, a
+Gangrel historian and critic. Dr. Abbott included 34 pages of corrections and footnotes as her initial response to my
+20-page history, and though some of her text was pure unprovable intellectual wankery or resentful misanthropy, she had a few compelling points that I will now summarize. The rise of cities like Ur and Jericho in Mesopotamia in roughly the fourth millennium BC marked the end of a purer, simpler culture for mortals and Cainites. From prehistoric times, wandering tribes of mortals lived according to a matriarchal/matrilineal code. When the tribe spent every day
+on the move, its social leaders had to keep the tribe together through for ce of personality rather than threat of violence, for when a tribe is tied to no land it is trivial for a dissatisfied member or family unit to flee the rest of the group. Such a social structure did not lend itself well to do mination by males, for the typical male tactics of possession and bullying would
+not be rewarded. After the fall of [Enoch], the Cainite/Lilian vampire entered this pristine mortal society. Of the presumed
+13 vampire tribes, few were better suited to thrive than the
+Ennoian, tonight called the Gangrel. Indeed, a hunter/ gatherer society might well represent the basis for a Gangrel
+“Golden Age,” one in which other Kindred clans depended on the hardiness of the Gangrel for the ir very survival. With few established villages, Kindred needed to keep pace with mortal herds easily, regardless the availability of places to
+Clanbook: Gan Grel
+
+=== PAGE 16 === hide from the sun. That need made the Gangrel powers of change one’s mind — and here you thought that English swift travel and burrowing into the earth vital for almost Ventrue who still speak of the Empire were stubborn). every Cainite. In the simple barter/boon economy of early they resigned the mselves to eternal outsider status, for vampires, that Discipline the refore became the equivalent they truly found nomadic hunter cultures to be more
+of a modern hot technology stock: greatly in demand and vital than those nesting in such close quarters with in hoarded where possible. The Gangrel relationship between the great cities of the time. Lilith and Ennoia myths the reby becomes even clearer. The By the peak of Babylon, the Gangrel had scattered
+Gangrel symbolize the prehistoric matriarchy that other clans to the winds. so resent. In the torpor of Ennoia, and in Jehovah’s exile of
+G C reeK ivilizati Ons
+Lilith, we see the Gangrel losing the ir favored status as the
+The Cimmerians destroyed the Mycenaean civiliza12 other clans encourage the growth of agriculture and cities, tion around 1200 BC. We know hardly anything about developments that in the mselves destroy the matriarchy in the Cimmerians. they were tribal barbarians who lived favor of a warfare-controlled patriarchy. north of Greece, and they fought a few wars against
+If you can divorce her point from her radical feminist
+Scythia. The Cimmerians are said to have split into two mania, she might well be onto something. groups; the Scythians drove one group northward out of m es Op Otamia the ir homeland, though if they popped up somewhere
+Sumeria represented the first real human civiliza- else, the historical record do es not show it. The other tion, as far as the West is concerned. Of course, if you group of Cimmerians fought to the death against the ask a Chinese anthropologist he’ll talk about mythical Scythians rather than give up the ir homes, and they dynasties until he’s blue in the face, but such things did die, to a man. Now that’s conviction. have little importance to us as Cainites. Looking at the The Greeks and Scythians fought multiple wars (in
+myriad of eccentricities about Sumeria — the ir language later years, Scythia was to become one of the few nations was unrelated to any other human language, they had not conquered by Alexander of Macedon). Scythians writing, a monarchy and cities — it is very easy to leap were horse-riders, slave-takers, and fierce warriors; to the conclusion that the Sumerians descend from the Herodotus described the ir ability to quell a slave revolt inhabitants of Enoch. This is the sort of question that by standing firm and holding horsewhips. they fought
+keeps Kindred anthropologists up all day. the Greek Darius to a standstill. they describe the mselves
+Historically, Gangrel lurked outside the cities of as descendants of Zeus or his equivalent. Sumeria, as we would do with other cities for the next Despite the general tendency that our clan has to six millennia. As other Cainites roamed the se great cit- follow barbarian movements — to “ride the wave,” so to ies, influencing the Sumerian culture to some degree or speak — the prevailing the or y that I have heard is that another, we with drew, hid from the giants of the East, and the war between Cimmeria and Scythia was exacerbated
+sometimes marauded like barbarians. I get the impression by a conflict among three Cainite broodmates, all childer that back in those nights, when the idea of a mortal city of the same Gangrel sire. I have names for only one of was a relatively new one, savvy Gangrel did everything the m (Egothha), so I will embellish by assigning the m they could to convince mortals to revert to a nomadic the Greek names for the three mythical founders of
+way of life. Gangrel threw hordes of enslaved animals Scythia. The elder two were Agathyrsus and Gelonus; at city walls; they grabbed the Beasts with in hundreds the you ngest was called Scythes. The brood’s sire found of raiders and hurled the m collectively at the greatest fault with Agathyrsus and Gelonus and exiled the m to the cities of the time, and so on. west; the two of the m fell upon Cimmeria and built up
+And, of course, Gangrel capitalized on mortals’ ideas. influence the re. Scythes, by contrast, truly was probably
+When the Semites invaded Sumeria, Gangrel followed more capable than his brothers, and aided the mortals in the migration, hoping to stir an or gy of destruction. While building a powerful nation. Cimmeria and Scythia fought the re was certainly plenty of that, the Semites eventu- several wars, Scythia winning the majority of the m due all y settled into the Sumerians’ territories, realizing the in part to Agathyrsus and Gelonus’ taking to the field of
+power of prosperous cities. This pattern repeated over battle; Cimmerian warriors were particularly unnerved and over throughout human history; with in only a few that two advisors to the king were such bloodthirsty centuries, our clan’s elders realized that they were n’t berserks. On the other hand, Scythes stayed out of the going to get humanity out of cities, or cause the m to fighting. Eventually Scythian soldiers for ced the elder
+stop cultivating the ir fields. siblings into torpor, and conquered Cimmeria. Scythes
+By the Old Babylonian era, the elders of Clan Gan- himself (remember, that’s a pseudonym) vanished from grel gave up on such plans (yes, that is a long time to the world stage well before the rise of Rome. Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 17 === e e t f r a Gleand lephant he all Of Ome
+If you take a look at a map of Europe that is keyed
+C r to vegetation, you’ll not ice something quite striking. artha Geand Ome
+France, Germany, Italy, the Low Countries, England
+We did n’t have a great presence in either Carthage and Hungary are all do minated by cropland and pasture. or Rome. Our abilities gave us the advantage in the
+Arable country — that is, the kind of land suited to the wilderness, on the ride or the hunt. Vast empires and establishment of feudal states, manors and later large cittheir capital cities held little attraction. Certainly some ies. the se are the are as that we claimed. We went to the
+Gangrel spent time in Rome and Carthage, but both mountains, north into the for ests of Scandinavia, onto were seen as too dangerous — Rome because the Ventrue the steppe, or south into uncharted Africa. As a clan, all owed the Malkavians to share do minance with the m, we Gangrel are n’t good at staying put. The Beast in us
+and Carthage because the Brujah and Assamite plan for cries out against settling do wn. When we move into a the city went against too many of Caine’s edicts. civilized place, some other vampire invariably has staked
+The Gangrel acted as Cassandras in both Rome out terrain of his own, which leaves us with out do main. and Carthage; Gangrel elders warned the Phoenician
+So as we scatter to the winds, we usually stay scattered. Cainites of the danger of Roman armies, but the Brujah
+The oldest Gangrel punctuate the era of Rome with and Assamites were confident in the strength of the the two greatest sackings of the Eternal City: first by the
+Carthaginian navies. Still other Gangrel made it pain Gauls, in the earliest days of the Roman Republic, and fully clear to late Imperial Roman Kindred that tribes last by the Ostrogoths, at the end of the Western Roman under Gangrel do main planned to attack the Eternal
+Empire. The Gauls invaded Rome in 390 BC, in retribu City; they, too, were ignored. tion for Rome’s murder of one of the ir chieftains. The t he i nvi Cti massed barbarians routed the Roman legions and entered
+During the late years of Imperial Rome, a Gallic the city; they burned, looted and killed. Eight hundred
+Gangrel Embraced two worshippers of the Syrian god years later, in 476 AD, barbarians returned to the gates, Sol Invictus (“Unconquered Sun”). One of the pair, this time in the for m of Odoacer’s Ostrogoths. Like the ir who se name is lost to history, faced an early group of spiritual ancestors the Gauls, the Ostrogoths plundered, vampire-hunters who for ced her to greet her deity the raped and killed. Odoacer exiled Romulus, Emperor of morning after her Embrace; she was destroyed instantly, the Western Empire, and thus fell the Roman Empire. of course. The other, a martyred soul who later took the It’s important that I reiterate the barbarian mindset name Constanus, chose to become a “protector of the here. It was the will of the gods, the thinking went, that
+undead,” if such a thing can be believed. Specifically, certain people settled do wn into cities and farms and
+Constanus took it on himself to hunt mortals who ranches; it was the will of the gods that others live of f the destroy vampires. Constanus told his childer that he land, wandering as herds and weather took the m from place took his mandate from the Book of Nod itself, where in to place. The wanderers could n’t help but learn to ride, [YHWH] states that no mortal shall be permitted to raise fight and hunt better than sedentary folk, because that a hand against those wearing the mark of Caine. Since was how they stayed alive. Surely this, too, was the will
+all Kindred wear that mark, any mortal who destroys a of the gods (or of God, after most of Europe’s barbarians
+Cainite for feits his life. Constanus and his brood, the converted to Christianity). the refore it was obviously
+Invicti, took this duty. the will of God that barbarians plunder civilized towns
+Over time the Invicti earned a fair share of debts and make of f with valuables of all sorts, especially during and boons, and obviously the enmity of witch-hunters. lean years in the outlands. Many Gangrel of the period they became a powerful political group among Kindred bought into all of this, of course. We were the re with the in general, and were the premiere faction with in Clan Gauls and the Ostrogoths, and with all the ir relatives in
+Gangrel. Around 600 AD, Constanus and his most the intervening 800 years. That’s an enormous span of powerful childer were caught unawares in a great fire in time: Consider that eight centuries years ago the Mongols northern Italy; at least seven vampires met Final Death. invaded Europe (we were with the m, too). The Gangrel
+Investigations by the scattered Invicti produced little clan did n’t have much of a presence in the Roman Reevidence of a culprit; vengeful hunters, envious Kindred public, nor one inside the Empire until the Romans began or a random lightning strike might have started the fire. conquering Gaul. And even the n we had our hands full: The political for tunes and power of the Invicti fell over the Gangrel found the mselves struggling to maintain the the next few years; by 650 AD few even remembered do mains they already had against Ventrue, Malkavian and the word. Toreador conquerors in the West and Tzimisce, Brujah
+and Nosferatu Kindred in the East. Clanbook: Gan Grel
+
+=== PAGE 18 ===
+And so the centuries passed. Avar Khan subjugated m ar Cus s extus the Huns and Slavs of the Balkans, and went to war
+Marcus Sextus was born in Latinized Cairo with Justinian’s Eastern Roman Empire. It was n’t long before the Avars settled in central Europe, and again in the first century AD; he traveled to Rome just we went wandering. after his Embrace by a Gangrel Methuselah and
+introduced himself to the Malkavian and Ventrue l lords of the city as simply “the Egyptian.” Sextus aiBOn had lived as a nobleman, and greatly desired the In scouring libraries to research this work, I
+approval and companionship of the city’s undead came across an epic Saxon poem all eged to have been written by the Gangrel Maraulf of Three Tales. leaders, but the greedy patrons of the Senate
+The poem itself is a contemporary of the Venerable used the Gangrel’s desires to pull him this way
+Bede, by my best estimate; I gave it to a particular and that. During the closing years of the Empire, Old English scholar for translation in ’97. (At that the Egyptian was not hing more than a pawn. At point I was still part of the Camarilla, and when the
+a Gangrel thing near Dacia in 475, the Egyptian prince found out what I’d do ne he had the scholar had his only encounter with the barbarian terror killed, but that’s neither here nor the re.) It seems
+Arnulf, and learned of the coming invasion of appropriate to include a particular translated bit here: Rome. After returning to the city and spending
+In Clusium I meet Otoaer the Black, he of the months in contemplation, he quietly chose to
+Laibon family/From the far south he comes, earth-spirit abandon his erstwhile masters and flee across the and vampire/Strong before fire and skilled on the hunt, Mediterranean into Africa. the re he Embraced the Beast troubles his kind not numerous tribespeople before meeting his end at Beyond this I do n’t know much more about the the hands of his final childe, Inyanga, who now Laibon. Torvus did n’t answer any questions about
+roams the northern United States. the m, and he’s the oldest vampire I’ve spoken to. It is possible that the Laibon are descended from Gangrel blood; that description of Otoaer’s powers matches s s
+w or d and hield our own to some degree. It’s also possible that I have it backward — that the Gangrel descend from some e ur Ope a fter r Ome sub-Saharan clan of Laibon. I assume that they’re from
+Africa; I do n’t even really know if they’re descended
+The broad sweep of European history between the fall from Caine. I continue to search for information about of Rome and the Mongol invasions is much too complex the se creatures, but most Kindred I talk to tell me
+to enter into in any detail here. European civilization that Africa’s as dangerous as eastern Asia. retreated eastward, to Constantinople, while so-called barbarian kingdoms (the Visigoths, Ostrogoths, Saxons, C
+Franks and so on) infested the rest of the continent. harlema Gne
+Succeeding centuries show a recurring the me: A wave of
+Charles, the eldest son of Pepin the Frank, became barbarians sweeps into Europe from the Russian steppe; the first sole King of the Franks in 771. Over the course of the barbarians fight against the current residents of the his reign he consolidated a huge are a, greater than modern
+are a; the barbarians settle do wn and are assimilated into
+France. Charlemagne, as Charles became known, was the local society, and the ir descendants take up arms against first Roman Emperor of his day, crowned as he was by the the next wave of barbarians to sweep in. Pope in 800 AD. By the time of Charlemagne’s reign, Throughout the se centuries, the Gangrel characteristi- the Gangrel roamed the for ests of Germany, the Balkan
+cally refused to stay put. Although our ancestors walked and Caucasus Mountains, the steppe further east, and among the Angles, Saxons, Goths and practically any the frozen was tes of Scandinavia. The ancients of Clan other groups in which they could find sustenance, when Gangrel had relatively little to do with Charlemagne and the se peoples settled do wn into for mal nations the Gangrel his Frankish Empire save fight the m, as they did when
+found it preferable to abandon the m. After all, no sooner the great Emperor led his men onto the field against would the barbarians settle than a complement of Kindred the Bulgars and Arabs. After Charlemagne’s death, our would nest among the m and revive the ir old treacheries and ancestors rode with Viking and Varangian conquerors schemes. When Odoacer’s Ostrogoths founded a kingdom as they tore the ir way southward through Europe. on the corpse of Roman greatness, many Gangrel joined
+G the Huns in the Balkans. When Clovis settled what is now arGOyles
+France into a stable nation, Frankish Gangrel predators
+The Tremere are a little cagey about the ir or igins, moved northward to join the Jutes, Lapps and Finns. but the impression I get from talking to the few really old
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 19 ===
+Gangrel I’ve had the privilege to meet is that they some- tonight, no unstoppable barbaric for ce bringing terror how made the mselves vampires. As mortal wizards, they to all who hear of it. I believe the closest equivalent in decimated another clan — whether Tzimisce or a much the Final Nights is a stock market crash. smaller one, the Saulots, seems to be up in the air — and Although the Mongols and the ir Great Khans used the blood they harvested to turn the mselves into were mortal, the Horde did not ride untouched by the
+vampires. Okay, you may think, no big deal. Me, I tend to supernatural. As the Mongols crossed the Volga, many think: Cripes, they must have been really powerful wizards. Gangrel joined the Horde. As was the case with the
+Here’s the part that sticks in the craw of our elders. Huns a millennium earlier, many vampires rode with the
+The Tremere decided they needed muscle. The Tzimisce Mongols simply to capitalize on the chaos and ruin they had can non-fodder childer, war ghouls and horrendously sowed. Others were wistful for nights of pillaging gone misshapen servants at the ir beck and call, and the Tremere by and joined the Mongols to recapture the ir you ths. had almost not hing. So they captured unfortunate Kindred No do ubt for each Gangrel in the Horde one could and experimented on the m. I do n’t know what other clans name a different motivation, but I not e two important
+they captured, or what they did to the m, except that they exceptions: Arnulf and the and a. captured and tormented do zens of Gangrel, and the end Stories of Arnulf do minate our or al history. He — result was the Gargoyle bloodline. they made Gangrel into it? — is rumored to hail from Scythian times, or even those mindless slaves. That did n’t sit well at all with the earlier; they say he even fought Alexander the Great. Gangrel who found out about it. Before long who le prides Arnulf rode with the Huns to destroy Rome; Arnulf of us showed up at the drawbridges of ancient Tzimisce helped the Turks sack Constantinople; and Arnulf was
+castles as de facto all ies, of fering our services as warriors with the Mongols when they destroyed Hungary and in return for a chance to take revenge and rescue our lost Poland. We do n’t know why he acted as he did; a folbroodmates and childer. The Tzimisce seemed happy for lower of his own wiles, he had few words for chroniclers. the help; some genuinely needed assistance against the Arnulf was more a for ce of nature than a vampire. He
+Tremere, while others liked the idea of other Cainites exemplified the barbarian’s impulse to steal the fruits do ing the ir dirty work. The fighting went on for more of civilization and move on. And they say that he took than a hundred years; we rescued any Gargoyles we could, revenge on promising barbarian leaders who embraced and killed the m or set the m free. The all iance with the the mantle of civilization after sacking a city. He wanted
+Tzimisce ebbed with time, and in the mid-13th century to demolish civilization and return to primitive, simple just about everything came to a pause in Eastern Europe. nights; for a barbarian to surrender his strength and fatten himself with the riches of cities was the ultimate t m i
+he OnGOl nvasi Ons crime. Fittingly, Arnulf was destroyed when he finally
+I have no way to describe the chaos and madness took sides between two warring states; in the early 16th that fled westward as the Golden Horde crossed the Volga century he fought alongside the Turks of the Ottoman
+River into Russia, and the n the Balkans into Poland and Empire and paid the ultimate price for “choosing teams.”
+Hungary. Genghis Khan said God Himself had chosen The and a have a more complicated story. We Westhim to destroy the civilizations of Asia and Russia. When erners are not entirely sure where they came from. they
+Genghis died, his children and grandchildren picked up were Kindred, apparently descended from the Gangrel, the banner. It was Batu Khan, Genghis’ grandson, who led of pure Mongol blood. This contradicts what we thought the Mongols into Europe proper. Like an avalanche, they we knew about the Far East — the Giants, who we now came do wn the mountains into civilized lands with armies call Cathayans, were assumed to have killed any Cainites larger than any fielded in Europe. And could they fight! who wandered too far east. The truth of the situation
+It makes one’s long-dead heart go pitter-pat to think of it. appears to have been more complex. The and a were
+Slowly, clumsily, heavily armored European knights destroyed to the last, victims of a great curse laid do wn by led sullen peasants out onto the field, expecting a con- the Cathayans in the last nights of the Mongol Empire. ventional, slow, predictable battle like every other one I suppose it is possible that some might persist, deep in they’d fought for the ir lords. The Mongols were lightly torpor, but if they do, surely such thousand-year old armored when they wore armor at all; they rode hardy, fast creatures have no interest in ephemeral modern monsters
+steppe ponies, and they could fire arrows from horseback such as ourselves. Childer of the and a Embraced in the backward at a full gallop! The astute (or even not-so- West are supposedly indistinguishable from “or dinary” astute) reader may not e a tinge of envy at this point. Gangrel, and indeed many such vampires stayed in Europe
+The Mongol army had never met a match in the known after the Horde returned to Karakorum. The fires of the world. But for a twist of fate — the death of Ogadei Inquisition destroyed many of those, and the rest claim
+Khan in 1241 — the Horde would have overrun Europe to have no exceptional knowledge of the ir bloodline’s to the Atlantic. not hing like the Mongol Horde exists more efficacious secrets. Clanbook: Gan Grel
+
+=== PAGE 20 ===
+Vampires are not hing if not fractious. While some much easier time gaining access, and in earning the writs. European Cainites welcomed the ravages of the Mongol But of course, in Europe they did n’t have such an easy time
+Horde, the majority of others fought fiercely to defend of things. Any given Ravnos was no more likely than his the ir territory. do ubtless the Europeans would have had caravan herd to speak the language, and, as I mentioned, more success had they joined for ces with one another most companies did n’t travel with vampires at all. When rather than attempting to undermine the others’ posi- Rroma happened upon European Gangrel, some of fered tions. In truth, Eastern European vampires were more the ir own blood to the “shilmulo” in return for the favor of
+likely to find all ies against the Mongols among the acquiring letters of safe passage. This scheme worked out
+Lupines than in each other. Gangrel of all stripes died well for both sides, and a few Gangrel acquired Rroma herds by the pack in Poland and Hungary. of the ir own. Eventually word of one particular Gangrel horning in on Ravnos “possessions” made its way back to r
+r Oma a few Ravnos, and half a do zen Deceivers ambushed the
+Things this far back are always foggy, but let’s try a Lithuanian Gangrel Intarn as he rested with his adopted the or y on for size. When the Rroma (the Gypsies) left In- family. Intarn died slowly, and when word of that got back dia, some of the m had Ravnos traveling with the m. I do n’t to his childer, the fight was on. think a lot did, but some did. When companies of Rroma Spend enough time dead around elder Gangrel and traveled from kingdom to kingdom, they had to get writs of you’re sure to hear stories about the Gangrel Antediluvian
+passage from the local authorities. Sometimes they could n’t and the Ravnos Antediluvian being old lovers, or old get the writs, and sometimes the writs were n’t of much use enemies, or tennis do ubles or something like that, but
+— a not e from the faraway king is n’t of much use against I do n’t put any stock in it. I’m not sure you can; surely, bandits on the road — but for the most part they kept the beings like that would be incomprehensibly alien and
+Rroma safe. It seems a little strange that the Rroma, who selfish in the ir vast power. the or ies about 10,000-yearwere, by all accounts, generally mistrusted and accused of old sibling rivalry seem insanely simplistic. I find it awful crimes, could easily gain audiences with kings and more likely that feuding vampires from the period I just lords and obtain not es of safe conduct. That’s where the described latched on to old stories about the ir progenitors
+Ravnos traveling with the m came in. The vampires had a and fit the m to the cause at hand. But the n I’m a cynic. Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 21 === s ’ s: t a s p t a T w n t c b c b a j l i M m c t o a n o h h a o l s r r n a a a a i s a r e a e s o e t l n t c n o d m t n C p l i i l h y t e k; m m k q n A O e h o g G i o e d T h e u d a s g i u e r s i h l t n n r a t d i o l r; e e t r o h h t n t o a a t h d o t ” s l s s h b e s e o y o t r a v s t e a u a e o e — i r K i s, a e m c C m t c r s n d m M. K M b n D e i o t, t d e n h s A l e a o m h i s d e n o o e m e e i s o d p t l n t e d t o l s t m t c h s e h n r v e t a h g h e e l e d a m t a C h e e n a e g c e s a u h r l p d y e e s m. o t t i r t t t d b e a s n e a h i. s t l w A B r e m e e t t M d s h o M e n e d a h h l r. T u e i a n t n s i s e e a t i h d i — o T G h A o t s h g d y r h y f e t n n s n a o h n n h i a K i n r s e n o ’ s g c r g t, r a e i e i n o n o m, o a o g i c m o h p t e t n b s g A m h a l n u e h l m a u t s e h C l d o t d n E r h l d e o. v n a t s i d G r r o o d n r e e s o e M m d e c t e d M r s d h d n o s g d a K M i a a e e e c p t e l m e s p t o. n t i i s o h a h t i t u l n o i t p n o o i r g G l s t a a n a r n p e e o n a t c r t g i d h n n h d e b i t a o l t e g s a e a i o h e l — h e n z l x o — t t v n i i s f e o s h e i y h a p l r g d t n r e d n y e a t d r n — a f e a W g t h i e o e e b w y b y s n r a s s w e o l r c u e u n l l d c h e a e a n e o e o r d t t o r a e o G s s o h l n u n u, r w t d t r d t s a n s e n o h e d g s s d t t h e a, s e v h r y h e w e r H i o n d o t f n o e o e a d d t M h of c m e f g e r n l n d G C u a r e o e t d S r r A. e f s e y o. n e e l “ e i r a n a l m u b l n d d a S S o s n b s c i n e, n n i i o g p m w l o a o t b a d a g o r i o r i d s t m m m e t i n t r n h o e h l a y e i i e r e s n n ’ o d d a y e e e e r, s, s t ’ l s s n fo fo p o c fo t t e o u r m e l u h l o l a h l a h e f t l a o s w s i t t o m A e w L n a t r i I f s k u k s e w h r s h w h e v e r u. e b d a d i a c e f n e i T o e p e m e t l l o t f l h e p i a a t i a n p u n d: g. a. w c m I f w p o e W c r h H e g r r h d d n r a u s ’ m k of e e i n, t e o e s o n q w s e p a t r G m h h g d -, s f i v t o. h, u m w n t a o a l e t i r W u n I i r e L t h n e t a a n i d n m - s t s o m n a o e i p a n v n g t e y o i a h e f t h n r e i r r y h h o n e d o e k r l t i b w e a m a, i o o e i d s n r a i u o g s s a s t l n A n n r t f w n e i t h, i a n. s H n w a t o w h o L r w I o a t d g i h d u r p t n o; o b s t a e s w o i e t o t e a h s l C r r e, a t i l y i n h d d r d, h h k n t d e d d s’ h a e. d i a. e t e i e r A g t o I a A c e g i r s s m r a n t s t u h s l n r y a i i n h i e o n v h r p a g a i n e r i t t l t a d n p a g c e l h p s g n e e n h d e e o o r a a n e t m a e. V d t c e t a m t o. p r d F l t t d l h o T d h, h o e i k c o e o m e e a m a e r d e e a r i h h o n d t l n t r y s u i s n a t, u e r f f o a e h i r e t t L e s a t s i t o s u k. a d r s i r c a b e of t s W c y e h e n m u f s n s o a e i h h d w I o,. l f e C L o, e l m r. f i b I e a l e n r u a a N i s o w a h u L h t o a m m r n d r a g g n e r i i h o e e t n n v d o t s a h e a d n i b t e o r i m w g. i e I r d l t r f n e h A h o i I I n t e I n h a I e l r a e a r d l y s t r P r t s i h a r t n t I s l w p a o u i a a i l n o a t n o a n, o l w d a n A y h t a a n a l e d d l s i d f a d a t h e e r f f n n r r t k I s o a t a h m h o a p A e p h A w e d n a d h k v o r d m c d a r m i u r e n s m e r e e c u i o t I d p e d t p a r, m u d t h r r y a L r h L a s r, h s e e s n s a d d e b i o s l p d e d d e v t e e s o i y o i i r of w d x. a s t d t e I b k - o r s o y e y f they know my name. The Inquisition was a horrifically dark time for us, as
+anyone with half a brain might suspect. Kindred elders had swaggered around as undying lords of the night since t a r he nar Ch ev Oltand the fall of Rome. Even the normally not-bothered-with C t
+that-sort-of-bullshit Gangrel got too big for the ir britches, the Onventi On Of h or ns terrorizing entire towns and marauding of f with cattle, Speaker is Torvus Bloodbeard, a Viking; my luck in children, virgins, etc. In the 14th century the kine finally getting him to speak on tape continues to frighten me. started to wake up and realize that vampires were n’t I’ll tell you about the Convention of Thorns. I was indestructible or omniscient. The Church waged war on the re; I would know what happened. The details are n’t
+heretics, Satanists, witches, Lupines, Cainites, anything all clear anymore — I remember a monastery, I remember it could get its hands on. The Inquisition hit the Gangrel caves, I remember a year’s worth of blood — but that’s no more or less than any other clan. You might think we’d not what matters. What matters is that the thing was a end up on the pyre less of ten than other clans, since we joke from the start. I had been in Prague, and when the
+do n’t burrow into cities or lords’ manors like the Ventrue prince of Prague was invited to the Convention he asked or Nosferatu do. But Gangrel have a hard time conceal- me to go in his stead. I suppose he respected my sense of ing the ir bestial natures; when Father Jean confronts a honor; I was n’t about to lie or misrepresent him. It was in woman with clawed paws or spider eyes, he barely takes England. than kfully most of the conversation was do ne
+the time to shout “Demon!” before she’s on the fire. The in a civilized language, or at least Latin. On one side you
+Ventrue do n’t stick out like we do, and the Nosferatu, had the Founders: Hardestadt and his cronies. On the who do stick out like we do, know how to hide the ir real other side you had the leaders of the Anarch Revolt, a faces. The Inquisition undoubtedly destroyed at least one how ling pack of honorless savages and villains. I had n’t bloodline of distant relatives of ours, a group known as chosen a side, really; I had spent most of the Anarch
+the Lhiannan. This collection of Celts, Gauls and Slavs Revolt in torpor, and I found both sides distasteful. In found itself unable to with stand the faith of the Holy that last, it turned out that I was n’t alone among my clan. Inquisitors; stories have come do wn to us that the Lhian- Most of us preferred neither side in the conflict and had nan were blood-witches, infernalists or worse…. I do n’t chosen the Camarilla as the path of least resistance. Many know what to believe. I just know that they’re gone now. Cainites of not e had been invited, you understand, but
+most did not come. Most of us had the impression that
+Clanbook: Gan Grel
+
+=== PAGE 22 === a real discussion of the Anarch Revolt would take place, such thing. When it was convenient for the m to do so, and that perhaps some kind of peace would be brokered. Olaf and Karl posed as traveling spirits; at other times, We were quite mistaken. The Founders had a plan com- they traveled quietly, in human or wolf for m, hunting as ing in; they knew what kind of peace they wanted, and necessary. Karl speaks of this time as a peaceful nightthey were unwilling to accept anything else. The anarchs time idyll, with no Cainites to trouble the pair. Trouble had plans, as well, and neither group seemed likely to did come, of course; along the Atlantic seaboard a fierce
+compromise. The Founders of fended the anarchs with a tribe of were wolves and the ir native slaves hunted the prewritten agenda and a treaty that changed not at all duo for years, eventually driving Olaf into torpor. Karl in response to the furious debates that swept across the escaped with his unlife and dwelt in peace for more than courtyard in which we met. Both parties — Founder and two centuries; he occasionally granted the Embrace to a
+anarch — instead spent the ir time wooing influential native, but for the most part he spent his time as a quiet, vampires like myself, who had yet to choose a side. It was hidden hunter of men. Karl’s stories suggest that he was rather flattering. But for me the choice was easy: I spent aware of slumbering Methuselahs in the Americas well the early years after my death as a vargr in the far north, before Columbus arrived, but he kept his distance and and for us diablerie was the worst crime. The anarchs recommended that his childer do the same. To that end, considered diablerie a convenient tool. And when Karsh Karl made sure to teach his childer the Nosferatu talent
+approached me, speaking of honor, loyalty and integrity, Olaf had given him, sometimes giving that Discipline
+I knew I had no choice but to side with the Founders. I preference over our clan’s usual sway over animals. was not the only one Karsh or Petrenkov, the Gangrel t 16 C among the Founders, spoke to, and for every Gangrel elder he th entury who went his way, four or five neonates swung the same As humankind explored the West Indies and Ameridirection. Certainly many you ng Gangrel sided with the cas, we scattered across the globe. Gangrel had established
+anarchs and would not leave that side after the of fense of have ns amid the wilds of the Songhai Empire in Africa, the choreographed convention, but Gangrel elders had regardless of the danger posed by the supernatural creatures avoided alienating the ir childer with the worst of fenses of the Dark Continent. Gangrel fought on both sides of shown by the Lasombra, Tzimisce and Ventrue. Ivan the Terrible’s reclamation of Russia from the Golden
+Horde. We fed from the Aztecs and the ir descendants. G s un and hip We rode with the Turks of Suleiman the Magnificent, conquering European towns and cities from the Black
+At least a do zen Gangrel elders knew that another Sea across much of the southern Mediterranean. continent lay to the west of the Atlantic as early as 1200
+It is certainly the case that many Gangrel — includAD. To a Kindred, the se Gangrel descended from Vikings, ing the infamous Arnulf the Hun — rode with the Turks and heard tales of Vinland from returning travelers. One as they invaded Europe in the 15th and 16th centuries. — who we shall call Olaf, though his true name is lost
+Many Cainite historians look at that all egiance as an to history — entertained optimistic thoughts of a wild aberration. To the m, Gangrel are creatures of barbarism, land empty of European or Asian vampires. Some four not is lam — and despite the prevailing opinions of
+centuries old even in 1200, Olaf captained a boatload of
+European Kindred at the time, Suleiman’s Turks were men through the gales of the North Atlantic in darkest not barbaric at all, but rather had a culture as deep and winter, seeking this promised land. Eventually he did
+advanced as any in Europe. Gangrel who rode with the find it. The Vinlanders were beset by natives they called
+Ottoman Turks saw the m not as destroyers of cities but skraelings; the descriptions are spotty and embellished, rather a means to an end. Elders who had made the ir but they are pretty obviously Native Americans. Over have ns in Europe for centuries built up an impressive
+time the Vinlanders came to know the skraelings, and yes, list of enemies, and an all egiance of convenience with
+I mean that in most senses of the word; it appears now the Turks and the ir Assamite companions all owed the that the Narragansett tribe is partially descended from
+Gangrel to sack Tremere or Tzimisce holdings in ways
+Vinlanders. Some Vinlanders traveled south with the ir new unavailable to the m while they skulked in Europe. families, while others either died or returned to Europe. t s
+In the end, Olaf and Karl, his childe, traveled south into he aBBat the open lands of America. Olaf, somewhat paranoid, I’m a lot spottier on the history of the Sabbat. It’s taught Karl the Nosferatu gift of obfuscation, and Karl not for lack of trying, but if you can imagine the probfound it quite useful, adding the art of the ambush to his lems inherent in interviewing Gangrel of any stripe, tactics of predation. The travel was difficult, of course: and multiply those by the risk to life and limb one takes
+Europe’s population clustered together in towns and cities, when spending time with any Sabbat vampire, you but the seemingly primitive natives of America did no should understand how I have less information on the m
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 23 === than you might want to see. If you have any more of a clue — a serious clue, please, I do n’t need more e-mail from dedthrashd00d talking about how totally /kewl\ it
+is that the Sabbat are like totally evul — feel free to drop me a line. Use some reasonable encryption, too, or I’ll just drop the message. The Camarilla may be a bunch of bastards, but the Masquerade makes too much sense for
+me to blow it of f this soon. A few things are clear, though, and I’ll try to address the m. A few do zen anarchs were furious at the result of the Convention of Thorns. Despite the damage they’d do ne to elders across Europe — and, if you believe the
+Lasombra and Tzimisce, the destruction of two Antediluvians — most you ng anarchs just rolled over for the ir sires and grandsires when the time came to make a decision. As
+Torvus Bloodbeard mentioned earlier, the Gangrel did n’t have all that many anarchs in the first place, since the clan’s elders did n’t abuse the ir childer nearly as much as other clans’ elders did. (Well, maybe they did. But if so, who cares? It’s not like the Gangrel anarchs had a much
+more or ganized social or der than the parent clan.) But those who did join the anarch cause like the Mongol
+Jalan-Aajav believed in it fairly devoutly. (And do n’t ask me if Jalan-Aajav was one of the and a. I do n’t know, and he do es not answer my questions on the subject.)
+By the middle of the 16th century or so, the se anarchs were tired of running and hiding from the elders they’d assaulted after the Convention of Thorns, and they held clandestine meetings in Spain and southeastern Europe. the se meetings generated a philosophy, a name and a
+new sense of direction for the harried anarchs. they called the mselves covens and sabbats, and espoused a belief that they were the true scions of the Devil (or Caine, depending upon geography); they scorned the Masquerade and the
+elders who defended it. In my opinion, only two kinds of
+Gangrel joined the early Sabbat: those who were spoiling for a fight, and those who refused to “play human” with the
+Camarilla. The brawlers got all they could handle; most of the m met Final Death fighting the Camarilla. But those who succeeded felt no qualms about diablerizing the ir opponents, increasing the ir own strength and improving
+the ir odds in the next skirmish. The fighting mostly took place in Spain and France, though some battles raged in the traditional Tzimisce homelands of the Balkans. It was guerrilla warfare, the kind of fight at which we Gangrel excel. From conversations with Bloodbeard, Mortensen
+and one or two other elder Gangrel, I learned that many of our ancestors abandoned human morals and ethics as soon as it was convenient. Most of the se were quickly consumed by the ir Beasts, but the more
+disciplined among the m followed the Path of the Feral
+Heart, a code of ethics that encourages its followers to tame the Beast gnawing at the m from with in. The
+Camarilla, how ever, strongly encouraged — some
+Clanbook: Gan Grel
+
+=== PAGE 24 === might say strongarmed — its membership to accept violence, just like every war do es, but other than that the ethic of “Humanity,” to all ow Kindred to blend tidbit, the Gangrel I spoke to about the revolutions did n’t into human society better. It’s no easy task to abandon have much of an opinion. Most of the m liked the US as
+a code of ethics you feel strongly about. If you do n’t it was, but at the time the revolution did n’t matter to believe me, try it sometime. In effect, the Founders were the m. The only effect it had on vampiric society, accordtelling the Gangrel elders who developed the Path of ing to my sire and his acquaintances, was that do zens of the Feral Heart that the ir chosen morality was wrong, mortal institutions extricated the mselves from European and that they were criminals if they could n’t abandon do minance, and that gave American Kindred a shot
+it to return to the side of humanity. So yeah, some of at getting some influence of the ir own. Of course, this the m told the Founders to go to Hell, and joined up did n’t do much for the Gangrel, who lacked the neceswith the anarchs. sary connections to exploit such a power vacuum, but again, most Gangrel did n’t get too worked up about it. t 17 C he th entury
+t 19 C he th entury
+The Thirty Years’ War between Catholics and Protestants in the Holy Roman Empire served to cover up a In the United States, the Civil War (or, as my great deal of Camarilla-Sabbat maneuvering. Though I brethren in Georgia prefer, the War Between the States) have no do ubt that mortals caused and fought the war, do minated the 19th century; from this perspective it’s
+I have to wonder if it would have gone on as long as easy to look at events leading up to the war and see it did were it not for the machinations of the undead. the m as precursors to it, and it’s certainly the case that
+Gangrel are the fiercest Cainite warriors, as is pretty well much of the end of the century was spent dealing with acknowledged, and we saw plenty of action during the the ramifications of the war. war. Not all Gangrel Kindred were die-hard believers As for the Gangrel, well, the unpleasant truth is that in the causes they fought for; even back the n, plenty of slave pens make good feeding grounds. The freeing of Ameri Autarkis Gangrel chose sides based on who could pay can slaves during and after the Civil War was something of the m better in gold or blood. a hardship to Gangrel who’d fed at the same plantation for
+European colonists founded the first serious Euro- a century or more. Personally I could n’t care less if those pean settlements in North America in the 17th century. Gangrel went through some tough times; I find the practice
+Some did not survive, but many thrived and before long, of slavery repugnant, and the act of feeding on slaves or settlements do tted the East Coast. European colonists prisoners do wnright repulsive. But let’s face facts: We of ten interacted with Native Americans at a variety of levels, refer to mortals as kine. Cattle. Respect for human dignity from outright war to pleasant cooperation; this interac- and freedom is n’t universal among Kindred, and such things
+tion brought the new American colonies to the attention fade quickly after a century of unlife, to my observations. of potent Gangrel who already made the ir have ns in And let’s not even get into the Sabbat’s attitudes. America. the se Outlanders fed from the new colonists As for the war itself, it was a bloody, horrific mess. until European Cainites finally made the ir way across It was the last “traditional” war fought by Americans; in the Atlantic some decades later, at which time the re contrast to the “total war” mentality seen during the Great were some… exciting… conflicts between the two groups. War, the Civil War was do wnright genteel. But thousands died; Grant knew that the Union’s only advantage was its
+t 18 C he th entury vast population, and he hurled throngs of troops at Con In none of the se sections do I find myself pressed to federate positions. Like any nomadic scavengers would, say, “This was a boring time for the Gangrel and not hing Gangrel profited from the se scenes of mass destruction. much happened.” The 18th century was a time of explora- Once the sun went do wn, we crawled from the ground to tion and revolution. Revolution we do n’t generally have feast on the recently dead and not-quite dead. Plenty of
+much truck with, but exploration is our gig. I won’t make neonates came out of the war, and most of the m retained the preposterous announcement that Lewis and Clark were prejudices from the ir mortal lives. For a short time in the
+Gangrel (or even Gangrel ghouls, or manipulated by a 1870s, feuding Gangrel neonates in Virginia and West secret Gangrel Kindred and his legion of loyal followers, Virginia made the Applachians all but impassable from or any other ludicrous, Ventrue-esque proclamation), north to south, but this skirmish resolved itself with only but many expeditions into the wilds of North America a few Final Deaths. A few fringe ancillae from this period
+relied on grizzled trappers and traders with shady pasts and still hold grudges, and viciously challenge any you ng unusual habits. Surely you would n’t find it too strange to Gangrel in the ir territory who se accent shows him to be learn that at least one of the m was one of us. from the wrong side of the Mason-Dixon line. Revolutions raged in France and America. Both For all practical purposes, the Native American naof the m all owed for some hidden Sabbat-Camarilla tions in the United States died during the 1800s. American
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 25 ===
+Indians were pushed westward, the n for cibly herded onto reservations to all ow whites the choicest territory. Those tribes that refused to capitulate to the demands of the US found the Army hounding the m across the Great Plains. Many Gangrel counted the mselves as all ies of the native
+tribes; many others simply fed on the m, with less concern given to the natives’ political for tunes. Some Gangrel had the audacity to act against the relocation for ces arrayed against native tribes; they might divert the for ces for
+long enough to all ow favored mortals to escape, but just as of ten they roused an otherwise nonplussed army group into taking drastic action against the Indians. Relocation onto reservations was n’t itself that much of a problem for the undead. Gangrel are not hing if not
+mobile. But with relocation and reservations came a decline in the tribes’ spirits. the ir numbers decreased, and they found the mselves to be not hing more than a token nod to long-broken treaties. Plenty of Gangrel took up residence in or near native reservations, which
+were not too radically different from the concentration camps of later wars; the natives were decent herds, and a few were will ing to work as servants or even ghouls. For the most part, the other clans left the reservations alone, seeing the m as too much work for relatively small gains. C G C G
+ity an Greland Ountry an Grel
+The Sabbat has always been strong in North America, as we well know. Too many Gangrel broods converged on the continent simultaneously for me to have a hope of providing a general genealogy of those present at any point in history, but I can give you a couple of interesting
+facts. The first is that by the American Revolution, the broods of Karl childe of Olaf do minated the northern
+Appalachians. You may remember my earlier mention of Karl; he and Olaf come from the age of the Vinland settlement in what is now Nova Scotia. Members of Karl’s broods and European Sabbat
+Gangrel hit New York City in large numbers around the time of the American Civil War. By 1860, my sources indicate, as many as three do zen Sabbat Gangrel made the ir have ns in the city (think about that for a minute). Curiously, many Sabbat Gangrel had left the New York Philadelphia are a in the preceding decade, ostensibly to
+brawl with the Camarilla in the Wild West. Several Gangrel packs that prowled the New World during the Civil War had a surprising amount in common. Unlike the ir clanmates, the se Kindred had no great affinity for the wilderness. Some were born in large cities in
+America or Europe; others had developed a (reasonable) fear of the for est and dark plain during the ir unlives. Many
+(though certainly not all) of the se vampires had shown a tendency to develop insectoid or arachnid features — like the possibly legendary Tonio Eight-eyes — or the characteristics of decidedly urban beasts. Lastly, almost
+Clanbook: Gan Grel
+
+=== PAGE 26 === all of the m unconsciously preferred a different set of I see it; it can be useful to turn into a bat in the city, or to
+Disciplines than our clan usually favors. they eschewed elude pursuers, but I’d never consider traveling that way. rugged hardiness for supernatural speed, and chose the Massive industrialization concentrated wealth in the arts of concealment rather than the ways of beast mastery. hands of a few individuals, and in many cases those indi The packs declared kinship in spirit, if not in lineage, in viduals were under the sway of the Ventrue or Tremere. a bloodcurdling ceremony in the tenements of Manhattan That should n’t surprise you; it did n’t surprise any of us. around 1870. The leadership of the Sabbat in New York Keeping tabs on high-tech industries like pipe-fitting acknowledged the “City Gangrel” as a separate bloodline was n’t something the average feral Gangrel had interfrom the “Country Gangrel” about a decade later, and by est or time for. the re are always exceptions, mind you; the turn of the century they spread through Sabbat holdings several Gangrel had the ir talons in Standard Oil out at across North and South America. To this day, I’m told, the wildcatting level, for instance. But as usual, when a
+City Gangrel are far less common in Europe, and almost new economic innovation came about, the other Kinall of the m are childer or grandchilder of Americans. dred took the gold mine and left the Gangrel the shaft. Those that are n’t, I can make a guess as to the ir previous t C f he l OsinGOfthe r Ontier ancestry, but I’m not going to set it do wn here. The end of the American frontier as a palpable
+e w thing, early in the 20th century, was a blow against the n Gine and ire
+American Gangrel. No longer could the default answer to the ir political problems be to flee westward, into the t i r he ndustrial ev Oluti On wilderness; the wilderness was still the re, of course, but it
+was n’t a great unclaimed undefined free land any more. The Industrial Revolution, which began in the late
+The wildest Gangrel ran into California and the Pacific
+19th century, had a curious impact on Cainites in general
+Ocean. It would not be long, by vampiric standards, before and the Gangrel clan in specific. do zens of cities in the westward-running refugees turned the West Coast into a
+Great Lakes region — such as Pittsburgh, Gary, Cleveland
+Free State. Several broods of Gangrel ran to the wilderor Detroit — were sleepy little burgs in the wake of the Civil ness of the West at the turn of the century. The childer of
+War. they had relatively small populations, typically no
+Luchenko fed in the mountains around Denver; a trio of more than the 100,000 necessary to support one Kindred
+North African expatriates in the desert around Las Vegas under the guidelines of the Camarilla. In several cases, later extorted fantastic wealth out of the Camarilla vamthat lone Cainite was a Gangrel who’d claimed the are a pires who later set up shop in town; and a pride of rustic as her do main for over a century. By 1880, though, the se
+Native American Gangrel led by one “Skysmoke” kept a cities’ populations began to spike upward with an influx of low profile in South Dakota at least until the Great War. immigrants and factory workers — Pittsburgh, for example, do ubled its population from 1880 to 1900. A town that t p C he anama anal
+could feasibly support one Kindred in 1850 could support
+The French were the first to really try digging a can al
+10 just 50 years later. And when a city could support more across the is thmus of Panama, at the end of the 19th
+Kindred, you better believe those Kindred came. century. they failed for many reasons, including the rapid
+Gangrel caught in the population boom tried several spread of malaria from natives to Frenchmen. When the different responses. Some declared the mselves prince and American government started its own can al project in each Embraced a childe or two to back the ir claim up with the wake of Panama’s 1903 revolution, malaria remained a brood. Some settled for behind-the-scenes roles, endors- a huge problem. The presence of malaria-spreading
+ing newcomers in exchange for major boons and perhaps Cainites in the are a did n’t help matters, of course. serving as primogen. Some long-time Gangrel residents
+A small brood of Gangrel hunted in the are a we now lost out to faster rivals; the new princes generally destroyed think of as the can al zone around the turn of the century. or de-fanged the ir Gangrel competitors. Many Gangrel they mostly kept to the mselves, due to the ir inhuman
+caught in the industrial revolution simply left in search features; they had multi-faceted eyes, buzzing voices and of wilder frontiers, away from the Kindred-come-lately. more. One in particular, called Jose by his broodmates, The Wright Brothers’ invention of the airplane fur- had lost much of the lower half of his skull in favor of a the r devalued the singular Gangrel ability to fly; trains mosquitolike proboscis. Jose’s broodmates insisted that
+already far outstripped flapping bats in terms of speed, but he could consume blood faster than anyone else in the
+Gangrel were matched only by the rare Gargoyles and are a, but he’d lost his ability to speak. untrustworthy Tremere in the ir ability to provide aerial
+The insectoids spread malaria so much faster than reconnaissance. With the airplane’s invention, flight as a would be expected that a number of American scientists bat became more of a novelty than a serious for m of longtraveled to the can al zone to investigate the presence of
+distance travel or communication. At least, that’s the way a new vector for the disease. After only a few weeks of
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 27 === study, they were relatively sure that they’d discovered a new, large blood-drinking predator; the scientists even made a few for ays into the nighttime jungle in an attempt
+to catch the beast in the act of feeding. than kfully for the Masquerade, things never got much farther than that; the insectoids attacked the group of scientists during one of those nighttime escapades. A few scientists were killed, and the others, terrified both at the
+violence and the nearly incomprehensible for ms of the ir attackers, refused to continue the ir research afterward. e xpl or inG
+By the beginning of the 20th century the re was n’t much uncharted frontier left for our clan’s wilder members to retreat into. Of course, by the same token, American Manifest Destiny had encircled the Lupines and the few remaining Native Americans, and the were wolves seem much more dependent on wilderness than
+even we are. We took the good with the bad. Numerous brave souls explored the remaining uncharted lands of the world; in some cases that proved rather dangerous. For instance, as I mentioned before, a few extremely old Gangrel moved into the far north in prehistoric times; some took Siberian or Inuit tribes as
+herds. At least one expedition to the far north disturbed one of those tribes, and a few explorers died mysteriously in the night. I have n’t heard about any Antarctic expeditions awakening anyone or anything, which I imagine is for tuitous. the n again, people die on all of
+those trips, and you can’t say for sure that Kindred did n’t kill the m; we’re only sure that it did n’t look like Kindred killed the m. Which, I suppose, is the point after all.… t
+urnCOat
+In 1912, Marvin Schellman, a German American Sabbat vampire of our clan, made a big move: He broke free of the mutual blood bonds of the Sabbat and ran like hell for Europe. When he reached Munich, he abased himself before that
+city’s prince and begged for shelter. The Camarilla of the city did not trust the apparent turncoat, of course, but after Munich’s Tremere declared him safe (how, I do n’t know — presumably by looking
+for blood bonds), he gained some freedom. Schellman went to ground, literally, during the Second
+World War, and since that time has created two childer. He sent both to America, and today they serve the ir sire’s desires by hunting the Sabbat pack he fled. Justice delayed is only justice denied
+when the of fended party is mortal. Clanbook: Gan Grel
+
+=== PAGE 28 ===
+But the surge in manly endeavor — personified in than one nature enthusiast joined the ranks of Clan
+Teddy Roosevelt and later, the roaring, drunken Ernest Gangrel early this century. Hemingway — had great side effects for some members i n C mmi Grati Onandthe ew ity of our clan. As land was declared to be part of the
+During the years leading up to the Great War, Kindred
+National Parks system, Americans were invited into and mortal immigration to the United States increased the wilderness for camping trips, hiking expeditions dramatically. Newcomers from southern and Eastern
+and so on, and if a “bear” mauled the occasional hiker, Europe came across the Atlantic in great numbers, and hey, that’s the price they paid for having such luxurious
+European vampires accompanied no few of the m. Neowilderness all around. The really big national and state nates of all clans in Europe were trapped; positions of parks provided have ns to Lupines, so the parks were n’t power were not going to open up above the m with out
+buffets for Gangrel who had staked the m out, but some a titanic war. Fearing a new Anarch Revolt, European
+Gangrel relished the danger inherent in feeding with in elders encouraged the ir childer to immigrate to the US. Lupine territory and others had no choice. This immigration took place both among the Sabbat e u Geni Cs Gangrel and the Camarilla Gangrel, which surprised me
+At the St. Louis World’s Fair in 1904, Dr. W. Mc Gee when I learned of it. I’d assumed that the re were n’t that presented a number of exhibits of “primitive” human- many vampires left among the European Sabbat by 1900; ity; Indian tribes, African pygmies and aborigines from certainly the one European Camarilla elder I’d spoken to across the world were held in what was no less than a implied that the Sabbat was no longer a problem the re. zoo for humanity, to show of f the ir barbaric ways of life. But no — in Spain and the Balkans the Black Hand still
+The end of this series of exhibits, of course, was the pre- held sway, and when population pressure grew too great, sentation of Anglo-Saxon Caucasian Americans as the the sect’s elders “relocated” troublesome Kindred to the pinnacle of human evolution. I hear that at least one of Americas, just as the Camarilla did. the “exhibits” found herself Embraced near the end of Both sects fell in love, figuratively speaking, with the the World’s Fair, by one of our number; I imagine she’s new image of the city in the early part of this century. still in St. Louis and I do n’t imagine she feels terribly More specifically, Gangrel of both sects found beauty in charitable toward whites, even today. the skyscraper and the subway. The skyscraper expressed
+I had n’t been born, much less Embraced, when this the desire to rise above the crowd; those who could reach stuff was going on, but I do remember that before the the tops of such buildings spoke of a new perspective on
+Second World War the term “eugenics” was much less the city below, literally and figuratively. Gangrel found loaded than it is today. It was an admirable goal, really: skyscrapers to be great perches; when one has the powthe improvement of humanity. Hell, if you believe the ir ers of flight and keen senses, a skyscraper is a fine place stories, vampire elders have groomed human bloodlines from which to watch one’s prey. to fit the ir needs throughout history. Subway tunnels remain thoroughfares of opportunity
+Okay, seriously. In the modern nights, the eugenics for the undead. Any mechanism that lets a vampire move movement seems somewhat specious; now scientists are around a city with out risking exposure to sunlight is mastering the human genome and soon will be able to bound to be quite popular with Kindred. More Nosferatu improve human genetics directly, rather than taking than Gangrel make the ir lairs in for gotten of fshoots of
+generations to breed the perfect human. I imagine that subway systems, but many Gangrel do take advantage vampires who have spent generations breeding “im- of such things. proved” humans will take umbrage at this when it occurs. I was surprised at first to find city planners and con In light of the emphasis on the difference between struction engineers among our clan, in both the Camarilla
+“civilized man” and “primitive man,” it may seem strange and the Black Hand. But it seems obvious in retrospect. that many Americans chose to undertake a more primi- The city is our nightly playground; Camarilla bastions must tive lifestyle. the se people generally put great stock in repel Sabbat invaders. The skyscraper and the subway are the myth of the noble savage, and wanted to become roosts, have ns, bolt-holes and feeding grounds. Obviously, barbaric again. I must wryly not e that this was a great such specialists are relatively you ng; a Methuselah can not opportunity for my clan. Back-to-the-woods types pro- be roused to learn the intricacies of excavation engineervided plenty of blood, and those who worked in cities ing. But such things are of great general interest to elders
+but spent weekends or summers in the countryside made of most clans; secure underground and penthouse have ns excellent contacts for politically distant Gangrel. More are necessary staples of our existence. Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 29 === breaches of the Masquerade easier to hide. So the re must have been some particular Camarilla holding that the Sabbat t O C
+h Ose the r Ountries wanted to damage beyond repair. On the other hand, Serbia
+Gangrel have never worried too much about naitself is in ancient Tzimisce territory. Maybe they needed to tional boundaries; no border patrol of ficer will prevent do something the re. I’m sure that Tom will entirely ignore a crow from flying over his assigned booth or a coyote
+the significance of this tidbit, but that’s why I’m here. from running past, especially while he dismantles the
+Gangrel in Europe made a good opportunity out of car of suspected cocaine- or bomb-smugglers. Plenty a shitty situation. Let’s face it: Entrenched armies and of Gangrel who sought pristine wilderness found it
+battlefield machine guns are n’t conducive to leading a north of the 55th parallel in can ada. Even in the simple undeath. how ever, the Gangrel had a few things modern nights, the can adian Great Plains are vast, going for the m that other clans did n’t. Terence Arthur empty expanses, and can ada has more parkland than of England was arguably the first to realize that we could
+the entire United States has. Unfortunately, where ver scout battlefields very easily, perhaps more easily than the one finds huge tracts of beautiful wilderness, one Nosferatu. Arthur made a killing selling aerial maps to finds Lupines. I do n’t know if the re are really more those elders with a vested interest in the war’s outcome. were wolves in can ada than the re are in the US, or Similarly, Gangrel made great messengers between those if it just seemed that way last time I went north. If Kindred who se lines of communication had been cut by
+you want to really get away from it all, the can adian trenches. And in a bit more macabre fashion, I happen
+Great Plains or Rockies are the answer. Just be careful to know that battlefields make for good eating. Corpses are still good for our purposes several hours after they’ve you do n’t get more than you wanted. dropped, and bodies sometimes laid in No Man’s Land
+Mexico is more densely populated than can ada, for nights at a stretch. but parts of it are just as wild. The Sabbat has infested
+Karsh, the Gangrel Warlord of the Camarilla, did
+Mexico as long as the re’s been a Mexico, of course, so take advantage of the chaos of the war to direct sorties travelers southward have always had to be careful lest against the remaining Sabbat strongholds in Europe. they be invited to a blood-kegger. Modern Mexico
+On a number of occasions, mortal soldiers charged
+City is a scary place for non-Sabbat vampires of any
+Sabbat strongholds, or were or dered by the ir superiors flavor, as they would put it, so if you’re a Camarilla to defend locations that turned out to be the property or independent Kindred, I suggest you avoid it. On
+of elder Kindred. Not that any of the m found out the the upside, the re are n’t as many Lupines in Mexico true nature of such assignments. On a few occasions, as in can ada, or at least the re were n’t the last time elite teams of vampires, some plucked still breathing
+I went to Tijuana. from the trenches, were used in similar circumstances. Let’s not for get that the Great War was called a
+World War for a reason, and not just because Germany t he G reat w ar started it. Throughout Africa, South America and various is lands in the Indian Ocean, aboriginal people died by the
+Consider that you had five glacial empires stuck thousands, fighting other aboriginal people on behalf of rammed up against each other, each one growing extheir colonial masters back in Europe. Gangrel who had ponentially and becoming ever-more crowded every
+chosen to settle in the se remote locations found many of night; multiply it by rising nationalism, socialism and the same benefits as the ir European sires — war means anarchism, and is it any surprise what happened when
+death, which means free blood for the taking — but of ten
+Gavrilo Princip killed Archduke Ferdinand and greased spread equatorial disease farther than they wanted, and the stuck axle of the European war machine? were sometimes singled out as members of the wrong
+A comment from Zeke J. side during a skirmish. Embraced natives typically fared
+Princip’s anarchist group, the one that wanted the do wnbetter than the ir sires, and of course some of the m used fall of Serbia, called itself the Black Hand. I can not bring such conditions to escape the ir sires. myself to believe that this was mere coincidence — and believe
+Back in America, attitudes were more pragmatic than me, with all the implications such a thing has, I’d prefer it in Europe. A general sentiment spread among American was. The Black Hand is the Sabbat, as we all know, so the
+Gangrel that the Old World was committing suicide, question that has to leap to mind is: what did the Sabbat gain and should be all owed a graceful death. When names of from starting the First World War? European Gangrel destroyed by the fighting drifted across
+War do esn’t inherently further the aims of the Sabbat, the Atlantic, only a few Americans chose to return to the as I read things. Hell, in some respects it furthers the aims
+Old World and seize the ir sires’ territory. Most preferred of the Camarilla, since we all know the Camarilla has all the ir new home, even if it had once been a place of exile. the world’s arms dealers under its thumbs, and war makes
+Clanbook: Gan Grel
+
+=== PAGE 30 === a ’ f nders On s Olly
+Michael and erson was a relatively you ng
+Gangrel with a great vision. Inspired by the building of the Panama can al and the skyscrapers of New York and Chicago, in 1919 and erson optimistically suggested to the primogen of Denver that they invest in the construction of a vast underground city for Kindred. In this fashion, he
+suggested, Cainites from across the world would have a safe, neutral have n, and be able to interact with the waking world day and night. The primogen of Denver hardly had time to burst and erson’s flimsy bubble of a plan before
+the neonate tripped of f to begin planning “New
+Enoch”. He consulted geological surveys, old mine maps and so on. It was never built, of course; as you might imagine, a Pollyanna like Michael and erson did n’t stand a chance in negotiations
+with century-old vampires. He survived, at least; I hear he’s got a commune outside Colorado Springs that accepts him as its guru. According to legend, and erson’s maps and schematics are still around somewhere; the prince of Denver seized the m in
+1920 and they have n’t been seen since. t r r he ussian ev Oluti On
+The Russian Revolution itself was n’t that big a deal for us Gangrel; mortal governments change all the time. The Brujah were up in arms, of course, but they get that way any time you let the m capitalize the word “revolution”. The only not eworthy event for the Gangrel was that Igor
+Strensky’s brood, about half a do zen Camarilla Gangrel, left the sect for the Sabbat just as Czar Nicholas breathed his last. The pack fled the ir territory south of Moscow and found one of the rare European Sabbat strongholds, somewhere in the Balkans or Carpathians, I’m told. they bought the ir freedom with an enormous stash of stolen Russian
+or thodox and pre-Christian Russian artifacts and idols; some of the m were surely mystical and all were priceless. t t he wenties
+The ‘20s were a time of turmoil and opportunity. From Prohibition to the women’s suffrage movement, society in America turned upside do wn. In Europe things were far harder; resources were scarce in the wake of the
+Great War, and though the all ies tried to return to the status quo antebellum, changes in Italy, Germany and
+Russia made it clear that such a thing was impossible. Now I’ll discuss a topic that may make cultured, late-generation modern vampires a little uncomfortable. By that I mean race, of course. Hip modern vampires are n’t supposed to care about race, you know; as my
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 31 === t C r he eltiC evival i r
+and rish ev Oluti On
+In 1914 the British Parliament passed an act giving limited home rule to Ireland. The start of the Great War delayed that law’s effect, to the frustration of many Irishmen; a “Celtic Revival”
+spread throughout Ireland, emphasizing that nation’s traditional arts and heritage, and its historical independence from the English. On Easter
+Monday, 1916, Patrick Pearse read a Declaration of Independence, proclaiming Ireland free of the
+United Kingdom; Pearse and his brethren in the Irish Republican Brotherhood assumed that
+Britain would be too busy fighting the Germans to was te its resources on a minor revolution in its own backyard. Pearse was wrong. The British decimated the IRB for ces in a matter of weeks, and the 15 leaders of the revolution were swiftly
+executed. In subsequent years a somewhat more peaceable separation between the two nations would take place. To Irish Gangrel, especially those of Celtic heritage, the Celtic Revival and the Revolution were like a lightning strike. Neonates and
+ancillae who had known not hing but British do minance throughout the ir lives and unlives were thrilled for the chance to lash out at the ir royal oppressors. A few you nger Gangrel even
+styled the mselves neo-pagan “Lhiannan,” after a long-extinct bloodline. they surely were not members of that group, but appearances were as important as consanguinity back in those nights. friend Alicia M. says, “they all taste the same.” Back
+in the ‘20s, people did n’t care about race either, because it was self-evident that blacks, Indians, Italians, Irish and the rest of those people were inferior to the white
+Anglo-Saxon Protestant American. Oh, sure, we did n’t keep the black man in chains anymore, but that did n’t mean you even wanted him looking at you r daughter. Many Gangrel on the fringes of Cainite society found it easier to feed from the disenfranchised or the for eigner
+than from the city-dwelling Cracker businessman and his family. After all, some Ventrue or Tremere might have claimed that businessman’s apartment building as do main. On the wrong side of the tracks the Gangrel had only to compete with the Brujah and Nosferatu and the odd Caitiff. This state of affairs began long before the ‘20s, of course, so I’m sure the modern reader won’t be surprised that Clan
+Gangrel’s membership hails from a pretty diverse group. As a side not e, I should point out that the Ku Klux
+Klan was enormous back in those nights. And it was n’t just a bunch of good ol’ boys sittin’ in a pickup truck
+Clanbook: Gan Grel
+
+=== PAGE 32 === lookin’ for a nigger to lynch. The KKK was a civic ways of moving around the countryside quickly that no or ganization; in many towns nearly every white male one this side of the Lupines could match. was a member. The group did many good deeds, from But with the advent of the car, an elder could send supporting or phanages to cleaning up litter. To politi- ghouls — or even childer or other Kindred — to get to a
+cians the KKK’s endorsement of ten meant the difference remote destination in a hurry, fairly safely. Some Gangrel between re-election and retirement. KKK politicians held did the ir best to sabotage this in the early nights. My sire mayorships and state of fices from Indiana to or egon. tells me proudly of the time he learned that the prince
+The Gangrel had the ir own interactions with the of Cincinnati was sending his favored childe to Toledo
+Klan. Jack Hanson, a Gangrel who was prince of India- with some important paperwork in a brand new Model napolis for about three months in the 1930s, had been T. He scored all sorts of points by letting the Lupines of a Klansman in life. He preferred to feed from the “lesser the Black Swamp in on the voyage; the Lupines than ked races,” as he called the m; he killed the m when he could. him, the anarchs of Cincinnati than ked him, and an
+He Embraced at least one of his fellow Klansmen, a out-of-favor childe of Cincinnati’s prince than ked him. gentleman who asks to remain anonymous. Hanson’s That sort of thing still goes on tonight, but it’s much sloppiness in feeding brought him to an archon’s at- harder when four-lane superhighways usher thousands tention, and prince or no, I guess it’s true that the re’s of vehicles in and out of major cities on a daily basis. always a bigger fish. Shame about old Jack. The flipside t G d
+of Jack Hanson’s story is Marcus was hburn, a black man. he reat epressi On
+Marcus made the mistake of lingering a bit too long over It was all a big goddamn mess, of course. Nobody his lemonade while cutting John Phillips’s lawn one July was sure why everything was going to hell, but everybody afternoon; he compounded that by smiling once or twice had a solution. We had the communists, the anarchists, at Mrs. Phillips. Two nights later, Marcus found himself the national socialists and, God save us, we had Hoover. hog-tied and on his way to his own funeral, where he I was a kid during the Depression. It was n’t much fun; would have met his end if it had n’t been for a Gangrel my parents scrambled for work, scrimped to save money, who freed him, killed two men, and Embraced Marcus. and we had plenty of meatless days. We literally boiled
+Of course, Marcus did n’t make it either. No one was shoes for broth at times. surprised when he took his revenge on John Phillips; My sire tells the story differently. The Great Depreseveryone was surprised when John’s wife Mary turned sion was a bonanza for our clan. Part of the reason the out to be a Lupine, who ripped Marcus in half. Depression hurt so many people was that or dinary folks p wagered big money on the stock market; really risky r Ohi Biti On
+stocks were the best way to make a killing quick. And
+I do n’t know where my parents’ generation came those folks who’d gambled on high-risk stocks lost the ir up with stuff like this. The abolition of alcohol would shirts. Vampires do n’t invest that way. When you have to
+have been a crisis for vampires everywhere if it had been be around for two or three centuries, you appreciate the taken seriously, as the elimination of the drunken target power of compound interest on a low-risk investment. would have made the Hunt far more difficult. As it was, My sire — no businessman — cleaned up dur Prohibition was a great opportunity for Kindred with the ir
+ing the Depression. As banks for eclosed on desperate fingers in or ganized crime. Of course, that was n’t usually landowners, he swept in and snapped up have n after
+Clan Gangrel, either collectively or as individuals. We got have n at a fraction of the ir true value. When evicted the scraps and the dregs; some of our contacts or ghouls impoverished renters left the cities in droves, hoping to
+might be mob enforcers or made men, but the capos were eke out a subsistence lifestyle on the outskirts of town, generally Ventrue, Brujah or Giovanni tools, at least those my sire was the re with sharp teeth and bright red eyes. who were under the sway of Kindred. To this night he speaks with great fondness of the Great
+So, as usual, something big occurs in mortal society, Depression; he tells me he’s looking for ward to seeing and because we’re on the outskirts, for us it might as well the current stock market bubble burst. have never happened. t n p t he a ut OmOBile he azi arty
+The automobile eventually reduced the value of In 1938 a pride of Gangrel rose up out of nowhere, the Gangrel cachet in a big way. Before this, of course, all espousing a common political credo and vowing railroads could kick our ass for speed, but not for ver- to take drastic action. This was n’t the first time such satility: if you wanted something to get to an unusual a thing had happened; it’s a tradition dating back at destination and you knew the railway stations were being least as far as the American Revolution. Most of ten, a
+watched, you could go to a Gangrel and guarantee that Gangrel neonate holds a bit too tightly to his mortal it’d get the re as fast and securely as possible. We had politics after his Embrace, and the n runs to Embrace a
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 33 === group of his cronies as soon as his sire presents him to changed bits here and the re; more than one Gangrel the local primogen as a recognized vampire. This kind intercepted and changed battle or ders to keep fighting of thing happens far more of ten among the Brujah, I’m away from a treasured have n. And we had a fair amount
+told, and the se nights it only really happens in certain of work when Nazis, Jews, Frenchmen and Kindred all cities. the se anarchs were fascists; they made the ir smuggled art and other valuables out of Europe. have ns in western Germany. I was Embraced during the Second World War, during
+This brood, which called itself the Fist, supported fighting in the Ardennes; I’m an American boy. As you
+Chancellor Hitler’s nationalistic and racist fervor; its might imagine, my perspective on Gangrel activity in members terrorized enemies of the Fatherland when ever Europe during the war is a little skewed. My sire passed they had a chance. In later years, the Masquerade in along some of the information below; after the wild
+Berlin would stretch sufficiently to all ow the group great times I went through right after my Embrace, it took a latitude, but before the Second World War, the prince of few years before we were on speaking terms once again. Berlin had several members of this pride blood hunted. Across Eastern Europe, the Nazis upended the local
+To compound things in Germany, around this time mortal populations and tossed centuries-old Kindred a new group calling itself the Waelkyrige sprang up in social structures to the four winds. As the Germans
+Scandinavia and spread the ir influence throughout north- relocated Jews and other “undesirables,” Kindred linked central Europe. the se Cainites upheld the Viking ethic to the ir communities lost a great deal of influence. I’m to the fullest; they apparently believed the mselves to be told that Janos Beck, a Warsaw Ventrue with a taste modern incarnations of the mythical Valkyries. they for Jews’ blood, had it particularly hard after the first
+claimed to follow a female Gangrel called Brunhilde. If couple of years of the war; eventually he chose a blood they really do consider the mselves to be the choosers of bond to a Jewish Gangrel companion of my sire rather the slain — for that is the mythical role of the Valkyries than risk Final Death. Not too many Kindred faced the
+— one imagines that they made an awful lot of battlefield danger of Nazi death camps directly, but a fair number
+Embraces during the war. Regardless, you do n’t hear too of the m had to move around Europe when the ir herds much about the m in the US anymore. I have no do ubt were drafted, dissolved or slaughtered, and when Kindred that they’re the hellraisers of the Black for est, though. have to move around Europe, Gangrel can make a profit. Anyone who voluntarily makes her have n in Lupine But the relocations and camps certainly affected territory earns my respect as a powerful Kindred indeed. the Gangrel negatively. Plenty of our clan relied on
+s ’ r Rroma or Jewish herds. Ashton’s text has some comtalin s ev Oluti On mentary about a Gangrel, “Talos,” who was captured
+Stalin’s paranoia killed 18 million people in the by the Nazis and ended up in a death camp at Glödker
+Soviet Union before the old man finally died, and he along with a few do zen Rroma, his herd. If you believe probably would have do ne it even with out the Brujah Ashton, this moron went on to Embrace a score of the leaning on him. To be blunt, Soviet Gangrel ate as many herd, enabling the bunch to destroy the camp and make of the m as they thought they could get away with. Fiercely the ir escape. I do n’t believe Ashton. He says this Talos
+independent Russian small farmers resisted being herded was a member of the Seventh Generation. I’ve only met onto collectives; to spite the ir masters, they slaughtered one seventh-generation vampire — I can’t conceive of millions of sheep, pigs and goats in a very short time. any way the Germans could have caught and contained they feasted, for a year or so. the n starvation kicked one of those creatures; an armored platoon would n’t
+in, and the n Soviet Gangrel fed very well. stand a chance. Either Ashton is full of it, or Talos let
+In Moscow, after one particularly close brush with the himself be captured to Embrace his herd. I’ve never met
+Masquerade, the Russian Brujah called for the destruction anyone who claimed to know any of Talos’ childer, and of especially animalistic or deranged elders. The close brush that makes me suspicious that Ashton made the story came from a very bestial Gangrel elder, and Muscovite up to make his readers feel good about Gangrel activity
+Gangrel immediately assumed that this was the council’s during the Holocaust. way of declaring war on the clan. This led to fighting in Many Gangrel behaved reprehensibly during the the streets and countryside; the re would be little peace Holocaust. One possibly apocryphal tale concerns a until the Second World War fell upon the USSR. Rroma Gangrel, Daria, who se company was rounded up and taken to a work camp. Unlike the Talos stories, our
+t s w w he eCOnd or ld ar clanswoman did not hing to free her herd, but rather slept the n came a hellish atrocity that we did n’t have in the earth during the day and crept into camp after
+anything to do with. sundown to drink the ir blood. This situation remained
+That’s a lie, of course. We had something to do until the SS moved Daria’s Gypsies to a distant camp with it, but we did n’t start it and we did n’t finish it. We and she lost track of the m. Clanbook: Gan Grel
+
+=== PAGE 34 ===
+Daria’s story is not unique; the Fist, who I mentioned numerical limits. The Camarilla tells us that for each above, also apparently fed heavily from the camps. She vampire in a city the re must be 100,000 humans. Experiand her ilk proved that many vampires are not hing ence with anarchs and the Sabbat tells us that figure is more than opportunistic scavengers. Few Kindred of any disproportionately low; the re may be in some places as clan, my Gangrel sire included, took any noble action many as one vampire for each 10,000 humans. But let
+during the Second World War; the typical Cainite ran us use the 100,000 figure, as it is conservative enough to for a safe have n. make a point clear. In the Second World War, 60 million
+In retrospect, I have to wonder what kind of mon- humans died. By the most conservative estimate, the n, ster lurks around mechanized battlefields looking for a 600 vampires lost the ir place in the world, most of those potential childe. With my sire not around, I think I can in Europe. Some of those would have been Cathayans, safely answer this question: a pervert or a madman. The of course, and many Kindred were destroyed during the battlefields of the European and Asian the aters were far war, but the point remained: hundreds of the Children too deadly for vampires to just wander about looking for of Caine had no place left to the m. childer. Wandering around looking for blood is something What to do? As the eyes of the world continued
+else altogether; as with other wars I’ve described, plenty to gaze on America, the get of Caine did the same; enof blood was on hand for the enterprising vampire. As trenched elders who’d survived the war in Europe sent the ir most troublesome childer over the Atlantic to the
+B p States. The Gangrel Clan, never one to act as a unified let Chley arK who le, did not decide collectively to send particular
+That the British and American for ces had as vampires west. But the wilderness of post-war Europe was much success in the Second World War as they did a sparse and fragile thing; the re just was n’t that much
+can be partially credited to the hardworking men space available for Gangrel neonates to claim territory and women of Bletchley Park, in England. Bletchley of the ir own, and the mortal population was depleted
+Park was the world’s first 24-hour cryptography unit; sufficiently that elder Gangrel like Wilhelm Koenig exit was dedicated to the decrypting of thousands of panded the ir own claims until they felt secure. do zens of
+Nazi radio messages throughout the war. neonates and ancillae found passage to America aboard
+The Gangrel have been involved in some for m cargo and passenger ships. Some settled in the United of cryptography longer than any Kindred. When you States, while others migrated south to Latin America or have to leave messages out in the woods at night north to the sparsely populated wilds of can ada. for you r clanmates to run into, you get cautious, t s l he ie Ge Of enin Grad
+quickly. Codes (rather than ciphers) of previous
+The German Wehrmacht laid in a siege against the centuries have revolved around Beowulf, the Bible
+Soviet city of Leningrad in August of 1941; the city or the collected works of Shakespeare; in the middle would not be liberated until January of 1944, a span of of the 19th century, how ever, ciphers became all
+more than 900 days. Mortals starved to death by the the rage among educated Gangrel. Thus, Gangrel thousands; stew made of weeds and bread made of wood and the ir ghouls lurked in the halls of the math deshavings were both seen quite frequently in the city. partments of Princeton and Cambridge, and at least Cainites had it little better. By the end of the siege, the
+paid some attention to the goings-on at Bletchley entirety of Leningrad’s undead population had either fled, Park. Since the Second World War, most written been destroyed or voluntarily entered torpor to escape
+Camarilla communications use the strongest pos- the ravages of hunger. Those who fled had to rely on the sible encryption (to hell with the NSA), and this “good graces” of Soviet Gangrel, many of who m were on is largely due to the influence of those Gangrel who the outs with the Soviet Brujah council. Many of the were familiar with codes and encryption and had debts that Soviet Kindred earned during the siege were
+either Xaviar or Karsh’s ear. repaid in the late 1980s and early 1990s with political influence or great sums of Western cash. It’s worth not ing, how ever, that most of the Kindred
+I’ve mentioned before, not too many clans other than who were around Leningrad during the Siege remember the Gangrel had the ability to stay out in the open for three or four particularly powerful elders who voluntarily
+long enough to take such advantage. Of course, plenty dropped into torpor in ’41 or ’42 who have yet to return of WWII fighting took place in cities, which gave similar to activity. they might have been destroyed; nearly
+opportunity to Kindred of other clans. everything of value in Leningrad has been looted at
+A simple question of mathematics is at work here. least once. Or, if you believe in fairy tales, something
+Kindred have always been the sorts of creatures to push else might have gotten a hold of the m…
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 35 === bunch of people to know. But we do n’t join the anarchs t wO t ravelers ’ t ales as a way to try to, like, fight the power, man. Michael Flannery, an Irish Gangrel, became re- Xaviar apparently dispatched one of his most trusted nowned throughout the Gangrel clan for “Flannery’s archons, Seth Geddes, to California to attempt to parse
+Flight,” a feat which may only be apocryphal. Flannery the situation, but Geddes — who se great love for mysis said to have flown in bat for m the distance from Do- teries and conspiracies is currently matched only by my negal, Ireland, to Boston, Massachusetts, in the terrible acquaintance Zeke J., and had no peer in the 1940s — winter of 1946-7. Rumors abound as to how he might met the Final Death mysteriously before heading west. have accomplished such a thing: Flannery was secretly A Tremere in Xaviar’s entourage verified a pile of ashes a Methuselah who did not need to take time to feed found in St. Louis as being Geddes’s only remains; they
+and spent his days a few do zen meters below the surface were found near the shore of the Mississippi. Geddes’ of the Atlantic; Flannery flew northward to the Arctic personal files had been ransacked, and at least one of
+Circle, where the sun remained below the horizon 24 his have ns burned nearly to the ground. I honestly do n’t hours a day, and fed on Eskimos and seals; Flannery know what he found. I think I’m glad. took advantage of enormous transatlantic shipping t f volume to rest on (and feed from) cargo ships moving he ifties
+westward. The truth will never be known; a pack of I’ve mentioned elsewhere that when a person re Sabbat vampires fell upon him as he traveled through ceives the Embrace, she do esn’t automatically abandon
+New York in ’48, and he has not been seen since. So her life’s priorities. Things shift around, sure, but if much for the Methuselah the or y, at least. Maybe. Jane Smith is an ardent Republican, she’s not likely to
+Vyechislav do lcek, by contrast, came from Britain become a Communist immediately upon her Embrace. to the United States aboard the passenger liner Queen Many people’s lifelong convictions take precedence over
+Elizabeth, who se primary duty immediately after the war Kindred sectarian struggles and the internal struggle was to transport American soldiers home. do lcek, a against the Beast. At least, they do for maybe the first
+Slavic Gangrel who had spent seven years in Warsaw century, but that’s a different story. Anyway.… through the war, had learned the arts of concealment That explains the number of Cainite spies operatand disguise from Polish Nosferatu. He managed to pose ing throughout Central and Eastern Europe throughout as a seasick American infantryman for the trip across the Cold War. Our clan weighed heavily among the m. the Atlantic, feeding sparingly from his bunkmates late Like all periods of turmoil, the postwar years in Europe at night. Upon arriving in the US, do lcek moved into
+were a time of great opportunity for bold Kindred. Appalachia, where he exists during the Final Nights. Sure, Nosferatu were probably the top spies; they’re built for sneaking. But we do not slouch, and the City
+Gangrel among the Sabbat can match the Nosferatu t a f s he nar Ch ree tate when they have to. Most of those working as opera In 1944 anarchs across the West Coast erupted in a tives were nominally Camarilla members, but honestly, frenzy after the prince of Los Angeles took particularly Camarilla membership did n’t mean that much at that
+harsh actions against an anarch figurehead named Jeremy point. National loyalty and political alignment were
+Mac Neil. When all was said and do ne, several cities in far more important: It did n’t matter whether a Sabbat
+California were no longer strictly “Camarilla cities”; City Gangrel or a Camarilla Nosferatu drove the black they had no princes, and were beholden only to the ir Mercedes tailing you. The point was that the driver was own sets of rules and some small amount of civic or der. Russian, and that meant trouble. It was a crazy couple of decades; it was a time of great t m C e
+he C arthy ra opportunity for many Gangrel neonates. Periodically every society goes through a period of
+It has never been the case that newly Embraced rampant xenophobia and paranoia. Mc Carthy’s rampage
+Gangrel are oppressed members of a vampiric underclass. in the ‘50s was n’t even the first one for the US this
+Sure, insofar as the Gangrel clan has always been a colcentury — the Red Scare of the early ‘20s takes that lection of outsiders, we have lacked material resources prize — but it is the one I remember best. The mad that are plentiful for our erstwhile counterparts in other
+lookout for Commies was just the latest incarnation of
+Camarilla clans. But unlike neonates in those clans, we the Inquisition. are relatively free to act, even just a few years after our
+Times of paranoia cause trouble for Cainites, regarddeaths. you ng Gangrel are kept on long leashes with less of sect. The dangers are great and the benefits are few. sharp collars. We do n’t have much to rebel against, most
+When mortals fervently look out for anyone suspicious of the time. That do esn’t keep us from joining the local or weird, vampires have a much harder time hiding. pack of anarchs; sometimes that pack makes a real good or dinary nightly activity becomes nearly impossible. Clanbook: Gan Grel
+
+=== PAGE 36 ===
+Sure, you can always try and sic the Red-crazed FBI on unlife, and he was somewhat traumatized by the fight, you r enemies, but they’re probably trying to do the same so details are n’t very clear. Eight Gangrel, all ninth and to you. And I do n’t have to remind you how hard a time 10th generation, aged between 10 and 200 years, muddied the average Gangrel has at pulling government strings. the swamp with the ir ashes that night. If Muñoz is to be
+Zeke J., the conspiracy the or is t, tells me that Mc Car- believed, they faced close to 50 were wolves. I do n’t know thy and Roy Cohn were “controlled” by the Camarilla, the truth. I know I stay out of the Everglades, even now. but as with many of Zeke’s claims, I do n’t buy it. The s u Bur Bia
+Camarilla gets very little out of the House Un-American
+Unlike the sneers it draws from most Kindred, sub Activities Committee. If powerful DC vampires were urbia was tailor-made for Gangrel. God bless will iam trying to expose rivals’ pawns, they put the mselves at far
+Levitt, for he gave unto us the suburb. The Lupines get too much risk in do ing so. It’s possible that a you ng, dumb antsy when we get too far into the woods — and as you
+Ventrue or Tremere had Tailgunner Joe under his thumb, are aware, Lupines are n’t renowned for the ir restraint. but I imagine we would have heard about it beforehand. But we’re not good at dealing with high-handed urban
+Regardless of the goings-on in DC, Clan Gangrel
+Kindred politics, especially not when the other big was largely able to avoid trouble, simply by virtue of
+Camarilla clans are entrenched do wntown already. knowing when and how to go to ground. Hell, in some
+1950s urban planners surrounded the ir cities with rings cases we even improved our lot: My acquaintance Josie of cookie-cutter homes, and many Gangrel broods had
+T., from out toward Omaha, took regular heat from the great success in the ‘burbs after the Commie Menace local prince’s boys until the prince was spotted in public retreated to a dull background hum. one too many times and had to get out of town in a hurry. This goes for Sabbat as well as Camarilla. During the
+Josie T.’s a much happier Lick now. ‘50s, ‘60s and even ‘70s do zens of turf wars were fought over
+In ’55, I should mention, a good-sized pride of pathetic subdivisions with names like Hartmont Acres and
+Gangrel that roamed the Florida Everglades ran into
+Beau Pines. Gangrel with perverse senses of humor might a pack of were wolves. Rodriguez’s pride had reported
+Embrace a lawn-mowing Dad or chainsmoking Mom, and
+Lupine activity to the prince of Tallahassee for years. I
+I know one eternal teenager who se parents thought for 20 guess they ran into a holy site or something. Only one years that his sleeping habits and pale complexion were “just of Rodriguez’s childer, Muñoz by name, escaped with his
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 37 === part of a phase.” The suburbs helped vampires conceal a Not one of the m has it right, but if you look at a couple of lot of strange activity; after the Mc Carthy problems, many the more reputable books and mix it in with what we know people were so eager to get back to a normal existence that as Kindred, you get a pretty clear picture of what’s going on. they deliberately ignored even the ir neighbors’ most outré I can sum it up in two words: Kennedy knew. The Cahabits. do n’t believe me? Look at all the stories of child- marilla, not the Bavarian Illuminati, not the Priory of Sion, hood abuse, alcoholism, drug abuse and sexual perversion nor any of those other institutions, is the oldest conspiracy
+in the suburbs that we did n’t hear about until tabloid TV in the world, and, like those other conspiracies, its masters got into the picture. That’s not all they were hiding. are will ing to kill anyone to keep the ir secret. How he found out the truth is anyone’s guess. By virC r ivil i Ghts tue of his family’s for tune and his association with mobsters
+Along with many fine other underprivileged groups, like Giancana and high rollers like Sinatra, Jack had lurked
+Gangrel certainly Embraced plenty of blacks in the southern around the fringes of our power structure for long enough to
+US. After the Civil War, millions of African-Americans get an inkling of the truth. His girlfriend Marilyn may have moved north; those vampires who used blacks as herd or spent time as a blood do ll to a stupid Toreador anarch in LA, servants moved with the m. But across the country, blacks
+or she might just have rubbed elbows with Giancana’s other agitated for rights owed to the m as American citizens, and dead friends. I’m not clear on the details, but they do n’t really several black Gangrel were among those pushing for such
+matter. Jack knew, and the wrong people suspected that he was rights. For the vampires, existing in a situation of such going to go public after the ’64 election. Now, smart folk like supreme inequality made the ir lives unnecessarily difficult, you and me, we know that no sooner would the president say, and those vampires did the best they could to aid the kine
+“Vampires!” than everyone else in the government would say, who tried to better the lot of the black man. “Impeachment!” but not everyone is as clever as me and you. the re were race problems among the Kindred, and
+The Inner Council or dered the hit; the Gangrel Justicar the re still are. It’s all well and good to pretend that we at the time, Luchenko, coordinated the activity of our tools in are united above humanity, but the Embrace do es not
+the Mafia. Luchenko used a couple of surrogates, David Ferrie happen in a vacuum. Plenty of white Kindred look do wn and Eladio del Valle, to get New or leans mob boss Carlos at black Kindred. Plenty of Gangrel choose the ir childer
+Marcello to or ganize the hit. Marcello did n’t have to learn hard from among oppressed groups (out of sympathy, similarity, on his boy Lee Harvey to persuade him to do the deed, and paternalism or simple convenience) and accordingly, the we all know that Jack Ruby owed his livelihood to the Mob. Gangrel take a disproportionate amount of abuse. It was a pain in the ass to clean up. I worked for
+In 1962 we saw a near-perfect repeat of Seth Ged- Luchenko as an archon in the ‘60s and early ‘70s. Luchenko des’s death. will iam Coolidge, another Gangrel — this had me put do wn Eladio del Valle in Miami myself, and to time a confidant of the mysterious Madame Guil — had make sure that no Kindred would get him, he insisted that I apparently spent four years investigating Cainite traffic mangle the corpse pretty seriously. At the same time, others
+back and for th across the Rio Grande. His goal, according nailed David Ferrie in New or leans. Marcello bragged to to colleagues, was to identify Sabbat packs that regularly Sammy Giancana and Johnny Roselli, and both of those traveled from Texas to Mexico. No one knows for sure bastards got subpoenaed to the House. Putting the m do wn who got him, but, as with Geddes, Coolidge’s remains was equally difficult. When all was said and do ne and the
+were discovered on the shore of a nearby river (the Rio Johnson administration had made its own messes, we had
+Grande), and his nearest have n ransacked and burned. to coordinate half the Nixon administration to clean up the t ‘60 rest of the paper trail back to us. he s t m he Othman
+t K a he ennedy ssassinati On
+My conspiracy-nut friend Zeke J. loves stories about
+This is an aside by the esteemed Zeke J. Zeke is less the Mothman. 1968, in the Ohio River Valley in West
+“together” than most people I hang around with; judging
+Virginia, authorities list do zens of sightings of a being who from the fur on his face and the length of his fangs he’s the locals called “the Mothman” (complete with mothlike seen more than his fair share of frenzy. He says he was
+wings and bright red eyes), along with many other strange an archon under Luchenko through 1975, but I’m not events such as cattle mutilations, men in black and UFOs. sure I believe him, since I was fairly certain that Xaviar
+He spouted of f a few major prophecies (including one about was justicar since before my Embrace up through ’98. the Pope’s stabbing and another about RFK’s assassination)
+I’m also not convinced that Zeke was ever stable enough and the n, after a few months, vanished, never to return. to serve as an archon. But the hell with it — here’s his
+The general public assumes that if the Mothman existed posting. Believe what you want. at all, he must have been an extraterrestrial. The last time I checked, over 50 books still in print
+Mothman was an insane, heavily disfigured Gangrel; claimed to uncover the truth behind John F. Kennedy’s death. no one is quite sure which sect he belonged to. It did n’t
+Clanbook: Gan Grel
+
+=== PAGE 38 === matter, really; he was a threat to the Masquerade no Nosferatu feel much the same way, in the ir own fashion. matter where he came from. Luchenko sent in several Several Kindred reside in Ulanbaator, Mongolia; in of his archons to manage the chaos slowly swirling into the or y they claim to keep the ir eyes on the Cathayan being around the Mothman; one archon in particular, vampires in China. In practice they pull the same shit
+who called himself Indrid Cold, made himself up as an as Kindred in any other city do. Back in ’83, one of the extraterrestrial in or der to help portray the entire Ohio dead residents of Ulanbaator was a Gangrel archon
+Valley as a bunch of hysterical backwoods hicks. The rest named Yevgeny Bodunov. of Luchenko’s posse tracked, hunted and killed the Moth Bodunov spread a story that a couple of neonates man with out a lick of remorse; it took another month to had sworn up and do wn was the truth. It seems that tidy up the Masquerade in the are a by slowly scaling do wn
+one night while they rode the southern steppe in the the amount of weirdness to its usual background level. old Mongol style, occasionally feeding from the ir trotting horses, they passed a bit too far into to the Gobi. a s urprise the re they swear they saw a huge, bestial vampire pull
+If you’re reading this, you know the usual result itself up out of the sand into vague consciousness. With of a confrontation between Kindred and Lupines. a wave of its hand, the ir horses bolted from the ir own
+Imagine my surprise when stories began to circulate supernatural control to the distant vampire’s side; he in the early ‘80s that a pack of were wolves was found devoured both horses. While the monster was rapt, of in northern Norway during the winter of ‘77, drained course, our witnesses fled for Ulanbaator, screaming about of blood and frozen solid. Norway is historically newly awakened Methuselahs in the Gobi. Gangrel territory, so my clanmates and I jumped Bodunov admitted that the tale had more flaws than
+to the obvious conclusion. and ropov’s last medical report; I won’t even list the
+Some of my acquaintances dropped a line to half do zen other things this story could be, for the sake some of the ir contacts in Oslo and called in a favor of respecting you r intelligence. But if you find you rself or two. Cainites in Oslo were n’t talking, how ever; stuck in the Gobi in the near future, you might want to watch the sand. it seemed that not hing short of a personal visit was
+going to pry any information out of the m. None of In ’87 we had the third in a disturbing series of us had time for that, so we wrote the who le thing archon murders. This one was a Gangrel appointee of
+Petrodon’s, one Gail Lovett. I knew Gail; she was only of f as a random rumor. Until March of ’82, when about a century old. She was a strange one, to be honest; Kinssky had a disturbing dream about a two-handed she was sort of a mathematical prodigy and hermit when
+Tyr ripping Fenris Wolf’s skull apart and lapping at she was Embraced and she never got much friendlier, the blood pouring from his neck. He got the strong though she did attend althings from time to time. Gail impression that it related to the Oslo incident, was an accounting whiz; she had a high-powered old
+and told me so. Kinssky made it out to the Anarch minicomputer out in her cabin, in West Virginia, and
+Free State a few years later, and I heard that he was she used to pore over business records, looking for hints destroyed. I do n’t know what’s going on in Norway of outside Kindred influence. When I spoke to her, in
+the se nights, except for the rumors about Brunhilde. ’85, she was actually going through century-old account books looking for discrepancies. Sort of monomaniacal, t ‘80 he s admittedly, but the work suited her. The ‘80s were all about money. Kindred I know who Her ashes were found on the shore of the Kanawha think we really control everything believe that this is River, near Charleston. Her cabin had been ransacked, the decade the Ventrue finally got the ir shit together, the computer destroyed, and the rest of the place burned
+and let it trickle onto ghouls from Wall Street to Cali, do wn. Never did find out what she was working on in
+Colombia. Wars between American and Soviet puppet ’87. And now that Petrodon’s dead, I do n’t imagine we’ll states across the globe gave the Gangrel plenty of easy ever know for sure. feeding. Petty revolts and counterinsurgency measures In the late ‘80s the re was a public resurgence in in Central America, South America, Africa and the ecological awareness. Municipalities all over the US
+Middle East frequently gave the Sabbat a shot at surging started recycling trash; corporations began espousing into a Camarilla city, or vice versa. environmentally friendly policies, and so on. In truth, environmental activism is an old cause, dating back at
+I receive a lot of international news. One nice thing least to the years of Teddy Roosevelt; Greenpeace has about being part of a clan full of dead people who can been around for decades. I’m told that Lupines tend to
+turn into wolves, bats or mist is that we get around, and be hard-core eco-fanatics, as well. the proper authorities are never the wiser. I imagine the
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 39 ===
+Contrary to what you might have heard, Gangrel ran into an amnesiac Gangrel in Massachusetts in ’92. are n’t always grizzled environmental warriors. Sure, some The Gangrel insisted that he had no idea who he was, are, maybe even a sizable percentage. But not a majority. where he came from, or who his sire was. Most of us have unlives to worry about. Remember that The Silver Razors had a Tremere antitribu among
+Lupines thrive in pristine wilderness; it is not in our best the m back in ’92 (and they clammed up when I asked interests to preserve such are as. Wild places are good; they what happened to him), and he wheedled Joe Anonyare useful to us, and they are great places to escape from mous until he do nated a few drops of blood. The wizard the pressures of city unlife. But spiking redwood for ests or the n did his thing to the blood to learn Joe’s sire’s name, dismantling oil rigs is too much like work, and Kindred so they could track the guy do wn and find out what do n’t have day jobs. happened (or eat him; they were n’t too clear on that
+point). they did n’t recognize the sire’s name, and they t ‘90 he s were awfully surprised by the results. I’m a big fan of the Internet. I picked up access back in Seems Joe Anonymous’s sire was a Gargoyle. ’94, just before the big boom. Many non-Gangrel assume that Joe sure was n’t, though; he was clearly a Gangrel. because we prefer to spend time away from other Kindred, The Razors argued for a few minutes about what the ir and wear a lot of denim, we’re technical idiots. Obviously late Tremere friend had said. He’d either thought that Joe
+the se guys have never seen a cabin with a satellite dish. Only Anonymous was so thin-blooded that the Gargoyle curse a minority of relatively you ng Gangrel are Net users, but had faded from him entirely, or that some Kindred wizards like the joke goes, on the Internet, no one knows you’re a somewhere had discovered how to separate Gargoyle vamdog. So we get more converts every year. Secure chat servers pires into the ir components. I do n’t know quite what to and encrypted mail routers are just too nice not to use. It’s make of that. And the Silver Razors changed the subject in
+also a great deal easier to deal with other clans through the a hurry when I asked what ended up happening to old Joe. Net; the Toreador can concentrate on you r deathless prose t e t rather than the flea crawling across you r for ehead. Oh, get he nd imes that look of f you r face, you know who you are. I got together with a few friends at an empty truck stop
+As an additional bonus, when you’re conversing just after the first of the year to discuss current events; here with someone else through the Net, either via e-mail s a transcript of that conversation, for the curious. or in real-time, you can be much more sure that you r l t t g m n U i h h i u s v S a t e a m e e k. m t n n S e A c b. e i a e i n y l I r n t r t o c h h o i g b u e s of a o n e N v u a a ’ a a t e g b p a w l h a o o y t p a i f u e n m l v f y i e t t g, e e a c t - d b 1 A n t o t u 9 i e v y n m h r 9 t i m g p a e 0 e e e a m v y r o t r i m o e c h o p o r u a e e d l y f r n e n r e a e l - m t m a i n r ’ a t s r u i t l. e n e n l b A e t m q d e w c u d b e a o o i i m n i s s c t r t i t i k n i i o w o a t n o n t n t f o g e o - r s r, d a e e u d j l t s u f c p s y f o h u d e s, a r e w g i r c t s f i e t s i t N s i y n a y o n g o c e g m a g h u r t m o e i e p w n s s l b o o p p s o l n w e s t t i n h h n. a e e ’ k ’ e e g s r t w f t of e t h i r h f w t e o h o h, m m u i T t a D s B g h O n d h I h E d e N M d i i, T i e s A s R: H d h a t o: a D a n a;: l I v d n s d o a M n n h t e t e h o y ’ o s a t n w e s n s c a? e h e h i q j n r m O e s u o u e y t a s n s y a o l t e r p y e i n d s n l a i h e a d o t n s f a y o a f s r c k s n u n o e m n n d m c m c o o J s y e a w e t, u, t t g s l - k I h a u y w a n t e h. n y n h h o m a d s M d a a w v - b y t t h e. i m n a e t s h I n c h o i a m b r h o k e u p e e a o s E i ’ p g l s e d s r i a e n u e e e k s g n ’ y v a t t i t a ’ e e n. s h m s h d d a a t p e e h n y l u o a a s s a t f r s s t t w d h i t p i x m e n i a s a t g m u r n h a k a m y n n t o n a o t y e n m o h g w t R o i i e e h d n a f r t s a, g v h. n e o r s a a a w re s n a s d a e s n r p m v r e a e o v t n s i i p o l t i e n t o r o s n i, t b e y a e d n t d o s e t a a b t r h m y li e e p t h r r e, e e d s m e t o r r a u a v n d t a, y i t t t i i G o h o n e n a s s n s e o g o c n r f a e t s w l h in r h e e o i s c C s i h d a b e m r t i h i n a n e g r y i o l w s l r a i e t, n. a t e l A h t a h e s r s o s w e a f r a w i b s o l u t o r Z w i s o E g d o K a h - t E t o s t: e a f a r I f c t u t h k h e m. e e r a m t t r h h fi t e a h g t t a h w d t t r o t t o h o v o e e f t h T t t r e h h e e e d m m m e e a r h a t e a l h l d, p c u of r u t u a c z t t y k o i. e n g K d e L o t. w h w A e i. a t r h l i s n s k a o i J m T u s r a e l e y y, m k s i a e n h n r d e d e it
+f m h o a r e v t a u e n n c s e o t s h m o a f e t C a in a t t i l n o e a i p t s e r t ’ e s h t h t a y e lf r f d a a n a d r t o e a z s e o t n f i t c e G u n a n h n e e g x r r p o e e l w c t n t h e a f d o t r w I t u c e a n a n l e t. h n T a a h m n a d e t c t h h a in n k t T C r t O y H h M e o U: u C b t A K i s g r: i e d m N n e a ’ o t o h n f. t s h t o T o e o h w n e R n y a t. ’ h v r e n e r o e u s n l b d a i s e g t a i d y n e; I a n w r d h i h a a u t r a ’s t n t a d h l P e i a t m t k l i e a s t n r a y a n? in?? D o you i a g n n iv fl d e u i e t n h n fl e c u m e e. n a O c h e f a t c o n o d u V r w e s n e it, t h r t u h t e r h e o e e r i G o n t t i h r o i e v c r a a s c n h i n e a i s v w o e f h l h o o i s j g t u h s t t h fi w a n t a a n w n t c e e e a d. l … t t h o guys T C s O e H e M U n: C t K I h: s e u W p T p h o i o p l s e T e e w y n e o ’ L u r i ’ e s r t e d o i r s f i c g w u h h s t s. a i t n g X a c v u i r a r r e ’s n t s e e n v t e e n n t c s, e h t a o v t e h e yo u
+I do n’t spend a lot of time with Sabbat vampires Inner Circle was, back in ‘98? o a p f e c n a h d n a e y r n m s t t l r e l i a s p s s e t c. y o T e m o a o b r, i m n th a a o t n i u o y g n h o o, f f I t h b r e o a m n th i. a n A r t e of t fr a e e r p a w k ac s e k o w r o e f i n d S t i o a in t b s b d o a e r t - feren T C 1 c O H 0 e M ) U i “: C s I K N ’ s v c: o e h, O e c m k d a a a u l y l n l e e (, d d t s h N p f e o i B l r s l C. o J, u a C n n B d u S a o, r f y a r n 1 u d s s t t A, l B i 2 n C 0 g, 0 p a 1 a n a p d t e t 9 r h s a e ) m: p. r S e e ss e c y o o n ui w d n i e a n b g l e o e u t r t i r t e a o, l d s t h e e b a rr r a i i u t n o c g h r y b e r u ( y A l ls a b h n i i l d t e n s fi t e r o e, r - i i j f e u s y m. o A p u i m n h g o a, v n I e g g t t o o h t e a j s u t k a s ) t le o a s n n o d e f the n! 9 8 ” ) ) “ “ C D a id in y e o s u a k id n o to w t t e h l a l t y o w u e y c o a u n ’ r a e l s a o b f u e n e c d h o o ff f o lo f s c e o r r s n.”? Iowa, gem: the se guys, who call the mselves the Silver Razors, here 7 I ) c o “ m Sw e i! n ” g dancing, guys, it’s the wave of the future.”
+Clanbook: Gan Grel
+
+=== PAGE 40 ===
+6) “Would anyone like to know how to use the Gangrel a G r o t d s t I 5 4 3 o ’ ) m ) ) a “ “ “ l t I t R N f r e o y o t r s i h n e o t e g h b n e u e R o i d e u r e … d t v g ” e f e W o r n i r d n c t a e g h t s r e e n a r t t e s e e w t a d h m i l e a l, s? e ” fi C r a t s h m t i - n a li g r n i s e l. l ” a f o o r r w n a o r d C, a t m he ar n i l b la y. ” o O t D o h f f n a e m y e S r s s e e y,, c T, i o r w of a e t h M b y h t o s o o e:; u u r w S i t o t p b i ’ t m l e e s l h o l e a e h i p e u o l s E v e n e f n e t r a d y i t e u n o h T s s u d a i m o e t m I f v k e h a e v i s a n y n e: v d r e h “ i s n a Y o e t o v f a s t e u h l t w k h e h w e h i e n s d i i t l a c g l r a h r. o d k b T n p n o a h g r o u b o e e w t p o r s e t t u h t h ’ t e h c s o c i e t s t a y h m e y e c … t l o h b i C ” n u e y h e p S t E r s o l o h e n m a n e t d i e l i c W o o n l f t e i. l d
+2) “I want a raise.” Everyone assumes that it means the Lupines — remember
+1 T ) O “ M E: i t T h h e a r t t w ho a s s e r e d a r l a l p y e l s a m go e, o r C h I u g c o k.”. I’m sure if Xaviar M Ch y i c g a u g y o s a in n d ’9 I 2 t? h — in k b u t t h a y t o u th k e n W ow il d t h O e n t e h s i n a g re a n b ’ o t u L t u a p s in su e m s a p t t i a o l n l, s. sees it he’ll kick you r ass. but rather elder Gangrel. Some of the oldest Gangrel are w t D w a b p p O h h T o X i a s e C u t a a t d e e t s r h a l h e h r c i s h l r e e r v g a a t p t n e t e C n c T l D X i h h e s T t e e. a l r l w l O D H T a a e o I a s O e y Z r T a D r l h N I T t, B I O v M U a s u i s E O v N M l e s h I t O k g s A o t t i E s o g o N M C K i a: h a a h M a A n e: t n n: T M h t w r o A c E K r w: a W n o t: a g: t S H t s? n I k:: o w:: o t h w W l p u X a e S t h: b a c f l w u W W I I e o a t r y h r l a h a e o e n W l l h i d. t e d d f d r h e v d h u h n t u l I l d h e a a, o i n i l i I a i e R w h e n t a g l e d, e a a G r l y n n d t I d I v o e, a t ’ t d k n t v u r i ’ c e ’ t e e r i t l m d t l h d e I ’ w p e t d o e s u w s h h e r r r i i t s e. w x a n, n m e f u d i h e e v b t I w h C s t t w i w ’ S m a n Z t e a a r n e s t h, h t e e o t o i h o e n ’ t i e r r t s v h n e a e n r o c t u t s. i, h o m d o e k e a n v o t h h t? r o n y i u w C I n I e a e h s e o n e a a m f m A c o t l g,,. n a a h e o, a y k p h i i u n h a w s e m t y l e a t b y r t i n e p i b r a a h t n. o h n t n a w u h p t y i u l w r h a g i f n e g t w r y n S y e t r c t e t X a y i d,, t e r o e i o e n t a h a n r f v a n a o t e i o m t o t o l e n a g w t s o o o r v n g s t R b f l c e y a s, r t i y e t s w o o e v t e t a v a t u i h a r h, c h o m a n h l t r a v s e g r i a b r l i o e o d e o n e o. s e e v l n o e o n s o a n t u y t u e r e l g X K o ’ o h a n u t l a a g r t b w s t y k h i a s d t s i. e t t e n l c l e n fi s o o n e h y t v r? h a - m o r d I t t c d i, e r h n m. o i. t m a n e d h o A n a a r ’ e d i o w o t p t y s e r e n e e c n u r a C h r r i a a h r d b d m g s c A t i e t a e a w k e n l e h w e. i a o n e w l m i g w f e t i p e h t l f n l T c t d h o e e s d a h h o a h a e o d t k a a a r h f. v l a w i i t r r y d n u e n t l w t e e t n t a o U i t e h i c e d h d l e o r o r g. d l g f t l p k v e e s y w u? a r o a f o o e k i d e c of o v p. n I e e d I C h u i o l r u e m n i n p c g o h n s y a a l a m t m e n k s e. n e t e n v s r t h J o e n i t g i o a h e. s e m y o e n m d h r e., r n a l h n g e s a y d d s e n i a a e c g u. - d n e d. d - o p v s g t t a t e m e f w a e r s h v h o t t o b s l t s e v u r m h e l h a e t i t e h r a e u y e c n p h o m e i m a y e t r d p o t t i r h g b p e r n n i t o s T y t B h y d i n a T o p i e Z e o o e, e r u T e O B t r E D i e k O e u s i t l e E r o c s l e o n o O s r l, f E t T h e M n y s I e w K s M h g. e o s o u N s, T M k i H t d c f d ): e a a E a s n r c r T a g t: h A i r H, b o.:: i n n y h: y n h k T h o n h o e t t e O: m u: a m s i c a d W I i h o m t h W i s f m l l t. n i h s P e, t M j i r o d e e t a k o h t a u d b e, h e I I a? s s a r r c a a h n t e f b a s r e u o e a e l e e m c g n a h t y e t s h t o u p p e e l o n y u o ’ b n d i, b e p l w a e s u c n l r l o o m y C e e n y e r w i s d p b o a o t a d w h a u f t s a a e o d e e s n e u - r h g w s i s i o p s m t y h t C t s t l c r o, t e e t t t i i o h o a t t ’ i e a a s b u s n c h y a s t a t r m i r h o u n s n. t n m h. r e b u e l e r a n a f e j s w. o e a i A i t l t g p W u d t t t l d a n r i t a m p C a h s I l n i e u h e r s o t r - a l t b m t l f h p h l e d h t t f w d e o h v i o b o e i e u. o l f a r r k d a e f, a n e l t m t r l h t o i u of t a t e t, i a h o n t s a h t e s h n s m t t t e y t t w t e d o c i n e o p h “ h t e e i t e e h i t e o c i h a s y d t W e n e e e l m S d h s r e s s h l s s? n e r r r r s a t e i a c e r, i t o i a t e s i m, M h d l b f s a r h b p d C h p ” d l t m w t o. T a e e b d r o e p l u e e h: e f e t i i X n o o O I a d a l a l m n r h c t s s C a e - C l S r o t C n f o i n d h d t t u v F u? o t e m e h u a m. i n o a s e e e. n i o v s r c g r n m o I l r i i s y s D i o g g r e e o c e t r u i n m c ” c m r e f i e e e a, l d n s l y M a e d f a y e o s t t r t n e o e T i f s i l e c, e c o i s of l t o t h. a a o h l h a r d a l t h i k h l u i i i e a n e n f m i f o a r h r t s t e n i n t l e p, d l e w?. n ’ u S y l o i e h a s c, k f g B e o a s A “ t of d t a e u e e i a ( u c r Z l h c S e n f t t e l a o S c e l s r a i e p e t r d b a t e b a n k k o e g n h r l k i o e c e h e i l c e d d o t h i t ’ f e e l n l fi s a a e s r t o l o e t, e d i t. g i t t e n e s of s r b t e s r i t h o a t u t s W d t a a h o t v s t m a n a s h l s h m l e, e h o? t h d o r d e l i o y. a k e m a i n a y f s t e r t v n h t g e s s - d e, body T t O ol M d: h X im av. iar did n’t run for the Sabbat, though, did he? possib D l I e N, A n: o A? h, the n it seems wise to eliminate Caitiff where
+CHUCK: I hear he did. TOM: Yeah, I guess so, though we’re about the worst
+DINA: No, he did not clan about creating the m. Maybe if everyone just calmed
+CHUCK: Bullshit, what’s you r source? do wn and agreed not to Embrace everyone for a year or
+DINA: I know people in the Sabbat. two, this who le Gehenna thing would just blow over. CHUCK: My ass you do. ZEKE: You’re pathetic, Tom. about T O X M av: i a G r u. y W s, h t a h t i s a b is o n u ’ t t t v h e e r y o t p h r e o r d u b c ig ti v g e u. n s S? o K n a o r b sh o? d y M a k r n k o ws mons T te O r M t: o W w e a l k l, e w u h p a a t n c d h o d i e c v e o d u o r u w s e a h ll a? ve? Wait for our some
+Decke
+B r
+E? T
+I
+H ny: a
+K n a g
+r a sh? and Xaviar are not on speaking terms, if know
+B w
+E h
+T a
+H t: t
+Y o o b
+u e t l
+h ie in v
+k e t a
+h t a t
+t h m is
+y p t o
+h i n is t, f o
+it r i r
+s e a a
+l l l? v
+I e m ry
+e a n n e, w
+I t r o
+e a m lly e. do n’t
+you ask my sire. they both call each other traitor. TOM: I do n’t know. Sometimes I think I believe it. C
+EK
+C: K
+P: r
+W in h c
+i e c h of o
+M ne il
+’ w s a
+D u e k
+c e k e
+e r s i a n
+g c a e
+i n a? bout ‘91. Real hawk. up an
+Z d
+E a
+K b
+E o: u
+W t? hat if I told you that our Founder was already
+CHUCK: Right. I guess he’s still prince, the n. TOM: Zeke, if you told me that, I’d tell you to stick it t g h o e n r e e Z D. S E I a S N K b h E A b e:: a l Y K t e e. a f a T t r h s o t h. o h A e r s e n m C m d a a a I r m i t t n. a h s r i n i W l k la a I r n w lo y h a r e d n n g o a X f a h t v h e i e l a p r C e d a d i m d se, a t r b i h u ll i t a m. s h u e p h asn’t o G w d a h i n c e g a r r Z e l e l E y t l. K h w E W e: h h s o H u y e n b n y e, s o l t t i e i e l a n l v r o e s l w h i e t i? h n r a e y t s o. s u h s e a c id o m th e a s t u t p h e o r u e t w o e f r t e o r p p l o e r n t p y e o ri fTOM: But in any case, it is n’t like the movers and shak- DINA: Have you any evidence of this what soever? e t l I h e r d s a f o t n h n t a B h D ’ h v t E e I e e N T w h C A H u a a a:: p t n m e Y p M t s o e a y a u X d r n s ’ i a i l r y a r v l e e a n i p a, d r s a r i, a o g r j y n t s o h o s l i t o y n, t I f e h a T g t d a o u h f t m e t r e K a h s i: s r a c e e r t K b s S i v a o u h a e r n l b s n l h s h b j a h t o a t i h i e i s t t n o n. s O e u ’ J t d g z a l h z l i t a y k h a n e e p - l l y a A o S r a t t a t j o b i o a e b f d v s a o. G e t v t a. h e n I a n g k t r m. n e o l o w re e a d w n n i a m d y s t w t h u T h D Z i i p t O n e I E. N g M K a d A n E m: o: d: c G o A I u a u r f b m e b y s a o s e e n u, u n n s A t t e c t, h n e f t i u t d s h o e l o e i f d t s r y o i n e e l o u ’ v. a u t i v d d i p t a d e h r n, n o i n c I d d ’ e k u l i l d c y i j n s t o u i ’ n u v s t o ’ e t w d t. c a I k p l f o n n r s t y o o e o o w y u f t o? h u o d e f o t l a o n o n ’ g k t y n t u h o h p a w i v n a e g s n, h d e y ou
+Chapter one: stone, steppe, and sea: a h is tory of the Gan Grel Clan
+
+=== PAGE 41 ===
+Clanbook: Gan Grel
+
+=== PAGE 42 === i nside
+G the an Grel
+Live with wolves, how l like a wolf. — Russian proverb
+The Gangrel, taken as a clan, are a contradiction. to instinctively grasp this basic concept has it beaten
+This is to be expected, as a stereotype can not by its very into him. Contrary to popular opinion, not all meetings purpose describe diversity. The stereotypical Gangrel is between Gangrel entail flying fur. The Gangrel are very sullen, uncommunicative, ill-mannered and prone to aware of the ir position in the power structure, and adept spend great stretches of time alone in the wilderness. at sizing up the physical capabilities of new arrivals. This stereotype is not false, but at the same time Gangrel Not surprisingly, this basic approach to social naviwho are boisterous and well-spoken stalk the night. Many gation do es not work well when applied to vampires of
+Gangrel make the ir have ns in the teeming warrens of the other clans. First, it of fends the m, and second, it do es big city, and some spend the ir days slumbering in bucolic not take into account the levels of deceit and intrigue of farmlands. The common wisdom says that the Gangrel which they are capable. The or ganizations invented by the do not play in politics and despise the maneuvering of other clans are useful — or necessary — in dealing with
+the Jyhad, but the clan has representatives in positions the rest of vampire society. The Camarilla, the Sabbat and of great power in all the major factions of vampire poli- the anarchs all harbor Gangrel members of convenience. tics. And not a single member of the clan has been left
+Not all Gangrel relationships are for ged along the untouched by the upheavals of the modern nights. path of least resistance. The clan has never been short
+Like most clans, the Gangrel have no of ficial, clan- on passionate bravos looking for a fight. the se Gangrel wide or ganization. they have common ground in the ir support an or ganization or a cause on principles alone traditions and the ir basic natures, which make complex (although detractors would claim they simply look for or ganizational schemes superfluous and unnatural. Every the roughest fight). The Camarilla, the Sabbat, the
+Gangrel knows the best tactics for dealing with others anarchs and even the enigmatic Inconnu benefit from of her kind in the very pit of her soul — respect and the fervor of Gangrel members. defer to the strong. A childe too you ng and too human
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 43 === t G the ir nurtured is sue. The son of a chieftain, chosen for he an Grel his remarkable martial prowess, falls prey to a creeping
+e insanity and slays his sire and the rest of his brood. The m Bra Ce delicate you ngest daughter of a minor lord, brought into the night by a smitten suitor, leads the knights of the
+The Gangrel are a wide-ranging clan, spread across
+Inquisition to her sire’s do or in her naiveté. The harshthe world in defiance of, or blissful ignorance of, mortal ness of the Gangrel’s tradition is intended to break the se and Kindred boundaries. The one thing clan members inferior specimens quickly and cleanly, for the good of
+most of ten share is the method of the ir Embrace. Gangrel the Kindred the mselves. The Gangrel sometimes scorn neonates are frequently abandoned moments after the ir clan members known to have been Embraced with out
+first draught of vitae, left with out assistance or comfort the common trial of is olation. Sires who provide such an to cope with the terrible changes Caine’s curse wreaks easy out for the ir childer are sometimes treated similarly. on body and spirit. A childe who survives this harrowing
+Gangrel antitribu indulge in Creation Rites with some episode and takes on her new existence is considered reluctance; as a way of making up for the complete lack worthy. Sires reclaim the se childer, who are taught
+of appropriate caution taken during wartime or in mass the Gangrel ways and treated with the respect due to
+Embraces, they spend lavish amounts of time and care bearers of proud blood. Those who do not survive are on selecting childer who will become True Sabbat. for gotten. Those driven insane by the experience are
+The Gangrel sire inordinate numbers of Caitiff hunted do wn by the ir sires and destroyed. This is how
+— arguably more so than even the Brujah. This is due the Gangrel have chosen the ir progeny since the earliest almost entirely to an unfortunate combination of the nights, and the reasons are clear. Only the strongest, Gangrel traditions and the thinning of Caine’s blood
+the fittest, survive to be called Gangrel. through generations. In ages past, a neonate who se sire
+As always, exceptions to the practice arise. Childer was destroyed or somehow prevented from claiming his who se skills or resources are considered too precious to risk childe might still be easily recognized as Gangrel. The
+losing, or a sire’s love interest, may be tutored through the for tunate were taken under the wing of a mentor; the
+Embrace and carefully managed at every pitfall. Gangrel less for tunate were destroyed or cast out to live like legends highlight common fates of such “soft” sires and beasts in the wilderness. In the modern nights, confused
+Clanbook: Gan Grel
+
+=== PAGE 44 === fledglings may prefer the familiarity of the cities and lose surprisingly, the remaining justicars have not moved swiftly the mselves in the crush of humanity. The Gangrel sire to call a conclave. may track as well as a bloodhound, but limits certainly Other Camarilla elders point out that only one Ganexist on what he is will ing to endure for a childe who grel among the Founders was enough to bring the clan makes a fate different from his. A childe of high enough into the Camarilla at its inception. the se elders, most
+generation becomes virtually indistinguishable from the not ably from Clans Tremere and Toreador, agree with
+Caitiff, and is of ten for ever lost to his clan. the Inner Circle’s action (or lack the reof), claiming that
+Gangrel who remain in the Camarilla sometimes all owing the Gangrel to retain representation at this point find that the ir right to create progeny is one of the first would be as ludicrous or distasteful as all owing a lesser, to be taken from the m by princes and jealous rivals. politically impotent bloodline to elect a justicar. The
+Particularly wily Kindred have turned the masses of most do gmatic of the se elders have insisted that members
+Caitiff to the ir advantage — by surreptitiously siring of Clan Gangrel should be removed from what positions childer, abandoning the m in the traditional manner, of power they hold, as the ir loyalty is now questionable, the n taking the poor, disadvantaged “Caitiff” under and evicted entirely from the sect. the se protestations the ir tutelage. The sire comes out smelling like a rose; have, to this point, been made quietly, as no one is ready not only do es he have a childe of his blood, he has to tell Warlord Karsh that he must step aside. aided the prince by teaching a potential rabble-rouser The point of debate is mostly moot, as many Gangrel
+to respect the Masquerade. This is a dangerous game to have followed Xaviar’s lead in leaving the Camarilla. play, but few have been caught at it — yet. Whether they have do ne so out of simple respect for
+Xaviar personally (unlikely, as it’s not probable that the p, l ride Oyalty majority of the Gangrel have even met him), or out of some heretofore disguised clan unity is unknown outside
+h: and On Or the clan. The content of Xaviar’s famed single-sentence declaration to the Inner Circle is also unknown to memG a an Grel lle Gian Ces bers of other clans; it is the subject of hushed speculation and wild rumor. Those who have bothered to ask the
+t C Gangrel have received either sullen non-answers, or he amarilla one of the ridiculously manufactured phrases that have
+The Gangrel have left the Camarilla. That one perversely become a great farce to the Gangrel, and are phrase sums up an average vampire’s thoughts on this traded among clan members. matter. how ever, the situation is certainly more complex
+Every Gangrel who has n’t gone completely wild or than most Kindred understand. spent the last decade in torpor can guess the crux of Xaviar’s
+Xaviar’s apparent self-removal from the ranks of the disagreement with the Inner Circle, with varying degrees justicars was, and still remains, cause for a great deal of de- of accuracy depending on how many iterations the story bate among the elders of the Camarilla — after all, they’ve has been through. they know that Xaviar has seen, with never had a clan leave before. No precedent exists for his own eyes, some creature of incredible, earth-shaking
+dealing with the substantial political fallout, and members power, a being greater than the Camarilla’s Inner circle of other clans rightly worry about the example that this will admit exists. Xaviar himself do es not, by all accounts, incident sets. Elders of Clans Ventrue and Toreador have know what the creature was. Speculation among the argued that no one vampire, no matter what his or her clan results in wild tales of waking Antediluvians, or status with in his clan or the sect proper, has the power to savage beasts for etold in the Book of Nod running amok. remove his or her entire clan from the Camarilla. Although what ever the creature is, its very existence points to the
+some of the se elders profess concern for Gangrel interests, fact that the leaders of the Camarilla have been less than a simpler motivation is self-interest. What if, one night, an honest with those who have put the ir unlives on the line esteemed Ventrue or Toreador should resign herself and with the or ganization. The remaining Gangrel archons her clanmates? the se elders insist that the Inner Circle quietly spread the rumor amongst the mselves that one
+(who ever they may be) should simply have elected a new of the remaining justicars has moved to add Xaviar to justicar to represent the Gangrel with in the Camarilla. the Red List for spreading this heresy. If this is true, that
+The situation is not too far gone to be remedied — a new justicar has yet to receive the additional support needed justicar could still be appointed and matters made right. to make such a move, but if he or she do es, the effects the se few but determined dissenters have vowed to make could be explosive. the ir voices heard at the next conclave, while worrying
+Even knowing that the Camarilla may have lied to quietly to the mselves at just what Xaviar’s message to the the m, the re are still Gangrel who have chosen to remain
+Inner Circle must have been to produce such results. Not in the sect. First among the m is Karsh, the Warlord, and
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 45 === any number of Gangrel archons still serve the justicars. In to righteous battle by the Sabbat’s leaders, but the feral addition to the se “of ficial” representatives, any number of Gangrel who erupt from the earth are dangerous and
+Gangrel in cities and princely fiefs across the globe have unpredictable all ies. The Sabbat eliminates — or has declared the ir intention to remain Camarilla members for attempted to eliminate — those so far gone to the Beast reasons of the ir own. Many Gangrel have chosen to stay that they are an ideological and tactical liability. because they have contacts with in the sect, or because The Sabbat has no shortage of neonate antitribu. they have made promises of service to uphold. the se they serve as scouts and front line troops in the war reasons are usually respected by the ir clanmates; loyalty against the Camarilla. they infiltrate cities, equally at
+and honesty are greatly prized among the Gangrel. Those home pounding the pavement or scaling skyscrapers. who appear to remain in the Camarilla to protect the ir they roam the countryside “keeping an eye on the interests, whether territorial or otherwise, are accorded Lupines,” proselytizing the anarchs, and generally pedless respect by those who have left. dling the Sabbat’s most precious resource — freedom. In addition to losing the respect of the ir peers, the the se you ng Gangrel come to the Sabbat in several
+Gangrel who have interests with in Camarilla-do minated ways. Most are Embraced by the City or Country Gancities are in danger of losing those interests as well. they grel, and go through the Creation Rites and Acceptance are no longer trusted in many Camarilla cities because Rites as normal. A significant number of Gangrel have other Kindred sometimes say, “The Gangrel have gone joined up more or less by accident. the se poor suckers over to the Sabbat.” Even in are as less prone to hysteria, happen to be in the wrong place at the wrong time. A
+other vampires can not help but not ice the Gangrel’s lone Gangrel who meets up with a Sabbat pack might sudden lack of political currency outside the individual. figure her best chance at survival lies in playing along, As a result of both situations, the Gangrel slowly find and before she knows it, she’s joined the pack and a the mselves scapegoated by the Camarilla as the ir terri- crusade. Some of the se “converts” slip away, given tories and hunting grounds are parceled out to vampires the chance, but others stay of the ir own free will. The
+with more clout and more favors to trade. Wise Kindred Sabbat of fers much to the Gangrel. The idea of a pack are wary of making enemies of the Camarilla Gangrel; comes naturally to some, and even those who prefer do ing so is more or less inviting the proverbial wolves to lone wolf status know that’s usually a short and brutal bay at you r do or. Unfortunately for the Gangrel and for existence (even by Sabbat standards). Also, the Paths
+the Camarilla itself, not all Cainites are wise. of Enlightenment (particularly the Path of the Feral
+Heart) are like a life preserver to a dying man for those t s he aBBat
+Gangrel who feel the ir Humanity slipping away under
+The Gangrel have had a presence in the Sabbat since the ferocious pressure the Beast exerts. its inception. Gangrel sires, past and present, rarely choose The sudden influx of Camarilla defectors has placed the fainthearted or tradition-bound for the Embrace. considerable strain on the Gangrel antitribu, how ever. the se will ful Cainites of ten sided with the anarchs in The Sabbat is used to wheedling, cajoling, terrorizing the ir bloody battles for independence. the ir sires were and bullying converts, who might spend years trying little inclined to dissuade the ir rabble-rousing progeny, to earn the right to an Acceptance Rite from a Sabbat
+so long as the bloodthirsty packs were n’t headed in the ir pack. The incoming Gangrel are experienced, tough and direction. Many of the older Gangrel nurtured centuries- generally not will ing to put up with bullshit. Indeed, old grudges against the politically inclined clans for the the Sabbat do es not count many of what can be called incursions of the Christian Church and temporal gov- ancillae as its members, yet many of the se have flocked ernment into uncivilized lands. And if idealistic not ions to the sect after deserting the Camarilla. Established
+about freedom and responsibility or ancient resentments Gangrel antitribu react in any number of ways to this were n’t enough to stir the blood, Gangrel from elder to quandary, from sticking the ir necks out for clanmates, fledgling were dragged into the fray by the Tremere magi to challenging the threatening newcomers to no-holdsof Eastern Europe, who needed Gangrel vampires as raw barred duels. Pack priests and ducti struggle to stamp materials for the ensorcellment of the ir Gargoyle minions. out the powder-keg fuse, under guidance from sect lead Most of the Gangrel antitribu who helped to shape ers — politically, martially and spiritually, the se new the early Sabbat are no longer active. The most not able antitribu are a resource that can not be was ted. exception to this is Jalan-Aajav, Seraph of the Black Even the Sabbat’s regent knows only as much about
+Hand. The majority of the others have fallen to the Xaviar’s reason for leaving the Camarilla as the incom Gangrel curse and can no longer manage even the broad ing Gangrel can tell her. the se jumbled descriptions and brutal politics of the Sabbat. they have retreated to of Wild Ones, supernatural threats and unknowably the wilderness or the oblivion of torpor. they are still old vampires have sent the sect’s Noddist scholars into fervent believers in the cause, and can still be called a fury, quoting chapter and verse, re-interpreting and
+Clanbook: Gan Grel
+
+=== PAGE 46 === retranslating old passages and recalculating the night of the Antediluvians’ rising. The Sabbat is stepping up p e
+its planning for the final battle of Gehenna, but do es aths Of nli Ghtenment so as quietly as possible. Rushed preparations would tip Most Gangrel, including the antitribu, follow the the Sabbat’s hand, and every night that the slumber- Path of Humanity. Many of those who survive long ing Ancients and the ir Camarilla pawns squander may enough to erode the ir Humanity choose to follow
+garner some advantage for the Sword of Caine. instead the Path of the Feral Heart. Gangrel do on occasion choose the road less traveled. (Information a nar Chs
+on the Path of the Feral Heart and the Paths that
+When most vampires think of anarchs, they think of follow can be found in the Guide to the Sabbat. refugees from the set of Easy Rider or The Lost Boys, tooling Rules for switching from Humanity to a Path can about rural America on incredibly loud choppers, black be found in Vampire: The Masquerade, page 288.) leather jackets worn over natty T-shirts. The Gangrel
+Path of Caine: Gangrel followers of the Path of among the anarchs do n’t do a who le lot to dispel this
+Caine are rare, but those intelligent and tenacious particular stereotype. North American Gangrel who are scholars who make the cut stand out in a crowd. too you ng or too gregarious to head for the for ests and too
+Gangrel have been recruited in increasing numbers, rebellious to play the political games of the Camarilla and as the Noddists have taken a fancy to searching the Sabbat sometimes wind up with the nomad bike gangs. after quaint and curious volumes of for gotten lore. the se gangs are not the sum of anarch culture, but they
+Path of Cathari: City Gangrel are likely to be are about the only part of interest to the Gangrel — any found on this Path, in addition to a fair number
+Gangrel who spends more than a year in the urban hell of the ir Country cousins. It seems that the Beast that is the Anarch Free State is either do ing someone a really big favor or is a City Gangrel on the lam. This is with in can be convinced to wallow in excess, rather
+true in the modern nights more than ever, as the alien than in sticks and mud. Asian vampires who spill out of Chinatowns up and do wn Path of Death and the Soul: This Path holds the West Coast have chosen Gangrel with pronounced little interest for Gangrel. Its followers are dispasbestial features as a favorite target. the se attacks increase sionate in the extreme, and few Gangrel care to so in frequency as the invaders grow bolder; the Gangrel completely ignore the pull of the ir blood. are not sure why those with animalistic appearances are
+Path of Evil Revelations: The Sabbat’s Inquisitargeted, other than the simple fact that they are easy to tors keep a close eye on nomadic and solitary Gangrel, pick out of a crowd. lest they be swayed to infernalism. In truth, very few
+Despite the ir numbers and the respect they have ac Gangrel have any interest in enslaving the mselves cumulated as a group, Gangrel rarely stay with the anarchs for eternity to demonic masters. The rare exceptions permanently. they do n’t have the political motivations
+give Inquisitors nightmares, marauding through Sabcommon to the ir traveling companions. Most anarchs are, bat territories and Camarilla princedoms with equal behind all the tough-guy poses, running from something. disregard for any but the ir own concerns. The Gangrel who travel with the m are mostly just run Path of Honorable Accord: Followers of this ning, or they’re running from checkered pasts and have
+Path are few in number but accorded great respect become anarchs by default. When they can no longer among the Gangrel. Upright and honest ass-kicking hide the ir bestial features, or when all the ir friends have
+is always in style. gone home or brightened sunsets, the Gangrel leave the ir bikes at the curb and go to ground. Path of Lilith: The apocryphal clan connection
+Anarchs still make the ir have ns in places all around to Lilith makes this Path attractive to those trying to the world (they have not all moved to California, no mat- get back to the ir very earliest roots. Unfortunately for ter what aggrieved West Coast princes may think). The the recruiting drive, being a heretic means you can’t anarchs of northern Europe have experienced a recent hang up posters. Gangrel may refrain from brawling
+groundswell of support from the region’s Gangrel, most with Bahari, but most do n’t pursue the matter further. specifically from an all-female group calling the mselves Path of Power and the Inner Voice: The the Valkyries. the se vampires have the appearance and extremely rare Gangrel who succeed on this Path capabilities of great age, yet they mingle with restless are incredibly for midable opponents. you ng Ganyoung vampires and rowdy you ng humans, of fering grel with political aspirations attempt to emulate
+moral and material support with seemingly few strings the m, but most go do wn in flames, distracted and attached. European princes are agog, to say the least, hamstrung by the ir own Beasts. but the ir retributive crackdowns on anarch activity only
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 47 === lead to greater unrest and greater numbers of vampires gathering under the outstretched claws of the Valkyries. The Valkyries do not restrict the ir activities to the
+European the ater. Intrigued by reports of the anarch
+“paradise” on the far west shores of Vinland, the Valkyries have sent a full four of the ir number to investigate and agitate with in the Anarch Free State. the se four are cutting quite a swath through the West Coast ranks —
+tall, blonde and dressed to kill in the latest European anarch fashions. they are finding California much to the ir liking, and are having little trouble gathering a group of men and women (and vampires) interested in
+the old Viking ways. The quartet is starting an investigation of the attacks on Gangrel anarchs, and it is only a matter of time until East meets North in what is sure to be a knockdown, drag-out fight. i ndependents
+The Camarilla insists on calling the se Gangrel
+“Autarkis,” which seems to mean not hing more to the m than “selfish son-of-a-bitch.” The Sabbat refer to the m as “fencesitters” on polite nights. To the mselves, they are simply Gangrel. they have been the heart’s blood
+of the clan, keeping cordial ties with the ir brothers and sisters on both sides of the Camarilla-Sabbat divide, with the anarchs, and even with the occasional Inconnu. The Camarilla has existed for only five centuries, and the Sabbat for mere 350 years; this time period is only
+a long chapter in Gangrel history, and an overly windy one at that. The independents hold the rest of the book, or perhaps they have dug a deep hole and buried the book in it. The Gangrel curse is the most common reason so
+many are independents. the se vampires have become so animalistic that continuing to move among others is tantamount to suicide — they can not help but be outmaneuvered and taken advantage of. While the se
+Gangrel will undoubtedly have vast stores of knowledge and experience, they are also certain to be, to some degree, incapable of or unwilling to share it. A new breed of Gangrel Autarkis has hit the streets
+— a breed that may have never even heard that strange word before. the se are the or phans of the Camarilla, those vampires who paid honor to Xaviar’s word by leaving the sect with not hing more than his example to go on. the se vampires are sorely challenged to be on
+the ir own; most have only a decade or three of Camarilla existence under the ir belts. No matter how rough and underprivileged the ir undead existences were, many are completely unprepared to make it with out the safety
+net of the Masquerade and the Camarilla’s resources. It’s no wonder that so many of the Gangrel who left went straight to the Sabbat, or even the anarchs. Those trying to make it alone are courageous, if foolhardy. Clanbook: Gan Grel
+
+=== PAGE 48 ===
+The Gangrel independents do not have an overarch- promises of looting and feasting. The Vikings are not ing or ganization — that’s part of the point of leaving the the only tribe of violent barbarians represented: Huns, sect, after all. they do or ganize on a smaller scale, usually Goths, Mongols, Gauls, Aztecs and Sioux are coming out according to geography, or the charisma and reputation of the woodwork, gathering up neonates and ancillae in of a mentor or sire. The geographical or ganizations may need of guidance (or siring the ir own), and setting up
+respect mortal political divisions (the state of Michigan), tribes across the Americas and Europe. the se “ethnic” or terrain features (the Ohio River valley). Gangrel who se broods invariably influence the surrounding Gangrel; territory falls with in the agreed-upon bounds sometimes the expedient thing to do when the Vandals move in gather for seasonal althings, and carefully consider invita- next do or is learn to speak German. Camarilla princes tions to less for mal gatherings (knowing that the inviter and Sabbat bishops alike observe the se developments
+just might come to personally kick some ass if invitations with some trepidation — after all, that feasting and loot are “declined”). Vampires who are no-shows frequently has to come from somewhere, and the gleaming cities of enough can count on a pack of concerned neighbors the 21st century are undoubtedly even more appealing dropping by to make sure the re’s not hing shady going to the barbaric hordes than the stone and mud cities of
+on — after all, what’s a few hundred miles’ travel among centuries past. (For information on the Vikings and the
+Outlanders? Political and physical divisions can and do vampires who roamed with the m, see Wolves of the Sea, overlap, and Gangrel living in the intersections must a supplement for Vampire: The Dark Ages.) consider the ir manners carefully. Some of those newly Embraced Autarkis who have
+The Gangrel gathering around influential leaders not been swept up in historical culture factions, and and sires re-enact ancient ways that of ten lay fallow who are n’t too busy just trying to stay in one piece, through the Camarilla years. Gangrel culture still bears have decided to find Xaviar and ask him a few questions. the indelible thumbprint of the hardy Vikings and the Xaviar is not an easy Kindred to find. you ng Gangrel fierce vampires who prowled among the m as lords through sometimes mutter that just finding him is part of some might and cunning. Those elders who remember the glori- kind of test. Two prides of Gangrel claim to have sucous nights of raiding the mselves, and those who listened cessfully tracked Xaviar do wn. The members of the se
+closely to the tales told by sire or grandsire, set the mselves groups have n’t known each other for long, and do n’t up as jarls, accepting oaths of loyalty in exchange for seem to get along terribly well in some cases. they are
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 49 === making a concerted effort to work together, how ever, a hrimanes and they all have the bearing of you ng heroes charged
+The Ahrimanes are — or were — a secretive bloodwith an important quest. line from the time of the ir creation in the early nights
+B of the Sabbat expansion into the Americas. they are lOOdlines not a bloodline in the usual sense of the word, as they do not pass the ir blood from sire to childe. Instead, The Gangrel clan has produced more divergent
+the first Ahrimane, a Gangrel antitribu named Mubloodlines over the course of history than any other clan. ricia, enacted a powerful ritual that set herself apart
+At least, the se bloodlines are of suspected Gangrel or igin. from her clan, for ever destroying her ability to create
+The Lhiannan of Western Europe, split in ancient times progeny or even a blood bond. The ritual also imbued from the main clan, are now gone; the fierce and a of her with an innate connection to the world of spirit. the Central Asian steppe have disappeared as well. The
+Every Ahrimane since Muricia has been created from a reclusive Laibon, perhaps spawned from Gangrel blood female Gangrel, though few know whether this is simply millennia ago, hide the ir reduced numbers in the wilds
+preference or something mandated by the ritual itself. of Africa. The Sabbat alone has spawned two Gangrel
+Cainite anthropologists maintain two the or ies on this bloodlines in its mere centuries of existence: the City subject. The first is that only Muricia herself can enact
+Gangrel and the Ahrimanes. The Mariners lurk outside the ritual that creates an Ahrimane, and she refuses to the boundaries of sect and even of geography, making the ir perform it for men. The second is that they have in fact
+way in the last great unexplored frontier — the ocean. tried to create male counterparts — and none survived the transformation. Most Ahrimanes were chosen t l l from Native American tribes of both North and South he aiBOnandthe hiannan
+America. African-American women make up the next
+The Laibon and the Lhiannan are detailed largest segment of the group, with women of Asian or in the Dark Ages Companion for Vampire: The
+European descent bringing up the rear. Dark Ages. The attentive reader will not e that, as
+All of the se points are moot, now, except to those or iginally presented, the Laibon are not described as
+Kindred who consider the mselves historians. The Ahbeing a Gangrel bloodline. Indeed, those elders who rimanes disappeared in early 1998 — or at least that’s consider the mselves experts in vampire genealogy when the Sabbat first not iced the m missing, as they were
+will likely derive hours of pleasure from debating never the most social creatures. No one knows why or the veracity of the claims presented in the main where they have gone. The more paranoid members of
+text. Storytellers are welcome, at present, to make the Sabbat claim that the Ahrimanes have fallen victim such blood relations either rock-solid truth or just to a second Tremere purge of thaumaturges. what ever
+the or ies the truth may be, the ir have ns lay empty, and inquiries go unanswered. The propensity of the Gangrel blood to deviate into a t t w n nd hen here ere One
+bloodlines is a matter of great interest to many vampires. For players and Storytellers who would like to
+The Tremere are always interested in matters of blood include the Ahrimanes in the ir chronicles, rumored and power. The Assamites wonder to the mselves just disappearance or no, the following details are provided. what they may be drinking in with an elder Gangrel’s
+The Ahrimane bloodline Disciplines are Animalism, blood. Any potent Kindred who has considered just
+Auspex and Protean. In addition to the se, almost what might be necessary to set up a tribe of childer and every Ahrimane learns the bloodline’s own peculiar grandchilder all bearing his name looks to the Gangrel
+Thaumaturgy that operates by invoking the spirits of with curiosity mingled with jealousy. Can this elusive the natural world (file the serial numbers of f the Lure of quality of the blood be pinned do wn or distilled? Flames and Movement of the Mind from Vampire: The
+Perhaps the sanguinary culprit can be identified, Masquerade; and Elemental Mastery, the Green Path, but it has not yet (or who ever has made the discovery
+Neptune’s Might, Spirit Manipulation and Weather is not sharing). Mystical and scientific the or ies abound, Control from the Guide to the Camarilla). of course. Some claim that it is the magical legacy of the
+The clan weakness is the artificial thinness of the ir clan’s connection to Lillith, through her daughter Enblood — they may not sire childer or blood bond vampires noia. Others claim it is simply an expression of the laws or mortals. they may still create ghouls, and they may still
+of nature, natural selection in action with a Lamarckian be blood bound by others. Also, since all Ahrimanes were twist, which the Gangrel have somehow activated by once Gangrel, most will bear at least a few animalistic
+the ir closeness to the Beast with in. traits earned before they renounced the ir clan. Clanbook: Gan Grel
+
+=== PAGE 50 === w th i i t s h C W o w h u e a r t i y a s y, l t o w i I u a a t n r y h, n s in o k t k i n; c e e I w, w I t of h u e e a l r d r e. r w I a o h t u h a l e v d r e w c g o e o m n w e e e, a r a e t n i t m d o r e i n t w i a s h p e l a n ik r e w t l b y e y m t h f u a a s t t e t y p t o h a u a r n t w. b i T l y l h n j a e e t a v t l e i o m r u s s e e y h e o a m r s e a c o a l m g a a c e k i a n o n. f d I t p r g u r o s e n t f e. e r I it c T d a a c f c e h a o s n h n r h n e h g Y i o e I e s o n s i Y s d o i v - t c, l g u i o. e k a y l a n u n W l h n w n s h. o b h d t i o e c H r e l e a p o l l a h o v f m a e l w o n s a e n y u e y v a b a t d o n o e f h i n l u s u t a d w e t s t s, e b o t a a t w t r h l e o g y m a. a v e i r n k c s s T n e u e k e n n d d e w h c. o y f h w e t a w f e r h u w m i n s e t o r t t w h u o i i e i t s l u o d h h g a l u n h s y i n t t n s t t o o c i, a t I g l i h l i l k l e s h n e i e n. n k h a a t t P L o e o r o v w p u n p b a e s l t. e t m o a g w a; W a o n o a r t d h s n h s d n o i a d e e c m i f t d. t a e a L e a o w T n l s y, n l o h e i o s s r b n e u i t l d a u s g i e r s r l t w i l a i e f s B s m. r l b o e w o b o W e p o v o m o a n l k e w u e e y r n t w a o y s a a h t f s e r n i e t o h f N e h n s m u h e w e o t e d l e h u d.. a e a e s c, W T r g v t l f c e e e h i o a e a s n a n e r c n n t s c t t a t a d h.. o h n w n l a T f e e c t h m h i c m o e e w o e a n n t m y o h e n t m t m e c ’ a h w s r a e r i e n d n i t e r s a t o n e n d r w a l — o u o o t d t a m n n s y b r f n i, a e i n o o i t l w f n r m l t i g t s h e n — i h s a o o a o e t t l u. r a d N e c t c k e a a e o e t r n p h n f n t n h e t h s o i o i m h m r a t t e n e a e b s. n n e o i t bring U s h e i m y o s u a r l v ti a m ti e o n w a is s e l w y e, l m l? y love. If we fail, the battle will fall to you r should ers, for you are the
+last hope. If we meet again, it will be in sunlight. Juliana
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 51 === a City Gangrel inherit the Celerity, Obfuscate and nda
+Protean Disciplines. The bloodline suffers the same the se fierce warriors rode with the barbarians clan weakness as the rest of the Gangrel. they tend to among the nomads of the Central Asian steppe and
+favor Physical Attributes, but they also produce urban followed the hordes led by the Mongol Khans. The tacticians to direct Sabbat packs when the Great Jy and a (“blood brother” in Mongolian) were supremely had hits the city streets. Talents and Skills are equally
+adapted to survival on the high plains, both in life and valued. Mentor, Contacts and all ies are the preferred unlife. they had no fear of travel, and put more land
+Backgrounds for keeping vital information flowing. City beneath the ir mounts’ feet than many vampires have
+Gangrel who leave behind the ir Humanity usually adopt seen in centuries of existence. they practiced the Ganthe Path of the Feral Heart, but not a few seek spiritual grel Disciplines of for titude and Protean, and the ir own enlightenment along the Path of Lilith, or temporal
+unique variation of Animalism specifically suited to the power on the Path of Power and the Inner Voice. needs of the nomad. Unfortunately for the and a, the
+Asian nights do not belong to the Kindred alone. The O Bfus Cate f Or the i n Credi Bly u Gly mysterious vampires of China rose up collectively against Gangrel who have lost the ir human looks may the and a at the close of the Yuan Dynasty, exacting wish to use the Obfuscate power Mask of a Thousand retribution for every city sacked and village burned by Faces to circumvent that particular social handicap. exterminating the bloodline to a man. Any and a left This is possible, but not easy. The “face” created
+in the world have been in torpor for seven centuries or by Mask of a Thousand Faces defaults to an Apmore and show no signs of returning. Any intelligent pearance rating of 2. To use Mask of a Thousand
+Cainite knows that the and a truly are no more. Faces to improve a character’s Appearance beyond
+C G 2 requires spending two points of blood for each ity an Grel do t’s worth of improvement. Also, if the Gangrel
+The descendants of the first Sabbat Gangrel packs character has specific, large body features to hide of the New World have made a place for the mselves (a hunchback, a tail, etc.), the player must also apart from the ir “Country” brothers. Almost as many achieve enough successes to pull the transformation
+City Gangrel claim membership in the Sabbat as do of f. Three successes will usually be required, but the representatives of the main clan. The bloodline has Storyteller may lower that to two for inventive uses proliferated with astonishing speed, undoubtedly aided of makeup or costuming. by the high turnover rate of Sabbat vampires — most l
+City Gangrel are 10th generation or higher. Some Sabbat aiBOn observers have suggested that the gory ritual enacted by
+The Laibon connection to the Gangrel, if it exists the or iginal seven packs, the founders of the bloodline, at all, must be buried under centuries of the sands of had significance beyond the social — that it, in fact, time. The Laibon have dwelt, of ten openly, among the mystically tied the participants together and imbued
+peoples of Africa since the Kindred first took not e of each one with the blood of a new line. None of the the ir movements. Noddist scholars the or ize that the members of the seven packs has given a blood sample
+Gangrel Antediluvian was among those who disobeyed for testing, how ever, nor are those still surviving will ing
+Caine by illicitly siring childer far from Enoch, where to disclose what happened on that night. she imagined her trespass would go unnoticed. The
+The City Gangrel are urban killers with out peer in Laibon are a possible result. Some also speculate about the cities they choose to inhabit, using a combination of similarly diverse and mysterious Gangrel in the deepest city-wide knowledge, martial prowess and the ir unique recesses of South America. set of Disciplines to strike hard, fast and with out warning. The evidence that the Laibon may be wayward they are equally at home in the bright lights and glitz of
+Gangrel is tantalizing. they share the Animalism and happening do wntowns and poorly lit, trash-strewn slums. for titude Disciplines in common. The Abombwe Dis City Gangrel are almost always members of the Sab- cipline used by the Laibon seems to involve some sort bat. Some few, the casualties of typical Gangrel Embrace of pact with the Beast with in; by tithing vitae to that habits, are independents or Autarkis. City Gangrel who ravenous part of the vampire psyche, the Laibon have
+join the Camarilla put the mselves on a short list for the escaped the slow crumbling of self and personality that
+Wild Hunt; apathetic anarchs and independents can be plagues the Gangrel. ignored, but going over to the enemy in the middle of a
+The Laibon are now fewer in number than ever. holy war can’t. Most City Gangrel are Embraced into the
+Those few who have contact with vampire society closely
+Sabbat, undergo the ir Creation and Acceptance Rites, regulate the ir numbers to less than a do zen. Others may and go on to lead short, productive and brutal unlives. lurk in places where non-natives fear to tread. Clanbook: Gan Grel
+
+=== PAGE 52 === l m hiannan ariners
+The proud and stubborn vampires of the Lhiannan The uptight sorcerers of Clan Tremere refer to the bloodline were eradicated by the coming of Christian- Gangrel who have taken to the sea as “Gangrel aquarii.” ity — as much for the ir pagan ways as for the fact that the se Gangrel do n’t give a damn what the Tremere call they were bloodsucking monsters. The Inquisition’s the m, how ever, and refer to the mselves as Mariners
+traveling judge and jury burned out the Lhiannan, and on the odd occasion that they speak of the mselves as of ten the ir mortal devotees with the m, where ver they a group. The Mariners take the for ms of sea creatures were found. Even those Lhiannan with the sense to go and eschew both mortal and Kindred society for the into hiding were helpfully pointed out by the Ventrue, lightless deeps of the ocean. Toreador and Lasombra, who had an investment in the The Mariners are problematic as a bloodline. they
+new Church and needed a suitably gory distraction from practice the same Disciplines as Clan Gangrel as a who le. the ir own depredations. the ir common variations on the Protean Discipline
+Although a true member of the bloodline has not (sonar and razor-sharp webbing) may be picked up by been seen since the 14th century, the past 50 years have any Gangrel with the inclination to learn. The blood of seen a relatively tame revival of the Lhiannan’s bloodspattered legends (but not practices) by Gangrel in Ireland, a f t u? re is h hat Gly
+Scotland and Wales. Astute observers of the mortal world
+The Mariners have historically been shunned point to the Irish Revolt in 1916. Undoubtedly, fervent as monstrosities even by the ir own clan for the and courageous patriots were among those Embraced by
+sheer bizarreness of the ir animal flaws. In the Final the Gangrel; given time they would learn of the heritage
+Nights, how ever, insectoid and ichthyoid features
+“lost” to the m and attempt to recreate those golden pagan have become increasingly common among Clan times with the ir own covens. the se neo-Lhiannan do
+Gangrel as a who le. At the Storyteller’s discretion, not have access to the mystic powers of the ancients, but this explosion of shared ugliness may serve to bring they are eager to learn. Gangrel of an age to know such the Mariner’s weakness back into line with the main
+secrets watch the upstarts closely, in case they would take clan’s; lose one Social Attribute point for every five by for ce what has not been of fered freely. animal features gained. Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 53 === the Mariner sire do es not necessarily ensure the childe Gangrel of not e: A group calling itself the Nyayo an aquatic for m, although only rarely do es a carefully maintains a surprising amount of influence in Kenyan chosen Mariner childe fail this critical shapechanging politics. they use this influence to keep the ir home country
+test. The only difference that sets the Mariners apart as a as free as possible from European and American influences, potential bloodline is the ir rapid acquisition of extreme with the goal of keeping out the Camarilla and the Sabbat. animal features — scales, tentacles, squid beaks, fins and A pride of Communist sympathizers in the Sudan known even stranger appendages from creatures who never see as the Red Menace (a mocking appellation they took on the light of day have been spotted on relatively you ng as a badge of honor) refuses to take do wn the hammer
+Mariners. (Mariners suffer a more potent version of the and sickle. they provide financial and technical backing
+Gangrel curse, losing a Social Attribute for every three to Communist revolutionaries across Africa. animal flaws acquired instead of every five.) a sia
+The Mariners have, as a group, been extended membership in both the Camarilla and the Sabbat in The past decade has been tumultuous for the Gangrel times past. they have, as individuals, shunned such of Asia. Western Kindred have not freely roamed the of fers and continue to do so. the ir reaction to the vast lands of China since the nights of the great Khans. news that the Gangrel have left the Camarilla has been For centuries they wandered through Mongolia and
+underwhelming — on average a piscine shrug of the further north, until a twisted magic settled over Russia, should ers, at best a watery “We could have told you trapping those inside and keeping others out. for eigners so.” The Mariners are covered in more detail in World may chuckle at tales of Baba Yaga and her chicken hut, of Darkness: Blood-Dimmed Tides. but inside the Shadow Curtain her name was whispered with reverence or not spoken at all. Recently, the CurG a tain fell; those Gangrel who valued the ir freedom made
+an Grel r Ound the mselves scarce before such a phenomenon could ocw cur again, traveling west, south or even north over the the or ld pole to escape the hag’s influence. The Gangrel of India
+The Earth is a vast place, and the Gangrel can be are locked in a losing battle with the tide of humanity found all over it in the strangest nooks and crannies. that spills out of the cities and across the countryside. the refore, the following material is by necessity an As the wilds disappear, they are for ced into increased abridged account of Gangrel activities and interests conflict with the Ravnos, feeding the flames of enmity across the globe. For more details, and information on on both sides, and with the Cathayans. The Gangrel do
+what everyone else is up to, see A World of Darkness not have a presence in Japan or Indonesia, though the
+Second Edition. occasional traveler may have tales to share of her visits. Gangrel of not e: A group of three Gangrel run a ntar Cti Ca a smuggling operation across the northern border of the re are no known Gangrel in Antarctica. Few China into Russia, moving large quantities of Chinese Gangrel do ubt that the re must be something fiendish manufactured goods and risking the wrath of Beijing’s
+the re, buried deep in earth that never thaws or frozen Cathayans. The motivations of the se Kindred, who have solid in ice that never melts. Antarctica is the logical taken great pains to remain nameless and faceless, are retreat for those who never want to see civilization again. completely unknown — but one must imagine they do n’t involve money. An unusual coalition of Gangrel in the
+a fri Ca Barents Sea claims to have recovered a nuclear warhead
+The continent of Africa encloses boundless deserts, from a Soviet submarine scuttled of f the is land of Novaya towering rainforests and broad savannahs. The hand of Zemlya. Whether they are making this announcement man has tainted many of the se natural wonders, but some in hopes of securing bids for the item, or starting the ir impressive pristine are as remain. Those are as usually belong political careers with a bang, or if they actually have
+to the Lupines and other fierce and strange shapechanging the device in the ir possession are all unknown. creatures. The Gangrel make the ir way well enough in the a ustralia great spaces that remain. The truly powerful Kindred who
+roam the continent go where and when they please; it is Australia and New Zealand are the closest thing on rumored that Ennoia may be among the m. In the north, Earth to a Gangrel paradise. The wilderness is mostly
+Gangrel explorers tread the dunes of Egypt in growing unsettled, the people are tough and resourceful — and numbers in defiance of the country’s overwhelming Lupine those damned Lupines are nowhere to be seen. The cities presence. Like many outsiders before the m, they come to house the usual squabbling Kindred and invading Sabsift through the sands in search of the mysterious past. bat, but no other clans want what the bush has to of fer. Clanbook: Gan Grel
+
+=== PAGE 54 ===
+Many Gangrel who come to visit never leave; more than one native insurgent has suggested setting up one or the other is land as a Gangrel Free State. In New Zealand, the Sabbat succeeded in establishing a presence, drawing members from the you ng Polynesian minorities who feel
+cheated by the white government. Gangrel of not e: A venerable Maori Gangrel, Nyrie
+Waaka, has hit the warpath against the Sabbat incursion in New Zealand. She has no real quarrel with Sabbat ideology, but the you ng vampires, many of the m City
+Gangrel, have appropriated the ritual moko face tattoos into the ir pack style — distinctions they have not earned. The ashes of the newest Sabbat converts have been found scattered in the patterns they improperly appropriated. e ur Ope
+Europe is not a particularly quiet place to be Gangrel. More wilderness disappears every year despite the best (and disjointed) efforts of humans, Lupines and the occasional vampire. Gangrel elders here may be over a millennium old; if crowding occurs, the neonates and
+ancillae find the mselves pushed into the cities, where they are of ten scorned by polite Kindred society, or of f the continent entirely. Gangrel of not e: Brunhilde, the leader of the Scandinavian Valkyries, is detailed in the final chapter. She and her recently awakened host of female warriors preside
+over a revival of Viking ways and raise hell among Europe’s anarchs. Rufus of and or ra, who has watched the Sabbat’s depredations in Spain from atop his mountain peaks for centuries, has begun stockpiling weapons and Embracing
+broods in secure have ns. Sources of somewhat dubious repute say that Rufus has shattered the Masquerade by openly approaching and or ra’s government (such as it is). Archons have been dispatched to investigate. m e iddle ast
+The Gangrel hold a respected place in Kindred society in the Middle East. Perhaps vampires who struggle for survival in the harsh, arid climate have a greater understanding of the clan’s steadfast strength. The mortal population of the are a, caught between
+modernization and religious fervor, has made existence uncomfortable for vampires of any clan. The numbers of people with True Faith have risen, and vampires fear the fiery bombs of extremists as keenly as any human. Still, in the rural and wilderness are as favored by the
+Gangrel, life and death go on as they have for years. Gangrel of not e: Respected is lamic scholar Ebi
+Raboud has spent years wandering warily among have ns in is lamabad, Kabul and Tehran, avoiding Assamite assassins and the fetid pisacha while composing and disseminating his commentaries on is lamic law as it
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 55 === applies to Kindred. He now encounters a new class of
+Assamite — faithful vampires fleeing the civil war on
+Alamut seek him out for advice and help. He can not turn the se refugees away, but he fears that he may not see the assassin among the supplicants until it is too late. n a or th meri Ca
+The Gangrel of North America have taken the brunt of the abuse in the wake of the clan’s separation from the Camarilla. All along the East Coast, where tensions between the Sabbat and the Camarilla are taut, Gangrel are treated with suspicion at best, or destroyed
+on sight at worst. The besieged princes figure that those
+Gangrel who are not outright traitors are deserters; loyal
+Camarilla Gangrel stay close to the ir have ns and boltholes to avoid identification mishaps. Further west, the tension ebbs and the Gangrel are subject only to the peculiarities of local leaders. Along the West Coast, the Gangrel also have the Cathayans to worry about. Gangrel of not e: The Free Minutemen of Pocatello are a small group of independent Gangrel chosen from
+the ranks of local militias and survivalist groups. the se revolutionaries are angry (and not just about the pallets of can ned food going to was te in the ir bunkers) — they’ve gotten the idea that the vampires are controlled by the
+United Nations as part of a nefarious plot to overthrow the US. they intend to turn the enemy’s tools against him. Quebec’s Cree Indians have a protector in a bestial creature known only as Muskuuchii — the name of the
+mountain it lives on. Other Gangrel report that this elder has approached the m, most of ten in the for m of a bear, to ask for the ir help in preventing the secession of
+Quebec from can ada, a development which might see the Cree’s aboriginal lands taken from the m. The ursine creature is of the opinion that the re is an individual or or ganization with great influence thwarting its efforts. On the other hand, its efforts have most likely been
+naïve and less than subtle. s a
+Outh meri Ca
+The hot, wet geography of South America is a extensive have n for the Gangrel. It also shelters shapechanging cats and terrible lizard-monsters, but most local Gangrel accept the test of the ir survival skills as a fair exchange. Even though the continent seems to encourage this bravo nature in its nocturnal residents, only the truly
+foolish head into the Amazon basin, where the Lupines battle some horrendous technological manifestation. Gangrel Embraced from the indigenous tribes of the are a claim that the re is a strange bloodline of native vampires in the jungles who share many Gangrel’s affinity with the bat — creatures who wreak devastation
+when awakened with out proper propitiations and rituals. Those inclined to believe such tales keep an eye on the
+Clanbook: Gan Grel
+
+=== PAGE 56 === rainforest — assault weapons and chainsaws are usually Bruce, not appropriate ritual gear. e i g e T t v r g g b f i w h t G n o t o s r v e r a o a h i t e e r a t e m t s t w t a s e e m h l h w r h m l t d T O G y p a a h, m e e e o b s y i y a a s a a h s a i t a r s, r u l s a d t n d h G e p e k i n e t l r p g e e ’ h t d. g e e n e s g k G a h i s H n m r i c e o s l r f e n n i o a t i o i o e f a s c s p a e s s g g t n s u l c f n l c l r ’ B c r. a u d o t o G l e n o e a g o e o n T, y p s n f y r fi l o a n g a m u S s ’ e e h N s i t t l u f s a n l a s r s s o s f e i e r e e o l b o e, p b c d a o a t l r f h c o o l G e y l h b e c l r t i a t i i a l o e i d o r a c e a k n i a n l s a i k: m e n y z t a u r n n e n t ’ i /. n X v s m g o n S d v s g g s t a M i g t o o e s h g a e l s r h f u r t t r r i e r m t t m t i i i a e a l b o s e o l k i v s l a k k a i t t n l r t g p e e e b a t e e t i e t i p a z e w f s i: n n r e e h r G y r t c e d f s h a r g e h i, e o e o a t a m g t t u f a a t r e T n h n r c r s h i a i v a t r e e o l a t l o o d i fl i u e e y t r i l d s l n m u o a e e y i r B c a a c s s o e d m l n r t h o a h t d t t e y o, l f l, o g h i n o a w o a e w a a t t t r u t l e n s a n h t w h h e a h h h n t l p r w e g e e e l. e m s l i i i e h d l o c e s d s - H s n G o t e y B t n d a a t v e a t f i i r s i i v e r e o e a o l c e c s i w n t k s f e c n t a e r u n h k o h e g a y o s a s r g s y, i e n a n t i l i r s r t i b h c t t s k d d t e o d W r c s r u s i o o o l i e e g e; s h s ’ g m t n n n s a n d r a p i t a t r w o g t d g h t a t a e a e n h t t u w i u. i n s f a r a n e h t t g i o t r k e t r y i i n n h d e e e e r - r - -.., n m c m n b a r i s C e t y e o m a w o a e q n t e s t i p a a v c h t n n e a y c o t r r u d e p t t e i v e o e h c s s x j u e e e r o m a a n o r m o b e e i a o p p o l p r n m i r a t k i i p r e. d y f o r r d r n n I c e s t e y. G t d r a y e i i e i o o i e d i p a p e e p n, Y r n o n s t b t a c n s I n b f a n e s q a y o a g f t s y a m e g “ f g e r r g r u r u t e h b e i r f f h e t r s i t i o y o d o s l y x n i t r p o e n s i e o r i s of of w o e o p n a t e o r i z u b c t l n e c h n u e, u e t i h n s g y r y u h a d i o. c f v o r r n e z r h s. m v l e l p u h a t r e t i i l t s y t e i e e a i l A r a l a u o e r h e g y h o T ” e m b m y r r y n i n d v s w n, e n u e h a n o l b l d g t e m e a z t r n c e h e i e n v e e y, o s o b a r i r a e d s e n s d e t r C r f. n e n d e u i t d K i s v o t r i i s a o r a y s e d u b t i m i a f o e f s S m u o a g c f r b e y h n p t r t l u o G a s o m b t g e t r a y a e y d l a i a i c a c r f l h r r o e y l m o r y t a r a s h a n i i m e a e t h n o o s u e e b r b c g h a l a t o K s a a z t u e d r l s a l b i r a l l t t t u s i i s w y h r l e y i n e y e e b e a h o o r i n n i e v s z i g, n l i n e s o d l t r e f u h a n c e c c; t t o t m o t n a r l c h b s r l a b r o e a e b e a m e r e l c e u i e t s l c a e n o s t r s t e n e s e d f a l o t. q s o e d t r, i e i x t d a r n a r e c u m s i a d m n r h c c e i s t o w s n y n. o e m e t c e e g v a s y u n n h m i o s t u n n o l t r r i v. o s t fl o c t e c l. h m s c n f t s i t n e t u e h u f i h y o l a - e y l - h, t o t g h r a - e e n I t - y e; o e t sm n fi e s F G w n f S a s a m a a f e u o i r d s n e e o e t t g i c s a a a r o r a l u e c a d l t l., t l l n c y o a r r, e a G n i s f s, r e T M y s c g n n h p e s t t e y a t l s t s r l r i a a g y c. i h u g h t e n o a e e i o c n t i c 2 h a r r r a e l l e a n d n h s e g l t t y i 2 f i r s t e n s l w e s g r n r d e i l w 8 y i v r u t e t y o a w r o s g h b ’ h h ) s l i s h t l t s t f e o a. h l e o r u e t e e e m i e o t o s u a n T n l s d n r r e h e n v w r r e r e n o i, t r g s t h n g e e a m: s i e e e e s r o o i n s f e e m c c A t r e n r f a r o t t v a t p fl e i e a o h S s e s, n r p t e a n l i r a l e m n t b h b e t c t r e e c i g o y t s s o h r n r t u d a q s t u l r R e s t i r a f a; t i e n i t s n u r o r t y n o e n t o ö c e n e G h i — g r t i v e fi s r g h b t s n e o e s o e t i e s e a n e s b h m a l n c z f c t s t n l u n a y r y a d n e a a h h e e r e (, p l r s n g m t e u r g t i e r a s e n w w l “ r n t s g e e s e n s y a e h e fi z B p e i c h h e s e o s y n o l s g p e c e d k u e e e f o t V t i t i h l e c — a e r n n t o m “ h m u “ e b n p h t t a s r fl l a l e ” y o t t fi o t m o a a a e t d i r h r h w i g o g b s l l y r s t i h d t f i p u e h n e h e h u f h e e y n n t a e i s l t i g h g t b e r n s r l u y a g o e a n ” a f r t b a e e t t p t t B t i l l r h c t e n: h l u o o p e o G s u c e f i o e r i T u r f e d n f r e n n a e c s o a n t e i a a f u g t d t e g h fl d s f f t p. t o n t h u e h t s t i r R i u i A e a t w p e n r g o e g r s o e a o t r c e M ö s e r t h l i: e h r of e h. l e c r t n t e i g, ” t l o. e h t l s q o t a i i a u r ’ h i c f s n, t v f s T e u s r o s s o i t h c e n i f q B g i o a l h w t t a e f r s u a l r e u t o h s R n e i v c y i e n t r i i r b s r e a i o e i n h s e c e e e i o d n l a e r s f i n n n k d d e e g. s - r t - - l;; e o m t s s c c t o h x t u p e w h I u l e i e a o c h t f e a e t o m a i t m e l n s b m o e h r m r s b s s m a v s s l p m h i t i p m s e o g e p i e l a p e s o s b e l M e r p n u s i t e n n l r d l e y s s e m e. r o t o y i e n m o s t t a y: a u e t o m t s a a o o o o h I r t s o u u e p t t d f b f r e t E c i b w s l i u t w, e o h h v o t e n. y r r e i o a s l n o o e e e n h i i e r w l f n t i l u f t o n. e n W t,, e l i r e n y r y r p g e, m e f o E s p y o e A s a B w h a n d n i c a u t r h a t, d a e a h a g r - l n l c o h s r h m r a n i v u t a s l s a h f e o i a l i e r c e w n h w y c t n r n m t e t, a h o c i e q, m s a a f s n o r m w h e i u t h i t l n e s a i f I e a i e n b n a h e n h m e t s m c n t c t u l e a e i a s d w o a a e p, h k i t i i v n t e i a G d i r e fi t n t i a i s l a t m v a d c c I m i c I o l s n b i l r n o i e y. o e e l y e u r e g t h d e w m, a s i t. t a t i s r c a d i p n h n o o n u A e o t a v p l l a a e g d n g l l l t a m o e o l e s t m o o t o l p p s t i f f e o J o n y u, s l b o s p m e o e o n d a u g r e n o e e r i o a n m u t n t m t m t b w i y s a n i g c o g n o e e o i l i n t l d o o t o u i e r s n f o t e b t h e e n d o l r a - e t t o n h e e r. - n - a n f l l i e i i n k k a g e e t m u n a r i u e t c a s s t k, i a l h t g o i a l n r a n g n a d n d m s t. o e e D r n m f r n e a b e a m r t e a; a; n s t o p e i r c r s o, d c a u e h t m v a i e n n a l g g r o s e p a u s d i p n a d i r g a i e t l t i u p r o u n o n l l u a y i c k l o h a e d p l o y d p r t e f a o e n a w o d t c o a u c g r r k u e e - s s r I a r e p w s r o u I o u l n p l t o d a s s n. e b y d e I c f m a m e s o y t e r o h, e u o d I t w o h i l l a s o o n h g o y k h m a e f f p o o p t r r y o w y a t c o r o o u d m r d m t s o e o t n u s t y d o o y. o u, n r all at once, although some particularly unlucky or rabid you rs, Gangrel may find the mselves with some of the drastic
+modifications listed below. It is far more likely that each all an T. Woodstock
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 57 === subsequent frenzy adds incrementally to the effect, so That prior value determines the experience point cost that a full coat of fur may sprout on the vampire’s chest, to increase a Social Attribute. Also, the limits imposed the n later appear on her back, legs, hands and face. on Attributes by the vampire’s generation apply to the
+The marks left by the Beast are not always so easily higher, initial value. For example, Angry Sam arises seen. Some can be smelled or heard, like a pungent musk from his Embrace with an Appearance 3. Ten frenzies or shrill, cawing voice. In some cases, the Gangrel is left later (how do you think he earned his name?), Sam’s with animalistic impulses and behaviors as result of frenzy. Appearance has dropped to 1. If Sam’s player wishes to
+the se are psychological aberrations, similar to derange- buy Sam’s Appearance back to 2, the experience point ments, but far less crippling individually. The Gangrel cost will be calculated as if he were buying the Attribute may unwillingly find himself circling a chair three times from 3 to 4 — 20 experience points. Sam’s Appearance before sitting do wn, marking his territory (with blood), or is now effectively 4 for figuring the experience point
+toying with his prey. the se behaviors might seem comic, cost to buy another Appearance point; if Sam is eighth but in situations where proper etiquette, grace, stealth generation or higher, he can only buy one more Apor speed are important, the re’s not hing to laugh at. The pearance point ever, no matter how bestial he becomes. afflicted Gangrel may spend a will power point to avoid m B ixed lessin Gs
+acting out his animal habits for a scene. The animal features below represent drastic and
+The variation of animal features with in the clan is sudden changes to the vampire’s physical for m. they astonishing. No two Gangrel have ever developed the immediately and permanently reduce one of the vamexact same set of features, although basic trends may
+pire’s Social Attributes by one. Usually they reduce the be passed from sire to childe. Gangrel past the age of
+Appearance Attribute, but if the character is already fledgling rarely exhibit features from only one animal; so ugly that adding a scaly tail or a set of ultra-wide the Beast’s myriad expressions in the animal kingdom ears really won’t make matters worse, or the shock of
+provide a broad palette. becoming poisonous is more of a self-image hit than an
+The animal feature that results from a frenzy should image problem, other Social Attributes may be affected always be approved by the Storyteller, especially in cases instead. the se modifications are serious enough that
+of drastic modification or animal behavior. Ideally, the they of fer some fringe benefits, though rarely enough
+Gangrel character’s inevitable descent into the clutches to make up for the ir hideousness. of the Beast should be a collaboration between the player the se features can pose a serious problem: The and the Storyteller, but in some instances the Storyteller
+vampire has become a walking breach of the Masquershould feel justified in inflicting a monstrous or jarring feaade. Precautions can be taken — the se features can all ture on a character. The Gangrel do not evolve into cuddly be hidden with varying degrees of success — but many humanoid pets, they devolve into chimerical monsters; the
+princes do not wish to take chances. The same qualities
+Storyteller may occasionally need to reinforce this point. make the se deformed Gangrel prized shock troops in
+Every five animal features the Gangrel character acthe Sabbat’s full-bore attacks on Camarilla-held cities. cumulates, whether physical or mental, reduces one of her
+Any of the se animal features, if not carefully hidden
+Social Attributes by one point. Appearance is usually the
+(roll Dexterity + Subterfuge, difficulty set by the Stofirst Attribute to be affected, since the vast majority of fearyteller according to the degree of the aberration), will tures the character will acquire are physical. Charisma and cause a +2 difficulty to all Social rolls. Other Gangrel
+Manipulation can be affected by purely physical changes, and Nosferatu may not impose the se social penalties, as well. The character’s animal features might be distractat the Storyteller’s discretion. ing or embarrassing, reducing her social effectiveness, or
+It is recommended that the se features occur only in they may simply do so much damage to her self-image as extreme circumstances (the result of a botched roll, or to severely impact how she deals with others. Acquiring a
+a particularly protracted and bloody frenzy), and that a mental animal feature makes it much more likely that the
+Gangrel only ever acquires one such feature. Gangrel’s Charisma or Manipulation Traits will be affected. Frog Eyes: The Gangrel’s eyes migrate painfully to
+It is possible for Gangrel to buy back Social Atthe sides of his head, in the process swelling to roughly tribute points lost to the cumulative effects of frenzy. the size of saucers. The eyes usually have the slit pupils
+This should be roleplayed in detail and approved by of an amphibian or reptile, but certain rare specimens the Storyteller — perhaps the character finally takes have manifested insectlike faceted eyes. Sunglasses
+to wearing concealing clothes and combing his hair. simply are n’t going to cut it anymore, but the vampire
+Perhaps he has taken charm or voice lessons. what ever may add two dice to all sight-based Perception rolls the reason, regaining lost Social Attributes is never o due to his new 270 field of vision. He becomes very
+easy. The player should keep track of the values of all difficult to sneak up on, obviously, and suffers one less three Social Attributes prior to any frenzy-based losses. Clanbook: Gan Grel
+
+=== PAGE 58 === than the standard multiple-opponent difficulty penalties feet of a single, strong strand. The vampire must decide in close combat (no penalty for two attackers, +1 for ahead of time whether the web will be sticky or not, but three, etc. to the normal maximum of +4). the vampire is never stuck in her own web, as it is made
+Exoskeleton: This particularly vile feature wracks from her own blood. The webbing is incredibly strong, the vampire with pain as her skeleton excretes itself as requiring a Strength 5 to break, or a Strength 4 to cut a chitinous shell. The vampire gains greater use of her with claws or a knife. The spinnerets are conspicuous natural strength in the for m of an additional two dice protuberances in any sort of normal clothing except a to Strength-related Athletics rolls, and a reduced dif- heavy coat or robe (Perception + Alertness, difficulty 5 to
+ficulty of 8 instead of 9 on will power rolls to perform not ice) — hunting Casanova-style is nearly impossible. feats of Strength. The hard shell also provides one ad- It is certainly worth not ing that the Gangrel must not be ditional soak die against bashing and lethal damage. This wearing pants to make use of her spinnerets. In addition, physical power comes at a terrifying cost, how ever, one the webbing is very sensitive to light, spun as it is from which many Gangrel do not discover until it is too late. vampire blood. Sunlight disintegrates it immediately; even
+Because the vampire’s skeleton is all but gone, her rib the dim glow of a streetlight or the beam of a flashlight cage and sternum provide no protection for her heart. will destroy the web with in 10 turns. An opponent with a stake need only inflict one health Tail: The Gangrel’s spine lengthens dramatically level of damage (after soak) with a hit difficulty of 9 to past the coccyx, fleshing out into a muscular, heavy tail. effectively stake the vampire instead of the usual three. The tail is usually long enough to drag on the ground and
+Hide/Carapace: This effect manifests in a variety bulky enough that it do es — it must be bound or tied to of ways: dense, coarse fur; tough, elephantlike hide; or keep it of f the ground, and even the n it is relatively easy a calcified covering. The covering provides a natural to not ice (difficulty 4 on a Perception + Alertness roll). armor, adding two to the vampire’s soak dice for even The tail do es serve well as a blunt weapon; so long as the aggravated damage, excluding fire and sunlight. In vampire fights with natural weapons in close combat, he
+addition to the difficulty of hiding this full-body muta- may make a free normal attack or sweep maneuver on tion, the thickness of the armor invariably reduces the flanking and rear opponents with no multiple-opponent vampire’s Dexterity by one. penalty (other attacks suffer the usual penalties). The
+Maw: Discreet fangs give way to a mouthful of tail inflicts Strength bashing damage. teeth as the vampire’s jaw stretches and lengthens to Talons: the se claws are equivalent to the Feral accommodate the new dentition. Whether needle-sharp Claws provided by the Protean Discipline — with the and ratlike or serrated like a shark’s, the se teeth do not important drawback that they can not be retracted, and retract. A vampire with the se teeth can not simply hide are always present on both hands and feet. Aside from
+the m by keeping her mouth closed — her exaggerated the social difficulties that come from never being able jawline shows the size of her mouth, and the teeth of ten to disarm, the vampire will find it difficult to manipujut out past the lips. The vampire’s bite do es Strength +2 late small objects like car keys or computer keyboards. aggravated damage in combat, and can drain two extra Gangrel with Talons suffer a +1 difficulty penalty for blood points per turn during feeding. The wounds caused any task involving fine manipulation, especially if such by the se teeth can not be closed in the normal manner. manipulation has to be do ne under stress. Sonar: The visible component of this mutation is a Venom: The Gangrel’s fangs hollow, and poison
+truly huge pair of batlike ears, each easily the size of the reservoirs for m in her head or neck. The venom is only vampire’s palm if it were stuck on the side of his head. mildly poisonous, in comparison to some in the animal
+The Gangrel’s voice box is also modified to produce high- kingdom. The victim of a successful, damaging bite must frequency sounds (those with the Medicine Knowledge make a Stamina roll (difficulty 7, 9 for normal humans may make a Perception + Medicine [difficulty 8] roll and animals) or lose one point from a Physical Attribute. to not ice). Using this sonar or gan to navigate through The Gangrel should choose which Physical Attribute darkness, smoke or fog reduces the vampire’s difficulty her venom affects when this feature is acquired, and it
+penalty by one in such situations. The ears can not be may not be changed. If the Attribute reaches zero, the hidden while in use; not only do es any covering interfere victim falls unconscious or into torpor. Attributes lost with the sonar reception, but the ears must be able to in this fashion return as though they were aggravated move independently to properly echolocate. damage. The drawbacks to this ability are twofold. First, Spinnerets: Somewhere not iceable on the abdomen, the vampire’s hollowed fangs are more susceptible to
+the vampire develops silk glands and the spinnerets to breaking. Any botch on a bite attack roll breaks one or use the m. The silk glands transform the vampire’s blood both fangs, which must be regrown on the same schedule to webbing; one blood point and one round of concen- as aggravated damage. Second, nature do es not provide tration will generate 10 square feet of spider web, or 100 poison with out a visible warning — the vampire is vis Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 59 === ibly venomous, whether showing the vibrant colors of a reaches two Physical Traits falls unconscious. when ever poisonous tree frog, or the pitted face of a viper. the vampire fails a bite attack, make two Simple Tests. If
+Wings: The bat or bird wings that sprout from the the vampire fails both, one or both fangs break and must
+Gangrel’s back are not strictly useable; they are stunted, regrow as if they’d been lost to aggravated damage. much too small to bear the vampire’s weight in flight. Wings: the se add two bonus Traits on tests involv they are, how ever, easily big enough to be not iceable — ing balance, and the vampire suffers one level of bashing bound to the vampire’s back, they simply give him the damage for every 15 feet she falls, rather than every 10. appearance of being a hunchback instead of a winged t O freak. The wings can provide some stability in precari- he the rs
+ous situations or help break a bad fall, if not bound or wrapped. In the se situations, add two dice to Athletics K indred rolls involving balance, and assess one die of bashing
+damage for each 15 feet of a fall instead of each 10 feet. a ssamite met s a t The Gangrel and the Assamites have clashed on ystemsf Or nimal raits
+the battlefields of Europe and Asia for centuries. they
+Frog Eyes: the se add two Traits to all sight-based have also fought side-by-side, perhaps even during the perception tests, and subtract one from the standard same battles — both clans are known for mercenary
+multiple-opponents Trait penalties. tendencies. Both clans have learned to respect each
+Exoskeleton: The Gangrel gains two Physical Traits other for the ir martial prowess and brutal honesty. Lately, for strength-related tests and one additional level of armor how ever, the Gangrel worry about what the Assamites against bashing and lethal damage. how ever, anyone
+are oh-so-honestly saying since they shrugged of f the attempting to stake the Gangrel needs to win or tie just
+Tremere curse: It’s open season on the Kindred of other one Simple Test after winning a Physical Challenge. clans. For the Gangrel, killing is a matter of survival, not
+Hide/Carapace: The vampire gains two levels of a religion. On the Assamites’ part, at least they realize armor against bashing and lethal damage, and one against that much easier prey may be brought do wn. aggravated damage, but suffers a one-Trait penalty on
+all tests involving dexterity. B ru Jah
+Maw: The vampire’s bite do es two levels of ag- The Brujah and the Gangrel relate well on a superficial gravated damage and can drain three Blood Traits per level. Violence is fun, and rebelling against authority is turn during feeding. entertaining too. Relationships that dig deeper run into
+Sonar: The vampire has a two-Trait bonus on tests problems. The Brujah’s tendency to frenzy unnerves the while navigating in darkness, fog, smoke and the like. Gangrel, who scarcely need encouragement do wn this
+People with the Medicine Ability may make a Mental path to ugliness and ostracism. The Gangrel’s reluctance
+Challenge to not ice the voice alterations. to suppport the cause du jour with wild eyes and fervor alienates the Brujah. The Gangrel readiness to survive and
+Spinnerets: Spend one Blood Trait to generate a fight another night comes across as cowardice rather than square yard of webbing or 10 feet of a single, tough strand. wisdom — and occasionally some you ng punk actually
+Anyone attempting to break it must win a Static Physical says that out loud. The clans work best together when the
+Challenge against a total equal to the Gangrel’s Physical cause is clear and straightforward, and the participants
+Traits (one-Trait bonus if the would-be breaker has claws, can part ways when the sun rises. a knife or some other sharp instrument). Observers may make a Mental Challenge to not ice the spinnerets, and f Oll Owers Of s et the vampire takes a two-Trait penalty for this test. The Followers of Set have very little positive to
+Tail: Observers may make a Mental Challenge to say about the Gangrel, and the Gangrel return the not ice the tail (if concealed), and the vampire takes a favor. Both sides also have very little negative to say three-Trait penalty for this test. The tail inflicts two in exchange, as the urbane Setites and the for thright levels of bashing damage. Gangrel scarcely cross paths. Tensions run high in those
+Talons: the se work like Wolf Claws on both hands few are as where contact is common, such as northern and feet, except that they can’t be with drawn. The Africa and extensive city parks along the US coasts. vampire suffers a one-Trait penalty on tests involving Tension frequently gives way to bloodshed or treachery fine manipulation. on those occasions that one side or the other is accused
+Venom: When the vampire successfully bites a target, of stealing the art of shapeshifting. Gangrel inclined to the target must make a Static Physical Test against eight the reptilian in for m and personality have been known
+Traits. If the target loses this test, subtract one Physical Trait; to become amicable with Setites, presumably in some this damage heals like aggravated damage. A victim who strange snake-y way that outsiders would n’t understand. Clanbook: Gan Grel
+
+=== PAGE 60 ===
+G Rebellious types will always embrace “the enemy” i Ovanni just because someone told the m not to. Among the
+The Giovanni and the Gangrel have practically anarchs, Gangrel of ten feign a devil-may-care attinothing in common. they do n’t even have anything tude toward the Ravnos, while keeping a close eye on meaty to argue about. As remarkable as this fact is
+the ir gear and bolt-holes. Unlife as an anarch is tough among vampires, it do es not make the m all ies. the ir enough with out worrying whether you r sire was actuworlds simply do not meet. all y right about those bastards. Sabbat vampires seem l
+as Om Bra to take perverse pleasure in creating Ravnos/Gangrel
+Respect is the key word in the relationship between all iances, but the se undertakings usually turn out like the Gangrel and the Lasombra. The Gangrel respect the so many other Sabbat affairs — short-lived and bloody. Lasombra for the ir capable leadership and the ir appear- At the extreme, some ill-fated pairings insist that the ance of honesty. The Lasombra respect the Gangrel’s continuing feud between the Gangrel and Ravnos is strength of character and ferocity. The Gangrel do n’t the will of the Antediluvians acted out through the
+trust the Lasombra, of course, and the Lasombra still centuries. Like Shakespearean heroes, they rebel against attempt to make the Gangrel into political pawns. But the ir families’ wishes — but tragedy is not much fun for at least the Gangrel know that the Keepers will think Romeo and Juliet. long and hard before screwing the m over. t or ead Or
+m al Kavian It would be difficult to think of two vampire clans
+The Gangrel fear the Malkavians — any rational, with less in common than the Toreador and the Gangrel. survival-or iented Kindred do es. The Malkavians are The Toreador consider the Gangrel to be crude, uncouth, insightful and unpredictable — oh, and they’re also dirty, pungent and lacking culture. The Gangrel, in insane. Gangrel take great pains to weed instability out return, consider the Toreador to be stuck up, elitist, of the ir broods, at least in the you ng; the Beast inevi- do mesticated and prone to navel contemplation. Both tably claims the minds of the old, who must be strong sides are usually right; with the se differences out in the to start to with stand its ravages. The Malkavians, for open and acknowledged, very little open conflict ever
+the ir part, seem to sense the Gangrel’s uneasiness. Like a occurs between the Toreador and the Gangrel. they cat that knows who it can discomfit most, they seem to simply move in different circles, and are content that take some strange joy in keeping the Gangrel company. way. Rare instances of intense inter-clan cooperation n usually center on particularly pleasant pieces of land. Osferatu
+the se partnerships are fleeting, as the Toreador usually
+Kindred of the se two clans have established an unloses interest in ecological matters once the patch of derstanding between the m, a very sad and resigned sort of ground has been preserved as money in the bank or arrangement. Neither clan can truly understand what the
+assets on the social registry. other experiences: for the Gangrel, the slow dissolution of personality; for the Nosferatu, the sudden obliteration of t remere self-image. But it is empathy, not sympathy, that defines Old, bad rivalry festers between the Tremere and the this relationship, and that’s something rare for both groups. Gangrel. The clans have been at each other’s pale throats
+Gangrel and Nosferatu do not screw each other over lightly. since the Dark Ages, when the Warlocks encroached
+Most will not do it at all, if it can be avoided. into the lands of Eastern Europe. Gangrel go missing all r the time — and some of the m, it is rumored, still wind avn Os up in Tremere laboratories. Resentment simmered under
+The Gangrel and the Ravnos share a turbulent the Camarilla “truce”, and now that it no longer applies, relationship that is centuries old, if not more so. Every many Gangrel are itching to rake the ir claws through
+Gangrel do es not attack every Ravnos on sight, or vice the ir ancient foes. The Tremere, for the ir part, would versa; not hing keeps individuals of both clans from being like to see the Gangrel put do wn for good — perhaps to
+acquaintances, members of a coterie, or even just mutupunish the affront to the Camarilla, and most certainly all y civil. What is certainly true is that most Gangrel to put a dangerous enemy out of the way. who have spent time with educated sires have heard stories, whether about the mythical rivalry between the t zimis Ce
+Antediluvians, the bad blood stirred up over the Gypsies Outsiders occasionally express surprise that the Ganin 15th-century Europe, or a more personal tale of deceit grel and the Tzimisce do not get along famously, since they and thievery. The Ravnos must tell such stories to the ir share such a talent for shapechanging. Gangrel prefer to use childer as well, as even initial contacts between new words like “warp” and “mutate” to refer to the Tzimisce’s members of both clans seem predisposed to go poorly. hellish art, while the Fiends simply can not understand
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 61 === the Gangrel infatuation with animals, of all things, when and you never will be. I do n’t know all the details, because the ability to be true monsters must surely be with in I follow step number one as closely as I can. the ir grasp. Philosophical debates aside, the Gangrel and The Lupines have a fair number of holy sites, usu Tzimisce of a certain age share a vague resentment born all y out in the wilderness. Stay far, far away from the se of the conflict with the hated Tremere. Sires and the ir places. Even if you have a Lupine contact who invites you
+childer who remember those times in memory or in story out to one. Either you r contact is an idiot, or it’s a trap. might at least act politely — at first. Do not pretend to be a were wolf to fit in better with v the other were wolves. they’ll know. I do n’t know how, entrue precisely, but for starters they’ve got incredible senses; they
+The Ventrue saw the Gangrel as useful. Sold on can tell that you’re a corpse because you’re something the metaphor, they thought of the Gangrel as hunting called a worm. And they have the ir own language, which
+do gs, bloodhounds, even the occasional retriever. Now they do n’t teach to outsiders. And the ir own mythology. the hound has turned to bite the hand that or dered
+If they start quizzing you about “the great wooden monit around. The Gangrel attitude toward the Ventrue key spirit Shimmy-ho-ho”, you’re going to sound like a is unchanged — the uptight, self-important bastards goddamned idiot no matter how you respond. could n’t understand that, all along, the Gangrel were
+do ing what they wanted to do, and not simply what If you can’t avoid a group of were wolves, keep you r they were or dered to do. contact to a minimum. You might be able to sell the m some information, but they’re unstable; they can’t be t G
+he ypsies trusted not to try to kill you after you tell the m what
+The Rroma, or Gypsies, share much in common with you know. If you must engage in conversation, keep it the Gangrel; one of the se traits to never for get a debt light and agreeable. do n’t talk about the hippies you just owed or a favor performed. When the Rroma entered drank dry, and do n’t debate points of ecological warfare
+Europe en masse in the 15th century, the ir bands sought with the m. In a perfect world, after a few light conversaout letters of safe passage from local religious and secular tions you might be able to negotiate a simple “leave each authorities. with out such letters, the roving bands were other alone” relationship, but it’s likely to require some driven out or even attacked. European Gangrel, whether unpleasant concessions on you r part and none on the irs. implored by the ir eastern clanmates or out of a desire to they’re not much for negotiating, you see, and consider bring Rroma companies into the ir debt, traded in favors us to be one do wn on the m just by existing. and took on political boons to secure the se letters of pas If they’re pissy and you’re on the ir turf, leave. they
+sage from lords and ladies under the influence of other can’t fly, and many of us can, so if they start to pursue clans. Even tonight, a Gangrel might introduce himself you, turn into a bat and grab some sky. I can hear some
+to a Gypsy band by stating that his grandsire obtained of you — especially those wearing horny Viking hats a letter of safe passage from the Abbot of Shropshire for
+— shouting about honor and territory and valor. You
+Duke Michael and his band. the re’s no guarantee that guys do what you want. I’ll light a can dle for you in Van this will earn the Gangrel a favor or a safe resting place for
+Halla or what ever. the day, but it’s a better introduction than most. Of course, Lupines are a fucking nightmare in a fight. I’ve only the Rroma take favors owed to the m just as seriously. seen the m in action on videotape — footage stolen from Chicago — and it did frighten me. the ir “wart he l upines: for m” is an eight- or nine-foot-high wolfman like out of, h K w The how ling, only a lot more muscular. they’re strong
+Or OwtO eep erew Olves and very fast. they seem to be able to turn invisible
+K y fr Om illinG Ou at a moment’s not ice. they use weapons as well as we
+An Aside by Early Knox, Gangrel of the 10th Generation do — the tape I saw opened with a barrage of gunfire
+This is a lot easier than you might think. The first followed by a frontal assault — and they seem to have step is simple: Avoid the Lupines when ever possible. they Disciplines like we do as well. I’ve heard that a pack of are not you r friends. they do n’t care if you’re on the outs were wolves could take do wn a Methuselah. Certainly with Kindred society. they do n’t care if you have a Sierra a pack did rip apart Lodin, an elder and no slouch, in
+Club membership. they do n’t care if you drive spikes Chicago back in ’92. into redwoods to save the m from chainsaws. As far as I If you fight one, you might be able to beat him, if you can tell, they have religious is sues with us. Consider the get the drop on him and have a gun. If you can get you r were wolves to resemble an angry, fanged fanatical group hands on silver bullets — do n’t laugh — you’ll be about and you’ve got the right idea. While you might be able to even. If no silver bullets, try silver anything. for ks, knives, befriend one who’s on the outs, or sell favors to a fleabag sharpened spoons, baseball bats or crucifixes. Anything. who needs help in a hurry, you are not part of the tribe, they really hate the stuff, and it seems to burn the m. Clanbook: Gan Grel
+
+=== PAGE 62 ===
+A lot of other Kindred think that us Gangrel have a The Gangrel are very fond of Subsume the Spirit, special relationship with the Lupines. Most of us do not, and sometimes even call upon it as entertainment, for but the Ventrue and Tremere do n’t know that. You can the simple joy of seeing, smelling and tasting with an use this to you r advantage in a couple of ways. First of f, animal’s senses. The delight and terror of safely seeing if you have a few travel routes on which you know you the sunrise again can be freeing — or it can hurl even
+do n’t get much were wolf has sle, you can make a profit the most practical Gangrel into the throes of depresin money or favors by selling that information of f. This sion. The Gangrel usually do n’t mind the side effects of applies just as well if you know a couple of routes that frequent use of this power — the tendency to act like are exceptionally dangerous; warnings to you r fellow an animal. they make all owances for such behavior
+Cainites can score points with people who are good to among the mselves, as many of the ir number have similar know. Of course, if you’re leaving town or otherwise have derangements, and they learn to modify the ir conduct you r ass covered, and you want to take a shot at of fing an for outsiders — by possessing appropriate animals, if enemy, you can always sell him a safe path through what necessary. A Gangrel about to do a bit of investigation, you know to be Lupine Highway One. Just make sure he for example, might possess a magpie to acquire its curious
+do esn’t survive, and that no one knows it was you that habits, while another Gangrel going to visit the prince told him to go through the re (“Yeah, I just heard about might possess a wolf to ensure that his animal quirks
+John. Terrible thing, too — you know, I warned him that include proper deference to authority. the were wolves watch US 19, but he would n’t listen….”). Q h (a l s ) uellthe erd nimalism evel ix
+A final disclaimer: What I said above is all true, but
+This power functions along the same lines as Quell it’s not the who le story. Lupines do n’t think with a single the Beast — the Gangrel asserts her will over mortal unified mind. It is possible, albeit unlikely, that two inanimals (or humans), subduing the ir Beasts with the
+dividuals could overcome racial difficulties and become terrifying power of her own. Passionate, powerful emofriends. I’m never going to try such a thing, but you may tions, or even simple attempts to assert individuality or find you rself in a bind sometime. Good luck, you betcha. will are squelched, rendering those affected apathetic
+d and lethargic for the duration. Multiple targets may is Ciplines be affected; the only requirement is that the individuals must be able to see or hear the Gangrel. It may be a
+nimalism necessary in some extreme situations to get the targets’
+The Animalism Discipline is, naturally, one of the attention, but that is not likely to be difficult for a
+Gangrel’s strongest links to the Beast with in. At the monster of this power. earliest levels of ability, the Gangrel interact with literal System: The player rolls Strength + Intimidation representations of the Beast — animals and insects. (difficulty 7) — the Gangrel always for ces the Beast
+Advancing in power, the vampire affects the abstract into submission through fear. This is an extended ac Beast (although any Gangrel who heard you refer to the tion requiring as many total successes as the target has
+Beast with in as “abstract” might well tie you r esophagus will power (each individual target is cowed as soon as in knots as an object lesson), the primal nature common his will power is reached). The Gangrel may subdue to animals, humans and vampires. twice her will power rating in animals and/or humans. The most practical use of Animalism is feeding. The If the crowd, herd or pack is too large for the vampire thrill of the hunt may be addictive and the blood of hu- to subdue the m all, the individuals with the lowest
+mans more tasty, but the ability to call four-legged supper will power scores are necessarily affected first. Failure to you using Beckoning is invaluable to a hurt or otherwise on any roll in the sequence means that the vampire indisposed vampire. Animalism grants both the ability to must re-accumulate successes, but those individuals attract animal companions and ghouls and to call those already subdued remain so. A botch on any roll in the
+same animals for sustenance. This concept may cause some sequence means that the previously subdued creatures cognitive dissonance to coddled humans who buy nicely seethe violently into frenzy — they immediately atwrapped packages of meat in a well-lit supermarket, but to tack the Gangrel who tried to knuckle the m under, or farmers, hunters and vampires the world over it’s completely anything that stands in the way. natural. Animals can be warm and snuggly, but when the When a mortal’s beast is cowed, he can no longer use food runs out it’s you or the m. The red hunger eventually or regain will power. He ceases all mental and physical
+breaks even the most fastidious human habits. the se same struggles, not even defending himself if assaulted (the basic abilities can be used of fensively, as well. Imagine, if Storyteller may all ow a will power roll if the mortal’s life you will, the pest control problem suffered by the Eastern is threatened). To recover from this power, the animal
+European Tremere, having earned the ire of the Gangrel, or human rolls will power (difficulty 6) once per day
+Nosferatu and Tzimisce — all users of Animalism. until he accumulates enough successes to equal the
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 63 ===
+O s a pti Onal ystemsf Or nimalism
+Storytellers may choose to all ow the following modifications to Animalism as written in Vampire: The
+Masquerade. Or, they may not — players are hereby advised to ask nicely if they see an effect they like. not e that all of the se powers build upon the extant levels of Animalism — Storytellers who do not wish those
+Kindred wielding the Discipline to have more potency should disallow the se options. t u a he pri Ght nimal
+Some Gangrel antitribu and independents following Paths of Enlightenment have claimed the ability to use Animalism on humans. For example, some Gangrel insist that they have called the homeless to a secluded have n, or spoken intelligibly to a human while wearing an animal for m. Kindred have long expressed the ir contempt for the kine (literally, cattle), so this success may not be surprising. Storytellers will want to think
+carefully about all owing this option to be used in the ir chronicles; it helps to starkly illumine the vampire’s place in the grand scheme, but it is also a capability that may be abused. Also, referring to the less for tunate as animals is n’t particularly enlightened, though it may serve the story. If this option is all owed, the difficulty of such tasks should increase sharply. Quell the Beast (Animalism Level Three)
+The Beast with in of supernatural creatures is far more resilient and stubborn than the Beast of a normal mortal. Vampires, Lupines, fae, the strange undead of the East and other unusual creatures will never be cowed by the use of this power, but the violent extremes of the ir behavior may be limited. Storytellers may all ow
+Gangrel using this ability to attempt to pull any supernatural entity out of a frenzylike state using the same system as to subdue a mortal. Subsume the Spirit (Animalism Level Four)
+Multiple successes with this power all ow the use of various mental and spiritual Disciplines while in the host animal’s body. At the Storyteller’s discretion, the player may instead use the se successes to directly reduce the number of will power points that must be spent to completely overcome the power’s aftereffects. Particularly generous Storytellers may all ow the player to all ocate the extra successes on the fly, and to use the successes
+that remain when the power is terminated toward reducing the will power expenditure. Drawing Out the Beast (Animalism Level Five)
+The Gangrel generally understand the Beast with in. At the Storyteller’s discretion, losing the Beast when the subject of this power leaves the Gangrel’s line of sight or hearing is only a temporary inconvenience, as the re is probably no place the Beast would rather be. This may not always hold true — other Gangrel, members of clans with Animalism or (gulp) Lupines may provide comfortable homes for the Beast. A wise Gangrel do es
+not use this power on anyone she suspects might be as feral as she. Gangrel’s will power. Kindred are not affected by this a lost football game by the home team or a shortage of power, generally, but the ir ghoul retainers are. this year’s fad toy during prime shopping season. (The
+MET System: Make a Social Challenge simul- Gangrel may cause the “mundane” situation — by betaneously against any number of targets, up to twice ing the large predator, influencing the outcome of the you r current will power. Use the Mob Scene rules in soccer match, or waylaying the toys — but this is not
+Laws of the Night, p. 196 — bid Traits and resolve necessary or even wise.) Once this power takes hold, its the simultaneous challenges as if you were attacking victims will flee until they escape the vampire’s influence multiple targets in physical combat. As with Quell the or until they are rendered unable to run. Beast, targets who fail to resist can not use will power System: This power must be activated with in sight
+Traits and gain Submissive x 2 for the rest of the night. of a crowd of roughly 50 agitated mortals (the Storyteller s (a l s ) may all ow this power to be used on smaller groups of tampede nimalism evel even really pissed-of f mortals). The player rolls Stamina +
+A deep, innate knowledge of animal instinct all ows
+Animal Ken (difficulty 7). The resulting waves of terror the Gangrel to trigger a very specific fear in his victims roll 50 yards in all directions from the Gangrel for each
+— a unthinking panic that pushes hundreds of creatures success achieved. Any unsettled mortal with in this radius into headlong flight. This ability only works on large will immediately flee toward the nearest escape or exit
+groups of people; too few, and the aggregate fear will not unless the Gangrel chooses to direct the Stampede by be enough to override sensible plans of action. Also, the for ce of will. The vampire may set a direction or path
+crowd or herd must be already agitated by some munfor the fleeing multitudes, but may not change or alter dane occurrence, such as the smell of a large predator, Clanbook: Gan Grel
+
+=== PAGE 64 === it once the flight has begun. Members of the Stampede will ignore many potential sources of danger, such as running into the road or through a firing range, but will
+not take obviously suicidal actions like leaping of f tall cliffs or skyscrapers. In some cases, how ever, the crazed mob will not see potential danger in time — or be for ced into it anyway by the pressure of the crowd behind the m. Mortals who were not initially affected may be caught
+up physically or emotionally in the tide, as the Gangrel’s projected Beast wreaks havoc for a scene unless he chooses to end the madness earlier. Upon leaving the affected are a, mortals may recover the ir senses and stop the ir mad rush. If the are a is bottlenecked, how ever, such as a long hallway or valley, the mortals may opt to continue fleeing rather
+than be trampled. It is worth not ing that this power can go awry, even with out a rolled botch — the power of hundreds of Beasts, even those of mortals, can be too much for the vampire to control. Animals pushed too hard may frenzy, and people have a disturbing tendency to riot. MET System: Make a Static Social Challenge against
+a number of Traits equal to the highest will power of anyone in the target crowd. The Stampede affects everyone with in 50 yards of you; each additional Social Trait you spend extends the range another 50 yards. Individuals who se will power is equal to or less than half you r Social
+Trait total succumb automatically. Individuals who se will power is at least half you r Social Traits may spend a point of will power to make a Static Social Challenge against you r Social Trait total; if they succeed, they resist
+the urge to Stampede. Characters who se will power equals or exceeds you r Social Trait total may make the same test with out spending a point of will power. C f (a l e ) rims On ury nimalism evel i Ght
+This power is the subject of much rumor and conjecture, as it has very little visible effect. Upon reaching this level of mastery, the Gangrel may choose to all ow his
+Beast to roam freely through his veins. His blood causes frenzy in mortals and vampires who taste it. Should a diablerist successfully consume the Gangrel’s soul, she may well meet a grisly end as the Gangrel’s Beast eats
+her away from the inside. System: This power is activated once, when the
+Gangrel learns it. It can not be turned of f. The smallest taste of the vampire’s vitae causes agitation in the taster, who must make a Self-Control roll (difficulty 7) or frenzy immediately. This applies to newly created childer, ghouls, attackers who bite and any vampires who would drink from the Gangrel. This is the equivalent of a warning
+shot for would-be diablerists. Should the attacker resist the urge to frenzy, she may continue to drink as normal, but the supernatural agitation she experiences should be a clear sign that something is unusual about this vitae. If the attacker succumbs to the frenzy, she must spend a will power point for each turn she continues to drink. Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 65 ===
+Should the diablerist be successful, she immediately System: This power costs six blood points to activate suffers a +2 difficulty on all frenzy rolls for a duration de- and it lasts as long as the Gangrel wishes to remain beneath termined by the Storyteller. She must also make an opposed her do main. The are a itself should be relatively well-defined will power roll against her victim’s Beast (which has the geographically, although it can be quite large: a mountain
+same will power rating that the now-deceased vampire or valley, an is olated wood, a plateau. The vampire sees had). The loser of this contest for feits one permanent and hears everything with in the enclosed are a through will power point. This contest takes place every month for the animals and insects that inhabit it. Additionally, the the first year past the diablerie and once a year the reafter. Gangrel may use mental Disciplines that do not require
+As the diablerist loses will power, she becomes more feral physical or eye contact to initiate. While the power is active, and impulsive (this should be roleplayed, and the Story- it is impossible to attack the Gangrel directly. Significant teller should feel free to require frequent Self-Control rolls damage to her do main, how ever — fires, strip mining, from the diablerist’s player). If the diablerist loses her last explosives, chemical contaminants — will also damage will power point, she becomes a crazed, bestial monster the vampire, and are likely to drive her from the ground. (and a Storyteller character). If the invading Beast loses The are a under the Gangrel’s influence reflects the its last will power point, it becomes quiescent, ceding vampire’s nature. Even the most cheerful wood during
+victory to the diablerist. The evidence of diablerie in daylight becomes a place of terror for mere mortals the perpetrator’s aura persists until the Beast is subdued. when the sun sets. Humanity or Path rating loss may result from the Should two masters of Animalism somehow “claim” actions the “possessed” diablerist takes, but they are not the same are a, the Cainite with the greatest will power lost as a direct result of this power. achieves success. This may result in an established Kin Gangrel legends suggest that some incredibly power- dred being for ced to rise and flee the are a, or it might
+ful “victims” of diablerie have eaten the ir way through rouse the other Kindred on a quest for vengeance on the ir attackers, consuming the diablerist’s soul in turn, the trespasser. and the n taken over the new body. This is not the norf mal result of this power, but the rumors do circulate.… or titude
+MET System: Anyone feeding on you must make for titude needs little discussion, but that is not to say a Self-Control Test against four Traits to avoid enter- that the Gangrel take the ir preternatural hardiness for ing frenzy. Anyone attempting to diablerize you must granted. Any vampire who has ever escaped a for est fire, spend one will power point each turn for the duration caught an unexpected glimpse of the desert sun over the rise of the attempt. If someone do es successfully diablerize of a dune or narrowly avoided destruction at the claws of a
+you, the diablerist suffers a permanent one-Trait penalty Lupine knows how vital this simple Discipline is. To add on all future frenzy checks. (A vampire who reaches a little spice to the is sue, not e that for titude’s protection
+Self-Control 1 falls into immediate was sail the n, in- against fire and the sun counters the apocryphal curse of stead of do ing so upon reaching Self-Control 0.) The the angels. Some might suggest that the use of for titude diablerist must also make a series of will power Tests in this manner is sacrilegious or blasphemous, but the against her own Beast, which gains (for this purpose) Gangrel are n’t the type to go belly-up in the sunlight just
+the will power total of the vampire who used Crimson to appease some legendary holy guy with a sword. Frenzy. The loser of each challenge loses a point of Gangrel elders have developed some unusual expermanent will power, until the diablerist or her Beast tensions of the basic for titude ability to protect and loses control altogether. The diablerist must make one for tify. the se powers protect the senses, the mind and of the se will power Tests each week for the first year the spirit instead of the physical body. after diablerie, once per month during the second year, s s (f l s ) ens or y hield or titude evel ix
+and once per year the reafter. A Gangrel using this power supernaturally hardens e f yes of the or est his senses against injurious input. The vampire can not
+(a l n ) nimalism evel ine be blinded by spotlights or sudden bursts of radiance, This awe-inspiring power is at the root of many folk or deafened by explosions or gunfire; even his capacity
+tales about brooding for ests and for bidding mountains. to with stand pain is improved. His eyes, ears, nose, The vampire inters herself in the ground of her chosen and open wounds glow with an eerie light while this do main, spreading her physical and spiritual self through power is active. the are a. Unlike a vampire using Earth Meld, the Gangrel
+System: Spending two blood points activates this can not be simply dug out of the ground. The animals power for a scene. Mundane sources of overwhelming and even insects with in the are a serve as the Gangrel’s
+sensory input, such as searchlights, muzzle flash or eyes and ears, providing her with an intimate knowledge pepper spray have no effect, even if sensory-enhancing of the nighttime goings-on of her do main. Clanbook: Gan Grel
+
+=== PAGE 66 === powers like Heightened Senses are in use. The effects of supernatural sensory attacks or unusual circumstances
+(like being at ground zero for a massive explosion) may be soaked with the vampire’s for titude dice, with each success reducing the effect or duration of the sensory damage, or negating it all together. In addition, the
+Gangrel’s wound penalties are reduced by two; he feels no pain what soever until he reaches the Crippled level, when he runs into only a three-dice penalty. At the end of the scene, wound penalties for all accumulated damage are applied as normal. The phosphorescent glow streaming from the vampire’s or ifices and wounds is nearly impossible to hide, and inflicts a two-dice penalty on social interactions
+with mortals (other than intimidation). MET System: Spend two Blood Traits. You become immune for one hour to normally overwhelming sensory input — searchlights, gunfire, pepper spray and the like
+— even if you’re using Heightened Senses and other powers that increase you vulnerability to sensory overload. You take two fewer Traits’ penalties from wounds than usual while Sensory Shield remains in effect; any damage you suffer during the hour takes full effect when Sensory
+Shield wears of f. You may make a Static Test of you r levels of for titude against the Trait penalty imposed by particularly severe environmental problems, like being at ground zero of a massive explosion. If you succeed, you can reduce the penalty by one Trait, plus one per
+Physical Trait you spend. you r wounds and or ifices glow while Sensory Shield remains in effect; you suffer a two-Trait penalty in all
+Social Challenges against mortals during this time. r m (f l esilient ind or titude evel s ) even
+At this level of accomplishment, the Gangrel extends her preternatural resistance to the very depths of her personality. Upon acquiring this power, the vampire may suddenly shed centuries of paranoia, tics, quirks and other perturbations that have accumulated
+in the cobwebby recesses of her brain. Additionally, it becomes more difficult to use mental Disciplines against the vampire. Unfortunately, this mental stability comes at a cost to the Gangrel; upon learning this power; the
+vampire must acquire physical animal flaws exclusively. System: Upon learning this power, the Gangrel makes a will power roll (difficulty 7). For each success, the vampire may choose to eliminate one derangement or two animal behavior flaws (any Social Attribute points lost due in who le or part to those flaws remain lost). This
+effect of the power occurs only once and is immediate. The vampire permanently gains three extra dice to resist the effects of any mind-altering Discipline or magic. This bonus do es not apply to Presence or other
+Disciplines that affect the emotions. Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 67 ===
+Finally, if the vampire gains a derangement for do es not suffer the standard multiple-attacker penalty, any reason after learning this power, the player may no matter how many assailants he faces. immediately make a will power roll (difficulty 6). If MET System: Spend three Blood Traits to active she achieves three successes, the derangement persists this power, which lasts for one hour. You get full Trait total through the night and the following day, but is sloughed for all defensive actions, rather than splitting you r Trait of f as the vampire rises with the sunset. will power may pool. (This benefit do esn’t extend to of fensive actions, not be spent on this roll. which suffer the usual penalties for multiple actions.)
+MET System: When you learn this power, make Any attacker must succeed in a two-part challenge. an Extended Static will power Test against eight Traits. First, make the initial Physical Challenge as usual. The
+Each success lets you choose one derangement or two vampire defending with King of the Mountain wins on animal-behavior flaws to discard (the Social Traits lost ties. If the attacker fails the initial challenge, his weapon to the se flaws remain lost). shatters (unless enchanted or supernaturally reinforced)
+You permanently gain three bonus Traits in chal- and he suffers the damage that would normally go to the lenges to resist mind-altering Disciplines and magic, defender. If the attacker ties, his weapon shatters, but though you are not immune to Presence and other pow- he escapes personal damage. If the attacker wins, the n ers that affect the emotions rather than the intellect. he must make a Simple Test. Only if that succeeds do es
+If you develop a derangement, you may make an Static he actually inflict damage on the defender. (Vampires will power Test against seven Traits. (The Trait bonus with Superior Potence get to skip this second test and applies to resisting the circumstances that for ced the inflict damage if they succeed in the initial attack.) derangement on you, but not to this test to cure it.) If
+p you succeed, spend three Mental Traits. The derange- r Otean ment remains in effect that night and through the next The Protean Discipline is native to the Gangrel. day, the n vanishes on the following sunset. You may not they are the only vampires to who m the Discipline spend will power for retests in this challenge. comes as primarily as the need to drink blood and avoid
+K m sunlight. The Discipline is a primal expression of the inGOfthe Ountain
+(f or titude l evel e i Ght ) Beast with in, a harnessing of the feral power in every
+The most for midable opponents are not only hard vampire but especially abundant in the Gangrel. to hurt, they are also hard to even touch. This power If the world were a fair place, the vampires of the combines some of the effects of the Personal Armor other clans would than k the Gangrel for discovering power with an aura of resistance that impedes attack- such potential in the vampiric for m. Over the milleners, making it trivially easy for the Gangrel to block the nia, the abilities granted by the Protean Discipline have incoming attacks of numerous opponents. saved countless vampires from Final Death by providing
+System: The Gangrel spends three blood points sight in the blackest nights, protection from enemies to activate this power, which lasts for a scene. The and protection from the deadly rays of the sun. In the vampire do es not gain the benefits of this power when nights of the First City, the Gangrel freely shared to he actively attacks. Instead, the vampire must block or any who would learn the art of coaxing and threatening
+do dge all incoming attacks, and may use his full dice the Beast into obedience. Any vampire who wished to pool against each attack. Every time an attack is made travel more than a night away from his have n learned, with a weapon against the Gangrel, his player rolls as a matter of necessity, how to meld with the earth at for titude (difficulty 6) in addition to the Dexterity + the coming of dawn. Brawl roll to block. If the for titude roll grants more suc- Since those earliest times, most Gangrel have becesses than the attacker rolled, the weapon used in the come miserly in sharing the ir secrets. The other clans attack shatters on contact with the vampire (mystically have carefully passed the ir second-hand knowledge of
+imbued weapons may be resistant to this effect at the the art from sire to childe, or else of fered something of
+Storyteller’s discretion). If the roll to block succeeds, value to the Gangrel in exchange for instruction. The the vampire suffers no damage from the attack (if the Discipline has also become less vital to survival — covblock fails, the vampire may soak the damage normally, ered carriages, trains, automobiles and other modern using for titude). conveyances have reduced the risks of travel for even
+Hand-to-hand attacks may also be blocked. Success- the weakest vampire. ful hand-to-hand attacks inflict the attacker’s damage Still, the Gangrel hold tightly to the Protean on both the attacker and the vampire using this power. Discipline, teaching it carefully to the ir broods and
+Blocked hand-to-hand attacks inflict the attacker’s dam- pushing the limits of the ir abilities as they make the ir age only on herself. In both cases, the damage may be way alone. The Gangrel know that Protean is not about soaked normally. Additionally, the defending vampire convenience — it is about survival, now and always. Clanbook: Gan Grel
+
+=== PAGE 68 === a f of predators or scavengers — the nature of the vampire’s nimal or ms
+Beast is inextricably linked to the need to consume others, The Gangrel display the ir mastery of the Protean even if the other in question is a bug. ability most dramatically with the Shape of the Beast. This
+Actual flight is usually the best method for escape, ability usually grants the vampire the shape of a wolf or in addition to being incredibly useful for scouting and bat. In fact, vampires who are not Gangrel can only ever information gathering. The bat remains a popular for m
+take the se two for ms. Gangrel vampires are not limited for the Gangrel, along with birds like ravens, crows and in the same manner, how ever — they take the shapes falcons. Particularly warlike Gangrel may take the for ms
+of lions, eagles, bears, crows and uncountable others. of hawks, eagles and even vultures, but the se relatively
+Some restrictions do exist to the Gangrel’s shapechanghuge “flight” for ms lose some of the escape benefits that ing ability. First, the Gangrel must establish her for ms upon come with a smaller shape. learning the Shape of the Beast, and she may not assume
+Earthbound “flight” for ms rely either on speed or the other for ms. Second, the vampire’s for ms must always ability to slip through small spaces to escape. Snakes, reflect the twin urges of the Beast: fight or flight. gophers, house cats and rats are common for ms. At least
+The Gangrel’s “fight” for m is large and naturally wellone Gangrel in the American South has been known to equipped for hunting and fighting. The animals represented take on a possum shape, which, while eminently flawed are usually predators, but may also be scavengers — all
+against intelligent enemies, serves the purpose when consume the flesh of others to survive. The animal shape dealing with lesser creatures. Like the “fight” for ms, assumed is hale and apparently healthy, and generally the se animal for ms are usually apparently in the prime
+tends to large size for its type — although in the case of of health, but they are not unusually large for the ir type animals of great size, such as a grizzly bear or sharks among
+— that would defeat the purpose. the Mariners, the Gangrel may even be small compared to normal creatures. The City Gangrel of the Sabbat are a p do pta et
+a large exception to the above. they may assume animal
+Sabbat Gangrel, both City and Country, are for ms that are mangy and do wnright diseased-looking, such fond of a game usually called “Adopt a Pet.” The as city mutts or rats of uncommon size. The camouflage
+vampire assumes a suitable animal for m, such as that provided by such nasty-looking for ms far outweighs the of a do g or cat, and makes soulful eyes at nighttime flea collar jokes the se Gangrel must put up with. passerby until some soft-hearted animal lover takes
+It has become more common in recent years for the her home. The game usually ends before sunrise rare Gangrel to assume the gigantic for m of an animal that with a houseful of victims bloodily slain in the ir
+do es not ever reach such size in nature — spiders, was ps, beds — the Gangrel rarely have the patience to scorpions, rats, hyenas and others. This has n’t caused a carry on the charade for longer than one night. A great outcry among the clan’s elders. It is possible that
+lot of prestige can be gained by playing along for the se for ms were common in the distant past, and faded longer periods of time; the risks of getting caught from use for some strange reason. It has been the cause
+in daylight are not small (“Why do es Patches sleep of some social upheaval among the you ng and active in the basement all day, Mommy?”), and the results members of the clan; Gangrel who assume the se exotic
+of a carefully planned assault can be spectacular. for ms, particularly the insectoid varieties, of ten have
+Inciting do mestic violence and a shoot-out with the very strange, even alien ways of thinking and behaving. police, or taking do wn several family generations at the se Gangrel sometimes migrate toward the Sabbat, the than ksgiving dinner table, all earn a great deal where they quickly leave the ir Humanity behind and turn
+of respect. “Son of Sam” is the height to which all the ir terrifying hive mentality to the service of the sect. participants aspire. A game of “Adopt a Pet” that
+It is rumored that in the past, the Gangrel could goes wrong will get the Gangrel heckled for ever; assume the for ms of noble prey animals, such as the stag
+Sabbat Gangrel spread apocryphal tales of vampire or the horse. Such Gangrel, if they exist, have not been mutts hauled to the vet to be “fixed.” seen in the Final Nights, and the modern Gangrel would
+be hard-pressed to see any need to transform the mselves s B r hape of the east evisited into the eaten instead of the eaters. (p r Otean l evel f Our )
+The Gangrel’s “flight” for m need not literally be a This version of Shape of the Beast applies only to winged creature. It may be any for m best suited for running vampires of Clan Gangrel. The Gangrel may transform away, whether that method is taking to the air, scrambling into a “fight” for m and a “flight” for m; the se for ms are through tunnels, or simply fleeing pell-mell on four legs. chosen when the power is acquired and may not be
+Even though the focus of this for m is on raw survival changed. The vampire keeps his own personality, memoand not sustenance, the Gangrel only assume the for ms ries, and skills and can also use the natural abilities of the
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 69 === animal for m — the se are increased physical attributes in
+Dr. Netchurch: the “fight” for m, and escape abilities in the “flight” for m. Tonight 20 years of careful experimentation have
+Both animal for ms grant improved senses; the Gangrel come to fruition in a most disappointing way. I have may choose to reduce the difficulty of Perception rolls in been attempting for years to learn more about our one appropriate sense group — sight, hearing, or smell/ Protean Discipline through scientific means. My first
+taste — by two in his animal for ms (the sense group may experiments were conducted on my own childer with be different in the two for ms). the purpose of learning more about how we of Clan
+System: The character spends one blood point to Gangrel assume — or choose, perhaps — our animal assume either animal for m. The transformation requires for ms. the se experiments met with a measured degree of success. It appears that the for m a given subthree turns to complete (spending additional blood ject assumes can be influenced to some degree, which
+points reduces the transformation time by one turn the reby implies a similar degree of conscious or per point spent, to a minimum of one). The Gangrel unconscious choice in the matter. remains in his beast for m until the next dawn, unless My experiment of tonight was an attempt to learn he wishes to change back sooner. Clothing and small more about Protean by studying how it is practiced personal possessions transform with the Gangrel. by other clans. To wit: I have made an attempt to
+The Gangrel’s “fight” for m grants a total of five discern why vampires of other clans seem quite incapable of transforming the mselves into any shape additional Attribute points split among the vampire’s other than that of a wolf or a bat. To do this, I
+Physical Attributes. the se points must be applied to at procured an infant immediately after birth, and least two of the Attributes. For the standard wolf for m, raised the infant to you ng adulthood in a precisely the se are all otted as +1 to Strength, +2 to Dexterity, and controlled environment. My subject (I have named
++2 to Stamina. A bear for m may increase the Gangrel’s her Anna) was never permitted to see or hear of the
+Strength by +3 and Stamina by +2. the se points must existence of either the bat or the wolf. be all ocated when the “fight” animal for m is chosen (Regrettably, this has left her education sparse and may not be the reafter rearranged. In addition, the in terms of both biology and literature, but I believe I have do ne well by her in terms of math Gangrel’s bite inflicts Strength aggravated damage, and
+ematical education. But I digress.) claws inflict Strength +1 aggravated damage (the se Upon the reaching the mature age of 14, the subdamage values may be adjusted by the Storyteller as ject was brought into the vampiric state by a member necessary to reflect the animal’s primary mode of attack of Clan Toreador, with all necessary approvals and
+— an all igator for m may all ow a greater bite bonus, but considerations obtained by me (at considerable cost, no claw damage). Running speed is usually do ubled, I might add). I the n personally taught the you ng unless an alternate method of locomotion like swim- vampire the Protean Discipline, refraining at all times from any mention of the wolf or bat for ms. ming is available. Anna knew only that on achieving a certain degree of
+The Gangrel’s “flight” for m reduces the vampire’s control over her for m, she would assume an animal
+Strength to 1, but all ows him to fly at a speed equal to his shape. running movement rate (Gangrel who se “flight” for ms do This night, under laboratory conditions, Anna not fly may take a +2 bonus to Dexterity). In addition, transformed herself into a wolf. At times like attacks made against the “flight” for m are made at +2 this I despair of describing our condition and our difficulty due to the animal’s small size (those Gangrel abilities in any terms that could be considered
+scientific. I can not explain or discern any quality who take large for ms like the eagle may keep the ir full of the blood that would all ow this control to the
+Strength by sacrificing this size bonus). Gangrel yet to no others. I console myself with the
+While in the animal’s shape, the vampire can use any thought that one subject do es not constitute a full
+Discipline he possesses except Necromancy, Serpentis, study. Thaumaturgy or Vicissitude. The vampire loses all use of I will procure a fresh infant and begin my study his hands and all facility of speech — the vampire must again. Perhaps, if I am feeling unscientific in 14 use the Animalism Discipline ability Feral Whispers years, I will instead choose to experiment with the strange qualities of the blood of the 14th and 15th
+speak to animals. All Attributes and Abilities granted generations. by animal for ms are subject to the Storyteller’s approval
+I must leave my assistants to enter the for mal and modification at the time of definition. lab not es on this experiment. Anna is upset with me
+It is curious to not e that animal features acquired for some reason, and her Toreador sire has abandoned by a Gangrel after a frenzy do not necessarily conform her simply because she do es not have the ability to to those of her beast for ms. Most Gangrel seem to be appear as an exotic creature. I am a poor scientist, patchworks of feral features rather than changing to I fear; I have become attached to my subject. resemble one specific animal. Sincerely, Dr. all an T. Woodstock
+Clanbook: Gan Grel
+
+=== PAGE 70 ===
+It is of ten difficult to predict what for ms a Gangrel and Lithe (Dexterity-related); Tireless (Stamina-related); will assume when she learns Shape of the Beast. Three Attentive (Perception-related); and Alert (Wits-related). factors play an important role in the process: the vam- The usual bear for m adds Brawny, Ferocious, and Tough pire’s personality, his sire’s animal for ms and the local (Strength-related), and Enduring and Robust (Staminaenvironment at the time of the vampire’s Embrace. related). Assign the specific Trait bonuses when choosing
+The vampire’s personality and beliefs are perhaps the for ms. they remain fixed the reafter. the most important factor — after all, the animal for ms you r animal for m’s bite do es two levels of aggravated assumed using Shape of the Beast are an expression of damage, and claws do one level of aggravated damage. the Beast with in. Vampires with strong personality traits In some cases, the Storyteller may wish to adjust this: an of ten transform into the animal most of ten attributed all igator for m might have a stronger bite but no claws, for that trait by superstition: wolves with cunning, lions with instance. The animal for m runs at do uble you r normal
+courage, reptiles with callousness, ravens with curiosity, speed, or at normal speed with an additional mode like etc. the se superstitions are culturally based, and the ir swimming or burrowing. interpretations will naturally change between cultures. The flight for m has a limit of three Physical Traits, Individuals who felt a strong affinity with a particular chosen from among you r regular Trait list, and flies at animal when alive, who considered the animal to be a you r running speed. Quick but ground-bound for ms get totem or protective spirit, will usually transform into three bonus Traits for purposes of initiative and evasion. that animal upon learning Shape of the Beast. Attacks made against the flight for m incur a two-Trait
+The role of the sire is a matter of some dispute penalty, though you may choose to keep all Strengthamong Gangrel researchers. It is possible that the sire’s related Traits and sacrifice this advantage. influence affects the childe’s expectations; if the childe The flight for m all ows you to declare Fair Escape sees her sire transform into a tiger, she may assume that once at least five paces from the nearest pursuer, unless she will do the same so completely that her assump- the pursuer has more levels of heightened speed. tion becomes reality. The Discipline exhibits lines of s m (p l s )
+hape astery r Otean evel ix descent, how ever, in which grandsire, sire and childe
+Gangrel who have mastered this level of shapeshiftall share the same animal for ms. Given the tenacity of ing may use the power of the ir blood to for ce other the Gangrel blood, elders interested in such matters shapechangers to resume the ir normal for ms. For the
+do not consider it to be out of the question that such power to function, the Gangrel must have some porpreferences are a factor of blood. tion of her blood in contact with the target, whether
+The influence of the local environment can perhaps unwillingly or will ingly. (One Gangrel wag has referred be credited with the popularity of the wolf and bat for ms to using this power on the Tzimisce Bloodform as
+even among the Gangrel —wolves and bats of varying
+“throwing good blood after bad.”) species populate the globe. The vampire’s Beast, in
+System: The Gangrel must first place her blood the absence of overriding personality or blood-related on the target. If the target has successfully attacked the factors, provides the vampire with the most survivable
+Gangrel with natural weapons, or with a short weapon for m available in the surrounds; a for m that provides like a knife, this requirement is fulfilled. Otherwise, the not only hunting or escape, but also camouflage, of fers
+Gangrel must smear at least one blood point worth of her an undeniable advantage. It is unlikely that a vampire vitae on the target by making a successful attack or sprinkle raised and Embraced in the Great Plains will transform
+it surreptitiously on an unsuspecting target. This may be into a tiger or a shark. The for ms of wolf and hawk, in do ne in advance, but the blood must still be wet for the this instance, are both useful and safe. they are native
+power to work. The Gangrel activates the power of her creatures suited to the environment. blood by spending an additional blood point and making
+MET System: Decide on a “fight” for m and a “flight” a Perception + Survival roll (difficulty 7). Two successes for m when the vampire acquires this power. Spend a are required to for ce the target out of his shapeshifted for m. Blood Trait to active either one. The transformation
+The power persists for a full scene, or until the target takes three turns (two if you spend a second Blood Trait, removes the Gangrel’s vitae from his body, which ever is and only one if you spend three Blood Traits) and lasts sooner. (The amount of time necessary to clean up the
+until dawn or earlier if the vampire chooses to regain blood is subject to the Storyteller’s discretion, taking human for m. into account the quantity of blood and the availability
+Each for m adds five bonus Traits. they must be diof cleaning supplies. The process should take at least one vided among at least two of the categories given in Laws full turn of action even with large quantities of water of the Night, Revised Edition, p. 80-83: Strength-related, available.) If the target has actually consumed the Gan Dexterity-related, Stamina-related, Perception-related and
+grel’s blood, tough luck — the power will persist for the
+Wits-related. The classic wolf for m, for instance, gains Quick
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 71 === full scene. The target must reactivate his shapeshifting System: The Gangrel may disperse into as many ability when and if he chooses to resume his adapted creatures as he has blood points, with each creature for m, re-incurring any associated costs. carrying that one blood point; he may choose to for m
+This power is effective on the shapeshifted for ms fewer creatures, in which case the blood points are diof the following Disciplines at Levels Six and below: vided as evenly as possible among the m. The creatures
+Obtenebration, Protean, Serpentis, Thaumaturgy, and may act in concert, or individually follow a simple plan
+Vicissitude. Most importantly, it also confounds the such as “scatter and hide.” The Gangrel may pay close native shapechanging abilities of Lupines and other attention to only one component creature at a time. were creatures. For example, he may listen in on a conversation using the body of one rat, while directing the do zen others
+MET System: Apply a Blood Trait’s worth of vitae to keep moving and avoid being seen. onto the target, as discussed in the main text. A successful Physical Challenge all ows you to pin a target long This power lasts until sunrise, or until the Gangrel enough to smear on blood, and a Mental Challenge chooses to retake his humanoid for m. At that time, all lets you sneak up to pour blood on an unwitting target. of the component creatures present are re-absorbed into
+Spend a second Blood Trait. Make a Social Challenge. the Gangrel’s body, along with the blood points they
+If it succeeds, the target must revert to human for m and carried. If this leaves the vampire with less than three stay that way for one hour or until the blood is entirely blood points, he must immediately check for frenzy — removed, which ever comes first. the Gangrel who is for ced to re-incorporate himself from a crow carrying a single point of his blood is potentially
+a s (p l s ) nimal warm r Otean evel even in bad shape. Creatures who do not rejoin the Gangrel’s
+Upon activating this power, the Gangrel dissolves body may be reabsorbed through the course of the night. into a swarm of small creatures such as rats, crows or
+Any creatures left running around at dawn instantly scorpions. The creatures remain under the Gangrel’s dissolve into small piles of ash and blood, whether they control, and he may direct the m in unison or as indiare in direct sunlight or not. The vampire must reform
+viduals. The vampire may reform from all or any of the at sunrise, even if only from a single creature, although creatures, but for feits the blood carried by any creatures he may choose which creature to re-incorporate from. that do not rejoin the who le. Clanbook: Gan Grel
+
+=== PAGE 72 ===
+The vampire may use the following Disciplines aura of legendary for ce that acts as the Presence power while in this myriad for m: Auspex, Celerity, for titude, Awe. of fensive action taken by the vampire nullifies
+Obfuscate, and Potence. Any Disciplines that require the Awe effect as per the standard rules. the expenditure of blood must be fueled from the indi- The special abilities of the mythic for m are subject vidual creature that uses the power; component creatures to the Storyteller’s approval, as they can and should reduced to zero blood points are immediately destroyed. be dramatic and terrifying. As a guideline, the mythic
+This power takes one turn to take effect, regardless of for m should have one enhanced movement ability, one the size of the creatures into which the Kindred disperses. defensive ability, several close combat attacks, and one
+MET System: The vampire disperses herself into special power, including ranged attacks. one small creature per current Blood Trait she possesses, Enhanced movement abilities include flight, swimor fewer, larger ones who share the Blood Traits as evenly ming, running at incredible speeds or even tunneling. as possible. The power otherwise works as presented in Armor (3-5 points) is the standard defensive ability, the main text. This power can be very difficult to simu- but certain mythic creatures may instead be invulnerlate in play; Storytellers are advised to think carefully able to strictly defined for ms of damage (excluding fire, about how a single player can represent a swarm of rats sunlight, and Faith). before all owing this into the ir chronicles. Close combat attacks cause aggravated damage at a m ythiC f or m (p r Otean l evel e i Ght ) minimum of Strength +2. Having more than one close
+Using this power, the Gangrel transforms himself combat attack, such as both claws and teeth, do es not into a creature of myth, complete with the terrifying grant additional combat actions; the vampire must split abilities that such creatures must have possessed. The her dice pools normally, or use Celerity. mythical beast for m usually has roots in the Gangrel’s Ranged attacks cause three levels of aggravated cultural tradition: e.g. ancient Scythian vampires of ten damage per blood point spent for the attack. The range
+chose the for m of the griffin, Egyptian Gangrel may of such attacks is the vampire’s Stamina x 2, and the choose the sphinx, and Native American vampires may are a of effect is a diameter of her Stamina rating in feet. opt for the for m of the thunderbird. In addition to the Dexterity + Athletics (difficulty 6) should be rolled to great size and terrifying mien of the se creatures, the hit; extra successes do not add to damage. Gangrel also acquires any special abilities commonly at- Other special powers, like the mesmerizing ability tributed to the mythic beast; a griffin, for example, would of the sphinx’s riddle game or the purifying power of
+have the ability to fly and a devastating claw attack. the unicorn’s horn, must be worked out in detail with
+System: The player spends three blood points to trigger the Storyteller on a case-by-case basis. the change. The transformation requires three turns (ad- Sample Mythic for m: Dragon ditional blood points may not be spent to speed the change, +3 Strength, +2 Dexterity, +4 Stamina. Flight at but the Gangrel may continue to act with out penalty as the normal running movement rate. Three dice of armor transformation occurs). The transformation lasts until the usable against aggravated damage. Bite and claw attacks
+next sunrise, or until the vampire voluntarily returns to her at Strength +2 aggravated damage. Fiery breath as per natural for m. not e that characters hailing from cultures standard ranged attack above. that have no mythic tradition, such as modern American
+MET System: Spend three Blood Traits to acticultures, can not assume any mythic for m. vate this power. The transformation takes three turns; The mythic beast represented and the Physical Traits you can not spend extra blood to has ten it, but can act of the for m must be determined when the vampire first with out penalty during the process. learns this ability, and may not be changed at a later
+Choose a mythic creature at the time of transformatime. The mythic for m adds a total of nine points to tion; you may only choose one mythic for m. You have the character’s Physical Attributes; at least +1 must be a total of nine bonus Traits to all ocate while in mythic
+added to each Physical Attribute. The character also for um. One of each must go in each of the three categories gains two Bruised health levels and two Hurt health on Laws of the Night, Revised Edition, p. 80: Strengthlevels. The character’s powers of perception are greatly
+related, Dexterity-related and Stamina-related. Each of enhanced in the mythic for m: The vampire gains the the other six can go into one of those three categories; effects of the Auspex power Heightened Senses and into Miscellaneous Physical-related; into Manipulationthe Protean power Eyes of the Beast upon assuming
+related or Appearance-related; or into Perception-related the mythic for m, along with the drawbacks associated or Wits-related. You automatically receive two extra with the se powers. While transformed, the character
+Bruised health levels and two extra Hurt levels while in retains the ability to speak, although her voice will mythic for m, along with the effects of Heightened Senses, be changed to reflect the nature of the assumed for m. Eyes of the Beast and Awe. You have a total of three levels
+Finally, the vampire in mythic beast for m radiates an
+Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 73 === of aggravated damage to inflict in close combat attacks, creatures are not truly animals. divided between appropriate natural weapons. A single It costs 18 experience points to learn this power. massive set of jaws might do three levels, or you might MET System: Spend two Blood Traits and specify choose (for instance) a tail that do es two levels and a a type of animal: wolf, deer, bear, etc. do uble the efhorn that do es one level. You can make one ranged at- fects of for titude when soaking damage from that type tack per turn, with a Physical Challenge to inflict two for the next hour. Damage that makes it through the se
+levels of aggravated damage per Blood Point spent. This and other defenses remains in effect after Claw Immunity attack has a range in feet equal to you r Physical Trait wears of f, with out modification. total, and covers an are a one foot across for every two f w
+Physical Traits you possess (rounded do wn). lesh Ound
+(f ••, O •••) or titude Bfus Cate
+For other effects, see the main text. This disturbing ability is common among City
+This power is, to put mildly, huge. A Storyteller
+Gangrel of all generations, regardless of the fact that should think long and hard about the effects of having for titude is no longer a clan Discipline for the m. Using a dragon, thunderbird or dire wolf showing up in game. this power, the Gangrel gives the appearance of taking
+Sample Mythical for m: Dragon no damage from attacks that hurt like hell. In reality, it
+Brawny, Tough (Strength-related), Graceful, Quick do es hurt like hell, but the Gangrel maintains a façade of
+(Dexterity-related), Resilient, Robust (Stamina-related), invulnerability that can do much to unnerve opponents. Commanding (Manipulation-related), Alert, Wily (Wits- Particularly can ny vampires may convince foes that they related). Flight at normal running movement rate. Three are, in fact, immune to bullets. Using this power in any levels of armor, usable against aggravated damage. Bite of the Sabbat’s ritae, how ever, is asking for a beating or and claw attacks for one level of aggravated damage each. worse if the pack priest finds out. Fiery breath as per standard ranged attack, given above. System: The player spends one blood point to activate
+C d this ability. For the duration of the scene, the Gangrel
+Om Binati On is Ciplines appears as she did when this power was activated; any
+Gangrel elders of considerable age and great talent wounds or scars already present remain visible. The visible have developed the following abilities that draw on the effects of any further damage are mystically omitted from synergy of two Disciplines used in combination. The the vampire’s appearance — both the wounds the mselves, abilities below are of ten passed from one Gangrel to and any logical results, such limping or leaking blood. another with absolutely no the or etical underpinnings or This power ends abruptly if the Gangrel reaches the particular insight into why they work — just like a driver’s incapacitated health level, or is staked. ed teacher do esn’t need to know how to build a car. The
+In addition to seeming unstoppable, the Gangrel elders undoubtedly keep the best tricks to the mselves; character receives a -2 difficulty to any Subterfugeeven the most egalitarian Gangrel elder secretly dreads or iented rolls concerning her physical capabilities. the night that his childer come how ling for his blood. It costs 15 experience points to acquire this power. C i law mmunity MET System: Spend one Blood Trait. For the next
+(a ••, f ••••) nimalism or titude hour, no damage you suffers produces a visible result: no
+Quite a number of Gangrel even of the higher wounds, no limps from lameness, no fountains of blood generations have developed the ability to shrug of f the from inconvenient holes. Characters with Auspex may natural claw and bite attacks of normal animals; this attempt to pierce this with the usual challenge of Auspex is not surprising considering the usefulness of the abil- against Obfuscate (see Laws of the Night, Revised Edition, ity. Some vampires have claimed that it even provides p. 137). Bystanders who see particularly ludicrous lack of
+some protection against Lupines in the ir wolf for ms evidence may attempt a Mental Challenge to see through
+— no one has volunteered to go out and field test that the illusion. While using Flesh Wound, you have a two-Trait assertion, how ever. bonus to Social Tests related to you r physical capabilities. System: The player spends two blood points and s r f eethe efle Cted or m
+specifies an animal type: wolf, lion, steer, etc. For the (a ••••, p ••••) uspex r Otean remainder of the scene, the Gangrel receives extra soak
+Those Gangrel who are both incredibly perceptive dice equal to his Animalism + for titude Traits to resist and have mastered the most basic full-body change damage from the specified animals (the se dice are in
+become sensitive to the potentiality of shape in others. addition to the vampire’s usual Stamina + for titude, i.e. Using this power, the Gangrel may pull detailed informa for titude is counted twice). Soaking the bite or claw tion from his subject’s aura. He may see the beast for ms of of a wolf-for m Lupine may occur, at the Storyteller’s
+Gangrel or other vampires using Protean; the progression discretion, but remember that even in wolf for m, those
+Clanbook: Gan Grel
+
+=== PAGE 74 === of for ms of the Lupines and other shapechanging beasts; animals has been sent eternally packing when his furthe half-real dream for ms of fairies; and the for ms that bearing prize disgorged a vengeful vampire. vampires may assume using Disciplines such as Obtene- The animal host chosen by the Gangrel is affected bration, Serpentis and Vicissitude. Skilled practitioners by his passenger’s nature. The animal avoids bright light may be able to spot such subtle items as which for m the where possible, and becomes not iceably bold and aggressubject is most comfortable in, or which is her native for m. sive, although it will not frenzy in a vampiric manner. A few Gangrel have claimed to see the for ms a Gangrel Those creatures thst carry Gangrel for decades become
+childe will assume upon learning Shape of the Beast, or legendary and may develop supernatural characteristics; even totemic animals in the auras of normal humans. locals may speak of the puma with eerily glowing eyes, System: The player rolls Perception + Occult (dif- or the stag with horns of iron that families have seen ficulty 7). One success gives the character knowledge of for generations. his subject’s Protean beast for ms, or the most powerful System: The character must choose a suitable aniform assumed using another Discipline or ability. Three mal vessel to “ride,” one that is large enough to cover at successes all ows the character to see all of his subject’s least her smallest beast for m as a guideline. The player defined for ms (if the subject vampire commonly assumes spends three blood points and makes a Charisma + Ania certain body shape using Vicissitude, that will be seen, mal Ken roll (difficulty 6). The interment is automatic, but the fact that he stretched his nose like Pinocchio last and the successes on the roll indicate the vampire’s degree
+night will not). Upon reaching five successes, the charac- of success in communicating his wishes to the animal. ter may see potential for ms, or the emotions connected Three successes are enough to ensure total compliance with the changes in shape at the Storyteller’s discretion. (with in the animal’s ability); with only one or two
+This ability may be resisted with Obfuscate in the successes, the vampire may find herself somewhere she usual Auspex vs. Obfuscate manner. Also, this ability did n’t wish to go, only part way to her destination, or do es not give any information about the “faces” worn just plain lost. The animal may be instructed to travel by a vampire with Mask of a Thousand Faces — that to a certain place, to remain in a certain are a, or to find
+ability clouds the mind, and is not a true shapechange. a person meeting a simple description. It costs 24 experience points to learn this power. The vampire must also set a condition for emergMET System: Make a Mental Challenge. If you ing from her animal host, such as “after one week,” succeed, you can see the target’s Protean beast for ms, “when attacked,” or “upon reaching my destination” or the most powerful for m the target assumes with some — although the last is dangerous if the Gangrel do es other Discipline. You may spend an additional Mental not establish sufficient rapport with the creature. The
+Trait to see all of the character’s defined for ms, the ones animal host gains the benefit of his rider’s for titude for regularly adopted regardless of the Discipline used, and purposes of resisting damage. If, how ever, the animal another Mental Trait to see potential for ms and emotions host is killed by violence, the Gangrel is immediately connected with the target’s shapechanging. Mask of a expelled from the body. Animals will not die of old age
+Thousand Faces is not considered a true shapechange, while “ridden” by a vampire, but will expire quickly after and the refore is not subject to this power. the vampire’s emergence. The Gangrel do es not take
+B east m eld the damage inflicted on her host unless that damage
+(a nimalism •••, p r Otean ••••• •) is caused by fire, in which case she may soak with her
+Gangrel this familiar with bestial nature and the for titude as normal. malleability of for m may hide the mselves away in the The Gangrel continues to spend one blood point beasts of the earth, rather than in the earth itself. The at sunset as is usual. A vampire who drops into torpor vampire do es not directly control or possess the animal due to lack of blood will remain in the animal until for this period, but the animal will follow certain pre-set awakening, unless the animal is violently killed. directions or instructions to the best of its ability. This This power costs 30 experience points to learn. all ows the Gangrel remarkable latitude for travel, as the
+MET System: Spend three Blood Traits and make animal’s body shields her from the rays of the sun. It is a Physical Challenge. If successful, you merge with the also an exceptionally good way to hide; like with Earth
+target animal, which must be at least as large as you r
+Meld, the vampire’s essence is suspended mystically, but smallest regular beast for m. The animal the n behaves the animal’s essence enshrouds her, making detection normally, unless you make specific effort to control it. next to impossible with out involved thaumaturgical
+Spend one Mental Trait to give general directions, or two rituals or similarly arcane means. Mental Traits to give specific commands. As discussed
+Some Gangrel put this ability to more violent use in in the main text, you must also specify a condition upon setting up ambushes. More than one poacher of exotic which you move out of the Beast Meld. Chapter two: Ins Ide the Gan Grel
+
+=== PAGE 75 ===
+Clanbook: Gan Grel
+
+=== PAGE 76 ===
+B easts a m m OnG en
+I have lost the immortal part of myself, and what remains is bestial. — Othello, Act II, Scene iii
+Hundreds of Gangrel lurk in the wild lands of the World of Darkness. Here is just a small sampling. The 10 characters on the following pages can be used as the basis for players’ characters, if a player wishes to use one as such. they can be customized as the player and Storyteller see fit, but currently serve as starting characters. Mind’s Eye the ater conversions are provided for those players who wish to use the se template characters with the Laws of the Night, Revised Edition rules in live-action Storytelling. Chapter three: beasts amonG men
+
+=== PAGE 77 === i e ntrepid xpl or er
+Quote: I’m tellin’ ya, you just can’t know the thrill till you’ve been the re. Prelude: You were only 12 when you r parents took NAME: NATURE:Masochist GENERATION: 13th
+PLAYER: DEMEANOR: Visionary have N: you to see Tutankhamen’s treasures at the National Gallery CHRONICLE: CLAN: Gangrel CONCEPT: Intrepid Explorer of Art. The grisly details of the mummification process ATTRIBUTES
+PHYSICAL SOCIAL MENTAL made quite an impact on you r you ng mind. What stayed Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO with you the longest, though, was the feeling of excite- D St e a x m te in ri a ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O M Ap a p n e ip ar u a l n at c i e o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _ _ O O I W nt i e ts ll _ i _ ge _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _O O _O O ment that you were sure how ard Carter must have felt as ABILITIES
+he uncovered the tomb. Books on Egyptology and, later, Alertness__ T _ A _ L _ E _ N __ T _ S ___O_O__O_O_O Animal Ken S _ K __ IL _ L _ S _____O_O_O_O_O Academ K ics N _ O __ W _ L _ E _ D _ G __ E _ S _O_O_O__O_O other wonders of the ancient world littered the floor of A Br t a h w le l_ ti _ c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _ _ O O _ _ O O O O C D r r a iv ft e s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O O O C Fi o n m an p c u e t _ e _ r_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O you r bedroom while other kids read about teenage heart- D Em od p g a e t _ h _ y _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ O O _ _ O O E Fi t r i e q a u r e m tt s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _O O I L n a v w e _ st _ i _ g _ at _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O throbs and sports heroes. you r goal in life was to make E In x t p im re i s d si a o t n io _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ _O O_ _O O_ O O M Pe e r l f e o e rm __ a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _ _ O O L M in ed g i u c i i s n ti e c _ s_ _ _ __ __ _ _ _ _ _ _ __ __ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O _ _ O O
+a great find, a discovery that would shed new light on a L S e tr a e d e e t r w sh is i e p _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ _O O_ _O O_ _O O S S e te c a u l r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _ _ O O O Po c l c it u i l c t s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _O O_ _ _ O O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O lost civilization and get you r name into the encyclopedia. ADVANTAGES than ks to family finances, though, you were n’t going BACKGROUNDS DISCIPLINES VIRTUES
+_F_a_m_e________________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO to college. You got a job at an extreme sports outfitter and _R_e_s_o_u_r_c_e_s___________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+_R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO squirreled away gear with you r employee discount. When _S_t_a_t_u_s______________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO you had all the gadgets you needed, you packed it up and ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO bought a bus ticket south. Two months of traveling hell later, you hit the for ests of MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised
+Guatemala and start- __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 ed looking. It was __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 worth all the bug __________________________ Crippled -5
+__________________________ Incapacitated bites, fevers _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE and near- __________________________
+__________________________ starvation when you ruins of the Mayan temple. You should have
+set eyes known the re would be a curse; you’d read all the on the books, and the best discoveries always came
+vinewith a price. As you stepped past the threshold, covered the echoes caused by you r footsteps amplified into a shrieking cacophony — and something stirred in the darkness. You regained you r senses under the starry night sky. You were alone, naked and stripped of all you r shiny gear. That night, the gamy
+blood of for est creatures sated you r terrible hunger. Cowering in the shade of makeshift shelters during the day and trekking through the for est at night, you finally found you r way back to the temple. It was months before you could communicate
+with you r sire, who spoke only her centuries-old native tongue. When she had learned all she cared to about goings-on in the world, she set you free to do as you pleased. You could n’t ask for more
+— it turns out the re’s more to discover than you had ever imagined, and now you’ve got the ability to do it in style. Concept: You prefer the physical catharsis of hands-on exploration, but discovering you r capabilities (and handicaps) will keep you satisfied for a time. You hope you find enough vampires back home that someone will be interested in all the places and things you intend to dig up — you’re pretty sure that Dracula is the only vampire who’s made it into the encyclopedia. Roleplaying Hints: You for ge tirelessly and enthusiastically ahead
+— the details and fine print are somebody else’s problem. You’re not too sure about traveling with other Kindred — the re’s rarely enough vitae to go around — but it’s nice to have someone to tell stories to when you get back. Equipment: Sport-utility vehicle that actually leaves the pavement, climbing harness and nylon rope, backpack and survival accouterments, flare gun
+Clanbook: Gan Grel
+
+=== PAGE 78 ===
+Chapter three: beasts amonG men
+
+___D_______o___d__g_____e______________________________
+_____S_____u___r__v_____i__v___a_____l__
+___x_____
+2____________________
+__________________________________________________
+____________________________________________________________
+___A_______th_____l_____et_____i_____cs____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___B_____r__a_____w_____l______________________________
+_____Pe_____r_____f_____o_____rm__________a_____nc_____e_______________
+__________________________________________________
+____________________________________________________________
+___A_______n___i__m_____a_____l
+_____K_____en_____ x_____ _____2
+_____S_____u_____r_____v_____iv_____a_____l__
+___x_____
+2_______________
+__________________________________________________
+____________________________________________________________
+___A_______n___i__m_____a_____l
+_____K_____en_______________
+_____D_____r___i__v_____e________________________________________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____ s__________
+_____D_____o_____d_____g_____e___________________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____
+AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT
+__ TT ___ SSSSS
+__ _ __ &&&&& __________
+FFFFF _____ LLLLL _____
+AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+__________________________________________________
+____________________________________________________________
+_____P_____r___e_______s___e_______n_____c_____e_____
+(__A________w_____e_____)_________________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___R_______e_____fl_____e_____c_____t_____iv_____e__________
+____________________________________________________________
+_____F_____e_____r__a___l_____
+C_____l_____a___w_______s_____)______________________________________________________________________
+___K__n_____o_____w_____le_____d_____g_____e_____ab_____l_____e
+____________________________________________________________
+________________________________________________________________________________________________________________________ for titude
+(Endurance)
+___I__n_____s_____i_____g_____h_____tf_____u_____l__________
+____________________________________________________________
+_____Pr_____o_____t_____e_____a_____n
+_____(E_____y_____e_____s_____ o_____f_____ t_____h_____e_____
+B_____e_____a_____s_____t_____, __________
+___C_______le_____v_____e_____r_________________________
+____________________________________________________________
+_____B_____e___c__k_____o_____n_____in_____g_____)___________________________________________________________________________
+___C_______re_____a_____t_____i_____ve____________________
+____________________________________________________________
+_____F_____or_____t_____it_____u_____d_____e_____
+(_____E_____n_____d_____u_____ra_____n_____c_____e_____)_____
+_________________________
+___A_______le_____r_____t______________________________
+____________________________________________________________
+_____A_____n_____im_____a_____l_____is_____m_____
+(_____F_____e_____r_____a_____l
+W__________h_____i_____sp_____e_____r_____s_____,__________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___E_______m_____p_____a_____t_____h_____e_____ti_____c_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___F_______ri_____e_____n_____d_____ly____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C_______h_____ar_____i_____s_____m_____a_____t_____ic_____
+_____S_____e_____d_____u_____c_____t_____iv_____e____________________
+__________________________________________________
+____________________________________________________________
+___C_______h_____ar_____m__________in_____g_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___B____e___g_____u_____il_____in_____g_____ x_____ 2__________
+_____E_____x_____p_____r_____e_____s_____s___i__v_____e_____ x_____
+2_____
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r___i__s_____m_____at_____ic_______________
+_____M_____a_____g_____n_____e_____t_____i___c__
+_____x_____
+2__________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____S_____t_____a_____lw_____a_____r_____t_____ x_____ 2_____
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____R_____u_____g_____g_____e_____d_____ x_____ _____2_____
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____N_____i_____m_____b_____l_____e____________________
+_____T_____o_____u_____g_____h___________________________________
+__________________________________________________
+____________________________________________________________
+_____E_____n_____e_____r_____g_____e_____t_____ic__________
+_____T_____o_____u_____g_____h___________________________________
+R________e__t_____a_____i_____ne_____r_____s_____ x_____
+__1___
+____________________________________________________________
+_____E_____n_____d_____u_____r_____in_____g_______________
+_____S_____t_____e_____a_____d_____y______________________________
+R_____e_____s_____o_____ur_____c_____e_____s
+_____x_____ 1_____
+____________________________________________________________
+_____A_____g_____i_____le______________________________
+_____T_____e_____n_____a_____c_____io_____u_____s_____ x_____
+_____2_____
+R________e__s_____o_____u_____r_____c_____e_____s
+_____x_____
+
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+G_____e_____n_____e_____r_____at_____io_____n_____ x_____ 2_____
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+F__________am__________e_____ x_____ __1__________________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+F________a__m__________e_____ x_____ 2____________________
+____________________________________________________________
+A__________lli_____e_____s__
+___x_____ 1____________________
+____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__n___a_____ic_____is_____u_____M_____ y_____rt_____n_____u_____oC_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC re_____r___o__l_____px_____E_____ d_____i_____pe_____r_____t_____nI_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________le_____r_____g_____n_____a_____G_________________________NNNNNAAAAALLLLLCCCCC
+____________________le_____r_____g_____n_____a_____G_________________________NNNNNAAAAALLLLLCCCCC
+___________________________________h_____t1_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+_________________________e_____u_____g_____o_____R_______________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__________t_____si_____h_____c_____o_____sa_____M____________________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________e_____u_____g_____o_____R__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_______________y_____ra_____n_____o_____i_____s___i__V__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 79 ===
+C m
+Ountry usi Cian
+Quote: Sometimes, you just gotta sing what’s in you r heart. Even if you r heart do n’t beat no more. Prelude: You used to joke that you played country
+NAME: NATURE:Rogue GENERATION: 11th music because you r life story sounded like a country song. PLAYER: DEMEANOR: Rogue have N: CHRONICLE: CLAN: Gangrel CONCEPT: Country Musician
+Raised by a single mother who drove an 18-wheeler, you ATTRIBUTES saw most of the country through the passenger window PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO before you were eight. When the authorities caught on Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO and demanded that you go to school, you had to live with
+ABILITIES you r grandparents — which involved no running water, TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O farm chores and homework by kerosene lantern light. Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+Toss in a fair amount of beer and a few memorable failed do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O romances, and you’ve had plenty of material to work with. Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+At least the re was always the music. You had a Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O natural flair for the guitar, a smooth voice with just the Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O right twang, and a repertoire based on years of country
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES radio consumption. You chose to hit the road after _F_a_m_e________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_io_n___________O_O_O__OO P_r_o_t_e_a_n______________O_O_O__OO high school; it was either that or was h dishes for an all- _R_e_s_o_u_r_c_e_s___________O_O_O__OO P_r_e_s_e__n_c_e____________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO night diner. For years you had no regrets. You were n’t a ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO technically brilliant musician or an inspired songwriter, ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO but you r instinctive understanding of the mood in the MERITS/FLAWS HUMANITY/PATH HEALTH bars and clubs you played led to repeat gigs and a _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O ___ O ___ O ___ O __ O ___ O ___ O ___ O __ O ___ O _ B H r u u r i t sed -1
+comfortable enough living for always being on _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ will POWER I W nj o u u re n d ded - - 2 1 the road. You found an agent and hired an old _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated flame to help you set up and break do wn you r _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE one-man show. __________________________
+__________________________
+Things got strange one night about three years ago. A shaggy, agitated read the shifting moods of a crowd the way fellow with dirt under his fingernails
+a do g scents the wind. You’re disturbed by requested Patsy Cline’s “Walking After you r growing alienation from normal
+Midnight.” To this day, you’re not sure whether people, although you’ve never really you r instincts damned you or saved you, but the man visibly relaxed as you sang and left the bar contented. considered you rself normal. If it
+But he came back for you r blood, and to give you his. affects you r ability to perform, You have n’t seen him since. what will you have left? You’ve managed all right, considering the circumstanc- Equipment: Bates. You’re still touring — it’s the only life you know. You’ve tered Collings C-10 light-proofed the van. Fans and groupies are relatively easy Deluxe guitar, battered to feed from, but any mishaps permanently reduce you r and half-smoked
+fan base and raise you r profile unnecessarily. you r skill at pack of cigarettes, crowd handling has only improved, but sometimes you battered Stetson, wonder why you bother singing to you r supper. battered Chevy
+Concept: you r wanderlust has only intensified since cargo van you r Embrace, but you’ve started to wonder if maybe you’re missing something by sticking to you r routine. you r cheerful acceptance of the rigors of unlife on the
+road hides a deep fear of what you’ve become, and what you might be capable of do ing. Roleplaying Hints: You always put on a good face for the audience, but at the same time you keep a watchful eye on
+the emotions of the people around you, and you always know where the back do or is. You
+Clanbook: Gan Grel
+
+=== PAGE 80 === h aCKer
+Quote: Unless you’re running 1,096-bit encryption on a secure SQL server, you may as well deposit all of you r assets into my account. I can hack anything I can reach. NAME: NATURE:Conniver GENERATION: 10th
+Prelude: you r mouth has always gotten you in trouble. PLAYER: DEMEANOR: Gallant have N: CHRONICLE: CLAN: Gangrel CONCEPT: Hacker
+Caught up in the excitement of you r first hacker bulletin ATTRIBUTES board, you claimed to be close personal friends with the PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Legion of do om. It was difficult to explain to you r parents Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO why they had to change the family’s telephone number. A ABILITIES few years later, the feds paid you a visit after you claimed to TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O be able to break into the Treasury Department’s computers Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O in a Usenet post. Ironically, you r tendency to shoot you r do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O mouth did for ce you to become a better hacker; eventually Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O you learned how to cover you r tracks — most of the time. Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O the n one day you fed the wrong guy a line. The local
+ADVANTAGES coffee-shop crowd knew from long experience to take BACKGROUNDS DISCIPLINES VIRTUES you r stories with a grain of salt. But the stranger at the _C_o_n_t_a_c_t_s____________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_io_n___________O_O_O__OO P_r_o_t_e_a_n______________O_O_O__OO counter did n’t; and when you told him that you could _ _ M R _ _e e_ _s n_ _o t_ _u o_ _r r_ _c _ _e _ _s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO write a program that would incorporate subliminal _ _ S_ _ t_ _ a_ _ t_ _ u_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O commands into the user’s desktop environment, ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+or manipulate the electricity going to his MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised household appliances, he believed you. He __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 followed you home, dragged you out of bed __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 and for ced his blood do wn you r throat. You __________________________ Crippled -5
+__________________________ Incapacitated spent the last year of high school as a ghoul. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+It did n’t take very long for you r regnant to __________________________
+__________________________ figure out that you were full of crap; he kicked you r ass once to let you know Roleplaying Hints: You not to do it again, but he seemed to have a hard time passing up any
+find you r bravado humorous. And opportunity to embellish you r even though you could n’t do reputation, or to make a joke all those things you said, you at someone’s expense. You were knowledgeable enough expect to get you r but t kicked
+to be of use to him. After you now and the n, and take you r graduated from college (with lumps with good grace. You a computer science degree), he can count on you r reputation made you a vampire. as a wimp to keep you from
+You barely survived you r seeming like a threat — at
+Embrace; you r sire stuck you in the least among the Gangrel. middle of a national park with out even a cell E q u i p m e n t: phone. When you crawled out of the woods Gateway laptop on you r:) a week later, scraped raw and really tired of Ware lease, Gateway tower squirrel blood, he dragged you to another on you r:)Ware lease, dirty godforsaken green spot to introduce you to clothes, old Saturn coupe
+all his friends. you r mouth still gets you in trouble, but you’ve mastered the art of rolling over and showing you r throat, which usually makes everything okay
+Concept: You are ideally suited to the role of omega, the bottom of the pecking or der. You’ve got the skills to make you rself useful in ways that the rest of you r clan is only beginning to understand, though, and you’re going to make sure you use the m. When all the other
+creatures of the night finally plug in, they’ll find that you’re the top do g. Chapter three: beasts amonG men
+
+=== PAGE 81 ===
+Clanbook: Gan Grel
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________G_____a_____ll_____a_____n_____t____________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________P_____e_____d_____a_____g_____og_____u_____e__________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_______________C_____o_____n_____n_____iv_____e_____r_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_______________D_____e_____v_____i_____an_____t____________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____0_____t_____h______________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____2_____t_____h______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____a_____n_____g_____r_____e_____l_______________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____a_____n_____g_____r_____e_____l_______________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____H_____a_____c_____k_____e_____r_________________________
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____F_____ie_____l_____d_____
+B_____io_____l_____o_____g_____is_____t
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+________2____ x____
+____s____e__c__r____u____o____s____e____R
+_____2_____ x_____ s_____t_____c_____a_____t_____n_____oC_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________1
+____x____ s____r____e____n____ia____t____e____R
+____________________1__
+___x_____ e_____m__________aF_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+_____3
+_____x___ __n_____o__i___t_____ar_____e_____n_____eG_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_____1
+_____x___ __n_____o__i___t_____ar_____e_____n_____eG_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+______________________________)_____1
+_____x _____yt_____i_____sr_____e v _____in_____U_____(
+_____e_____cn_____e_____u_____lf_____n_____I
+____________________________________________________________
+_____s_____u_____o_____r_____e_____t_____x_____e_____D_____
+____________________________________________________________
+_________________________1
+_____x _____d_____r__e___H_____
+__________2__
+___x_____ s_____u_____o_____i_____c_____o_____r_____e_____F
+_____s_____u_____o_____r_____e_____t_____x_____e_____D_____
+____________________________________________________________
+__________1_____ x_____
+_____ro_____t_____n_____e_____M_____
+____________________________________________________________
+_______________s_____s_____e_____le_____r_____i_____T_____
+____________________________________________________________
+_____2___
+__x_____ s_____e_____c_____ru_____o_____s_____e___R__
+____________________________________________________________
+__________c_____it_____e_____g_____r_____e_____n_____E_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+______________________________y_____r_____iW__________
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+_______________g_____n_____ir_____u_____d_____n_____E_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+_________________________2_____ x_____
+_____y__t___t_____i_____W_____
+_______________g_____n_____im__________r___a__h_____C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________
+___t__n_____e_____u_____q_____o_____lE_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________gn_____i_____ta_____i_____ta_____s_____g_____n_____I
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________e_____v_____is_____a_____u_____s_____r_____e_____P
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________e_____vi_____s_____au_____s_____r_____e_____P
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________y___t__t_____i_____W_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+)_____e_____lt_____t_____e_____M_____
+_____, e_____c_____n_____a_____ru_____d_____n_____E_____(__
+___e_____d_____u_____ti_____t_____ro_____F_____
+____________________t_____n___a__v_____r_____e_____s_____b_____O_____
+_______________2___
+__x_____ r_____e_____v_____e_____lC_____
+_______________, s_____r_____e_____p_____si_____h_____W_____
+_____la_____r_____e_____F_____(
+_____m_____s_____il_____a___m_______in_____A_____
+______________________________la_____n_____o_____i_____ta_____R_____
+_______________e___v__i_____t_____n_____e_____tt_____A_____
+_______________)t_____s_____a_____e_____B_____ e_____h_____t_____ f_____o_____ s_____e_____y_____E_____(
+n_____a_____e_____t_____o_____r__P___
+______________________________d_____w_____e_____r_____h_____S_____
+____________________g_____n_____i_____n_____n__u___C_____
+__________
+_____)t_____s_____a_____e_____B__
+___e_____h_____t
+_____ll_____e_____u_____Q_____,_____g_____n__i___n_____o_____k_____ce_____B_____
+______________________________t_____n_____a_____li_____g_____iV_____
+_____2
+_____x e_____lb_____a_____eg_____d_____el_____wo_____n_____K
+________________________________________________________________________________________________________________________
+_____________________________________________y_____li_____W_____
+__________ l_____u_____f___t__h_____g_____i_____s_____n__I___
+_______________,__t___s_____a_____e_____B_____ e_____h_____t_____ f_____o_____ s_____e_____y_____E_____(_____
+n_____a_____e_____t_____o_____r__P___
+____________________________________________________________
+_______________e_____v_____i_____ti_____u_____t_____n__I___
+__________________________________________________________________________________________________________________________________
+____________________________________________________________ e_____l_____b__a___e_____g_____d_____e___l__w_____o_____n__K___
+________________________________________________________________________________)_____s_____w_____a_____lC_____
+_____la_____r_____e_____F_____
+____________________________________________________________
+__________t_____n_____a_____vr_____e_____s_____b_____O_____
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&& _____
+SS S SS _____ TTTTT
+_____ IIIII ___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW __ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&& _____
+SS S SS _____ TTTTT
+_____ IIIII ___ RR __ RRR _____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+______________________________y_____ti_____r_____u__c___e_____S_____
+_______________ne_____K_____ l_____a_____m_____in_____A_____
+____________________________________________________________
+__________________________________________________
+____________________2_____ x_____ l_____a_____vi_____v_____ru_____S_____
+2_____
+__x___ _____ne_____K_____ l_____a_____m_____in_____A_____
+____________________________________________________________
+__________________________________________________
+____________________2_____ x_____ l_____a_____vi_____v_____ru_____S_____
+____________s___c_____i__m________e_____d_____ac_____A_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+____________s___c_____i__m________e_____d_____ac_____A_____
+____________________________________________________________
+__________________________________________________
+)s_____ci_____no_____r_____tc_____e_____lE_____( e_____c_____n_____ei_____cS_____
+_______________r_____e_____t_____up_____m__________oC_____
+____________________________________________________________
+__________________________________________________
+___________________________________)_____y_____g_____o__l___o_____iB
+_____(
+_____2 _____x_____ e_____c_____n_____e_____ic_____S_____ lavivruS evirD
+
+=== PAGE 82 === f B ield i OlOGist
+Quote: You can never really know the animals. Trust me, I learned the hard way. You can understand the m, but you can’t know the m. NAME: NATURE:Deviant GENERATION: 12th
+Prelude: For so many, science is cold and sterile, to C P H LA R Y O E N R IC: LE: D CL E A M N E: A G N a O n R g: P re e l d agogue H CO A N V C E E N P: T: Field Biologist be performed in a laboratory full of stainless steel and ATTRIBUTES glass. For you, science is everywhere, but best of all it’s Strength__ P _ H __ Y _ S _ IC _ A __ L __O__O_O_O_O Charisma__ S __ O _ C _ I _ A _ L _____O_O__O_O Perception_ M __ E _ N _ T _ A _ L ____O_O_O__OO outdoors. You put in you r time at university, watching D St e a x m te in ri a ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O M Ap a p n e ip ar u a l n at c i e o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _ _ O O I W nt i e ts ll _ i _ ge _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _O O _O O
+the rats and rabbits scurry about the ir cages. You learned ABILITIES how to write a grant proposal and how to get you r results Alertness__ T _ A _ L _ E _ N __ T _ S ___O_O__O_O_O Animal Ken S _ K __ IL _ L _ S _____O_O_O_O_O Academ K ics N _ O __ W _ L _ E _ D _ G __ E _ S _O_O_O__O_O published. When you r grants came through, you headed A Br t a h w le l_ ti _ c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _ _ O O _ _ O O O O C D r r a iv ft e s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O O O C Fi o n m an p c u e t _ e _ r_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O for the cold north to study the timber wolves. D Em od p g a e t _ h _ y _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ O O _ _ O O E Fi t r i e q a u r e m tt s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _O O I L n a v w e _ st _ i _ g _ at _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O you r results were stunning. Such an extensive study of Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O the wolves had never been do ne before; you r work broke Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O new ground. With the help of a ghostwriter, you published
+ADVANTAGES the story of you r yearlong sojourn with the wolves, and BACKGROUNDS DISCIPLINES VIRTUES
+_F_a_m_e________________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO later winced as it was poorly dramatized for an _G_e_n_e_r_a_t_io_n___________O_O_O__OO P_r_o_t_e_a_n______________O_O_O__OO
+_H_e_r_d________________O_O_O__OO ____________________O_O_O__OO inspirational Sunday night movie. you r overnight _R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+_R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO celebrity dwindled quickly — you never were ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO very telegenic or outgoing — but enough pop culture all ure stuck to you r name to float MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised you r grant proposals to the top of the stack. __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1
+It was easy to gather funding for another __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 year in the for est. __________________________ Crippled -5
+__________________________ Incapacitated
+That second trip went all wrong. The _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ group of wolves you were observing be- __________________________ have d strangely, thwarting you r efforts with an intelligence you’d never seen Concept: You had hoped to
+before. You knew something was very escape the politics of academe wrong when the wolves managed to by working in the field. Now get into you r film can is ters one night, you’ve found you rself in even leaving you r careful deeper waters — the stakes
+evidence to be here are larger than journal destroyed by bragging rights. For now, the rising sun. you direct you r research
+It would have to fit political ends. It’s been smart to pack not you r choice, but and leave, but cu- perhaps the ends jusriosity demanded tify the means. that you stay. Roleplaying
+The next night Hints: You’re unthe wolves tore comfortable around you r throat out. The people who are n’t infirst rays of the sun woke terested in you r work, you from you r stupor and and distrustful of people drove you under the snow, who are. In social situations wrapped in the shredded you prefer to err on the side
+remains of you r tent. On the night of quiet, which all ows you you first brought do wn a mule ample time to examine you r deer for sustenance, the wolves surroundings and companions came back. you r sire resumed her with a detached eye. native for m, and explained what you
+Equipment: Digital video had become and what she expected of camera, numerous not ebooks filled you. In some ways, it’s like being back
+with observational scrawl, field jacket, in college, except that you r graduate should er pack advisor drinks blood. Chapter three: beasts amonG men
+
+=== PAGE 83 === d r t rillinG iG e Chni Cian
+Quote: Wanna go for a swim? Prelude: The want ad in the Mobile Register made the petrochem job sound exciting, even exotic. Plumb NAME: NATURE:Monster GENERATION: 13th the briny depths of the ocean in search of black gold, PLAYER: DEMEANOR: Director have N: CHRONICLE: CLAN: (Country)Gangrel CONCEPT: Drilling Rig
+Antitribu Technician like a modern-day pirate with a high-tech ship! You filled ATTRIBUTES out an application, passed the physical and a battery of PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO mental tests, and signed a contract. When you got to the Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO rig, you realized just how full of shit the recruiters were, ABILITIES and how legally binding that contract was. The living TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O quarters were lousy, the working conditions treacherous Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O and no rum or honeys to be found. You were stuck on do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O that floating hunk of metal in the Gulf of Mexico; land Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O was just a smudge on the horizon on a good day. Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+Growing up in Alabama, you had always loved the
+ADVANTAGES warm, friendly waters of the BACKGROUNDS DISCIPLINES VIRTUES
+Gulf, but you r years on the _M_e_n_t_o_r______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+____________________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO rig strained that relation- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O P_ _ r_ _ o_ _ t_ _ e_ _ a_ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO ship. Even the hurricane _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O you weathered was not ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+as bad, though, as the MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised sounds and smells that __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 came out of the onboard __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 research facilities, and __________________________ Crippled -5
+__________________________ Incapacitated the disappearances of _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE you r buddies among the __________________________
+__________________________ crew. The day you came out of the mess hall to find you r bunkmate twisting by his neck from the superstructure was the
+last straw. That night, you do ve of f the rig’s deck and swam for shore. You did n’t make it. After what must have been miles of swimming, you r limbs gave out, you r lungs filled with water and you started to sink. That’s when the creature grabbed you, affixing its lampreylike mouth to you r torso as you bubbled out you r last dregs of air in a futile scream. you r blood and the creature’s
+filled the water; sharks circled but did not attack as you r body changed. That very night you returned to the oil rig, lurking under its mass through the day, and clambering you r way back to the deck as the sun set. The shift supervisor and cook disappeared that night. Management sent out new want ads. The thing that saved you from drowning turned out to be all
+right, once you got past its strange fish parts. You spend some time together in the Gulf, but it’s got business to attend to and so do you. Concept: You take things personally. The oil company got the best of you, including you r life. You were a nobody the n, but now you’re something special. Getting revenge is on the top of you r priorities, the n you’ll take the challenges as they come. Roleplaying Hints: You’ve been pushed around long enough, and you’re not inclined to take or ders. You fancy you rself an aquatic
+private eye, fishing for clues and discarding red herrings. Guard you r motives, even when working with all ies — it’s important that you r revenge is the sweetest. Equipment: Drill rig security pass, soggy coveralls, heavy crescent wrench, wad of damp cash
+Clanbook: Gan Grel
+
+=== PAGE 84 ===
+Chapter three: beasts amonG men
+
+___F____i___r_____e___a__r_____m_____s____________________
+_____S_____u___r__v_____i__v___a_____l__
+___x_____
+2____________________
+__________________________________________________
+____________________________________________________________
+___I__n_____t_____im__________id_____a_____t___i__o_____n_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___D_______o___d__g_____e______________________________
+_____S_____e_____cu_____r_____it_____y______________________________
+__________________________________________________
+____________________________________________________________
+___C__r_____a_____f_____t_____s_________________________
+_____M_____e_____le_____e_____ x_____
+2______________________________
+__________________________________________________
+____________________________________________________________
+___A_______n___i__m_____a_____l
+_____K_____en_______________
+_____In_____t_____im__________id_____a_____t_____io_____n_______________
+__________________________________________________
+____________________________________________________________
+___A_______n___i__m_____a_____l
+_____K_____en_____ x_____ _____2
+_____In_____v_____e_____s_____ti_____g_____a_____ti_____o_____n__________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT
+__ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____
+AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___O_______b_____s_____e_____r_____va_____n_____t__________
+____________________________________________________________
+_____Pr_____o_____t_____e_____an_____
+__(___E_____y_____e_____s _____of_____ t_____h_____e_____
+B_____e_____a_____s__t___,_____
+F_____e_____ra_____l_____
+C_____la_____ws)
+__________________________________________________
+____________________________________________________________
+_____F_____e_____r_____a_____l
+___C_______la_____w_____s_____,_____
+E_____a_____r_____t_____h_____
+M__________e_____l_____d_____)_________________________
+___D_______is_____c_____ip_____l_____in_____e_____d__________
+____________________________________________________________
+_____U_____n_____s_____e_____e_____n_____
+P_____r___e__s_____e_____n_____c_____e_____)__________________________________________________
+___D_______is_____c_____i__p___l_____in_____e_____d__________
+____________________________________________________________
+_____P___r__o_____t_____e_____a_____n_____
+(_____E_____y_____e_____s_____ o_____f_____ t_____h_____e_____
+B_____e_____a_____s_____t__,___
+__________
+___C_______le_____v_____e_____r_________________________
+____________________________________________________________
+_____O_____b_____f_____u_____sc_____a_____t_____e_____
+(_____C_____lo_____a_____k_____ o_____f_____ S_____h_____a_____d_____o_____w_____s_____, ___D_______e_____t_____e__r___m__________in_____e_____d_____
+_____W_____i_____ly_____________________________________________
+_____F_____or_____t_____it_____u_____d_____e_____
+(_____E_____n_____d_____u_____ra_____n_____c_____e_____)______________________________
+___A_______le_____r_____t_____
+_________________________
+S__________h_____re_____w__________d______________________________
+_____C_____e__l___e_____r_____it_____y_____
+(__a___l_____a_____cr_____i_____t_____y)__________________________________________________
+___C_______un_____n_____i_____n_____g____________________
+_____P__a___t_____i_____e_____n_____t______________________________
+_____A_____n_____im_____a_____l_____is_____m_____
+(_____F_____e_____r_____a_____l
+W__________h_____i_____sp_____e_____r_____s_____)__________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___M_______a_____g_____n_____e_____t__i___c_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___I__n_____t_____im_____i___d__a_____t_____in_____g_____ x_____ 2
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__o_____m_____m_____a_____n_____d_____in_____g__
+___x_____ 2
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C_______om__________m_____a_____n_____d_____in_____g_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____T_____i_____r_____e_____le_____s_____s_____ x_____ __2___
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____L_____it_____h_____e______________________________
+_____T_____o_____u_____g_____h___________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____Q_______u___i_____c_____k_____ x_____
+2_______________
+_____W_____i_____r_____y________________________________________
+__________________________________________________
+____________________________________________________________
+_____F_____e_____r_____o_____c_____io_____u_____s__________
+_____T_____e_____n_____a_____t_____io_____u_____s____________________
+__________________________________________________
+____________________________________________________________
+_____A_____g_____i_____le______________________________
+_____V_____ig_____o_____r_____o_____us______________________________
+M__________e_____nt_____o_____r_____ x_____ 1_______________
+____________________________________________________________
+_____B_____r_____a_____w_____n_____y_____ x_____
+_____2_____
+_____N_____im__________b_____le_____,___
+__R_____o_____b_____u___s__t_____
+__________________________________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+H__________er_____d_____ x_____
+1_________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+Path of the
+Feral heart
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+G_____e_____n_____e_____r_____at_____io_____n_____ x_____ 2_____
+________________________________________________
+M__________e_____n_____t_____o_____r
+_____x_____ 1__________
+________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) t_____s_____ir_____o_____r_____r_____e___T_______-o_____c_____E_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC na_____ic_____in_____hc_____e_____T g_____iR_____
+g_____n_____illi_____rD_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) u_____bi_____r_____ti_____tn_____A_____le_____r_____g_____na_____G_____ y_____t_____iC_____NNNNNAAAAALLLLLCCCCC
+_____ub_____ir_____ti_____tn_____A_____le_____rg_____na_____G___
+__yr_____t__n___u_____oC_____NNNNNAAAAALLLLLCCCCC
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+______________________________h_____t_____3_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+____________________a_____m_______g___i_____n_____E_______________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________r_____e_____t_____s_____no_____M____________________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________r_____o_____v_____iv_____r_____u_____S__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+_______________r_____o_____t_____c_____e_____ri_____D__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 85 === e -t
+CO err or is t
+Quote: I’m walking proof that Mother Nature can be a stone-cold bitch sometimes. Prelude: College opened you r eyes. You’d led a sheltered NAME: NATURE:Enigma GENERATION: 11th life of mindless consumerism in you r parents’ house, piling PLAYER: DEMEANOR: Survivor have N: CHRONICLE: CLAN: (City)Gangrel CONCEPT: Eco-Terrorist
+Antitribu up a karmic debt of environmentally unsafe packaging in ATTRIBUTES a dump somewhere. You never realized what you r sodaPHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO guzzling, popcorn-eating, Third-World-sneaker-wearing Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO ways were do ing to the planet. She changed all that. You ABILITIES met her at a kiosk freshman year as she stapled up posters for TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+GRAYL, the Gaian Revolutionary Action you th League. Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+She was the most beautiful girl you’d ever seen. You went do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O to the meeting. You got a girlfriend and you joined a cause. Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+You only wish she’d been the one to make you into what Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O you are tonight. She broke up with you when you r methods
+ADVANTAGES got “too violent”; she said you were causing turbulence in BACKGROUNDS DISCIPLINES VIRTUES her aura. You got radical: you spiked redwoods, broke into _G_e_n_e_r_a_t_io_n___________O_O_O__OO C__e_le_r_i_t_y_____________O_O_O__OO Conscience/ConvictionOOOOO
+_H_e_r_d________________O_O_O__OO O__b_f_u_s_c_a_t_e___________O_O_O__OO laboratories to free test animals, sniped at whaling ships. _ _ M S _ _a e_ _b n_ _b t_ _a o_ _t r_ _ _ _S _ _t _ _a _ _t _ _u _ _s _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O P_ _ r_ _ o_ _ t_ _ e_ _ a_ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+When you learned that a local chemical plant (internation- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O all y owned, of course) was piping runoff into the river, you
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO or ganized an audacious late-night MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ _______F_e_r_a_l _H_e__a_r_t_________ Bruised strike to disable the plant. You __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 would have made headlines and __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 wound up behind bars — except __________________________ Crippled -5
+__________________________ Incapacitated that you stumbled into the _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE middle of a clandestine war. __________________________
+__________________________
+By the eerie glow of chemical fires, you saw human-shaped monsters attack the plant’s heavily armed security guards. you r compatriots fled, or were cut do wn by stray bullets. You were rooting for the monsters just like in a Godzilla movie, but the security guards kept
+coming. Operating on autopilot, you crept into the plant while the creatures out front drew fire, set up you r crude bomb, and ran. Not long after the explosion, the monsters caught up to you with congratulations. they were also hungry. they argued over you r prone for m and eventually came to a compromise; they drank all you r blood, but made you a vampire for you r bravery under fire. you r sire, a scaled
+and snaggletoothed beast, insisted on packing you of f to the wilderness for a couple months, but that was okay by you — The Man controlled the cops, and after you r exploits they’d be looking for you. You’ve since learned that you r pack was n’t attacking the plant because of the dumping, but because some greasy Ventrue owned it. you r buddies may not have any interest in you r cause, but they’re easy to lure into action with the promise of mayhem. You’ve learned all about the Antediluvians and Gehenna, and you’ve figured out the enemy — global warming. the re are
+monsters frozen in the polar ice, after all.…
+Concept: The battle has n’t changed, only the battlefield. To save the Cainites, you’ve also got to save the world and the humans too. Once you can figure out how to keep you r all ies under control, you’ll have a for ce to make Greenpeace green with envy. Roleplaying Hints: You do n’t make people do what you want; you lead and make the m want to follow. You know
+the re’ll be some detours on the way to achieving you r goals, but you r environmental causes are never far from you r mind. Equipment: Ski cap, ski jacket, backpack full of shotgun shells and tree spikes, pepper spray
+Clanbook: Gan Grel
+
+=== PAGE 86 === i l ndustry OBByist
+Quote: I’m sure we can cut a deal that’ll make us both happy. Prelude: You were raised in a logging town, surrounded NAME: NATURE:Architecht GENERATION: 12th
+PLAYER: DEMEANOR: Director have N: by loggers, sawmills, carpenters and paper mills. The smell CHRONICLE: CLAN: (Country)Gangrel CONCEPT: Industry Lobbyist
+Antitribu of fresh-sawed wood still brings back fond memories. The ATTRIBUTES
+PHYSICAL SOCIAL MENTAL smells of patchouli and cheap incense bring back memories Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O too, but not good ones. Those remind you of the hippy Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO tree-huggers who mobbed you r small town, shutting do wn ABILITIES logging operations and putting do zens of you r neighbors and Alertness__ T _ A _ L _ E _ N __ T _ S ___O_O__O_O_O Animal Ken S _ K __ IL _ L _ S _____O_O_O_O_O Academ K ics N _ O __ W _ L _ E _ D _ G __ E _ S _O_O_O__O_O
+relatives out of work. you r stories of childhood deprivation A Br t a h w le l_ ti _ c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _ _ O O _ _ O O O O C D r r a iv ft e s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ _O O O O C Fi o n m an p c u e t _ e _ r_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _ _ O O _ _ O O _ _ O O served well in you r job at CRURR, the Coalition for the D Em od p g a e t _ h _ y _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ O O _ _ O O E Fi t r i e q a u r e m tt s e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ _O O_ _ _ O O _O O I L n a v w e _ st _ i _ g _ at _ i _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Responsible Use of Renewable Resources — not a single Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Congressman kept a dry eye through you r recounting of Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O the Christmas with out presents or a tree than ks to the
+ADVANTAGES unwashed liberal protesters. You were proud to play a part BACKGROUNDS DISCIPLINES VIRTUES in overturning logging restrictions and opening up new _ _ A C _ _o ll_ _n i_ _ e t _ _ s a _ _c _ _t _ _s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O of P _ _r _ _ o o _ _ r t _ _ t e _ _ it a _ _ u n _ _ d_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO lands for timber harvesting. _ _ G H _ _ e e _ _ n r _ _ e d _ _ r_ _ a_ _ t_ _ io_ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+_I_n_f_lu_e_n_c_e____________O_O_O__OO ____________________O_O_O__OO you r parents were proud of you, but someone _R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+_S_a_b_b_a_t_ _S_t_a_t_u_s_______O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO else disapproved. One night that someone broke into you r tony was hington apartment, MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised tied you up and stuffed you in his trunk, __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 ranting all the while about teaching you __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 a lesson. The next night, in the middle of __________________________ Crippled -5
+__________________________ Incapacitated a clear-cut for est of stumps, he feasted on _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE you r blood and filled you r throat with his. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Flush with the success of his “revenge,” he
+Sabbat, and you’ve been assigned to a left you staring up at the sky. The field he
+“pack.” So far you r participation has been abandoned you in was a poor example limited to loaning money and crash space of for est husbandry, certainly, to sectmates in need. You keep careful
+but you could n’t figure out track of who owes who m, though, and why some company’s you r not ebook is full of favors you’re
+sloppy cutting pracready to call in when it suits you. tices were you r fault
+Concept: You’re interested
+— and you still can’t. in the natural world — how
+You spent you r days it can best be made to serve under heavy piles of humanity, and now, you. It
+pine branches until occasionally pains you that you found a road some unscrupulous practices
+and hitchhiked fall under you r protective you r way back to umbrella, but you can’t
+civilization. You make an omelet with out were back at you r breaking some eggs. desk by the next
+Monday night, re- Roleplaying scheduling you r Hints: You’re honestly lunch dates in of fended when you r favor of dinners motives are questioned. and drinks. was h- You have the greater
+ington is a wonderful good of the group at place to be dead, heart, whether that group is as long as you have Cainites, loggers or Congressmoney and access to men running for reelection. the halls of power. Equipment: Lincoln
+You’ve been told Continental, Dayrunner not eyou’re a member of the book, PCS phone, credit cards
+Chapter three: beasts amonG men
+
+=== PAGE 87 ===
+Clanbook: Gan Grel
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________D_____i_____re_____c_____t_____o_____r_______________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________B_____o_____n_____
+V_____i_____v___a__n_____t__________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_______________A_____r_____c_____h_____i___t__e_____c_____h_____t_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_______________C_____e_____l_____e__b_____r___a_____n_____t__________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____2_____t_____h______________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____2_____t_____h______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____C_____ou_____n_____tr_____y
+G_____a_____n_____gr_____el_____A_____nt_____it_____ri_____bu
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_____G_____a_____n_____g_____r_____e_____l___________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____I_____nd_____u_____st_____r_____y__
+___Lo_____b_____b_____y__i___st
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____N_____e_____w_____
+A_____g_____e
+__V___i_____k__i___n_____g_____
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+____________________e____c____n____eu____l____f__n__I____
+_________________________1
+_____x
+_____se_____i_____llA_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+________2____
+____x
+____se____c____r____u____o____se____R____
+_______________2_____
+_____x__
+___s_____e_____il_____lA_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________,__2___
+_____x
+_____la_____c_____it_____i___l__o_____P_____(
+__________4_____ x_____ s_____t_____c_____at_____n_____o_____C
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_____1
+_____x___
+__n_____o__i___t_____ar_____e_____n_____eG_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+_______________)2_____
+__x___
+_____yr_____t_____s_____u_____d__n___I_____
+_____1
+_____x___
+__n_____o__i___t_____ar_____e_____n_____eG_____
+____________________________________________________________
+__________l_____lu_____f_____e_____c_____a_____r_____G_____
+____________________________________________________________
+_________________________4
+_____x
+_____d_____r__e___H_____
+________________________________________k_____c_____iu_____Q_____
+_____2_____
+_____x
+_____y_____n_____w_____a_____r_____B_____
+__________3_____
+_____x
+_____se_____c_____r_____u_____o_____se_____R_____
+_________________________2
+_____x__
+___d_____r__e___H_____
+____________________________________________________________
+__________t_____n_____e_____i_____li_____s_____e_____R__
+___
+____________________________________________________________
+_______________1_____ x_____ r_____o_____t_____ne_____M_____
+_________________________________d_______e_____g_____g___u__R_____
+_____s_____u_____o_____r_____e_____t_____x_____e_____D_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+____________________y_____d_____a_____e_____t_____S_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+___________________________________h_______g___u_____o_____T_____
+2_____ x_____
+_____ci_____t_____e___g__r_____e_____n_____E_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+____________________________t__n_____e_____u_____q_____o_____lE_____
+_______________g_____n_____i_____li_____u__g___e_____B_____
+____________________________________________________________
+__________________________________________________
+_________________________s_____u_____o_____e_____g_____ro_____G_____
+_______________g_____n_____i_____li_____u__g___e_____B_____
+____________________________________________________________
+__________________________________________________
+____________________e_____v__i___s_____s_____e_____r__p___x_____E_____
+_____2_____ x_____ g_____n_____i___m_______r_____ah_____C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________2__
+___x_____ y_____ld_____n_____e_____i_____rF_____
+____________________________________________________________
+__________________________________________________
+_______________g_____n__i___t_____a_____it_____a_____r_____g_____n_____I
+__________c_____it_____a_____m_____o_____l_____p_____iD_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________la_____in_____e_____G_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM,_____e_____lt_____t_____e_____M_____
+_____, e_____c_____n_____a_____ru_____d_____n_____E_____(__
+___e_____d_____u_____ti_____t_____ro_____F_____
+____________________________________________________________
+_____2_____ x_____ l_____u_____ft_____h_____g_____is_____n_____I
+____________)___s_____r_____e_____p_____si_____h_____W_____
+_____la_____r_____e_____F_____(
+_____m_____s_____il_____a___m_______in_____A_____
+____________________________________________________________
+_________________________r_____e_____v_____e_____lC_____
+___________________________________________________________________________)_____e_____c___n__e_____i_____li_____se_____R_____
+____________________________________________________________
+__________d_____e_____t_____a_____c_____id_____e_____D_____
+______________________________)_____e_____c_____n_____a_____ru_____d_____n_____E_____(__
+___e_____d_____u_____ti_____t_____ro_____F_____
+____________________________________________________________
+__________d_____e_____t_____a_____c_____id_____e_____D_____
+_______________)__t___s_____a_____e_____B_____ e_____h_____t_____ f_____o_____ s_____e_____y_____E_____(_____
+n_____a_____e_____t_____o_____r__P___
+____________________________________________________________
+__________d_____e_____n_____il_____p__i___c_____s_____iD_____
+________________________________________________________________________________________________________________________
+____________________________________________________________
+_____d_____e_____n_____im__________r__e___t_____e_____D_____
+__________________________________________________________________________________________________________________________________
+____________________________________________________________ e_____l_____b__a___e_____g_____d_____e___l__w_____o_____n__K___
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+__________________________________________________
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&& _____
+SS S SS _____ TTTTT
+_____ IIIII
+___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF
+_____
+_____ &&&&&
+_____
+SS S SS
+_____ TTTTT
+_____ IIIII
+___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+_______________s_____c_____it_____i_____lo_____P
+_____,__w________aL_____
+__________n_____e_____K_____ l_____am__________in_____A_____
+____________________________________________________________
+__________________________________________________
+________________________________________e__g___d_____o_____D_____
+__________n_____e_____K_____ l_____am__________in_____A_____
+____________________________________________________________
+__________________________________________________
+____________________e__g___u_____f_____r_____e_____tb_____u_____S_____
+____________s___c_____i__m________e_____d_____ac_____A_____
+____________________________________________________________
+__________________________________________________
+____________________e_____s_____iw_____t_____e_____e_____rt_____S_____
+__________________s__c_____i___t__e_____l___h__t_____A_____
+____________________________________________________________
+__________________________________________________
+______________________________l_____a_____vi_____v_____ru_____S_____
+_________________________e_____c___n__a_____n_____iF_____
+____________________________________________________________
+__________________________________________________
+____________________2_____ x_____ l_____a_____vi_____v_____ru_____S_____
+______________________________l_____w_____a_____rB_____
+
+=== PAGE 88 === n a v ew Ge i KinG
+Quote: Blood for the blood god, dude, blood for the blood god! Prelude: you r life was cool. Mom and Dad moved NAME: NATURE:Celebrant GENERATION: 12th
+PLAYER: DEMEANOR: Bon Vivant have N: to California and got into attachment parenting and CHRONICLE: CLAN: Gangrel CONCEPT: New Age Viking
+ATTRIBUTES other primitive child-rearing practices, so you got to do
+PHYSICAL SOCIAL MENTAL what ever you wanted. The teachers at school did n’t want S D t e r x en te g r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _O O C M h a a n r i i p sm ul a a _ ti _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O _ _ O O _ _ O_ O_ _O O_ _O O P In e t r e c l e l p ig t e io n n c _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ O O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO to damage you r self-esteem by flunking you, so made
+ABILITIES it all the way to 10th grade before you decided to drop TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O out and surf full-time. You were you ng, blond and tan, Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O and that was all you needed to be happy. do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O the n you met the woman of you r dreams. You E In x t p im re i s d si a o t n io _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ _O O_ _O O_ O O M Pe e r l f e o e rm __ a _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _ _ O O L M in ed g i u c i i s n ti e c _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ __ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O _ _ O O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O had gone to an interfaith pagan sabbat with you r Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O parents; it always made the m happy when you
+ADVANTAGES joined the circle, even though they knew BACKGROUNDS DISCIPLINES VIRTUES
+_A_ll_i_e_s_______________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO you were a lapsed pagan at best. She _G_e_n_e_r_a_t_io_n___________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO
+_H_e_r_d________________O_O_O__OO ____________________O_O_O__OO stood out among the Wiccans, Druids _M_e_n_t_o_r______________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO and Unitarians, tall and proud like _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Courage____________OOOOO the carved prow of a ship. You joined
+MERITS/FLAWS HUMANITY/PATH HEALTH the crowd of men and women around __________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1 her, listening raptly as she spoke of _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ will POWER I W nj o u u re n d ded - - 2 1 honor, courage and struggle in an _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO M Cr a i u p l p e l d ed - - 5 2
+__________________________ Incapacitated exotic accent. you r parents’ paganism _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE had always seemed so empty __________________________
+__________________________ and bloodless; she assured did n’t actually have a boat, but she assures you that in her religion, you that when she has a crew ready, the re was plenty of
+she’ll find one. You’ve had to leave blood. As the night you r board, since the waves suck after wore on and the crowd
+sundown, but you keep busy with axe thinned, you got to talk and shield training and Norwegian to her personally. She
+lessons. Monterey looks like a good did n’t understand place to go a-Viking. what “surfing” meant, Concept: Everything in life but when you said you
+fell you r way, and now you’ve been rode the waves, the given the opportunity to fight in the gleam in her eye was
+greatest battle at the end of time by unmistakable. When the most gorgeous woman you’ve you left with her that
+ever seen. What could be better? night, you thought
+Roleplaying Hints: No wave you were going to get is too big, no enemy too fierce. You lucky. You had no idea. throw you rself into you r new role, You thought the horned
+partying, boasting and brawling helmets and her three with spirit. You know you’re not friends were just kinky, but
+the sharpest knife in the drawer, after they kicked you r ass but that’s okay. you r job is n’t to you could n’t move for days. think too much. So now you’re, like, a
+Equipment: Two automatic vampire. More importantly, pistols, driftwood stakes, sunshe’s teaching you to be a glasses, ultra-casual surf clothes
+Viking. She was kind of disappointed when she learned you
+Chapter three: beasts amonG men
+
+=== PAGE 89 === p s r Ovin Cial COur Ge
+Quote: It’ll hurt less if you quit squirmin’, you stupid sumbitch. Prelude: Mama always said you were a little high- NAME: NATURE:Sadist GENERATION: 11th strung. Not you r fault. You tried to calm do wn — ain’t C P H LA R Y O E N R IC: LE: D CL E A M N E: A G N a O n R g: B re r l a vo H CO A N V C E E N P: T: Provincial Scourge no one can tell you you did n’t try, dammit — but it just ATTRIBUTES
+would n’t happen. Went to school, got a job, did all the Strength__ P _ H __ Y _ S _ IC _ A __ L __O__O_O_O_O Charisma__ S __ O _ C _ I _ A _ L _____O_O__O_O Perception_ M __ E _ N _ T _ A _ L ____O_O_O__OO shit you’re s’posed to. Kept gettin’ fired. Kept gettin’ in D St e a x m te in ri a ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O M Ap a p n e ip ar u a l n at c i e o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ O O _ _ O O _ _ O O I W nt i e ts ll _ i _ ge _ n _ c _ e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _O O _O O fights. Fought with the boss. Fought with that dumbass ABILITIES
+TV repairman. Fought with the preacher, even. Not too TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O proud of that one. Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O were n’t even regular fights, sad to say. Sometimes Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O you were drunk. Other times it were n’t even you who Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O started it — some fool who crawled up you r tailpipe got Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O what he deserved and that’s that. Ended up bouncin’ at
+ADVANTAGES the stripper bar over on Highway 50. Never could bring BACKGROUNDS DISCIPLINES VIRTUES you rself to strike a woman, which was prob’ly you r saving _ _ G M _ _ e e _ _ n n _ _ e t _ _ r o _ _ a r _ _ t_ _ io_ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O of P _ _r _ _ o o _ _ r t _ _ t e _ _ it a _ _ u n _ _ d_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO grace in that job. Kicked a lot of trucker ass, though. Heh. _ _ R S _ _ e t _ _a s_ _ o t _ _u u_ _s r_ _ c_ _ e_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ __ O O_ O O P_ _ o_ _ t_ _ e_ _ n_ _ _ _ c_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO
+Funny how you never see some things comin’. Got ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO in one fight too many the re in the strip bar. Last one was nasty. Lost a lot of skin. Grows back, though, ‘least MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised it do es now. That guy was bad news. Made you into a __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 damn vampire. Brought you into some political _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2 bullshit, now you gotta work for the vampire _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ C In r c ip ap p a le c d itated -5 king or some crapola and he’s out the re _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ how lin’ across the plains. King’s work __________________________ ain’t bad, though. You know, if you gotta be stuck do in’ somethin’ you may as well
+get you r kicks from it. Concept: Rather than destroying you, the prince spared you r unlife in exchange for you undertaking a certain responsibility. He made you the scourge. Now, you thin the ranks of the Kindred, culling the thin-blooded from
+the herd. It all makes sense to you — you all eviate the overpopulation and it keeps the prince from worrying about some deranged prophecy. what ever, at least it’s not you meeting the Final
+Death. Apparently, princes have that right. Roleplaying Hints: You are a coward and a bully, than kful for you r position because it all ows you to victimize those weaker than you. Anyone stronger than you earns you r
+resentment immediately. Anyone strong enough to kill you earns you r grudging respect. You get along with some folks, like this coterie thing, but most people are simply the re for you to push around
+or hurt. Or, in some cases, kill. Hey, it’s the hand God dealt ya. Equipment: Boots with razors taped to the heels, the watch daddy gave you, pocketknife with a blade an inch over the legal limit, Chevy pickup
+Clanbook: Gan Grel
+
+=== PAGE 90 ===
+Chapter three: beasts amonG men
+
+___I__n_____t_____im__________id_____a_____t___i__o_____n_____
+_____S_____u___r__v_____i__v___a_____l______________________________
+__________________________________________________
+____________________________________________________________
+___O_______c_____cu_____l_____t_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___B_____r__a_____w_____l_____, D_____o_____d_____g_____e_____
+_____S_____tr_____e_____e_____t_____w_____is_____e____________________
+__________________________________________________
+____________________________________________________________
+___B_____r__a_____w_____l______________________________
+_____S_____u___r__v_____i__v___a_____l__
+___x_____
+2____________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_______a___l_____
+K_____e_____n__________
+_____M_____e_____le_____e________________________________________
+__________________________________________________
+____________________________________________________________
+___A_______n_____im_____a_____l_____
+K_____e_____n_____ x_____
+
+_____S_____te_____a_____l_____th___________________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___S_______h_____r_____e__w________d____________________
+____________________________________________________________
+_____P_____o_____t___e_______n_____c_____e_____
+(_____P___r__o_____w__________e_____s_____s_____)__________________________________________________
+___P__a_____t_____i_____e_____nt_________________________
+____________________________________________________________
+_____ F_____e_____r_____a_____l___
+__C_____la_____w__________s_____, E__________a___r__t_____h_____
+_____M_____e_____l_____d_____)_________________________
+___I__n_____t_____u_____i_____ti_____v_____e_______________
+____________________________________________________________
+_____F_____e_____r__a___l_____
+C_____l_____a___w_______s_____)______________________________________________________________________
+___I__n_____t_____u_____i_____ti_____v_____e_____ x_____ 2_____
+____________________________________________________________
+_____P___r__o_____t_____e_____a_____n_____
+(_____E_____y_____e_____s_____ o_____f_____ t_____h_____e_____B_____e_____a_____st_____
+__,_____________
+___A_______t_____te_____n_____t_____i_____ve_______________
+____________________________________________________________
+_____Pr_____o_____t_____e_____a_____n
+_____(e_____y_____e_____s_____ o_____f_____ t_____h_____e_____
+B_____e_____a_____s_____t,_____
+__________
+___A_______t_____te_____n_____t_____i_____ve_______________
+____________________________________________________________
+_____B_____e___c__k_____o_____n_____in_____g_____)___________________________________________________________________________
+___A_______le_____r_____t______________________________
+W__________i_____ly_____________________________________________
+_____F_____or_____t_____it_____u_____d_____e_____
+(_____E_____n_____d_____u_____ra_____n_____c_____e_____)______________________________
+___A_______le_____r_____t______________________________
+____________________________________________________________
+_____A_____n_____im_____a_____l_____is_____m_____
+(_____F_____e_____r_____a_____l
+W__________h_____i_____sp_____e_____r_____s_____,__________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___F__r_____ie_____n_____d_____ly_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C__h_____a_____r_____is_____m_____at_____i__c___(cid:17)__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___I__n_____t_____im_____i___d__a_____t_____in_____g_____ x_____
+
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___A_______llu_____r_____in_____g_________________________
+_____P_____a_____t_____ie_____n_____t______________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____Q_____u_____i_____c_____k_________________________
+T__________o_____u_____g___h_______ x_____
+2_________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____E_____n_____d_____u_____r_____in_____g_____
+_____x_____
+
+W__________i_____r_____y________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____F_____e_____r_____o__c___i_____o_____u___s__
+___x_______
+
+R__________u__g___g_____e_____d___________________________________
+M__________e_____nt_____o_____r_____ x_____ 1_______________
+____________________________________________________________
+_____E_____n_____e_____r_____g_____e_____t_____ic__________
+T__________e_____n_____a___c__i_____o_____u_____s_____
+_______________
+__________________________________________________
+____________________________________________________________
+_____B_____r_____a_____w_____n_____y____________________
+R__________o__b________u___s__t___________________________________
+I_____n_____f_____lu_____e_____n_____ce_____
+(_____S_____t_____re e_____t_____ x_____
+1_____)________________________________________
+_____A_____g_____i_____le_____
+_________________________
+R__________u__g___g_____e_____d___________________________________
+__________________________________________________
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+G_____e_____n_____e_____r_____at_____io_____n_____ x_____ 2_____
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+C_______o___n_____t_____a_____c_____t_____s_____ x_____ 1_____
+____R____e____so____u____r____c____e__s__
+__x__
+____2________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+G_____e_____n_____e_____r_____at_____io_____n_____ x_____ 5_____ ________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31) e_____g_____ru_____o_____cS_____
+__l___a__i___c__n___i__v___o_____rP_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+__________a_____r_____b_____a_____c___a__p_____u_____h_____C_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+________________________________________le_____r_____g_____n_____a_____G_____NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+________________________________________le_____r_____g_____n_____a_____G_____NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________h_____t1_____1_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________h_____t_____8_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+_________________________t__s___i_____d_____a_____S_______________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________d_____li_____h_____C_______________EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________o__v___a_____r_____B__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+____________________t_____n_____a_____iv_____e_____D__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 91 ===
+C hupa Ca Bra
+Quote: …Sangre… desea sangre…
+Prelude: Tales of the blood-sucking devils always plagued you r town. Farmers never left the ir goats outside; parents sent the ir children to bed before night had fully fallen. The marauding blood-drinkers had terrified the town for so long, it had finally begun to die — no one ever came the re, and people were too afraid of the monsters to try to flee. Night after night, the entire population cowered in its shanty houses and prayed for the first rays of the sun. Of course, no one had ever seen the monsters up close. It’s not that the chupacabra would murder people in the ir homes, but they would certainly drink dry rats, cats and anything else left outside after dark. Every now and the n a
+drifter would disappear with out a trace, but no one do ubted that his blood fed the beasts just past the porch lights. One night, you stayed too long at the market, even as the proprietress hurried you out. Out of the shadows, the creature dragged you do wn, gorged itself on you r blood — and the n dragged you into its wretched unlife. It was lonely, it said, but you knew with in a few nights that the two of you could not stay together — it was too monstrous, you could n’t relate. You lacked the conviction to step into the next sunrise, so you fled. And so it has been since the n, fleeing, hiding and fleeing again when you r “hosts” raise the ir rifles and pitchforks against you. Concept: You are the night-monster, more afraid of you rself than even the terrorized others are of you. Unlife is a vagabond ritual; you’re just going through the motions and following you r urge. Every now and the n, you
+remember some bit of what you r life used to be, but those memories fade as the hunger burns in you r dead belly. All you want is blood, anymore — and the more blood, the better. In fact, you might even take it from a person sometime soon. Roleplaying Hints: Only with the greatest effort can you be social, and that becomes more difficult with each passing night. You do n’t hate the other chupacabra, you just do n’t relate to the m. Every now and the n you fall in
+with a pack of the m, but rarely for any length of time — you r solitary nature drives you to leave the pack and hunt on you r own. Equipment: Filthy tatters of the clothes in which you were
+Embraced, random bones and feathers
+NAME: NATURE:Child GENERATION: 8th
+PLAYER: DEMEANOR: Deviant have N: CHRONICLE: CLAN: Gangrel CONCEPT: Chupacabra
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL
+Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES
+TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES
+_G_e_n_e_r_a_t_io_n___________O_O_O__OO A__n_im__a_l_is_m____________O_O_O__OO Conscience/ConvictionOOOOO
+____________________O_O_O__OO P_r_o_t_e_a_n______________O_O_O__OO
+____________________O_O_O_OO ____________________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised
+__________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1
+__________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5
+__________________________ Incapacitated
+_ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________
+__________________________
+Clanbook: Gan Grel
+
+=== PAGE 92 ===
+O blow that killed “Abel,” the archetypal wandering herder. utlanders
+How such a thing would create vampirism is unclear. n Beckett has a dry sense of humor that suits him well
+Of Ote in dealing with the immortal undead; during many conversations, only his closest friends would recognize that he
+The following Gangrel might be encountered by sprinkles quiet, personal jokes throughout his questions any group of player characters in an or dinary chronicle; and responses. Truly elder vampires of ten miss the humor each of the m can fit into several slots, and should be
+in his statements, or choose to ignore such trivialities. customized to fit a given chronicle. Perhaps it fits the
+Beckett’s wit is easily turned on his enemies; it is a simple
+Storyteller’s needs for Ramona to be a male, or for Mark thing for him to rile an opponent to berserk fury. Decker to have become prince of Chicago. Storytellers are encouraged to make such changes as best fit the ir games. Beckett and the Sabbat priscus Sascha Vykos have fought repeatedly since the Gangrel’s Embrace. the se
+Some of the se characters are shown in greater detail in conflicts have earned Beckett a reputation of being very
+Children of the Night; the ir descriptions here are intended difficult to kill; indeed, one story says that he escaped his foe primarily to introduce the m and give an idea of the ir activity during a daytime battle by dashing across a hundred yards
+since the release of that book. Storytellers are encouraged of sunlight to safety. The nature of Beckett’s conflict with to use any of the following characters in what ever fashion
+Vykos is not clear to most Kindred, but it is clear that the seems most appropriate, giving the m Traits as necessary. two have of ten sought the same Noddist artifacts. Of course, Players might wish to tie the ir characters’ backgrounds to neither shows a particular will ingness to share such toys. such potent individuals; they should be sure to consult with the ir local Storyteller before do ing so. Beckett’s closest all ies are the independent pair
+Lucita and Anatole. Lucita, a Lasombra antitribu assasB eCKett sin, shows a curious platonic love for the Malkavian
+The Gangrel explorer/historian who calls himself prophet Anatole; the three have worked together in
+Beckett do es his best to remain an enigma. He is a Noddist the past to learn the true nature of the Antediluvians in the truest sense of the word. Though he do es not follow and for estall the coming Gehenna. the Sabbat’s Path of Caine, his driving goal is to determine
+B the true history of the Kindred race, and especially the runhilde early history of Caine and the Antediluvians in Enoch. Brunhilde remembers little of her mortal life; she for ces ranging from the impersonal and destructive hand was the daughter of a Viking chieftain and respected for
+of entropy to the very personal vampires of the Sabbat and her own strength and courage. She no longer remembers
+Camarilla conspire to keep him from learning the truth, the sun. Even her Embrace more than a millennium ago as he sees it. the refore he attempts to avoid vampiric is a blurred memory here in the Final Nights. Her sire is conflict where possible, preferring only to face the sorts a mystery; she knows only that it was not the All-High. of problems that mortal archaeologists must confront. He Her sire paid his fealty to the All-High, and Brunhilde has had moderate success with this, for surely not every needed no supernatural compulsion to do the same. She
+vampire of the Sabbat and Camarilla is arrayed against him. walked among the vargr of the far north, taking the role the All-High gave her and her packsisters. they acted
+By most accounts, Beckett is an elder — perhaps three as Waelkyrige, the Choosers of the Slain, who picked centuries dead — but he possesses a pragmatic attitude the finest warriors to join the m in the afterlife. toward the Camarilla and Sabbat that is more frequently
+seen among only those Kindred who predate the existence Brunhilde fought the Christians when they came of both sects. Rumors abound that Beckett is very old north. For more than two centuries, with her liege-lord indeed but has undergone something of a revival in the and comrades falling to torpor or Final Death all around last 300 years, perhaps adopting the “Beckett” identity at her, the Gangrel ambushed southern vampires and scatthat time. Beckett has, in his fashion, been an independent tered the ir ashes as warning to the invaders’ brethren. Gangrel since well before Xaviar’s recent proclamation. He But it did no good. Eventually, Brunhilde herself fell
+was one of the primary commentators on a short print run into a wearied torpor, not rousing until the First World
+Book of Nod put together partly by his sometime mentor War. She gathered her remaining Waelkyrige to her in
+Aristotle de Laurent back in 1992. In that book, Beckett central Sweden, where they kept a low profile for decades. was the first to publicly suggest that the Caine legend was One cold winter night in 1977, the Choosers of the simply a myth representing historical conflict between Slain found the ir greatest hope and fear come true. Only nomadic hunter-gatherers and the first agricultural people. an hour after sundown, one of Brunhilde’s sisters reported
+He suggested that “Caine” was not hing more than the that a coterie of Camarilla Kindred a few miles from impersonal for ce driving humanity to cultivate fields to the Waelkyriges’ have n had made a gruesome discovery. better sustain a large population, and that for ce was the A pack of six were wolves had been drained of blood
+Chapter three: beasts amonG men
+
+=== PAGE 93 === and left to freeze solid on the icy plain. On a hunch, i nyan Ga
+Brunhilde became a raven and flew to the cave in which
+Inyanga is truly ancient; Embraced by a Roman the All-High’s icy for m had rested for hundreds of years. expatriate just after the Ostrogoths’ sacking of that city, the re she found the ice a little thicker on the she has championed the cause of the mortals underfoot in ground, and the All-High’s great ice cairn melted away. what Kindred too of ten see as the ir world for more than a
+The Methuselah himself lay torpid on bare stone, where milllennium. Inyanga has been active in the Great Lakes once the block of ice had rested. Fresh blood flecked his are a of North America since emerging from torpor in the beard, but the elder Kindred did not move or respond to late 18th century. She travels regularly, throughout both speech or touch. The All-High did not move again for five North and South America, but of late has concentrated
+years; in 1982 he similarly devoured a group of what the her attention on Chicago and Milwaukee. Waelkyrige describe as “Wild Ones.” He has not budged
+In the years after her Embrace, Inyanga walked since, but since a particularly vivid dream of Ragnarok the wild parts of the world. She had no kinship with last summer, Brunhilde has spent her days in the ancient’s
+the shapechangers of Africa or the wilds of Europe, of cave, close — but not too close — to her liege. course, but she was wise and fleet of foot, and she had
+In 1986 Brunhilde took the life of Swedish Prime an edge that many Cainites of her clan lacked. In life
+Minister Olaf Palme. This is not rumor; it is fact that she’d learned a ritual to become a living leopard. That the Waelkyriges’ leader gladly admits — she claims his ability got Inyanga out of one nascent conflict with blood tasted rather bitter. how ever, Brunhilde is unwill- cat-changers, as she convinced the m that a vampire ing to discuss her motives for the killing. Her packsisters that could become a living being could n’t be entirely
+believe that Brunhilde killed the Prime Minister either cursed by the ir earth and sun gods. to declare her return to activity to the collective princes
+She spent her first centuries in Africa, where of Scandinavia, or she was nudged into do ing so by the she met the secretive Kindred known as Laibon who torpid All-High. populate Africa’s great cities. In the modern nights she
+Since her dreams of Ragnarok, Brunhilde has be- maintains contact with only a few of the m; most of her come more curious about the state of the world at large. contemporaries have long since returned to the earth
+To satisfy some of this curiosity, she recently sent four of from which they sprang. She traveled into Europe only a her you ngest packsisters to California, the Anarch Free few times during her first millennium; she felt European
+State. The you ng vampires of California have as little Cainites’ distrust almost palpably and recoiled from it. regard for the bureaucrats of the Camarilla as Brunhilde She had not hing to do with the Camarilla, and indeed and her sisters do, and she considers the are a to be a was ignorant of it for several decades. Inyanga challenged potentially prime recruiting ground. a monstrous Malkavian along the Ivory Coast in 1537; The Waelkyrige recruiting movement among the though she was victorious, she fell into a long torpor. anarchs has recently seen some resistance; it seems When she awoke, Inyanga was in Baltimore; her that the for mer Justicar Xaviar also desires the aid of vast hunger caused her to kill several mortals before
+the independent members of his clan. Representatives regaining her senses. She fled westward, to the growing of each group play to the anarchs’ desires as best they city of Chicago, where she helped found a relatively can. Certainly four blonde, Nordic warrior women can independent Kindred stronghold. She saw her share of make quite an impression on newly Embraced men of conflicts with the other Cainites of Chicago, but her
+the clan, but the ir description of unlife on the high tendency to travel far and wide left her out of the most seas, and honor and service to a higher cause, has risen vicious Cainite politics of the city. to the attention of more than one anarch. It remains
+Inyanga was away from Chicago when the horde only a matter of time before that pitch comes to the of Lupines descended. Some preternatural sense had attention of Xaviar’s group. warned her of impending danger, and she took that op In the meantime, the Waelkyrige in Europe have made portunity to roam the Great Plains once again. When
+it powerfully clear to the princes of the north that they she returned she found chaos. Prince Lodin had met have no interest in any sectarian politics, nor in joining Final Death, torn limb from limb by enraged Lupines. A the circus they call the Camarilla. That is not to say that do zen others all competed for his title, and she refused they desire any all egiance with the Sabbat, which is clearly to support any of the m. The contenders saw the great
+a collection of dishonorable monsters. For the time being, city Lodin had built as a jewel; they did not see the
+Brunhilde watches the vampires of the world scramble labor and sacrifice required of the now-destroyed prince. around in response to her. Decisive action can wait. Inyanga had never particularly championed the
+(For more information and Traits for Brunhilde, see Camarilla. It is a European or ganization, and one in
+Children of the Night, p. 80.) which Africans are not well-represented. Additionally, Clanbook: Gan Grel
+
+=== PAGE 94 === due to the circumstances of her Embrace, Inyanga has “hunting expeditions,” torpor and the “need to roam.” always tried to keep the best interests of mortal humanity The eldest vampires of the Sabbat might mention that in the front of her mind. While she understands that the Seraph has always felt such urges, but the n, they’re
+the Masquerade helps protect Kindred from kine, she never asked about such things, and freely acknowledge knows full well that the Camarilla uses the Masquerade that any vampire of such advanced age has foibles. to do minate and abuse humanity. Aajav-Khan knows more than a few secrets from
+When Xaviar approached Inyanga to describe the the Sabbat at large. Chief among the m is that he knew creature he had seen and explain why he had chosen to the nature of the manus nigrum, the so-called True Black leave his post as justicar, he found an interested ear and Hand. And he knows that the manus nigrum is no longer a tentative all y. Inyanga took her leave of the Chicago a power among Cainites. they have been decimated, primogen quietly. Of that group only the Nosferatu Khalid the ir power base destroyed and the ir morale sapped. knows that she has left the sect, while the others imagine The members of the Black Hand who m Jalan-Aajav
+that she has undertaken another tour of the Americas, has come across in recent months have been hollow and go about the ir business. The Gangrel of Chicago are shells of the mselves; for mer glory echoes inside the ir aware that Inyanga has left the Camarilla, though she left corpses, with little of the old fire to spur the m onward. the m to make the ir own decisions in that regard. The Wolf Currently, Jalan-Aajav works with the other Sabbat
+Pack coterie remains staunchly part of the Camarilla; most Black Hand Seraphs to coordinate a massive push against others in the city have chosen the independent’s path. Camarilla holdings across the United States. Recent
+(For more information on Inyanga, see Chicago by activity in the Southeast has been moderately successful; Night, Second Edition, reprinted in Chicago Chron- Jalan-Aajav urges his fellow Seraphs to agree to a plan icles, Volume 2.) centered on the scuttling of Chicago, after which the other cities of the north central US should be relatively
+J -a alan a Jav obtainable targets. For the time being, this plan centers on
+Aajav-Khan, as his subordinates call him, is a pothe activity of Philippe Rigaud, a Gangrel agent already tent warlord of the Sabbat. At massive gatherings of in Chicago. Rigaud was successful in provoking a Lupine the sect, he tells of the ancient nights, when he rode
+attack on the city, but disagreement between the various with Temujin-called-Genghis-Khan. It do es not take
+Seraphs of the Black Hand made it impossible to take long before such stories bring even the most boisterous advantage of Chicago’s chaos and strike decisively the re. Sabbat packs to awed silence. (For more information and Traits for Jalan-Aajav, Aajav-Khan’s aura is not merely streaked with the see Children of the Night, p. 9.)
+spidery black lines of diablerie — it is black, mottled by
+K patches of color. He has committed diablerie do zens of arsh times throughout his unlife, starting with his own sire Karsh tells those few who he trusts that he was a in nights long past, and continuing through vampiric citizen of the Ottoman Empire some eight centuries ago. enemies of all sorts. Perhaps obviously, the Seraph has He was a great general in life, though perhaps a bit too
+not restricted his Amaranth to enemies of greater power. headstrong. His sire was a wild spirit, a wolf of the desert
+The horrid ecstasy of consuming another vampire’s sands; Karsh rarely speaks of him. Karsh is something of soul is too great to avoid simply because a foe might be a rarity among Camarilla Kindred. He follows the Path further removed from Caine than he is. of the Feral Heart rather than the Path of Humanity. Only half a do zen members of the Sabbat rival Jalan- He makes no apology for this; Karsh is older than the
+Aajav in terms of raw power, and politically only the Camarilla itself, and would not abandon his moral code regent has more authority. He is steadfastly loyal to the simply because some self-important Toreador insisted that sect, and appears will ing to sacrifice his unlife to defeat Kindred should conceal the mselves among humankind. the blasphemous Antediluvians. He has been a part of Over the centuries, those few who dared raise a hand the Sabbat since before its members called the mselves against him found example made of the mselves as they
+Sabbat; he was loyal to Lugoj’s ideals throughout the were left as piles of ashes on a riverbank. No Camarilla
+Anarch Revolt and to the Sicilian Lasombra as they vampire has challenged Karsh in this way in centuries. spilled the ir progenitor’s unholy vitae. Karsh was one of the first Gangrel to pledge his
+Although his activity goes unquestioned by other all egiance to the Ventrue Hardestadt’s nascent Camavampires, occasionally Jalan-Aajav do es drop out of sight rilla in the mid-15th century. Only Milov Petrenkov for years at a time. Few other members of the Sword of is not able as having come to the group earlier. Karsh’s
+Caine would even mention such a thing in passing, but presence and stern demeanor won over several elder when the subject do es come up, Jalan-Aajav refers to Gangrel during the sect’s for mative years; his tactical prowess won over at least a few others. Chapter three: beasts amonG men
+
+=== PAGE 95 ===
+Karsh is a vampire of few words. His true motiva- sented the Inner Council with the remains of his mad tions are of ten a mystery even to those who consider late clanbrother, the for mer Justicar Elijah. With this, him a close all y. He is an honorable creature; he do es not Xaviar became the last Gangrel justicar. use assassins, nor do es he strike at his enemies through Xaviar knows better than any other Cainite that surprise. Karsh is a master of small-group tactics, how- the get of Caine have truly entered the Final Nights. Of ever, and is will ing to use what ever advantages present the seven justicars of the Camarilla, he was ostensibly
+the mselves in close combat. Karsh’s directions have led the best-traveled. Certainly the other six went from city the Camarilla to esttablish the mselves in several Sabbat to city when events called for it, but for the most part cities over the last 10 years, and more than one of those they stayed in the ir home cities, cowing the resident was recaptured with out a single gunshot or sword thrust. princes into quiet near-inactivity while they coordinated
+Karsh has personally overseen the direction of the actions of archons across four continents. Xaviar those for mer archons serving under Xaviar who did not traveled — and he still do es. leave the ir posts when Xaviar departed. Those archons So it was Xaviar who first heard reports of the have been split up; they do not serve as a single group, disaster in Kashmir, and it was Xaviar who faced the for what should be obvious reasons. Karsh uses those bearer of an obscenely powerful artifact in upstate New
+archons for non-critical research and investigation. York. Perhaps unfortunately, it was Xaviar who fled this
+Other Kindred attend him when he comes into conflict last challenge. And — so the rumors have it — it was with Sabbat targets. Xaviar who encountered something else in the warm
+Although Karsh and Xaviar were never close, the New England nights. Something ancient beyond words; Warlord now refuses to speak of the for mer justicar. For something that scared him. Karsh, it is as though Elijah was the last justicar of Clan Of course, those are just rumors. All the average
+Gangrel. He considers Xaviar to be a traitor to the Inner Gangrel knows for certain is that Xaviar went to the
+Council — Karsh has made it clear to Gangrel who remain Inner Council of the Camarilla and demanded somepart of the Camarilla that any tales that filter back into thing. When his demand was not met, he resigned his
+Camarilla cities of Xaviar’s brush with vast power are posting as justicar and vowed that his clan would no not hing more than the cries of schoolchildren. He seems longer walk with the other six. Was the re no Gangrel to believe that Xaviar fled the Camarilla out of irrational representative on the Inner Council, someone who fear, and in so do ing weakened the sect’s foundation. might countermand such a proclamation? Apparently
+Karsh’s archons recently began to infiltrate Xaviar’s not, unless one counts Warlord Karsh, for he alone stood
+“independent Gangrel” movement. Xaviar has powers for th to contradict Xaviar’s announcement. The harpies to read a Kindred soul, but Karsh’s spies can hide the ir have a do zen questions and a hundred answers, but the true motives from even such a deep reading. Or so they Inner Council is not known for its proclivity to gossip. hope — Xaviar seems to have adopted the m into his Xaviar and Karsh most certainly hate each other now; group and has given the m assignments for the time being. each speaks of the other as being a traitor. (For more information and Traits for Karsh, see Xaviar is confident that the Antediluvians of myth
+Children of the Night, p. 67.) exist, and that some of the m may once again stalk the nighttime world. To this end, he has attempted to sway x aviar
+any Gangrel who approach him openly and honestly —
+Xavier de Calais was a warrior in the Hundred Years’ if they stand outside the great sects of Kindred society. War. His valor in service of the English crown earned
+He has no love for either Kindred who hide behind the him a knighthood and his boldness on the field earned
+Camarilla nor monsters of the Sabbat. Once again he him the Embrace of Rhun the Minstrel, a Gangrel acts as sergeant, coordinating packs of Gangrel who stand ancient of some repute. Rhun abandoned the fledgling
+by his cause. He insists that they remain mobile, for a
+“Xaviar,” as is of ten the Gangrel way. After too many moving vampire is a harder meal for the Antediluvians nights and corpses spent mastering his primal urges for than one who remains in the city, and he periodically
+blood and darkness, Xaviar headed north into the was tes requires the m to provide “scouting reports” of territory of Scandinavia. the re he hunted men and beasts for through which they have recently passed. more than a century; most of the bestial features of his
+Slowly, Xaviar has amassed an enormous database current visage date back to this wild time. of supernatural activity. Of course, this database is only
+Eventually, Xaviar returned to civilized lands; he in his head; Xaviar would n’t know a computer if an learned of the Camarilla and its Masquerade, and, apenemy dropped one on him. But he spends hours each proving of the latter, joined the for mer. He quickly rose
+night attempting to correlate disparate reports from in its ranks, gaining a wide reputation as a fearsome packs under his command. sergeant of Kindred. In 1704, in America, Xaviar pre Clanbook: Gan Grel
+
+=== PAGE 96 ===
+The truth, which loyal packs rarely discuss even happened fast, and quickly snowballed out of control. among the mselves, is that Xaviar may be simply obses- She saw, stalked, saved, almost killed, the n buried a sive and paranoid. Something terrified him once, and beautiful you ng girl, Zhavon. A mysterious stranger, he builds an army to defend himself from it. Or, more Tanner, followed Ramona from Los Angeles to New frighteningly, this is all a ruse. Xaviar is building an army; York, saving her from the Sabbat, the sun and a stake. it may not be to find the Antediluvians and defend the And worst, the monster, human-shaped but for that world from the m. It might just be that Xaviar decided ichor-dripping eye, who tied the who le mess of the m
+he wanted an army. together in a flesh-colored knot. The monster stole
+(For information and Traits for Xaviar, see Children Zhavon, and warped and destroyed Jen and Darnell. of the Night, p. 91.) Tanner called the Gangrel together, and suddenly
+Ramona had a clan and a sire, a father and a family who expected her to know her place and listen to directions. the re was even a grandfather, Xaviar, who treated Tanner like Tanner treated her. It did n’t last long, though — the monster with the eye destroyed most of the assembled pack, leaving
+Ramona, the whelp, to drag the crippled Xaviar away from the fire and blood. Ramona remembers this last, the destruction of her newfound clanmates, with a horrifying clarity. She bears a gift from the Cherokee medicine man, Blackfeather, and the curse of his prediction of the future: “The Final Nights are at hand, and you r road will be a difficult one.” The ghost sight
+he pressed into her burned images of the lost and the chant of the ir names into her brain. Ramona ran, from the creature with the eye, from
+Xaviar, from the field of so much death. She learned what she is, Gangrel, and who made her what she is. The litany of dead names do es not all ow her to rest, though. She must give the list, and the story, to every r Gangrel she encounters in her frantic wandering. And am Ona
+so the story spreads among the clan, and lost friends
+Background: (Ramona is the protagonist of Clan are mourned. Novel: Gangrel. If you’d like to read the book with its
+Image: Ramona is lean and wiry, her skin a light plot points intact, read no further here.) bronze under all the dirt. The tumultuous events of
+Ramona was alive just three years ago, but already it her short life and shorter existence as a vampire make seems like a lifetime away, memories bleached do wn to her visibly wary. Her dark hair is wild but short, barely
+black and white. Los Angeles was a shitty place to live, covering the furred and pointed tips of her ears. Her but at least it was predictable: Staying away from drug deformed, digitigrade feet are impossible to hide; she dealers, pimps and gangs of any color kept her alive to
+goes barefoot by necessity, showing unmistakable talons see another day. Ramona followed all the rules, but the and elongated toes. vampire found her anyway — or maybe he found her
+Roleplaying Hints: You’ve been dead such a short because. Alone and starving in the city, she fled friends while, and you’ve seen so much: Lupines, Sabbat monand family before she could n’t resist the ir blood. The sters, the terror of the attack on the strange vampire in
+memories from this time have all bled into each other, New York. Blackfeather said that you r road would be shades of all the Los Angelenos who died while Ramona difficult, and you’re sure you have n’t seen the worst of learned to control her hunger and her new powers. The
+it yet. Some nights you regret that you did n’t continue city was pretty crowded with vampires, some of the m trying to make it on you r own. Still, where ver you are, a brutal gang called the Sabbat, so Ramona and three nobody pushes you around. When the big boys clean
+other “or phans” hit the road for a better place to eke up the mess they made, the n they can give you or ders. out survival. Eddie died again in Texas, ripped in half by a were wolf’s claws. Unable to find a place to settle Clan: Gangrel do wn, Ramona and the others, Jen and Darnell, kept Sire: Tanner
+driving until they ran out of road in New York City. Nature: Rogue
+Here things became confusing for Ramona — events Demeanor: Rebel
+Chapter three: beasts amonG men
+
+=== PAGE 97 ===
+Generation: 11th in resistance to his command. When the horse bucked, Embrace: 1998 threw him, and galloped away, Sutton, than kfully only
+Apparent Age: Late teens bruised, furiously shouted after the beast. The shouting did no good, and distracted him from not icing the undead
+Physical: Strength 2, Dexterity 4, Stamina 3 predator who assaulted and Embraced him. Social: Charisma 2, Manipulation 2, Appearance 2
+It took Sutton Gassaway a month to grow accus Mental: Perception 3, Intelligence 2, Wits 3 tomed to his unliving state; at the end of this period, Talents: Alertness 4, Athletics 2, Brawl 1, do dge 3, his sire, a Gangrel named Aaron, explained that he’d
+Empathy 2, Leadership 1, Streetwise 3, Subterfuge 1 been watching the Gassaway ranch for months and
+Skills: Drive 2, Firearms 1, Security 1, Stealth 3, had decided to pass the “gift of immortality” to Sutton. Survival 3
+Sutton was only mildly discomfited as Aaron told him
+Knowledges: Academics 1, Investigation 1, Law 1, of his new true nature; pragmatic, he accepted vampir Linguistics (Spanish) 1, Medicine 1 is m as the cost he would have to pay for eternal “life.”
+Disciplines: Animalism 1, for titude 2, Protean 3 Gassaway had a few run-ins with anarchs and Sabbat
+Backgrounds: all ies 1, Contacts 2, Status 2 vampires through the Pacific Northwest, but Aaron had
+Virtues: Conscience 4, Self-Control 2, Courage 3 warned him to keep his distance from Lupines, and he
+Morality: Humanity 6 did that quite well. Still voraciously literate, he spent will power: 5 his long, empty nights reading everything he could get his hands on. H.G. Wells was a particular favorite, and when pulp science fiction magazines became popular
+after the Great War, Sutton spent night after night on distant planets or at the bottom of the ocean, entranced. In the late 1930s, Sutton’s luck ran out. After too many nights alone in the wilderness, he came to the attention of a pack of anarchs that had fled the Free
+State to the northern Rockies. The battle, which ran through the streets of Helena, was rather one-sided. Gassaway did n’t have a chance against the anarchs’ nnumbers. Finally, he broke into the new Hammond
+Building, do ve into the basement, and found a patch of bare earth large enough for him to sink into to recover from his wounds. By the time he emerged from his torpor, he found himself trapped — the Hammond Building’s basement had been cemented over and he could not
+break out. Resigned to a long entombment, Gassaway slipped into a deep unconsciousness. He awoke from his long imprisonment in 1999; the Hammond Building in Helena was scheduled for demolition, and since he was under the basement, the s G, utt On assaway building’s implosion knocked him out of torpor and into
+w a is hful na Chr Onism consciousness. Several nights passed in which Sutton
+Background: Sutton Gassaway was born in only hunted and fed; Montana game wardens are still
+Montana in 1861, just before it became the Montana on the lookout for Gassaway, who they think must’ve
+Territory. His parents were ranchers who had fled westbeen a bear. When Sutton regained the ability to speak, ward to escape the risk of war when the South declared he learned that it was 1999. Driven by curiosity, he its independence. He worked long, hard days on his headed for more populous territory. parents’ ranch, and in the evenings the Gassaway family
+It took Sutton Gassaway two nights to reach Seattle, escaped into books and song. Sutton never received any and he was astonished and overjoyed at what he saw: he for mal schooling, but by age 19 he certainly read with really was in the future. But certain things just were n’t
+greater proficiency than any you ng man with in 50 miles. right. For one thing, the anarchs were still around; he
+One evening, on a long ride home from a shopping was sure they’d be eradicated by now. But more importrip to Bannack, Sutton not iced that his horse was tantly, where were the personal air cars? Where were acting strangely; it would shift from a can ter to a walk
+the rocket platforms for transportation to the Mars and and back with out his command, and more than once
+Venus colonies? Where were the damned ray-guns?! Clanbook: Gan Grel
+
+=== PAGE 98 ===
+The kine of 1999 were obsessed with Internets and Knowledges: Academics 4 (Victorian Literature), Fimegahertz and, of all things, the stock market. Sutton nance 1, Investigation 2, Law 1, Linguistics 2, Medicine heard no talk of space colonies or undersea cities, and 1, Occult 1, Politics 1, Science 2 he got strange looks when he asked about the m in the Disciplines: Animalism 2, Auspex 2, for titude 2, Protean 3 library or the coffee shop. Backgrounds: Contacts 2, Herd 1, Resources 2
+Gassaway has learned of his clan’s departure from the Virtues: Conscience 3, Self-Control 3, Courage 4
+Camarilla, but he’s not sure what he thinks of it yet. For
+Morality: Humanity 6 the time being, he stays in Seattle, working as an assistant will power: 7 professor of English (specializing in Victorian literature)
+and looking for a clue as to what modern society is all about, while do ing his best to stifle the activity of any anarch vampires he runs into. He’s a little concerned about the rumors of Gehenna, and has been trying to
+figure out a way to help kick-start the American space exploration program, so that if Gehenna do es come, the se poor mortals, who lack personal for ce fields, can flee to a safe planet. Image: A tall, thickly built man, Gassaway presents the archetypal “mountain man” Gangrel appearance
+when he first wakes up in the evening. If he has the time to do so, he shaves his bushy beard and trims his scraggly, should er-length brown hair before going out in public; when pressed for time he’s a furry beast-man
+barely recognizable as the clean-shaven Dr. Gassaway. Roleplaying Hints: Affect an air of erudition combined with a real lack of understanding of the modern world. Expect technology that do esn’t exist; show confusion when presented with real tech (“Mobile telephone? Why would n’t you just use you r wrist communicator?”). You’re
+not an idiot; in fact, you’re bright and well-read. But you’re d r. a llan t. w OOdstOCK utterly unfamiliar with popular culture, and you expected Background: Dr. Woodstock’s promising research that since you woke up in the year 1999 things would be career at Cambridge University was cut short by significantly more futuristic. You’re a little disappointed that the Great War. He was drafted by the armed for ces, they are so mundane. You do n’t really consider you rself to marched quickly through of ficer training and hurried
+be cursed; yes, you r temper has worsened, and you’re hairier into a lab full of scientists who se job was to refine and and perhaps a bit uglier than you once were, and the re is develop delivery systems for deadly mustard gas and the blood is sue, but for the most part you’re thrilled with other chemical weapons. Troubled by thoughts of his the opportunity to watch the future come to you. you ng wife and daughter alone at home, he turned his
+Clan: Gangrel tremendous intellect to the grim task of killing thousands
+Sire: Aaron the Coward of enemy soldiers. The military tested his weapons on
+Nature: Competitor rats, rabbits, do gs — what ever could be caught and
+Demeanor: Curmudgeon caged to see how quickly it would die. Lieutenant
+Woodstock’s commanding of ficer was not satisfied with
+Generation: 9th animal testing, and or dered the scientists to run the ir
+Embrace: 1881 tests on human subjects: soldiers wounded in the field, Apparent Age: 21 perhaps beyond hope, some of the m prisoners of war. Physical: Strength 4, Dexterity 2, Stamina 4 (Tireless)
+The horrified Woodstock refused, and the major busted
+Social: Charisma 2, Manipulation 2, Appearance 1 the principled scientist do wn to sergeant and sent him
+Mental: Perception 4 (Careful), Intelligence 3, Wits 3 out with the infantry. Sergeant Woodstock died at the
+Talents: Alertness 2, Athletics 1, Brawl 2, do dge 2, Battle of Verdun, in the sixth month of the conflict. Intimidation 2, Leadership 1 A scavenging Gangrel found him on the field, his blood
+Skills: Animal Ken 2, Drive 1, Firearms 2, Stealth 3, pumping weakly into the mud, breath barely rattling from
+Survival 2 his lungs. Dr. Woodstock do es not remember his sire, and wonders to this night whether the shadowy creature sensed
+Chapter three: beasts amonG men
+
+=== PAGE 99 === that he was somehow different from the other do ughboys humans invent for the mselves, and that conscience cost dead and dying on the battlefield, or whether it was simply him his life so many years ago. The subject of his most his warm blood and his sire’s sloppiness that bought him recently completed experiment is a you ng Toreador named
+immortality. The Kindred vitae filled his broken body with Anna. Dr. Woodstock watched her grow from infancy to enough strength to sink deep into the bloodstained ground. a beautiful you ng woman; the addition of Toreador blood
+The war was long over when he reemerged, the Germans to two decades of careful devotion has sent the normally pushed back, his infantry company gone home; and his reserved scientist into a tizzy. He has traded in a king’s you ng wife, who thought him dead, remarried — which ransom in prestation debt to secure Anna’s continued was undoubtedly for the best. Dr. Woodstock took refuge existence. Her sire, perturbed by the experiment’s lack
+in his science with a pharmaceutical company will ing to of positive results, had threatened to invoke his right of make scheduling all owances for a talented but shell-shocked destruction, but Dr. Woodstock can not imagine his exisyoung veteran. His brilliant and steady work brought him tence with out her after so many years. to the attention of London’s Lady Anne Bowesley, who Dr. Woodstock maintains a small (but expensive) sent her retainers to explore the niceties of bringing the laboratory with two ghouled research assistants (his retainpromising mortal into Clan Ventrue. She took his prior ers). He fills the gaps between his Discipline experiments
+Embrace with good grace, and eased his introduction to with more conventional research, and publishes his results
+Kindred society with her influence — in exchange for through a network of scientists in universities and the corcertain investigations. porate world. His appearance has degraded over the years: Dr. Woodstock kept his head do wn during World his left leg now bends backward at the knee like the hind
+War II. It was a convenient time to leave London for the leg of an animal, and his habitually worn lab coat hides wide expanse of Greenland in the company of his clan- the patchwork of assorted fur that covers most of his torso. mates, to learn the ways and traditions of the Gangrel. Image: Dr. Woodstock prefers pressed wool trou The do ctor has remained active and mobile since sers, crisp shirts and ties under his worn but clean lab the close of that war, maintaining a permanent have n in coats. On extended trips he will relax his wardrobe
+London but moving his compact laboratory facilities from into colonial-style khakis. The bifocals perched on city to city — sometimes countries or continents away. the end of his nose are part affectation, and part handy
+The focus of his research has changed through the years. magnifying glass. Although he finds the human body and its interaction Roleplaying Hints: Science used to be the most with Kindred vitae fascinating, the unexplainable, magical important thing in you r life. You have n’t fallen out abilities possessed by vampires keep him awake during of love with you r experiments, but you have become the day, designing studies that will all ow him to define enchanted by one of the m. Anna is the only thing that
+Disciplines precisely, mathematically, scientifically. His can tear you away from you r studies with out frustration, results have been frustrating, since it has proven nearly and you would do absolutely anything to maintain her impossible to repeat the results of any given study. The affection for you. variations and exceptional uses of Disciplines that he Clan: Gangrel has recorded in decades of study are of interest to princes
+Sire: Unknown and elders. Dr. Woodstock do esn’t really understand why
+Nature: Perfectionist such unreliable results would be valuable to anyone —
+Demeanor: Pedagogue indeed, he has read compiled research by one do uglas
+Generation: 10th
+Netchurch, which seems much more complete than his own. Nonetheless, they are the currency with which he Embrace: 1916 has maintained his good relations with the Camarilla Apparent Age: Late 20s and the princes in who se do mains he resides. Physical: Strength 4, Dexterity 3, Stamina 5
+He takes advantage of his unnatural span of years by Social: Charisma 3, Manipulation 2, Appearance 1 conducting experiments that take exceptionally long to Mental: Perception 3, Intelligence 5, Wits 3 complete. Among other schemes, he has blinded you ng
+Talents: Alertness 4, Athletics 2, Brawl 3, do dge 2, vampires and Embraced the congenitally blind to compare
+Empathy 2, Intimidation 2, Leadership 2, Subterfuge 1 the ir adaptation of the Protean Discipline; and Embraced
+Skills: Animal Ken 4, Crafts 2, Drive 2, Etiquette 2, and ghouled identical twins to compare the ir learning
+Firearms 3, Melee 2, Stealth 2, Survival 3 speeds and skills. His experiments with human and Kindred
+Knowledges: Academics 4, Computer 1, Finance 1, subjects, and the occasional deaths of those upon who m
+Investigation 3, Linguistics 3, Medicine 4, Occult 3, he feeds, cause him occasional twinges of conscience —
+Politics 2, Science 4 twinges he pushes do wn with reminders of the horrors
+Disciplines: Animalism 2, Auspex 2, for titude 2, Protean 4
+Clanbook: Gan Grel
+
+=== PAGE 100 ===
+Backgrounds: all ies 3, Clan Prestige 2, Contacts 3, Ulisyan Thracs was found to have been destroyed near
+Generation 5, Influence 2, Resources 4, Retainers 2, Racine. Less than a week later, a group of neonates de Status 3 stroyed an obviously insane Prince Terence Merik — who, Virtues: Conscience 2, Self-Control 5, Courage 4 it seemed, had been responsible for Thracs’ death. Several
+Morality: Humanity 5 months after that, Lupines attacked Chicago en masse, killing its prince and decimating its undead population. will power: 5
+Milwaukee’s Kindred society splintered after Merik’s death. Some took the side of the corpulent Ventrue Gracis, while others sided with the Brujah Scott. A few refugees fled north from Chicago, but many simply sat back, biding the ir time and waiting for a bold vampire to claim the title. The power struggle lasted months, and while the Kindred
+fought and argued, Lupines and a German vampire-hunter picked of f Cainites throughout Milwaukee. When the horde of Lupines struck Chicago, Decker finally gave up his self-imposed exile from the Council of Milwaukee. He believed that if the infighting paralyzing the Kindred of Milwaukee did not cease, they could
+not avoid Chicago’s fate. He approached the ancient
+Ventrue Hrothulf — whether to secure the old one’s assistance or assure his noninterference is unclear — and the n paid a visit to Gracis’ have n. Decker slew the
+Roman Ventrue the n returned do wntown. With the
+Anubi arrayed behind him, Decker entered Elysium and declared himself prince. Decker’s gambit might have failed at once, but the remaining council members saw him as an unknown, and m d, r p as such preferable to an enemy otherwise jockeying for
+arK eCKer elu Ctant rin Ce Of m ilwau Kee the throne. Additionally, years of Lupine fighting had
+Background: Lucian, a Roman-era Gangrel, Em- taken Decker’s martial talents to an unheard-of level; braced Decker during the American Revolutionary though Scott had designs on the throne, he showed no
+War. The you ng commander was a “sorrow Embrace”, to interest in duelling the leader of the Anubi. hear him tell it. Lucian could n’t bear to kill him when Due mainly to the Lupine threat, Decker keeps he’d only intended to feed from the dead or dying, so Milwaukee on a war footing. for mer Anubi fill most he gave Decker the Embrace. In some for m or other, major positions in the city, and meetings with the council
+Decker has been fighting ever since. have become an of t-for gotten for mality. He enforces the
+He took over an Alabama plantation with his sire in Traditions strictly, and regularly disallows even ghoul the early 19th century, feeding well and regularly from creation as a Masquerade risk. what ever understanding the slaves, but the War Between the States for ced him he reached with Hrothulf has since faded; he prevented to take up arms again. After the war, the plantation the ancient Ventrue from siring a childe a few years ago, destroyed and his slaves freed, Decker traveled north, earning that elder’s enmity. finally settling in the sleepy little town of Milwaukee. Xaviar’s break with the Camarilla has complicated
+Decker maintained a simple have n the re until a pack of Decker’s unlife even farther. The prince did not know
+Lupines ambushed him, for cing him into panicked flight. the justicar well, and mistrusted the rumors he’d heard, When he awoke after his terrified frenzy, Decker found choosing to remain nominally a part of the Camarilla. that he’d killed and drained his small herd of mortals. But an old all y from the Cold War, the ancient Gangrel
+He vowed vengeance and for med the Anubi, a group Inyanga, now spends as much time in Milwaukee as dedicated to defending the Kindred from Lupines. Over Chicago. Inyanga has left the Camarilla, as she is far the next century, the Anubi set the mselves apart from more concerned with her own well-being than sectar Milwaukee’s Kindred society and triumphantly claimed ian struggle. Decker and Inyanga have become close, nearly a score of Lupine scalps as prizes. the you ng warrior learning secrets from the old witch; All would have continued in the same vein if the her influence has him giving serious consideration to do main of Milwaukee had not been shaken with three pulling Milwaukee out of the Camarilla and declaring
+successive shocks from early 1992 to mid-’93. First, Justicar it a free city. Chapter three: beasts amonG men
+
+=== PAGE 101 ===
+Image: Mark Decker is a tall, slim man. Like most Embrace: 1777
+Kindred, his skin is nearly white; his hair is coal black. Apparent Age: mid-20s
+If it were not for the aura of menace he exudes, he might
+Physical: Strength 5, Dexterity 5, Stamina 5 seem sickly. His voice rasps when he talks, due to a throat
+Social: Charisma 4, Manipulation 3, Appearance 2 scar earned in a long-ago Lupine battle. He is haggard
+Mental: Perception 5, Intelligence 3, Wits 3 (for merly and seems more tired than an immortal should. His
+5, before his nerves began to fray) eyes flick back and for th in a somewhat frantic fashion
+Talents: Alertness 4, Athletics 2, Brawl 5, do dge 5, when he is for ced to stay in long meetings. Intimidation 3, Leadership 4, Streetwise 3, Subterfuge 3
+Roleplaying Hints: You’re distracted most of the
+Skills: Animal Ken 2, Drive 3, Etiquette 2, Firearms 5, time. You’ve been fighting a war of some kind or other
+Melee 5, Security 4, Stealth 5 for more than two centuries, and you’re tired, but you can not rest. You know that if you rest, more of you r Knowledges: Academics 1, Camarilla Lore 2, Inves-
+(for mer) people die (again), and you’re sure that if you tigation 3, Linguistics 2 (French, German), Medicine let go for long enough to really rest you’ll drop into 2, Politics 2 torpor for a decade or three. You are exhausted, drawn Disciplines: Animalism 3, Auspex 2, Celerity 5, do miand paying attention to too many things at once. nate 1, for titude 3, Obfuscate 4, Potence 3, Protean 5
+Clan: Gangrel Backgrounds: all ies 2, Resources 3, Retainers 5, Status 4
+Nature: Fanatic Virtues: Conscience 2, Self-Control 3, Courage 5
+Demeanor: Survivor Morality: Humanity 5
+Generation: 9th will power: 7
+Clanbook: Gan Grel
+
+=== PAGE 102 ===
+™ n: n: G: ame ature enerati On p: d: s: layer emean Or ire
+C: C: h: hr Oni Cle On Cept aven a ttri but es p s m
+hysi Cal OCial ental
+Strength____________O__O_O_O_O Charisma____________O_O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O_O__O_O Wits________________O_O_O_OO a
+Bilities t s K alents Kills n Owled Ges
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge______________O__O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O_O__O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O_O__O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O_O__O_O_O a dvanta Ges
+B d v aCKGr Ounds is Ciplines irtues
+____________________O_O_O__OO ____________________O_O_O_O_O Conscience/ConvictionOOOOO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Courage____________OOOOO m /f h /p h erits laws umanity ath ealth
+__________________________ __________________________ Bruised
+__________________________ O O O O O O O O O O Hurt -1
+__________________________ Injured -1
+__________________________ w illp Ower Wounded -2
+__________________________ Mauled -2
+O O O O O O O O O O
+__________________________ Crippled -5
+__________________________ Incapacitated
+__________________________
+B lOOd p OOl w ea Kness
+__________________________
+Incurable Derangement
+__________________________
+__________________________
+
+=== PAGE 103 ===
+O t the r raits
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O r e ituals xperien Ce n ame l evel t Otal: _______________________________
+________________________________________ t s:_________________________
+Otal pent
+________________________________________
+Spent on: ________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________ d eran Gements
+________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+________________________________________
+_________________________________________
+B B / v lOOd Onds in Culi
+B Ound tO r atinG B Ound tO r atinG
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+Om Bat a weap On dama Ge ran Ge rate Clip COn Ceal rm Or
+
+=== PAGE 104 ===
+™ e B xpanded aCKGr Ound a llies m ent Or
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+________________C_O__n_t_a_C__t_s__________________________________r__e_s_O_u__r_C_e_s_______________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________ f__a_m_e_ ____________________________________ r__e_t_a_i_n_e_r_s________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________h__e_r_d______________________________________ _s_t_a__t_u_s_ ________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_______________ _i_____________________________________________O_______________________ nfluen Ce the r
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ p
+Ossessi Ons
+____________________________________________________________________________________
+G (C ) e (O ) ear arried Quipment wned
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________ f________ G________________________________________ v________________________ eedinG r Ounds ehi Cles
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+______________________________________h______________________________________________ avens
+______ l__
+__ a
+_ t
+_ i
+_ n
+_ ________________________________d__ e
+_ s
+_ r
+_ i
+_ p
+_ t
+_ i
+_ n
+_________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+=== PAGE 105 ===
+™ h is t or y p
+relude
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ a ppearan Ce
+____________________________________________________________________________________
+____________________________________________________________________________________ a Ge _________________________________________________________________________________ apparent a Ge ______________________________________________________________________ date Of Birth ________________________________________________________________________
+RIP________________________________________________________________________________ hair ________________________________________________________________________________ eyes _________________________________________________________________________________ ra Ce ________________________________________________________________________________
+nati Onality __________________________________________________________________________ hei Ght ___________________________________________________________________________________ wei Ght ___________________________________________________________________________________ sex __________________________________________________________________________________
+v is uals
+C Oterie C hart C hara Cter s Ket Ch
+
+=== PAGE 106 ===
+TM
+NNoobbllee SSaavvaaggeess?? OOrr SSaavvaaggeess UUnnbboouunndd?? AAss rroogguueess aanndd wwaannddeerreerrss,, tthhee GGaannggrreell hhaavvee aallwwaayyss ppllaacceedd tthheemmsseellvveess aappaarrtt ffrroomm ootthheerr KKiinnddrreedd.. TThhee OOuuttllaannddeerrss hhaavvee nnoo nneeeedd ffoorr tthhee ppeettttyy JJyyhhaaddss aanndd uusseelleessss ssnniippiinngg ooff tthhee uunnddeeaadd —— tthheeyy aarree vvaammppiirreess,, tthhee hhiigghheesstt oorrddeerr ooff bbeeaassttss!! NNooww CCllaann GGaannggrreell
+pprroowwllss tthhee nniigghhtt uunnffeetttteerreedd bbyy tthhee ttrraaddiittiioonnss ooff tthhee ccrruummbblliinngg
+CCaammaarriillllaa.. TThheeyy hhaavvee ffiinnaallllyy ccaalllleedd tthhee nniigghhtt tthheeiirr oowwnn.. CCllaannbbooookk:: GGaannggrreell IInnlluuddeess:: •• AA llooookk aatt tthhee ccllaann tthhaatt ffoorrssooookk tthhee CCaammaarriillllaa’’ss iivvoorryy ttoowweerr aanndd hhuunnttss aalloonnee;; •• IInncclluuddeess ddeettaaiillss oonn eevveerryy aassppeecctt ooff GGaannggrreell uunnlliiffee,, ffrroomm tthheeiirr eeaarrlliieesstt nniigghhttss ttoo tthhee sseecceessssiioonn ffrroomm tthhee CCaammaarriillllaa;; •• DDeessccrriibbeess nneeww sseeccrreettss,, DDiisscciipplliinnee ppoowweerrss aanndd lloorree ooff tthhee ccllaann.. W W W. W H I T E - W O L F. C O M is BN 1-56504-265-4
+WW2352 $14.95 U.S. PRINTED IN USA
+CL
+A
+L NB
+A
+OO
+B: OOK: CLANBOOK:

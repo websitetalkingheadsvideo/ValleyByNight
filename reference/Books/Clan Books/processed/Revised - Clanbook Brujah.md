@@ -1,0 +1,1799 @@
+=== PAGE 1 ===
+CLANBOOK: BRUJAH
+WW2351
+TM BRUJAH
+TM
+TM
+
+=== PAGE 2 === c l A n B O O K: ™
+B J A y ustin chilli
+Contents
+
+=== PAGE 3 === c redits s peci Al t h An Ks
+Chris “you ng Cameron” Mc do nough, for the digitally edited
+Written and Developed by: Justin Achilli works in progress (with sound effects). Mind’s Eye the atre Systems by: Deird’re Brooks
+Mike “Suburbia” Tinney, for dragging the time-honored
+Editor: James Stewart custom of karaoke into the depths. Art Director: Richard Thomas
+Becky “do minatrix” Jollensten, for literally whipping the
+Layout & Typesetting: Becky Jollensten old copier into shape. Interior Art: Mike Danza, Steve Ellis, Michael Gaydos, Phil “Ickybod” Boulle, for starting with calzones and ending
+Leif Jones, and Chris Shy with bottled American Bud with a brief stop at Sleepy Hollow
+Front Cover Art: John Van Fleet in the middle. Front & Back Cover Design: Becky Jollensten Steve “Bane Mummy” Wieck, for making the servants of
+Apophis all wussy. F B
+At Oll Oc Ks
+The coffee-spilling, bathroom-defiling, trash-stacking Shinty. © 2000 White Wolf Publishing, Inc. All rights reserved. Reproduction with out the written permission of the publisher is expressly for bidden, except for the purposes of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire the Masquerade, Vampire
+the Dark Ages, Mage the Ascension, World of Darkness and
+Aberrant are registered trademarks of White Wolf Publishing, Inc. All rights reserved. were wolf the Apocalypse, Wraith the Oblivion, Changeling the Dreaming, Hunter the Reckoning, were wolf the Wild West, Mage the Sorcerers Crusade, Wraith the Great War, Trinity, Guide to the Camarilla, Guide to the Sabbat, Vampire Storytellers Handbook and
+Clanbook Brujah are trademarks of White Wolf Publishing, Inc. All rights reserved. All characters, names, places and text herein are copyrighted by White Wolf Publishing, Inc. The mention of or reference to any company or product in the se pages is not a challenge to the trademark or copyright concerned. Clanbook: brujah
+
+=== PAGE 4 === c l A n B O O K: ™
+Ontents
+A n l A O 4 ight i Ke ny the r c O: M c 12 h Apter ne illenniAOF On Flict
+c t: u A B 34 h Apter wO nli Fe MOngthe ruJAh c t: t r ’ r 70 h Apter hree he ABBle s AnK
+Contents
+
+=== PAGE 5 ===
+Clanbook: brujah
+
+=== PAGE 6 ===
+A n l ight i Ke
+A O ny the r
+If I had n’t crashed my car, I might not be a vampire. I remember standing on the street corner, waiting for a bus, thinking, “Jesus, do es it always rain in this city?” That was the night I died. When I look back on it now, I think of it like all those other rainy nights — as if God personally punctuated another for mative chapter of my life with rain because he thought the symbolism had n’t yet been beaten to death. It rained when my girlfriend dumped me (“It’s not you, it’s me”). It rained when
+they diagnosed my mother with lung can cer and it rained when I went to the hospice to see her. It rained the day I wrecked my car, which is why I was waiting for a bus in the first place. Cause and effect is a strange thing; if I did n’t have to wait for the bus, would my sire have found me? I had just stepped into the bus-stop kiosk. I collapsed my umbrella and shook the
+water from my coat, do ing both carefully so as not to spray the guy sitting on the bench. The kiosk had one of those backlit mini-billboard ads — a bright yellow sign advertising some Web site. The other guy sat in front of it, the light from the sign making him look jaundiced. We exchanged empty pleasantries, consciously avoiding eye contact and real conversation, just like everyone else in the city. Those rare times you do make eye contact with someone, he’s invariably some street lunatic, begging for money or waiting to
+stab you between the fifth and sixth rib. a night like any other
+I checked my watch — 6:27. It was winter, so it had already been dark for about an hour. I like that, or I guess it’s more appropriate to say I liked it. But anyway, I figured that I still had a good nine minutes before the bus showed up. With any luck, I could make it to the deli across the street and be back in time for the next bus. === PAGE 7 ===
+“Ain’t never going to happen,” said a voice from the end of the kiosk. “I beg you r pardon?” I asked. Dammit, I thought to myself, you answered. Now he’s going to talk to you. “I said, it ain’t never going to happen. You want to run over the re and pick up a sandwich or a newspaper or something and make it back in time to catch the bus. You know better than that. The second you step into that store, the bus’ll come. Fate.”
+I looked him over, preparing a devastating smirk of dismissal. He was one of those weird, arty types with frosted-lens glasses, straight-legged pants and a clingy shirt — either a starving artist or a millionaire Internet maverick. Well, at least he was n’t a derelict. And he had a point. Clanbook: brujah
+Still, it bothered me that I had been so tran6sparent. Perhaps he was just exceptionally perceptive, but it has n’t been my experience that overestimating people paid of f. === PAGE 8 ===
+“Was I that obvious?” I asked. “It’s not that you’re easy to read. You just carry you rself with a bearing that says you want more out of life and you’re will ing to take a risk to get it.”
+Damn! I should have seen this coming. He was trying to rope me into some marketing scheme or talk me into purchasing a time-share or something. “do n’t get pissed of f. It was a compliment — most people you see at bus stops are just going from home to work or from work to home, you know? It’s all they want to do — make ends meet. You, though. You’re different. You look for ward when you walk, not do wn. You
+shook the water of f you r jacket instead of letting it make you miserable. You wanted to pick up you r magazine but still catch the bus, so you’ve obviously got somewhere to be.”
+What the hell was this? It almost made me laugh. Here I was, trying to get my sandwich
+(not magazine) and make it home in time to see Jeopardy! and this guy was making me out to be some high-powered overachiever from a Tom Wolfe book. “But you do n’t see it in you rself. You do n’t let you rself want more.”
+A thunderhead broke and the rain came pouring do wn harder than before. * * *
+I woke to scratching at my window. I did n’t think to be scared. If I had thought about it for a moment, I’d have ignored it, because my apartment is on the sixth floor; it could have only been birds or rats. I did n’t think, though, and bolted upright when I heard the noise. It was the guy from the bus stop. He crouched on the sill outside, arms outstretched above his head, knees bent, legs dangling in the air. The ledge was only about six inches wide, but he seemed comfortably balanced. I should have screamed or ran. Called the police. Anything. I could n’t. He waved me
+over to him. I could n’t resist. He motioned for me to open the window, a growing smile crossing his face, showing more and more teetah na igh s t
+lI ike dan u y
+om th b er
+ly followed his instructions. As the window came open, I heard the rain outside. 7
+“It’s fucking soaking out here. Invite me in,” he said. So I did. === PAGE 9 ===
+My guest clambered through the window, now wearing a hip-length leather coat and a pair of creased wool pants. He had n’t changed his shirt from before, but now I could see the bold outlines of muscle beneath. He was n’t bulky, just defined, as if all of the extraneous fat
+that would have been on a typical person had been flensed away, leaving only what was vital. The bizarre circumstances had finally begun to register in my tired mind. A man
+I had met at a bus station had climbed through my sixth-story window because I had asked him in. “You think I’m wrong about you, do n’t you?” he asked, still smiling. “Wait… what do you mean?” I replied
+awkwardly, realizing just how much trouble
+I had brought upon myself. I inched back toward my bedroom do or. His smile had the features of a hunter, sharp and toothy. Even his eyes had the red glow of a predator, not the pale green glimmer of prey. He advanced, every step a lithe, purposeful motion, like a jungle cat on a Discovery Channel
+Clanbook: bs ru p ja e h cial. “You think you’re satisfied where you are? Wanting more than this little life of you rs makes you unhappy, so you ignore
+
+=== PAGE 10 === it. But you’re scared — scared that I can see it.” He continued slinking for ward as I stumbled backward, bumbling my way do wn the hall and into the kitchen. The floodlight from the billboard across the street reflected into the room, making it less dim than it should have
+been. It was a cold, sterile light, inorganic and unflattering; it made my guest look positively ghoulish. “I do n’t know what you’re talking about. I do n’t want anything. This apartment’s fine, and I have a decent job.” My voice quavered, sounding more like a sob as
+I rationalized myself to this dauntless freak. “I get all the channels. I’ve got my
+401(k).…”
+I scrabbled across the kitchen counter, grabbing a Sabatier chef’s knife, but sank to my knees on the linoleum. My eyes filled with tears. I did n’t really know what I was do ing with the knife. “Are you going to stab me? Why? Because you hate you rself? That’s a stupid reason to hurt me, is n’t it?”
+I nodded. The intruder placed his foot on my should er and shoved me do wn. I tumbled backward from my kneeling position, landing unceremoniously on my ass, still clutching the knife. My will had vanished, and I sucked in gasping breaths like a child crying himself to suffocation. “Take that knife and do what you need to do. I’ll run a bath for you.” As he turned his
+back to me, I sprang from my clumsy position. Burying the in his kidney, I slumped to the ground, not even caring that he still stood. As I lay on the floor in a pool of my own tears, I heard the knife clatter on the floor beside my head. I cringed at the sound and the tang of the blood. The man who m I had just stabbed in the back walked do wn the hall, past my bedroom, and ran a bath. Before long, steam billowed from the bathroom do or way. My guest returned to my side. “Come on, the n. No need to delay this.” He picked me up under my arms, handed a night like any other
+the knife back and gave me a push do wn the hallway. As I approached the bathroom, the trail of his blood grew fainter and fainter, as if the wound had closed itself while he walked. === PAGE 11 ===
+As I stumbled do wn the hall, I knew that what I was do ing was crazy. Still, I knew that death was better than what I had. Before I made it to the bathroom, I used the knife to score my wrists. Like my tormentor’s bloodstains in reverse, I left a small trickle at first that grew from a few spatters into a murky, viscous trail. Dropping the knife on the tiled
+bathroom floor, I climbed into the tub and died. * * *
+Thunder woke me, which made no sense. At first I thought I had dreamed it all, but my guest’s sardonic voice soon put my hopes of that to rest. “Welcome back.”
+I was in my bed. The window was closed and the clock blinked that annoying “12:00” over and over — the power had gone out at some point. I felt a warm, rusty nausea in my gut. “What happened?” I asked. “Well, that’s a long story. I have brought you among the Kindred, but I needed to be sure you wanted it first.”
+“So you made me kill myself? You son of a bitch…” I lost all my energy yelling at him, but I could feel a red haze rising in the back of my mind. I did n’t even know what he was talking about, but it pissed me of f. “What the fuck is the matter with you?” The red haze kept rising. “You come to my house, torture me and the n turn me into some kind of… some… what the fuck is this!”
+“That’s my boy! That’s the old Brujah spirit! It’s not fair, is it? What are you going to do about it?”
+“Screw you! What right do you have—“
+“Spare me the drama-queen dialog. You knew what I was when I asked you to open the window for me. You wanted this.…”
+“What the hell are you talking about? I do n’t want this! I did n’t ask you to…”
+“Make you a vampire?”
+“I do n’t even believe in vampires!”
+“That’s funny. You sure act like one.” He nodded his head to one side, indicating the corner of the bedroom. Clanbook: brujah
+
+In the corner lay the body of my neighbor, a Hispanic community college student. Her throat had been torn open, leaving ragged strips that dangled unwholesomely from the white and red marbling of he muscle beneath. Smeared blood streaked the front of her ruined body. Her blouse had been crudely torn and wrenched sideways. The mouth hung open. Glassy eyes peered at the room, seeing not hing. === PAGE 12 ===
+I had killed her — the nausea in my stomach was her blood warming me from with in. I vomited. Blood roared out of my mouth and all over the sheets. “do n’t was te it, shithead.” Like a bolt, he had risen from his seat and for ced my face do wn into the bloody mess. “Now take it back in. That’s a good boy.” for cing the sick back do wn again, I continued to retch, this time giving up less of the delicious fluid. It was disgusting — or gasmic pleasure from swallowing mouthfuls of blood. “Keep it do wn. You’re going to need that where you’re going.”
+“What? Where am I going?” I looked at the creature in a panic as he jerked me from my bed and hurled a handful of clothes at me. “Come on — it’s time for everyone to meet the new Kindred in town. Damn, if you can do this to you rself, just think of what you’ll be able to do to someone who pisses you of f! “Oh, and bring you r raincoat.” a night like any other
+
+=== PAGE 13 ===
+Clanbook: brujah
+
+=== PAGE 14 === c O: h Apter ne
+M illenniA
+OF On Flict
+This kind of experience is necessary for the learning. —The Venus in Furs, “Baby’s On Fire”
+The story of the Brujah reads like a shadow account
+How far the Brujah have fallen! How shiftless and of human history. Every major conflict in the World of impotent they are! Darkness has likely had a Brujah on one side or the other. Such are the common impressions held by members
+This do esn’t mean that every battle fought for the sake of other clans, from the elders who remember previous of the Thirty Years’ War had undead participants, but
+Brujah dispositions to the neonates who stumble into that some Brujah supported the Catholics while others anarchic Brujah do mains. As with any such simple supported the Calvinists. And that’s only on the surface. generalizations, though, the se are not altogether true. In
+Like mortals and of ten more so, the childer of Caine fact, more than anything else, the history of the Brujah harbor hidden agendas. Those Brujah involved in the has marked the m as agents of change, perhaps more so
+Thirty Years’ War may well have had no religious partithan any other Kindred. While Ventrue and Lasombra sanship at all, but may have supported German reform, tighten the ir talons around the ir ever-dwindling hold Dutch mercantilism, or any other cause or combination ings in the modern nights, as the Toreador squander of causes. As long as people have walked the earth, and
+unlife with debauches reminiscent of the aristocracies as long as the Kindred have stalked among the m, the of old, as the Nosferatu scuttle through the ir timeless
+Brujah have agitated, argued for change, effected it, or subterranean warrens, the Brujah evolve. From the proud been left to lick the ir wounds in the aftermath of the ir philosopher-kings of Biblical times to the prophets and
+failed revolutions. revolutionaries of the Final Nights, the Brujah have
+What do the Kindred truly know of the Brujah, always embodied a current zeitgeist. If the Brujah are though? What do the Rabble know about the mselves? raging fiends, it is because that is what the world now
+History blends seamlessly into legend when the demands of the m. Chapter one: Millennia of Confli Ct
+
+=== PAGE 15 ===
+Brujah are involved, and some secrets may never Caine had left his petty childer to bicker amongst be revealed. the mselves, Brujah awoke with a powerful thirst, To this end, the re’s no such thing as a concise his- more terrible than normal, and sought out a wine tory of Clan Brujah. The clan’s annals are not hing so merchant to buy a sanguinary potable to soothe much as a survey of individual exploits. Look, the n, him. When he arrived, the wine merchant thought
+upon the greatest achievements and basest treacheries he recognized him. of the Learned Clan. “Good evening, traveler of the night, and welcome to my tent. Sample any of my wares you wish, for are you not the one t s c known as [Brujah]?” he ec Ond ity
+The Cainite must have been in a contentious mood, or up to
+As far back as anyone claims to remember, the some villainy, because instead of telling the truth, he lied to the wine seller. history of the Brujah is fraught with controversy. Most
+“No, peasant, I am not [Brujah], but his brother, [Malkav], and
+Brujah believe that the ir legendary progenitor was my thirst pains me greatly. I have no need to taste you r wines; just himself a rebel. Of the Third Generation, Brujah may give me you r most potent.”
+have incited the parricide of the Second Generation. The merchant responded (as the se were mystical times, when
+Many believe that the other members of the Third the Kindred gods walked among men and could be spoken to, albeit
+Generation considered Brujah a troublemaker — they deferentially), “Are you sure, master? For I have seen you r face made him a scapegoat for the ir own crimes because before and I am almost certain that when we met, you introduced other Cainites believed that Brujah readily committed you rself as [Brujah].”
+any atrocity that came to his mind. By various legends “No, dirty lout, I have already told you to who m you are speakmad, bloodthirsty, afflicted with multiple personalities, ing. As plain as the stars, I am the brother of [Brujah], [Arikel]. or simply vicious beyond his peers’ comprehension, Now fetch my wine!”
+Kindred apocrypha is riddled with tales of Brujah’s “But, sir, you just told me that you are my master [Malkav], and now you claim to be his brother [Arikel], who m I believe to depredations. be a woman, though I have never met her.” The wine merchant
+One of the more common stories is that of Brugrew flustered, but knew his place and pleaded as diplomatically jah and the wine seller. In the Second City, after as he could. Clanbook: brujah
+
+=== PAGE 16 ===
+“Devil take you r beard, wine seller! Not only do you not bring “her.” A few accounts even specify that Troile had no me the goods you purport to sell, but you do ubt my honesty and my gender, or that it changed at whim. Because the majority bearing in the same breath! As surely as I am the son of [Zillah], of accounts make Troile masculine, this text assumes
+I will kill you!” And with that, Brujah slew the wine seller, drank such to be the case. his blood and took the wine he sought. He left do uble the price of
+In any event, the tales of Troile’s exploits have more the wine, for the merchant’s widow to find. in common with the modern Brujah mindset than the
+This story illustrates how the Kindred of the conflicting accounts of Brujah. Most Brujah accept that
+Second City abused the mortals with impunity and the ir lineage truly descends from this figure, instead of the hazards of not accepting the ir supremacy. No his equally mythical sire, for one reason: foul diablerie. one knows why Brujah chose to torment and finally
+Troile committed the Amaranth upon his sire, which kill the wine seller, but he exercised his rights under is one of the most popular reasons accepted for the the Second City’s law. If this tale is true, it answers
+start of the kinslayer wars that ultimately destroyed other questions, such as why the other members of the Second City. the Third Generation mistrusted Brujah, and why
+Troile’s short temper was also legendary, corthey might have chosen to saddle him with the guilt responding to the modern Brujah’s propensity for for the ir own misdeeds. frenzy. Pervasive rumors attribute a cold, detached
+Of course, as with any consideration of the Third demeanor to Troile’s sire, which may explain why
+Generation, other accounts of Brujah vary. In the par Brujah Embraced him — maybe he sought a difable “Brujah and the Three Coins,” the Antediluvian ferent viewpoint, or perhaps the Embrace resulted appears in a much more compassionate light, paying from a simple attraction of opposites. The Book of
+the magistrate’s legal fees for a destitute stonemason
+Nod describes the Brujah as the “Learned Clan,” with “a coin for justice, a coin for fairness, and a coin though none can say whether this refers to the for virtue.” In other tales, he appears as the passionate
+brood of Brujah or the descendents of Troile. Goadvocate for change so many of his lineage affect, as is ing for ward from the time of Troile and the Second the case in “Brujah and the Dead King.”
+City, the Brujah were still quite of ten philosophers, Running contrary to the rebellious image so of ten poets and historians as well as warriors. In fact, the attributed to the Antediluvian is the revisionist impres Curse of Troile — the clan’s propensity for rage — sion that a few Brujah uphold. the se Kindred claim that
+may be one of the more backhanded blights Caine
+Brujah was in fact an extremely conservative Cainite, attributed to his childer, much like the Nosferatu’s calm and logical. they of fer other interpretations of the reputed ugliness to atone for the ir progenitor’s vanparables: With his three coins, Brujah was do ing not hing ity. Instead of being left to watch and record the ir
+more than paying for justice as the wealthy sometimes world objectively, Caine may well have cursed the had to do for the poor in early civilizations; in “Brujah childer of Troile with wild passion. and the Dead King,” he saw the need for stability and
+The most disturbing legends of Troile owe much to placed someone on the throne to keep the state from the or al history of the period. Few stories place Troile degenerating into anarchy. and Brujah together at any time — the Kindred have
+Of course, both positions rely heavily on the one no accounts of, for example, Troile’s Embrace or the undeniable fact that arises when dealing with Antesire explaining the Curse of Caine to his childe. Skepdiluvians — no one can ever know for certain. Even tics among the clan speculate that Brujah and Troile
+the fundamental assumptions one makes are based on are the same Kindred — Brujah may have suddenly hearsay at best, which significantly affects the posineeded to change his identity or hide from some terrible tion most Rabble take on the matter of Brujah’s most
+foe, and fabricated his own diablerie to corroborate infamous progeny. his disappearance. The possibility, while remote, is t r Oile not altogether inconceivable: The inconsistencies
+A figure surrounded in as much mystery as Brujah in reports of Troile’s gender may have resulted from himself, Troile represents for many Rabble what has Brujah changing his appearance while he adapted to become the modern embodiment of the clan. his new identity. The radical shift in personality from
+Sources discussing Troile vary greatly, even on the “sire” to “childe” may have come in response to the matter of the childe’s gender. The Methuselah Meneleus new identity, or may stem from a curse bestowed by refers to his sire as “he,” while other Kindred Embraced the First Vampire. while Troile presumably still walked the land refer to
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 17 ===
+Most reasonable Brujah dismiss this tale as absurd. they posit that Troile committed a great treachery for which the ir clan atones nightly or, an account popular among Sabbat, that the war against
+the Antediluvians began long ago, justifying the ir
+Great Jyhad. By all modern belief, Troile has long since met the Final Death, if he, she or it ever existed at all. In this, the Brujah share the ideology of the Camarilla
+— Troile is simply the ir own version of the creation myth, intended to explain the twilight before recorded history. t d B he ivisi OnOF lOOd
+One of the most pervasive of Brujah rumors concerns the different lineages spawned by the se two presumably separate Cainites. The general consensus is that those Kindred calling the mselves descend from
+Troile, as described above. Some Kindred maintain that apart from Troile, Brujah Embraced certain other Kindred who survived the for mer’s treachery and Embraced broods of the ir own. Known through rumor as the “first brood” and the “True Brujah,” the se elusive Kindred spark controversy and fear with the merest whisper
+of the ir passing. Of course, few Kindred have ever met any verifiable members of this secret bloodline. While
+Gehenna draws nearer, reports of the True Brujah have arisen with alarming frequency, but the se accounts are secondhand, false, or impossible to authenticate. The rumors have a consistency, how ever, which
+even cynics have to consider. Self-avowed experts and
+Kindred historians sometimes attribute True Brujah with participation in the elusive “Black Hand,” a sect with in the Sabbat that has been confused with the entire sect in the past. The relationship between this
+fabled Black Hand and the Sabbat itself is unknown — some maintain that the Black Hand is merely another name for the Sabbat while others insist that it is an autonomous body. Still others hypothesize that the
+Black Hand is an entirely independent entity and the only one to which the True Brujah belong. Not to be outdone, some hysterical Kindred tell grave tales of the invisible sect’s collapse and the subsequent
+flight of the True Brujah to the lands of the ir or igin, northern Africa. Lacking definitive proof, the ultimate fate of the
+True Brujah remains half myth, half speculation. Clanbook: brujah
+
+=== PAGE 18 ===
+F c For centuries, Carthage enjoyed its debased
+ABled Arth Age prominence, with Brujah and Assamites walking as
+Tied inextricably to the demeanor of the clan is the veritable gods among the mortals of the city. The fate of Carthage, a once-thriving African port located Brujah Critias established a Socratic school the re; on the Mediterranean Sea. Karthadasht, by 600 B.C., Xenophon the historian received his Embrace the re; had become the capitol of the Phoenician civiliza- did a raised her own cult among the impoverished tion, and its history before that dates back perhaps and al-Ashrad visited in the nights before becoming
+150 years, though some legends place its or igins even Kindred himself. earlier. To hear those Brujah who spent part of the ir The enmity of Greece and later Rome conspired unlives in Carthage, the city was a utopia in which against Carthage in the long run, how ever. all ied
+Kindred and kine coexisted in flawless symbiosis. with the declining Etruscans, cut of f from the Persian you nger Brujah, including the more educated among Phoenicians, Carthage began its decline. Government the modern nights’ neonates, sometimes refer to the changed from a focused dictatorship to the rulership city as though they had been the re, conjuring an ideal of squabbling oligarchs — the sufet magistrates, nobles
+Cainite city-state free from the restrictions imposed and warmasters. As the Punic Wars came to a head, by the Masquerade. Almost all Brujah, whether or not Carthage’s coffers had been so plundered by greedy they have any grounds to do so, blame the Ventrue for nobles and selfish Kindred that the city could n’t afthe destruction of this idyllic city. for d to pay its armies. Instead, the rulers threw parties
+Although little concrete evidence exists, most and or gies for the soldiers to distract the m from the accounts of Carthage portray it as a pit of turpitude, fact that they could n’t be paid for the ir services. The at least at the time of its sacking by the Romans dur- Brujah had so decentralized the sufets and nobles with ing the Third Punic War (146 B.C.). The prominent the ir own power plays that they had no hope of winreligion, as in many Phoenician states, was Baalism, ning the Punic Wars, despite Hannibal’s ingenious
+which local Cainites twisted to the ir own ends. By tactics and those of the cunning Cainite do minic the time of its fall, the city hosted nightly bloodbaths; (see below). Meneleus left Carthage to seek aid from sacrifices of children, virgins and slaves; demonic the Nosferatu and Gangrel of the southern continent rites; or gies and all manner of luxurious indulgence. when the city’s great betrayal came, some say at the
+Certainly, the city had its glories — in her journals, hands of a beautiful Toreador who was Meneleus’s the ancient Kindred Altamira described Carthage nemesis. The Roman for ces swept in, influenced by as a city in “perfect harmony with the can aille, free a queasy coalition of Ventrue, Malkavians and a few from the restrictions of any prince. Some [Kindred] Toreador, and destroyed the city. had discovered how to control the Beast, and others Carthaginian Kindred fled as the city burned, and
+had been pulled back from the very depths of frenzy. the Romans salted the earth to prevent any who had
+Together, mortals and immortals [created] a won- taken shelter in the soil from rising. After the sack drous, eternal city of peace, progress and equality.” of the city, Carthage never again hosted the “idyllic”
+The reality of the matter was not so bright, how ever, conditions the Brujah ascribed to it. It came under due to the decadent rituals described above, the Roman rule after the Third Punic War and remained
+Phoenician conflict with Rome, the powerlust of part of the empire, weathering an invasion of Vandals
+Cainites and the short, brutal nature of life during in the 5th century A.D. and finally, destruction at the time. the hands of Arabs in 698 A.D. Karthadasht attracted many Kindred, though it The razing of Carthage profoundly affected the was most thoroughly influenced by Brujah, with a Brujah, to who m it had been a sort of home city, free significant body of Phoenician Assamites cultivat- from the ubiquitous influence of the Ventrue and
+ing a distant second share. The mighty warrior, Toreador elsewhere. Since that time, many Brujah or ator and reputed childe of Troile, Meneleus made have entertained, how ever unrealistically, the dream his have n the re, as did the barbarian philosopher of rebuilding Carthage or creating it anew at a dif Altamira. And the city suffered no dearth of mor- ferent location. To date, all of the se attempts have tal visionaries, such as the mighty Hannibal, the failed, and the Brujah still harbor a festering grudge.…
+scourge of Rome. Chapter one: Millennia of Confli Ct
+
+=== PAGE 19 === people had time for such luxuries as education. The
+F or g Otten i dylls portion of the population that wielded such knowl Certain do cuments, letters and passages sug- edge usually used it toward a different end — the gest that despite the horrors of Carthage, not all Church. Christianity had become the universal
+Brujah were idolaters and blood-soaked fiends. religion of Western Europe and even thrived under
+Many modern Brujah scholars can not help but different do gma in Eastern Europe. The population smile at this — the clan’s ignorant neonates of the Western world turned to the Church to proassume that the city was a Kindred utopia, the vide the m with the rewards of the afterlife; heaven more erudite maintain that it was a crucible of promised far more than the mortal coil, but only for blood, and those few who look even deeper than the just and faithful. the casual researchers have turned up a bit of can ny Kindred saw uses for the specialized skills
+evidence that the ignorant neonates might have of the clergy as well. Indeed, if not for the insight of been right, after all. the Church and a few Kindred who skulked with in its
+Although most concrete evidence suggests houses of God, the modern world might have turned that Carthage did indeed degenerate into a pit out a very different place. of arrogant, sacrificial debasement, at least one t i M e he rish On Astic nde Av Or
+group of Brujah desired more than blood-tithes. During the 5th through the 10th centuries, the
+Known as the Promethians, the se progressive
+Church existed for two ends. It served its true pur Brujah desired a return to the more idyllic inpose, to deliver the Word of God to his children. But carnation of Carthage, in which Kindred and the Church had also become an entity of immense mortals existed side by side symbiotically. Kindred
+political power, able to deny any individual access scholars in the modern nights are of two minds on to the Kingdom of Heaven. It owned lands, which the matter — some suggest that the Promethians
+was primarily the purview of the noble class, and were merely apologists who acknowledged the fall collected tithes, which the nobles levied and called of Carthage after the fact, while others ascribe
+taxes. As such, the Church had access to many of an active political agenda to the group during the benefits of nobility, as well as exemption from the time of Carthage’s thriving. Most Cainite
+taxation. It had a few other assets as well; the most historians agree, how ever, that the Promethians important was literacy. were active during the Dark Ages and probably for some time before that. Most clerical records of the period relate specifically
+to the Church — land deeds, interpretations of religious
+As is of ten the case, some the or is ts imply an texts, and the philosophies of the ologians. even more sinister relationship. The Promethians
+— mostly Brujah by the or y, no do ubt with a few In other cases, the Church — being the only
+Assamite Carthaginians as well — may well have institution with such a large body of literate scholars — some sort of link to a cult of Roman Ventrue, collected books, whether or not they served a religious
+Toreador and Malkavians, who are speculated purpose. After all, when the lord of the manor cares only to have become what is known as the Inconnu. for the taxes that pay his debts, and the peasant who
+The state of Golconda has been attributed more works the land tills the fields by day and eats a meager than once to each of the se groups (or perhaps meal by night, rare is the person who has a need for sub-factions with in the m…), and both have books. Before the invention of the printing press, each the common ground of the ir collapsed empires. book had to be crafted by hand — recording informa Certainly, stranger all egiances have been for ged tion took many hours, which, to the average person, over the course of Kindred history. were better dedicated to growing enough food to keep
+from starving. Two not able Irish Brujah knew the perils of lost d A he ArK ges ing this valuable information. As old and traveled
+Kindred, they knew other civilizations had ideas to
+As the Roman Empire disintegrated, the world of of fer. Likewise, the ideas that arose from those times the Cainites followed the lead of the mortal world, deserved to be recorded for posterity. To this end, degenerating into centuries of barbarism. As govern Clara of Cork and Fergal the Pious of Clan collected ments became purely local affairs and the economies
+the written word, making copies of valuable books and of Europe shifted to backbreaking agrarianism, few
+Clanbook: brujah
+
+=== PAGE 20 === saving the m in libraries for the edification of society. the oppressive Ventrue presence in Rome, many Brujah
+Clara, recognizing that those living contemplative lives relocated to the farthest provinces of the empire, to could devote a few hours to this noble end, put certain places like Pannonia, Dacia, and the lands surroundresidents of her abbey to work cataloguing, writing and ing the Carpathian Mountains — the are a known as copying books. Fergal, in the meantime, traveled all Transylvania. over Western and Eastern Europe, northern Africa, The mention of Transylvania, Hungary and the and the Near East in pursuit of written treasures. Danube usually conjures images of the Tzimisce, the
+As the rest of the world busied itself with wars of skulking Nosferatu and the most feral of Gangrel. In territory and the daily or deal of survival, the se two truth, the Hungarian Brujah were quite prolific, perhaps
+Kindred convinced other Irish abbots to undertake equaling the populations of the ir fellow clans. But the same preservative efforts in the ir own monasteries. because they were not the indigenous Kindred of the
+As a result, the Church’s libraries were repositories “land beyond the for est,” the local clans for ced the m of knowledge that would have otherwise been lost into relative obscurity. While most accounts of Tranto the world. with out the written legacy of human- sylvania feature marauding bands of Tzimisce or nests ity, it’s quite possible that the Dark Ages may have of Nosferatu, the Brujah played as important a role, if lasted for ever. a less legendary one, as the local Fiends. t c c
+t h he l AshOF ultures he igh
+The Brujah’s abandonment of the MalkavianM A and Ventrue-do minated inner Roman provinces iddle ges took place early in the Christian Era. Migrations of Brujah may have taken place as early as the first
+Many Kindred refer to the beginning of this period century A.D., and Rabble certainly accompanied the as “the Long Night,” an age just prior to the for mation armies of Trajan into the region shortly the reafter. It’s
+of the sects but subsequent to the brutality that folalso probable that Brujah rode with Attila the Hun, lowed the collapse of the Roman Empire. Having fled
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 21 === or at least followed in his wake. In fact, during the as they raged after the sack of Carthage, but even the first few centuries A.D., Eastern European and Near Rabble knew that something had to give. Eastern Brujah traveled with the Gangrel across the What the Brujah did n’t know was how far the land, pillaging with the barbarian hordes. Over the inevitable confrontation would go. Aside from its
+preceding the High Middle Ages, the Brujah found severity, the Brujah situation in Transylvania was the mselves in a curious position as they slowly settled not hing new — as long as the Kindred have existed into the valleys and for ests around the Carpathians they have warred with each other and all owed the ir and Danube. own vendettas to bleed out into the world around
+The or iginal mortal population of Romanians the m. This time, though, it was different. This was
+(Roman-Dacians) suffered a slow displacement as no mere antipathy for a rival group of Cainites, but a the Magyars, who would become “Hungarians” when fullscale hatred. The Transylvanian Brujah despised the kingdom earned its independence, settled the the encroaching Ventrue and the truculent Tzimisce. land. The Romanians, known as Vlachs, watched Rabble like do minic still bore the scars from the colthe Magyars usurp the ir power under conquests led lapse of Carthage while you nger Brujah saw the ir own by mortals and Kindred alike. Thus, the indigenous litany of failures at the hands of the ir enemies. The
+Vlachs had become a sort of underclass — the natives time for politics had passed — the frustrated Brujah of the land occupied the bottom rung of the social saw the ir sole option as open revolt. ladder. do minic, the Brujah warlord, accompanied The initial stirrings of the rebellion surfaced as the usurping Magyars and established a place for early as the 10th century. The patriarch do minic, himself among the burgeoning aristocracy. Along riding with the military for ces that invaded Eastern with a handful of Szeklers — Roman Catholics set- Hungary, had his brood feed vampiric vitae to the ir
+tling in the are a — the Brujah and Roman Ventrue soldiers. By making the m ghouls, do minic and his subjugated the or iginal stock from which the Tzimisce fellows not only created a more powerful army but lords and Gangrel prowlers had drawn the ir childer. also ensured the troops’ loyalty, or at least depen Buffered by Saxons to the West and threatened by dency. do minic set his sights on an all iance with the vestiges of the Goths and other barbaric tribes the powerful ruler, Bulscu, a lynchpin in his strategy
+to the east, Hungary suffered an identity crisis and to hamstring Ventrue influence. Bulscu had his own terrible social upheaval. plans, how ever, and saw dealing with Ventrue as more
+The Tzimisce aristocrats and the ir mortal fellows beneficial than committing himself to the spiteful struggled for do minance under the Brujah influx. and anarchic Brujah. Before long, Bulscu received
+The social balance shifted radically, with the or iginal the Ventrue Embrace, once again thwarting Brujah dwellers of the region occupying the highest and lowest plans to cripple the m. tiers, and the conquerors, immigrants and diplomats do minic was livid. After the Transylvanian assuming the levels above the serfdom and also the campaign, he turned his back on the larger Jyhad, lesser aristocracies. The lesser aristocracy, of course, focusing instead on his personal hatreds. His war was wanted to displace the existing rulers and assume no grand experiment to stave of f the ennui of his
+power the mselves. The native rulers resisted fiercely, elder years, but a murderous elimination of his foes. clashing with anyone it perceived as a threat. The As do minic reasoned, if he could n’t win the game, Romanian boyar nobles, among who m the Tzimisce he’d change the rules. invested the ir influence, slowly but surely gave way Other Brujah flocked to do minic’s banner, to the do minance of Ventrue-backed Magyars and for not only was he charismatic, experienced and
+Szeklers. potent, his personal crusade embodied the Brujah
+Clan Brujah, trapped between the imperialist passion. Other Brujah found the mselves inspired
+Ventrue and the hoary Tzimisce, rankled under the by him, as his rage against his many rivals ignited this powerful press. It was the ir influence that initially the emotions with in the m. do minic had no illuweakened the long-standing Tzimisce power in the sions as to the nature of this war: He did n’t want are a, which many Brujah sought for the mselves. The to lead a clan crusade, he wanted Final Death for
+Ventrue jackals, how ever, saw that Hungary seemed his foes. The rebellion became a guerrilla war, with ripe for the taking and rode the Brujah’s coattails, the Rabble using tactics almost unheard of at the basing the ir own bids for power on the efforts of the time. Packs of Brujah rampaged across Transylva Rabble who had gone before the m. The Brujah raged nia, striking against Magyar Ventrue, Romanian
+Clanbook: brujah
+
+=== PAGE 22 ===
+Tzimisce, is olated Nosferatu do mains and even mortal institutions. the ir fury unchecked, the l h
+AurelsOF is t or y
+Brujah terrorized Eastern Hungary and beyond. As has been not ed before, the Brujah have they were as brutal as any Tzimisce, but far less very little resembling a “clan history.” Still, to exacting, leaving sacked villages and exsanguinated
+use that as a basis to dismiss the contributions corpses in the ir wake. of certain Rabble throughout history is foolish
+For two centuries, the Brujah plagued the are a
+— despite the lack of unity among Clan Brujah, before the tone of the rebellion shifted. Having its members of ten influence the outcomes of key already earned the reputation as anti-monarchists events around the world. and political maniacs, the anarchistic Brujah became
+Ibn-El-Sayyid the first “anarchs.” By the turn of the 13th century, other Kindred who heard of the m or observed the m An unnamed Brujah is believed to have extrapolated the Brujah cause to the ir own ideals. helped pen Poem of the Cid after fighting in the
+More and more, Kindred attacked the institutions struggle to drive the Moors out of Valencia in that had upheld the society of the undead for mil- 1094. The Brujah are particularly fond of this lennia. you ng Cainites especially were seduced by possibly mythical Kindred just as the Lasombra the growing revolt, left as they were to the mortal feel a great tie to Rodrigo de Vivar — and a Bruinfluences that the avaricious elders had n’t already jah connection to him undermines the Keepers’
+hoarded for the mselves. The Brujah revolution had arrogant claims to greatness. taken on an unlife of its own, creating copycat fac- The Real Robin Hood tions and splinter groups where ver Kindred spoke of During the late 14th century, Robin Leeland the matter. you ng Cainites marauded through the participated in many of the peasant uprisings night in groups known as Furores, anarchs, covens in England, including Wat Tyler’s rebellion
+and collections of “anti-clans” who had for saken and several revolts against Edward III and the ir heritage and pursued unlife as they saw fit. Henry IV. Leeland is seen by many as one of the mselves enamored of the Brujah resistance the first anarchs, and sired a prestigious brood against the ir greedy elders, rogue Tzimisce, Ventrue of Rabble, including Patricia of Bollingbroke
+and Nosferatu in Hungary joined the cause. While (see Chapter Three). they harbored little love for the out-of-control The Sun Never Sets…
+Brujah who had made a horror show of Transylvania At the beginning of India’s Sepoy Rebellion for as long as they could remember, the dissatisfied of 1857, the Brujah Bankim Hapsa was among
+Cainites of Hungary saw the ir elders distracted by the Muslim Indians who killed British of ficers the anarch menace and used the opportunity to after being imprisoned for refusing to bite open make a place for the mselves. As the 14th century rifle cartridges that had been lubricated with pork approached, the Brujah had raged for so long that fat. He followed the rebellion until it was finally
+most Kindred had come to accept that Transylvania suppressed in 1859 and aided in the capture of might well be a battleground for the undead for ever. Lucknow and Delhi. Ever more Tzimisce revolted against the ir The American Revolutionary sires, and significant numbers of other Kindred and Civil Wars
+proclaimed the mselves antitribu in open defiance
+Marguerite Foccart and the Embraced slave of the established conventions of Cainite society. Crispus Attucks led several rebellions against the
+Packs of you ng vampires toppled the ir sires, while
+British, including being present at the Boston cagey elders annihilated entire broods of neonates
+Massacre. they also or ganized guerrilla strikes and ancillae indiscriminately. Hungarian cities like during the nights before the war itself that
+Bistritz, Klausenburg and Mediasch became Kindred resulted in the weakening of British garrisons. crucibles, where anarchs terrorized the streets and
+Likewise, just 100 years after the American secesprinces conceived desperate counterstrikes from the ir sion from England, Foccart and Attucks conspired castles and manors. The rebellion spread to the west against expansionist Southern Ventrue during
+— all over Europe, childer battled the ir sires. Paris, the Civil War, stealing war funds, intercepting
+London, Milan, Budapest, Cologne and Prague were missives and feeding from Confederate soldiers all hotbeds of strife. to weaken the m before battles. Chapter one: Millennia of Confli Ct
+
+=== PAGE 23 ===
+The war of the ages had become known as the vent any Cainites who had taken cover beneath
+Anarch Revolt by this point, the or iginal Transylvanian the soil from rising. Brujah rebellion having been subsumed by the larger Iancu the Bloody tide of undead conflict. While the significance of the
+Fleeing persecution in Ventrue-do minated Rome, Brujah involvement in the affair has been largely for got-
+“Bloody John” traveled eastward, finally settling in ten in the modern nights, many elders still remember. Lithuania, where he fell into torpor for several cen the se venerable Kindred are the greatest critics of turies. Acting in accord with his reputation, Iancu the Brujah, if not the most vocal — they know how
+rose from his cold sleep to find a party of Vikings instrumental the raving Brujah were in the eventual disembarking from the ir ship to raid a fishing village for mation of the Sabbat. Although they know it’s
+and gorged himself on the vitae of every last one of ridiculous to blame the m entirely, the se elders know the m. The local Lithuanians briefly mistook him for that history repeats itself, and that with out the Brujah
+a legendary figure made real, until Iancu swore alserving as a diversion for the antitribu, the Black Hand legiance to the local Tzimisce Lord Tzevolod. The might never have come to be. Fiend finally had to destroy his vicious sergeant after s B
+tr Ange ed Fell Ows Iancu proved to be incapable of not decimating the
+While the annals of the Brujah’s collective past serf population of which ever community he had been of ten read like chronicles of revolution and chaos, sent to tax or account for. Iancu hated the Lithuanian not every member of the Rabble aligns herself with Brujah passionately, blaming the m for failing to come the agents of change. As are Kindred of any clan, to the aid of the ir clanmates centuries before, despite
+Brujah are first and for emost vampires — selfish the fact that few of the m had been Embraced at that creatures who exist as parasites on the vitae of the point, and took the ir fangs as trophies when ever they mortal world. To the Kindred, clan is not hing but ran afoul of him. an arbitrary designation, a concept as largely mean Catherine Minot ingless as nationality, ethnicity or even the street
+Catherine had married into the Saxon nobility upon which they make the ir have ns. the se Brujah of England as a mortal, and it was among the postgladly bought into existing power structures of the ir
+Roman Anglicization of the land that she became on environments, or opposed the rest of the ir Brujah of the Kindred. Her own mortal husband had met his comrades. From august elder seneschals to conservaend at the hands of the pagan Danes, and instead of
+tive neonates, Rabble have supported the status quo marrying to retain her title and station, Catherine with as much vigor as they have opposed it. The pasdefended the m herself. For two centuries, she fought sion for change that burns in every Brujah’s undead
+back the Danes, until in 1066, she was faced with a veins, for some Rabble, is a passion to prevent the new threat: the Normans. For a brief period, she played changes other would wreak on the ir staid, comfortone of f the other, citing the Danelaw or the laws of
+able unlives. After all, the Kindred are no strangers will iam the Conqueror as she saw fit, struggling to to sleeping with the enemy. retain her own autonomy. Finally, in 1078, she was
+Etheyra declared a heretic, her lands ceded to the Church and
+By various accounts the third childe of Troile, awarded to one of the Norman invaders. Disgraced, a who re of Carthage who stole the Embrace or Catherine joined the vestiges of the Danes and was one of the greatest traitors to the Brujah legacy, diablerized by her childe, who had all ied with the
+Etheyra was a North African Brujah who watched Norman gentrification. the impending approach of the Punic Wars with a
+Ybalb critical eye. Knowing that though Carthage may
+Beneath the Sahara desert, where the winds blow win a few of the battles but they would never win hot by day and chillingly cold by night, few Kindred the war, Etheyra fled the city, taking solace in
+have ever gone and returned to tell the tale. Ybalb, hated Rome and of fering the secrets of Carthage how ever, is one of the m, though she would be loath to the undead aligned against it. Etheyra became to share her stories with the race of Caine. Of either
+a protégé of the great Ventrue Democritus. Some
+Dan or Yoruba stock, Ybalb’s sire told her that he was elder Brujah suspect that as Carthage burned, she a great traveler from the City of Gods, far to the north, suggested that the Romans salt the ground, to prewhere men walked among the ir lords and pleased the m
+Clanbook: brujah
+
+=== PAGE 24 === upon command. Seduced by his promise of wealth and crippled a powerful gang of anarchs, the Crypt’s sons pleasure, Ybalb all owed him to Embrace her. What she and moved into positions of influence traditionally found upon following him, though, disgusted her — held by Western vampires in the Anarch Free State. the wickedness and treachery of the Kindred made her To this night, Garcia remains firmly in the camp of
+ashamed of what she had become. Staking her sire, she the Cathayan’s “New Promise Mandarinate,” seeing fled back to the lands of her home — where she had the Kuei-jin’s or der as a better one than the “gangland become a demon, a hungry spirit. Outcast, she met a feudalism” that the Anarch Free State seemed only few others, followers of Kagn, who were like her but to engender. not the same as her. To the best of anyone’s knowledge, t c
+she prowls the lands Afric to this night, counting he Onte Mp Or Ary among her all ies the ghosts and laibon unknown to r other Kindred. ABBle
+Malchus Feith
+The end of the 19th century through the turn
+In the early part of the 18th century, before the of the 21st bore witness to tremendous change, King of England and the Prince of Wales plunged especially for Clan Brujah. As the Jyhad rages, the the country into a state of civil war, Malchus Feith
+Rabble press on, waging the ir own nightly wars against served as the Midnight Advisor to George II, who m the backdrop of the most accelerated technological the Hanover-all ied Ventrue considered “the irs.” An advancement in the history of civilization. entente of French Brujah, Malkavians and Toreador
+Most Kindred find such omnipresent change attempted a minor coup of English lands, under the unconscionable. As creatures cursed with an imguise of a pretended named Rudolph, who claimed to mortality that traps the m in time, the undead prefer hail from the royal family of the “sovereign state of stasis to change because it is more difficult for the ir
+Ruritania.” The English court, smelling scandal, blazed dead minds to accept new environments. This is with gossip. Duels were fought, lovers met the ir deaths even true of elder Brujah, who may have long since in passion and nobles plotted and schemed how best witnessed the ascension of the ir “ideal” society, only to all y the mselves with the nascent House of Ras- to watch it collapse beneath the inexorable tide of
+sendyll, to which Prince Rudolph belonged, with out “progress.” To most Brujah, how ever, the events of earning the ire of King George. Surely, more blood the last hundred years have been a culmination of would have been spilled and more treacheries enacted the ir efforts. Even in are as untouched by the slightbut for Chamberlain Feith, who defused the who le est Brujah influence, adjustment has been the rule of situation by making the court aware, through ghouls, the era. Even as the world disintegrates nightly with
+mortal servants and public not ices that, indeed, the re the approach of Gehenna, the Brujah hope that they can somehow affect the fate of the world. Poverty was no such thing as the House of Rassendyll, and no soars while unemployment shrinks, as the “working
+nation known as Ruritania. poor” displace the out of work. The mortal lifespan
+Salvador Garcia extends, perhaps too long, as overpopulation devours
+One of the most influential anarchs of the fallen the world’s resources. Old political institutions come
+Anarch Free State, Garcia soured on the “glorious under greater scrutiny during the Information Age, struggle” after decades of resistance against the Califorthough the reforms that result are of ten the most nian princes. As one of Jeremy Mac Neil’s compatriots, popular, not necessarily the best. In light of such
+Garcia struck against Prince Sebastian, plotted against unchecked change, many Brujah become disillusioned the malicious Lupines of Death Valley and finally and are for ced to consider whether change is always settled in East Los Angeles as part of the Revolutionary for the best. Council. As he grew older, how ever, Garcia began to
+A e perceive the anarchs as less of a for ce fighting for a true cr Oss ur Ope
+“free state” and more a simple-minded group of vicious Part of the problem facing the Brujah’s identity thugs. No longer feeling that he owed the cause any and history throughout the High Middle Ages and all egiance, Garcia turned not the Camarilla, but to the into the future was that the Rabble no longer had a larger threat looming on the horizon: the Cathayans. true “home”. Insomuch as Carthage was “the city of
+With Salvador Garcia’s help, the Kindred of the East the Brujah,” the clan had not hing like that to fol Chapter one: Millennia of Confli Ct
+
+=== PAGE 25 === low the m for ward in time. While certain regions of while most simply occupied the mselves by wandering, Europe had distinct groups of vampires that character- moving with migrating ethnic or religious groups, or ized the are a, no place had been set aside as a center shutting the mselves away to pursue monastic or acafor Brujah society. demic unlives. England and its is lands had long been the home Brujah princes rose and fell during the High of the Gangrel, but recent centuries — not ably after Middle Ages, and many Zealots (as members of the
+the fall of Rome — had seen an influx of Ventrue clan were the n known) made places for the mselves eager to claim the ir own do mains. Likewise, France amid the retinues of other princes. Some of the clan’s had been a seat of Toreador influence since Char- greatest thinkers, such as Ecaterina the Wise, Gilles lemagne had turned his attentions eastward and the Frank, the reformist do n Udolfo Cerro and the
+inward. Norway, Scandinavia and Sweden were marrano Balthasar of Seville acted as seneschals or have ns for lone Gangrel and Nosferatu, and the odd ministers to powerful princes. Many others, most
+Ventrue, Lasombra and even Setite who had moved not ably Patricia Bollingbroke, earned reputations onward from the ir traditional do mains. Even Spain, as raucous rebels, contributing greatly to the sense from which many later Brujah elders would hail, was of iconoclasm that characterizes the modern clan. largely under the sway of the Lasombra. Italy proved with out exception, though, the Brujah made the ir too cosmopolitan, though many Brujah did establish fates as individuals — one is unlikely to hear about
+have ns the re — it was a port of call for exotic Kindred sweeping movements of the Spanish Brujah’s opposiand a financial, religious and governmental center tion to the Swiss Brujah concerning Habsburg Austria for do mestic Cainites. following the Peace of Augsburg because it simply
+Taking all this into account, how ever, one must did n’t happen. At best, several elders who already had consider that by and large, few Brujah wanted a center the ir own causes for quarrel cloaked the ir latest develof power. Many preferred to brood over the loss of opments under cover of political tensions, religious
+Carthage rather than go about creating a new one, persecution or cultural climes. Vampires may be great
+Clanbook: brujah
+
+=== PAGE 26 === manipulators, but part of prowess at manipulation is and his pack followed Jolliet and Marquette’s expenot being known for it — individual Brujah generally ditions and proceeded further north into can ada. had the sense to avoid making the mselves obvious In Mexico city, many traveling Brujah fell under movers and shakers in the realms of mortal politics. the sway of the Sabbat Toreador who called herself Galbraith and joined the sect, while others t n w
+he ew or ld converted to the Sword of Caine’s cause on pain
+As is no surprise, many Kindred jumped at the of Final Death. for tified by the presence of Brujah opportunity to make a place for the mselves in the and Gangrel Cainites, the Sabbat tightened its grip
+New World as the Age of Exploration opened new around Mexico, even as the colonies (and later states) vistas to Cainites and kine alike. Brujah flocked to to the north slipped through its bloody talon. The ships second only in number to the sleek Lasombra Sabbat in Mexico loomed almost as ubiquitously pirate corvettes, becoming scourges of the seas. as the Camarilla did in Europe and to the north —
+Others, generally ancillae and neonates looking to vampires populated the ranks of the local Catholic make the ir own for tunes where cagey elders had n’t Church and claimed to be do ns of the ir own estates. already monopolized the local resources, set out to Away from the steeples and mud-brick walls of the claim do mains in the New World. Some followed the cities, bestial Sabbat stalked the black plains, some anarchs and autarkis West; some took the fledgling even capable of defending the ir primitive do mains
+Camarilla’s cause to the far shores and still others against the frenzied Lupines. carried the Sabbat’s Great Jyhad across the Atlan- Brujah also gathered in New York, Providence, tic. with in a century, the New World was rife with and later Atlanta and across Florida. Drawn by the
+Brujah, outnumbering members of other clans by as readily available supplies of vitae or the throngs of many as two to one in some estimations. mortal life in the cities, the Brujah generally left
+Unlike in the Old World, Brujah in the early the press westward to mortals and the n members
+Americas centralized. This took place not so much of other clans. The cities on the seaboard had all out of camaraderie as it did out of Embrace prac- they wanted — why risk unknowingly upsetting a tices — faced with significant resources as far as feral Gangrel or worse, a den of Lupines? Inevitably, sustenance were concerned and no strong princes though, some Brujah moved westward either out of to prevent the m, many Brujah set foot on solid wanderlust or due to the rarity of valuable do mains
+ground and immediately Embraced new broods. to the east, which had already been claimed by the
+Rabble who followed Cortez to the great cities of the first waves of Kindred to hit the shores. Aztecs set the mselves up among the death-witches can ada held little appeal for most Brujah — it and goldsmiths. Some settled with the Incas and was too rural, and the parts that were n’t were either feasted on the hearty blood of the quinoa farmers. inhospitable due to the ravening Sabbat present or
+Still others moved further south… and were never oppressive exile do mains claimed by French and heard from again, which causes many to speculate English Toreador, Tremere and Ventrue who found either that something destroyed the m or they took the political tides of the Old World turned against the opportunity to remove the mselves from the the m. This is n’t true universally — Montreal had
+petty politics of Kindred society altogether. A few no shortage of Brujah both Sabbat and otherwise followed the Portuguese into what would become during its first nights, while Vancouver has at least
+Brazil, but even the se for esires of the modern South one resident Brujah and her brood. For the most
+American Kindred know not hing of what became of part, how ever, New World Brujah quickly became the Brujah who traveled in Pizarro’s wake. content to defend the ir more easily established
+To the north, the Brujah found Mexico to be do mains, for cing much of the Kindred’s movements infested by Sabbat and anarchs. Those who had no through can ada and the western expanse of the sympathy for the se sects fled either to the South United States to be undertaken by other clans. they
+American jungles or the East Coast of what would repelled Sabbat incursions, backed princes’ claims one night become the United States and can ada. to power, warred with each other and other clans, The Sabbat Brujah grew strong and complacent and generally behaved exactly as had the ir sires and in Mexico. Led by Medardo can carone, several elders throughout history, despite the vast difference nomadic Brujah Sabbat packs expanded the sect’s in the ir ages. Perhaps this reflects on Kindred nature
+influence into Baja Mexico while Ronald Malkmus at large, with out regard to clan.…
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 27 === t F America to the vast broods populating the Anarch he r Ontier
+Free State, Clan Brujah has perhaps more than its fair
+Of course, not every New World Brujah was a share of Kindred. paranoid homebody or a spiteful curmudgeon. Many ancillae who were present remember the American t A F s he n Arch ree t Ate
+frontier fondly, if a bit nostalgically. Frontier law for ced westward at the turn of the 20th century suited the tastes of many Brujah — for the most by the dual pressures of the Sabbat on the East Coast
+anarchic, the law was practically nonexistent, and and Camarilla Ventrue and Toreador consolidating reformationist Brujah of ten found the mselves able to the ir influence over heartland cities, the Brujah finally
+influence the casual justice of the “Wild West” with found the mselves with nowhere else to go, having the ir own pet philosophies. arrived at the West Coast of the United States. Even
+The middle to late 1800s represented a wild, the re, the influence of other clans kept the Brujah violent time, and not only in American history. politically impotent. Teeming with uprooted Rabble
+Needless to say, this suited the passions and tastes of by the first decade of the 20th century, the cities of many Rabble. In France, the aftermath of the French Sacramento, Seattle, Los Angeles and San Diego were
+Revolution gave rise to the Emperor Napoleon, who ripe for rebellion. conquered as much of Europe as was humanly possible
+Princes of the se cities, outnumbered but still mainat the time, much to the pleasure of his Brujah and taining the ir influence, had to be careful to avoid a
+Ventrue supporters. Some simple Brujah reveled in second Anarch Revolt. In the end, the ir appeasement the violence of Napoleon’s conquest, while it gave tactics failed — despite of fering consideration to the
+others a cause against which to raise a hue and cry. inordinate throngs of Brujah, violence flared. Inspired
+Intellectual Brujah had the opportunity to watch the by the dissident Jeremy Mac Neil, a small group of the or ies of the progressive philosophes tested — which
+Brujah staged an open rebellion against the Prince of resulted in the rise of enlightened despotism in both
+Los Angeles, the Toreador do n Sebastian, in 1944. Eastern and Western Europe, and the penultimate
+The event that touched of f the revolt was indicative radical stance of communism shortly the reafter. of the larger problem the Brujah faced: Overconfident
+Things were certainly no calmer for Kindred in of his own power, Sebastian or dered his flunkies to the American West. Border conflicts in Texas, New beat Mac Neil as a lesson to the unruly Rabble. Instead
+Mexico and California between Sabbat, Camarilla of being cowed into submission, the Brujah became and anarch vampires erupted almost nightly, with enraged. Seeing that his exercise in terror politics had little being gained in terms of permanent advantage failed, Sebastian relented, promising an investigation either way. Brujah vampires rode with the cattleherd- and his own trial under a council of elders. ers and outlaw gangs alike — posthumous journals
+the se promises placated the Brujah, who thought and newspaper reports have attributed known the evidence was so solid against Sebastian that the
+Kindred to outfits like the Scott Cooley gang, the council would have no choice but to censure him. Clanton clan and practically every member of the
+One of the elders on the council was a Brujah himself, Harrison Miner gang. Obviously, none of the Kinwhich the anarchs believed gave the m a sympathizer dred outlaws were present for events like the O.K. on the council. Such was n’t the case, how ever — the
+Corral affair, but nonetheless, a band of armed nocelders thrived under Sebastian’s princedom, and either turnal marauders with unholy powers turned many had no desire to see a how ling pack of rowdy childer a wagon train or border town into a nightmare for
+in charge or sincerely underestimated the threat the victims. posed by the anarchs. they made a statement to the n A local Kindred that they had found Sebastian and his or th MericA
+entourage free from any wrongdoing. they even at While the North American continent do esn’t tempted to saddle Mac Neil with trumped-up charges have the greatest concentration of Brujah Kindred (a of conspiracy against the prince. distinction more likely belonging to Western Europe
+The anarchs went ballistic. Rebels rioted in or northern Africa), it likely has the greatest populathe streets of Los Angeles. Intellectuals derided tion of the Rabble. From the childer of Kindred who
+Sebastian and the elders, claiming that they had came to the New World during the Age of Exploration turned the Kindred social contract into a plutocratic and still make the ir have ns in Mexico and Central
+Clanbook: brujah
+
+=== PAGE 28 === government of the undead. The anarchs and Brujah What the elders perceived to be a small but vocal rallied, instantly elevating Mac Neil to the status of faction of neonates turned out to be a vast mob of a martyr and chanting his name as they rampaged Kindred. Over three years, the Camarilla presence
+through the city. The revolt grew nightly, and even in California had been scuttled by the Brujah and the reluctant Mac Neil found himself dragged into the ir anarch all ies. Rebellion spread up the coast as active participation. with in a week, the Brujah and well, inciting further anarch coups in or egon and the ir anarch all ies had overthrown the princedom, was hington. When everything settled do wn, the
+binding Sebastian in iron chains and burning do wn anarchs emerged triumphant. his have n with him and his cronies still inside. The Jeremy Mac Neil, having been thrust into the role elders either joined the anarch cause or fled under- of leadership, did what he could with the surprisingly ground. Over the course of two short months since successful overthrow. Assembling a representative
+Mac Neil’s beating, the anarchs had completely un- collective of anarch councilors, the revolutionaries dermined Camarilla influence in Los Angeles with adapted the Camarilla’s traditions to suit the ir needs. the most dire of methods. Transcending mortal political boundaries, the strip
+The anarchs had more where that came from. of land affected by the revolts proclaimed itself the
+The Los Angeles revolt was only the beginning. Anarch Free State. they made it plain that while
+Sebastian’s overthrow ignited an explosion that they did n’t oppose the tenets to which the Camarilla engulfed all of the West Coast. Spurred to action by subscribed, they were n’t about to stand for elder the events taking place in LA, anarchs, Brujah and do mination out of obeisance. In the free state, so other revolutionaries visited similar fates upon the went the philosophy, any Kindred was free to make
+princes and elders from San Diego to San Jose. Elders his own for tune, regardless of age, with simple respect were reduced to ash and dumped unceremoniously for the other Kindred present. into the sea. Princes met grisly or dramatic ends as The reality turned out to be less utopian than testaments to the fury of the disenfranchised childer. the the or y, how ever. By the late 1950s, the free state
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 29 === had become a balkanized collective of anarch gang territories and petty Camarilla-esque “baronies.”
+As the 1980s approached, violence racked the free state as competing gangs and broods warred for influence. With the lack of or ganization and direction, the social or der weakened — what had once been struggles between elders and you nger Kindred for finite resources became struggles between rival gangs
+of you ng Kindred for the same assets. In addition, no few elders had crept in to fill the power vacuum left in the wake of the initial revolts. In cities like
+Los Angeles and San Diego, older, more capable
+Cainites once again hoarded influence, leaving the less profitable concerns and less desirable real estate to the you nger Kindred, who squabbled like do gs over scraps dropped from the master’s table. Mac Neil and his assembled councilors recognized
+what was happening — the names had changed but the situation remained the same. The council itself had no power; it never pretended to be an institution, but rather a for um for the ideals of the Anarch Free
+State. Although communication between councilors remained open, all of the m harbored the ir own agendas. While the free state had succeeded in making the local Kindred society more egalitarian, it failed to eliminate the schemes and powermongering that
+are second nature to the race of Caine. While any
+Kindred, regardless of clan or age, was welcome to make his have n in the free state and build a place for himself, the old or der had once again taken root. Still, the Anarch Free State made many you ng
+Kindred far more comfortable than they would have ever been in any Camarilla do main. Vampire gangs such as the Crypt’s Sons rose to prominence while
+Kindred who had been ousted in bids for power elsewhere made new starts. Neonates largely did what they pleased with out the for mality demanded by the more iron-handed of princes. The period between the
+60s and the early 90s seemed to be an era of Kindred prosperity, punctuated by a few well-meaning but do omed attempts to push the borders of the free state eastward. the re, they met resistance by Ventrue and
+Giovanni in Las Vegas and by the fractious but united princes of the Camarilla in other cities who had no intention of letting the ir own do mains become common property. Nevertheless, vampires pretty
+much had the run of the Anarch Free State, limited only by common sense and the self-preservation instinct (and, in some cases, the self-preservation instinct of other Kindred who were n’t about to let
+Clanbook: brujah
+
+=== PAGE 30 === a few foolish or maniacal vampires jeopardize the ir own unlives). The rift between the anarchs and the Camarilla had even started the slow process of
+healing once the anarchs saw no reconquest effort mounting against the m and the Camarilla elders realized that the anarch threat seemed to contain and police itself, for the most part. It seemed as if the Anarch Free State had established itself for not hing more catastrophic than
+a slow decline, if indeed, it did n’t stabilize into a virtual Camarilla. That, the n, was the reason that the abrupt shattering of the free state took so many
+Kindred by surprise, anarchs and outside onlookers alike. In late 1998, the anarch baron of San Diego, the
+Brujah Tara, made a bid for recognition that for ever altered the Anarch Free State. With the assistance of a Camarilla archon, Tara declared herself Prince of San Diego, returning the city to the nominal
+influence of the Camarilla — certainly more so than any other free-state city with the exception of San Francisco. This act shocked the complacent anarchs, who had taken the ir do minance in California for granted for so long that they did n’t see
+Tara’s “defection” coming. The new Prince of San Diego argues that the shifting all egiance changes not hing about the average Kindred’s nightly affairs. The Camarilla do esn’t demand anything of its Kindred or princes, but provides a network of contacts and a loose affiliation upon which the city can rely. Trapped between
+Sabbat do minance in Tijuana to the south and the ceaseless influx of Cathayans from Asia, Tara defends herself as having had no choice — albeit from a very comfortable have n. Fractious Brujah and anarchs loyal to the cause
+have become increasingly agitated with the situation, not because it changes anything for the m but because it sets an uncomfortable precedent. If the free state depends on the Camarilla for defense or unity, it’s not really a free state at all. Jeremy
+Mac Neil, in particular, regarded Tara’s decision as a great betrayal. Following San Diego’s dramatized defection by less than one year, the exposure of many prominent free state Kindred’s dealings with the bellicose
+Cathayans has further compromised the anarch territory. Despite strong Brujah presence and the
+(admittedly erratic) support of the anarchs the mselves, the Anarch Free State has proved to be less
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 31 === resistant to outside influence than it thought. Several informants who could enlighten the Cathayans as factions of Eastern Kindred have scouted California to other matters in the free state. Although a few territories for over a decade and have managed to Cainites still make the ir have ns in San Francisco, convince influential Kindred that the ir free state the political power rests do ubtlessly in the hands
+exists perilously between the Camarilla and the ir of the Eastern Kindred. own sphere of do minance. the se savvy Cathayans The Anarch Free State seems to be crumbling convinced local Kindred to strike a deal with the m under its own weight. Unable to with stand outside
+— in exchange for the opportunity to expand the ir pressures with out compromising the freedom for which own holdings, the Cathayans left free-state politics it fought, the free state is hardly the New Carthage untouched. Local Cainites accepted this deal more some Brujah claim it to be, especially in the modoften than not, reasoning that to side with the Ca- ern nights. The experiment fractures nightly under marilla would revert the m to the state from which subtle but ceaseless assault from all sides. Tijuana is a
+they revolted only a few decades ago. the se Kindred stronghold for the Sabbat. San Francisco has become have bartered the ir own power, smuggled cells of inhospitable to the anarch cause. San Diego demurely
+Cathayans into the ir cities and provided invaluable turned its back on the Brujah-anarch revolution. How insight into local power structures. much longer can the free state remain? Events culminated in early 2000, when the Car ussiA thayans invaded the Camarilla city of San Francisco. The city’s new prince lacked the political clout to While the Brujah do n’t usually involve the mstop the slow aggregation of Eastern Kindred power, selves in most occult Kindred affairs, they had little
+which enabled the enigmatic vampires to topple choice during the recent events in Russia. The fruits
+Camarilla’s influence in the city. Even the presence of centuries of Brujah labor came into question as one of Toreador Justicar Madame Guil and her capable of the most ancient evils of the land rose to claim archons, including at least one Brujah, was n’t enough the region as its own. to turn back the tide. t B c he ruJAh Ouncil And
+The tension reached an explosive head at a the s had Ow c urt Ain botched negotiation between the archons and a Until the beginning of the 20th century, Rusfaction of the Cathayans on Telegraph Hill. Anarchs sian princes generally hailed from the Ventrue and aware of the delicate situation attempted to foil Toreador clans, with a few Nosferatu and Tzimisce the deal through an armed guerilla strike, while lords claiming do mains but rarely the for mal title of
+the Sabbat, oblivious to the anarch resistance, sent prince. the se for midable Cainites held power in the an agent to ruin the meeting in hopes of provok- land of the czars, even after much of the Western ing open warfare between the Camarilla and the ir world had moved from empowered monarchies into erstwhile Cathayan compatriots. The spectacular more democratic for ms of government. The Brujah
+four-way confrontation resulted in a Masquerade- of Russia and Eastern Europe clashed with the se demolishing vampiric sect war that raged through established powers, whether on the battlefield, in the city, causing millions of do llars worth of prop- the cold halls of Elysium or through mortal proxerty damage. Guns blazing, the anarchs fought to ies. Only rarely did the Brujah come out on top repel the treacherous Camarilla Kindred and the — the Ventrue and Toreador played the game too
+nefarious Cathayans. The Sabbat contribution well, while the Tzimisce and Nosferatu had been largely failed shortly after it became evident that veritable extensions of the land itself for so long the sect had an interest in the matter, largely due that the Brujah could rarely gain the upper hand to the negligence of the ir agent, Sandhurst. The against the m. When the Russian Revolution took
+Camarilla fought back feebly, as the elders who made place, how ever, the Brujah finally bested the ir foes. the entire thing possible turned and ran to protect Revenge drove the Russian Rabble — many harthemselves while the Cathayans made a do or mat bored grudges against the czarist princes for slights in of the powerless prince. The anarch hero Mac Neil nights past or for crushing the political progress locally and his childe Crispus Attucks met Final Death that the rest of the world seemed ready to accept. in the conflict, though some whisper that they Brujah like the esteemed Inconnu Cœfee struggled have merely been captured, making the m valuable against the aristocracy while modernists like Antonin
+Clanbook: brujah
+
+=== PAGE 32 ===
+Zilkha and Leonid Borisovich championed the ideals of Marx and Engels. It is no surprise, the n, that many Brujah accumulated influence among the nascent Bolsheviks and Mensheviks and found the mselves propelled to prominence following the overthrow of Czar
+Nicholas in 1917. Although not all Brujah openly supported Soviet Communism, most were simply satisfied to attach the mselves to the winning side or throw in with the group proposing the most
+radical change. So it was the n, that an appreciable number of Russian Brujah seized the reins of Kindred power during the early decades of the
+20th century. Seeing the need to insulate the mselves against the schemes of the ousted Kindred who had until recently held power, the communist Brujah decided to for m a coalition. Brujah all across Russia became
+part of this council, from the lowliest neonate Bolshevik to the most august elder who secured a place for himself in Lenin’s cabinet. The loose coalition had n’t been in place long before the Brujah egos and tempers that comprised it flared. To the outside observer, the council was
+a monument of Kindred cooperation. To those inside it, how ever, every night promised a new struggle among the members. Genuine Kindred communists struggled with those who had joined
+the revolution for the ir own interests. Zilkha and
+Borisovich’s atheists matched wits with the less radical socialists. Additionally, the leader of the revolution and new government, Vladimir Lenin, proved remarkably resistant to Kindred influence. Whether he was aware of the undead nature of the powerful council or simply too politically agile to
+fall under the sway of the Brujah, Lenin eluded the m. This divided the council even further, as frustrations over Lenin’s persistent autonomy kept the Kindred from using the communists to the ir
+full satisfaction. Lenin’s tenacious freedom from the spheres of
+Kindred influence proved his undoing, how ever. The philosophers and idealists among the Brujah
+Council resented the stance he took on intellectualism — many mortal Russian critics, thinkers and scholars were sent to labor camps, as Lenin reasoned that they might upset his plans of the state. More radical elements among the Brujah backed Lenin
+but the elders and conservative ancilla believed that the revolution had gone too far. After Lenin’s
+Chapter one: Millennia of Confli Ct
+
+=== PAGE 33 === death in 1924, Brujah meddling ensured the ascen- not invade Russia. To the ir chagrin — and the obvision of Leon Trotsky as Lenin’s successor. ous resentment of all Russians — Hitler ignored the
+After this, how ever, mortals proved once again deal and crossed the Russian border in 1941. to make the ir own fates — the dictatorial Joseph World War II played out largely free from Kindred
+Stalin was ted no time seizing the reins of power in influence, especially along the Russian front, as the communist Russia, usurping Trotsky’s power and Kindred went into hiding, bloated the mselves on sending him into exile. concentration-camp vitae or watched the ir influence
+Seeing an opportunity to displace the Brujah vanish overnight. As the war came to a close, the monopoly on power in Russia, enterprising Ventrue, fragmented bureaus of the communist government
+Toreador and Nosferatu attached the mselves to the remained dissolute. Kindred with political ambi Stalinist regime. A true maniac, Stalin used his po- tions sought greener pastures — the Russian political sition to set up gulags and fed the labor camps with landscape was impossible to navigate. Kindred who
+“dissidents,” intellectuals, Jews, Gypsies, and sundry managed to acquire power did so by specializing the ir
+“enemies of the state” who threatened his U.S.S.R. interests and for ming sub-factions of the weakened
+As the Brujah do minance of the communist gov- council. ernment eroded, other Kindred crept in to fill the This state of confusion and decentralization kept power vacuum. Although they remained out of sight the council weak for more than half a century. The of mortal politics, the influx of non-Brujah Kindred only solace the Brujah could take was in the fact made the Russian society of the undead as chaotic that despite the crippling of the council, the Rabble
+as Stalin’s secret police made the lives of the mortal still commanded the most influence in the U.S.S.R. populace. Kindred infested the military and civil As the 90s approached, the Russian people wanted authorities — petty princes set up do mains as small reform. Mikhail Gorbachev, the Soviet President, as individual neighborhoods. Zilkha was staked and adopted policies of perestroika (restructuring) and met the sunrise, while Borisovich disappeared into glasnost (openness). Once again, this flummoxed the Siberian tundra. Kindred interests in the nation. All of the contacts
+Stalin’s reign proved as schismatic to the crum- they had made and power they had garnered among bling Brujah Council as Lenin’s had before him. the communists waned under the changes Gorbachev
+Stalin kept the camps and gulags full, which made mandated to protect the government. Still, when the feeding ridiculously easy for Kindred, but many wanted Brujah put aside the ir rivalries to consolidate, they to see his end as the turnover rate of the lower-level commanded more influence in the nation than any bureaucrats in the communist machine made culti- other Kindred, but more and more Brujah left the
+vating influence difficult and unreliable. A coterie council, uncomfortable with the radical changes that of you ng members of the Brujah Council turned up continued to plague the U.S.S.R. for almost an entire information that linked several of the internment century. The remaining Brujah Council members were camps to the Sabbat — Stalin was obliviously feed- fine with this — it meant that they could harvest
+ing the Black Hand, the reby worsening the situation even more influence. Such was not to be, how ever. for the Russian Brujah. As this information surfaced, An ancient Kindred arose from torpor and took the council united toward a single course of action: the opportunity to make her own play in the Jyhad. Stalin had to be removed and replaced with a leader The weakened council had no manpower, and as it more receptive to Brujah needs. distracted itself with rebuilding its foundation, Baba
+And the n they immediately reversed the ir posi- Yaga destroyed its members in the ir own have ns, tion. Hitler invaded Poland, and the council realized one by one. In eight short nights, every member of the need for a leader like Stalin to galvanize his people the Brujah Council had been exterminated, some in resistance to the Nazis. Although the Kindred could as many as four centuries old, and most were said to control no actual political events in the mortal world, have been eaten instead of simply killed or diablerized. they agreed that, for the time being, they would not Rumors spoke of one survivor, though her where abouts
+try to influence events in favor of Stalin’s removal. are unknown. To the relief of the Brujah Council, Stalin signed an Although this chapter of Russian history had agreement with Hitler that specified Germany would several more developments — the destruction of the
+Clanbook: brujah
+
+=== PAGE 34 === fabled Baba Yaga (no do ubt by some ungodly enemy), of unified Brujah cooperation against the efforts of the disbanding of the U.S.S.R., the rise and retire- other clans has ended. Indeed, the Brujah Council ment of Gorbachev’s successor Boris Yeltsin — the in Russia was the last of the cohesive Brujah efforts
+Brujah contribution to the situation has largely ended. the world has known to date. A few Brujah still exist in Russia, piecing together And, as the Final Nights wear on, it may prove do mains or sparring with petty princes, but the time to be the last the world ever sees. Chapter one: Millennia of Confli Ct
+
+=== PAGE 35 ===
+Clanbook: brujah
+
+=== PAGE 36 === c t: h Apter wO u A nli Fe MOng
+B the ruJAh
+We live in the age of incivility and rancor. — Kenneth Starr
+One might suspect that a clan like the Brujah cause against which they rally, though methods may has few traditions, that its members are too diverse differ among various gangs, cults, fronts and leagues. to share any common ground. To some extent this One common characteristic shared by the Brujah is true — the Brujah are rebels above all else; what is the ir close tie to the mortal world. While other Kinstrikes one as a universal truth may seem like blas- dred interact with mortals through institutions (like phemy to another. Certainly, the clan is one of the the Ventrue or the Toreador), the Brujah deal most
+most disorganized and informal families of Caine’s of ten with individual mortals. A single Brujah may childer, but that do esn’t automatically alienate the m very well have contacts on the police for ce, comrades from one another. in the drug underworld, secret agents in the press and
+Brujah of ten gather in broods of like-minded in- compatriots who are members of urban gangs. Some dividuals. In many cities, the majority of local Brujah Kindred joke that while a Toreador might be able to descend from the same sire. A not ed primogen may sire get you on the guest list, only a Brujah can get you every Brujah in the city and defend this as her right; a through the do or. powerful elder may be the grandsire of multiple nests Indeed, the Kindred may have none among the m
+of Brujah in a given do main. Or, quite the opposite, a closer to the mortal world than the Brujah. While the city may have a cosmopolitan Rabble from a variety of Ventrue busy the mselves with banks and investment sires and locations. firms, and the Toreador disdain the common elements
+Despite the Curse of Caine, Brujah tend to be social of humanity, the Brujah place the mselves right in the creatures, which explains the ir congregations. you ng middle (of course, they do so almost universally for
+Kindred of ten find safety in numbers, while elders cling the purpose of rebelling against the establishment). to the ir dwindling humanity by surrounding the mselves One needs to look no further than the closet in a with progeny. Even the dissolute anarchs have a common Brujah’s have n to know the impact mortals have on
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 37 === the ir unlives — Rabble follow cutting-edge trends the knowledge of the streets and halls of power with and remain just ahead of the curve. After all, once equal aplomb. Some know me as “Gringo.” Others everyone’s wearing a certain style of clothing or call me “Bird.” The Death Valley Sabbat and the
+listening to a specific kind of music, it’s no longer free-state anarchs call me “are thusa.” A select few trend setting but trend following; few Brujah want to know me by my birth name, including my sire and be part of that sort of thing. Still, some Brujah break my lover-cum-childe, Vanessa Hedrin, may God have this mold, settling into countercultures that for ever mercy on her soul. remain on the periphery of the cultural radar. Some If my biography inclines you to take what I say with
+Brujah place the mselves among skinheads, goths, a grain of salt, so be it. You’re a better person for it. bikers, and hackers who m society will never openly i welcome, despite the fact that the ir true period of de AlisM And novelty has long passed. In many cases, this indicates
+the static nature of undeath — upon receiving the i c On Ocl AsM
+Embrace, vampires become “locked in time,” for ever preserved with the image, culture and ideals they I’ve heard the se terms tossed around frequently held at that time. This stasis perpetuates the inherent — it seems that every clan has its own little interfractiousness of the clan — elders Embraced millennia nal subdivisions and conflicting ideologies, and ago, who still support the concepts considered rebel- some pedant feels like he has to step in and Codify
+lious at that time, are bound to clash with you nger All Concepts for the Edification of Knowledge. Kindred, who se concept of, say, democracy differs Somewhere do wn the line, someone convinced a radically from the classical Athenian’s. few verbose Brujah that a for mal distinction was
+In practice, how ever, none of this means a thing. necessary. Well, as far as I can tell this had one
+No assessment of the clan as an entity can prepare of two effects on you r average Brujah: fuck all or someone to understand the Brujah. they are a clan of who le-cloth acceptance. individuals, bound only by the traditions they choose The Brujah who accept the incontrovertible to accept. classification of the clan tend to be either conservative intellectuals or liberal firebrands. the se
+F rOM the intellectuals like to play with and debate such neat categories — put a sociologist Brujah in a room with n
+OteBOOKs OF a Brujah eugenicist and watch the m beat the topic into the ground sometime. Or do n’t put the m in a h K room and read Dr. Ophelia Gaines’s A Conversa or Ace Apl An tion With Carlyle, which is practically a transcript
+For my own justification, I have taken the liberty of that sort of thing. The liberals who support the of or ganizing my observations of my fellow Brujah. for mal distinction do it to perpetuate the ir “class
+Perhaps some night this record shall be of use. struggle” arguments. At one Rant, they scream about
+I am Horace Wyndham Kaplan, of the New the anachronism of princes and the fundamental
+York (actually, New Amsterdam) Kaplans, born in egalitarianism of the Kindred race while in another
+1837 and Embraced by Marcus “Freeman” Teague they wax polemic about the schism that prevents in 1871. I understand that I am ten steps removed the Brujah from uniting against the common enemy. from Caine. Upon this project’s undertaking, I have (Who this enemy is varies by Brujah. It’s the same been described as an ancilla by both my sire and failing to account for individuality that underpins peers. Over the course of my life, I spent a few years all liberalism.)
+as a chronicler and historian, both occupations from On the other side of the coin, you have Kindred which I found myself of ten relieved, as I frequently like me, who think that dividing the clan into arbitrary indulged in editorializing unbecoming of objective teams is bullshit. I’m in the camp with the progressive recording. the reafter I plied a few years’ trade as a intellectuals who know that unifying social the or y is
+cardsharp on the frontier train lines before meeting a crock, and with the more reactionary rabble-rousers, my sire and joining the esteemed Brujah. Since the n, who gladly accept anyone who supports the latest
+I have acquired some small repute among my fellows, cause they’ve adopted. Rounding out the group that running with various packs and coteries, assimilating do esn’t believe in rigid striation are Brujah who just
+Clanbook: brujah
+
+=== PAGE 38 === do n’t care about politics and simply want to kick a little ass. the n again, if you tell the m that the ir
+“enemy” is philosophically different from the m, they’ll climb over the ir own dead mothers to take a shot at the guy. Here’s the truth, are you ready? — we’re all exactly as individual or as assimilated as
+we each want to be. That’s one of the things I hate about this century — popculture drivel pretending to be legitimate social
+science. It seems that the modern kine need validation for the ir feelings of superiority or rationale for the ir self-hatred. you ng Kindred follow this trend
+all too blindly. Me, I’d prefer a good oldfashioned argument about noble savagery any night of the week, but regrettably, Rousseau is not among the Damned. Listen to me! How typical of a
+Brujah… I’ve let my feelings on the matter divert me from the is sue at hand. Too caught up in my own rhetoric, do n’t you know. No
+wonder we’re so fractious. Back to the pigeonholes: In a nutshell, the iconoclasts are you r bombhurling anarchist types while the idealists are the brooding subversives. i
+c On Ocl Asts
+In the modern nights, most Brujah probably fall into the iconoclast archetype, or at least they have over the past few decades. Social upheaval has long been a feature of the human condition — what
+is history but a collection of problems and people’s resolutions of the m? All Kindred were human at some point. To simplify the concept, iconoclasts are the most
+rebellious Brujah, quick to rally to any cause that espouses change. Many join anarch factions, hoping to bring Kindred social conventions up to date. they tend
+to be you ng, vigorous, and shortsighted
+— agitated iconoclasts happily incite riots, heedless of the fact that the ir own have ns might be destroyed. Chapter two: unlife a Mong the brujah
+
+=== PAGE 39 ===
+The sociologist in me finds the concept of icono- elders most of ten settle under the ennui of the clasm endlessly fascinating. Are the se idol smashers years; it takes more to rouse the m to the heights the same unwavering members of the Camarilla, of passion. And on that not e… upholders of the Path of Humanity, those in touch
+i de Alists with the voices of the streets? Now, when I say that
+Ostensibly, the idealists are the more analytical they’re staunch supporters of the Camarilla, I do n’t or intellectual Brujah, those who study the past for mean that they’re out the re with campaign but tons, guidance and rationally consider the ir best course
+waving “Camarilla!” pennants at some sect football of action. That sounds like loaded wording to me, game. No, I mean that on some level, they realize that and I suspect that, based on how superior it sounds, they need the Camarilla. It is the institution against a self-avowed “idealist” first codified the distinction. which they rage; it is the or der into which they try
+The idealist camp seems comprised mainly of to impose the ir own brand of change. with out the elders and ancillae — those who have had the time
+Camarilla, what would the iconoclasts rebel against? to grow past the rambunctious hell-on-wheels stage
+Like I said, fascinating, in a self-destructive sort most neonates go through. the se are n’t anarchs (or of way. A colleague of mine, the venerable Critias if they are, they’re more involved with the ideology
+(who is more of a mentor than an associate) mainthan with the firsthand assault on the bastions of tains that of all Kindred, the Brujah are the most undead society). No, they’re the seasoned Kindred, in touch with the ir conscience. The ranks of the those with some stake in the ir cities’ political struc Brujah include some of the most violent, angry and
+tures, sophisticates, and presumably anyone in the rebellious Kindred in the world. Among the m we clan who prefers to discuss an idea rather than throw find drug lords, gangsters, corrupt of ficials, hardened
+a trash can through someone’s window. Not that streetwalkers and depraved prophets of tumult. On idealists are above violence, but they do n’t necesthe other side of the coin, the clan includes priests, sarily want to get the ir hands dirty. You can of ten teachers, writers, artists, poets, performers and
+find an idealist by asking an anarch or iconoclast teachers. What‘s the common thread? What could who the city’s biggest sellouts are. possibly serve to unite the most liberal of political
+Some idealists have even been around so long activists with a vicious skinhead? they can remember our fabled Carthage. My afore The answer is humanity. I mean that in the mentioned mentor Critias claims to have once made abstract — the concept of humanitas, the bulwark
+his have n the re and all udes to his sire having do ne against the Beast. Every Brujah knows that to lose the same. The exemplars of the idealist model refer to the Beast is to fall into a degenerate state from
+to Carthage as proof that Brujah can unite toward which no Kindred returns. We know this all too obtainable goals. Naturally, self-styled iconoclasts well, given our progenitor’s proclivity for frenzy, a
+refuse this sort of “manipulation by the elders,” proclivity that each of us bears to this night. Deep seeing it as yet another example of old vampires inside every Brujah’s heart, he believes he is right —
+trying to usurp the rights of the you ng. And so the unassailably so. The skinhead truly believes in his
+Jyhad continues. do gma of purity. The activist fully upholds a code
+Idealism is as much a behavior-based distinction of equality and compassion. as iconoclasm. Brujah primogen, for example, of ten
+This is why the iconoclasts rage so fiercely. As embody the idealistic spirit. they want to know all the ir ranks are populated predominantly by you ng the facts and analyze a situation before deciding
+Cainites, the ir ideologies of ten lack the maturity how best to change it. Yes, change — the desire to of those held by elders. they make up for this with build and improve still lies close to the ir unbeatthe strength of the ir conviction. I do n’t say this
+ing hearts, despite the different methods they use to disparage the m; the you ng Kindred are capable to achieve it. I hope I have n’t implied that they’re of mustering an enthusiasm that evades the clan’s
+emotionless and empty; you r elder Brujah is just as elders. they simply have n’t had the decades or capable of a blood-rage resulting from a perceived centuries to explore the is sues that truly matter
+slight as a hotheaded neonate, except that he can to the m. That’s another one of the not-so-gentle cause a lot more damage in the process. The real ironies that afflict the Brujah. The you ng ones are
+difference: the idealist knows that he’s do ing what’s the most capable of still caring. The ancillae and right, while an iconoclast feels it. Clanbook: brujah
+
+=== PAGE 40 ===
+The who le matter is largely subjective — I should She’s not a demanding elder, insisting that her fellows undoubtedly present an example. Jeremy Mac Neil, follow her agenda, but neither is she an anarchistic a popular anarch leader from the Anarch Free State dervish. She simply chooses her course, and anyone of California (which I still recognize in spite of else is welcome to come along, should they so wish. the problems it has faced recently), is a dyed-in- To be fair, this seems to be a simple personality
+the-wool revolutionary, having witnessed several trait rather than a political stance. The term seems
+Scottish independence skirmishes, the American to refer to the denotative nonconformist — the moand French Revolutions as well as the American ment you care about whether someone follows you, Civil War. Look for trouble and you’ll find Mac Neil. you become an idealist. Like I said, it seems to be
+He’s potent enough to wade into the midst of battle convenient to label people, but I know of no one and emerge with a score of severed heads. Mac Neil, who claims to be an individualist. Perhaps they are how ever, takes a rational approach. He knows that ahead of the ir time. Or maybe I’m right and it’s all the best way to cripple an enemy is to target its so much nonsense. leader. To this end, he has argued the anarchs’ case
+r r not only in the streets of the free state but also in Ants And Aves
+Elysium. He knows that a mindless street war with
+California’s invading Cathayan menace only serves Brujah gatherings either suggest or utterly defy the to cripple a few of the soldiers, so he instead pursues stereotype other Kindred have of us. Assuming some diplomacy, negotiating with the Cathayan leaders outside Kindred hears that we have assemblies, her and working out accords that let both sides exist in response generally betrays shock (“I did n’t know you
+mutual comfort. Brujah or ganized to do anything.”) or dismissal (“Do
+By way of counterexample, I suggest you look they hand out the biker jackets at the do or?”). no further than Smiling Jack, a.k.a. Calico Jack In my experience, I’ve found the for mer to be
+Rackham, a.k.a. Jack Hopper, a.k.a. (in at least one mostly true — any time the Brujah gather, the who le episode) Malk Content. An anarch of the “let’s blow thing is bound to have some air of incredulity. It’s things up” stripe, Jack’s indulges his malice for its because we’re so generally disorganized and leave own sake. Smiling Jack do esn’t care who he’s feuding each other to our own devices. Brujah meetings, with, as long as it’s someone — he’s fought on both of ten called rants, tend to have loose agendas, but
+sides of the rivalry between Prince Tara of San Diego when things come to or der they can be quite for mal, and the self-styled “Prince” of El Cajon, Shay. He’s depending upon who m attends. Parties thrown by sabotaged gangs of other anarchs. He’s burned do wn Brujah, also known as raves, most frequently follow
+Sabbat have ns and Camarilla soirees alike, all in the a rant or precede one. Brujah seem to have the best interests of causing grief to “the powers that be.” The luck staging the ir raves after the rants — if you throw end result? Anarchs and Brujah respect Mac Neil, but a party before you r or ganized convocation, it’s quite they like Smiling Jack. Almost everyone else hates possible that things may never calm do wn enough
+the m both, but not because they’re iconoclasts or for everyone to get do wn to business. idealists or even Brujah, but because they wanted In both cases, matters are generally pretty opento change the way things work. ended. I’ve seen Kindred who I know belong to different clans at both rants and raves, and no one seemed to i ndividu Alists
+care. It’s not like we’re some juggernaut that plans to
+In my decades of discussion with other Brujah, I secretly mobilize against the world. No, rants tend to have at times encountered a third distinction of the reflect more local interests while raves, in my hon Brujah temperament. A few members of the clan
+est opinion, need a little out-of-clan presence to be have referred to the “individualists” who seem to exinteresting. If not hing else, you can gather a few of is t somewhere between the poles of iconoclasm and you r bullyboys and kick the shit out of some snotty
+idealism. Again, this smacks of artifice — by what
+Toreador who thinks she’s slumming. grand and cosmic scale are we to weigh our principles? Between the two different gatherings, some com-
+— but some Kindred find security in appellations. mon principles apply. It seems that anyone can call
+Near as I can tell, the individualist espouses a rant or throw a rave; the only difficulty is making change and works for the good of the many (“the sure that people attend. is n’t that the case with any
+many” having different definitions to different indimeeting or party? And who ever or ganizes the thing vidualists) but requires no adherence to her plans. Chapter two: unlife a Mong the brujah
+
+=== PAGE 41 === had better make sure all deal. you r average city may his ducks have lined up not even have one each in a row. After all, if the year — it depends comrant attracts some big- pletely on the disposition
+shot elder from Milan or of the local Brujah. A few
+Barcelona, he’s going to be members of the clan have one angry Lick if the po- distinguished the mselves lice bumrush the meeting by hosting annual rants or four minutes into his pet gala debates every decade or
+tirade. Smart Kindred also so, but the se are the excepprovide for the ir guests’ tion rather than the rule. I tastes at rants and raves know that Justicar Pascek
+— hungry Brujah do n’t had a premier rant that took pay attention very well, place on the winter solstice and most are n’t averse to every year in Prague, but a little sloppy feeding as that was attended mostly by
+long as it takes place in Eastern European Brujah. someone else’s backyard. Something similar happens in Texas around the time of
+Ants each year’s Burning Man
+Rants tend to be held festival (I suppose so those either by elder Brujah or attending Burning Man can you ng ones trying to make drop by the rant before or names for the mselves. after). And I have no do ubt
+That’s simply the ir most that every cell of Brujah common incarnation, anarchs in the crumbling though — of late, anarchs free state observes the ir and other Brujah rowdies own signature event, which
+have learned that the other anarch gangs attend as rant is a perfectly viable long as the hosts promise to venue for expression and attend the irs. not just a symposium of Ostensibly, rants have sellouts. You may have some is sue at the ir core; even seen the aftermath you do n’t throw a rant
+of one; check you r local with out having something newspapers for any dem- to, well, rant about. In onstrations that resulted this sense, “rant” is somein riots. While you’re at times a misleading word. it, marvel at the reporter’s Conclaves of elders and ability to not mention cars ancillae of ten manage to
+overturned by solitary keep the ir emotions in protesters or to dismiss one check long enough to await rioter’s dispatching of the ir turn in the spotfour police of ficers as light. In some cases, “a drug frenzy.” The though, you end up
+Masquerade is a with those situations beautiful thing. you sometimes see in
+I’ve attend- those Japanese goved probably a ernment meetings on hundred or so of C-SPAN: a room full the things, but I of tastefully dressed travel a good of ficials who sud Clanbook: brujah
+
+=== PAGE 42 === denly begin brawling and hurling chairs at each that “one of my sire’s associates” always observed), other. It happens. Prince Mithras of London was apparently trying to
+Particularly agitated ancillae and neonates prob- tip the balance of power in the London primogen ably gave the rant its appellation, and the name by maintaining two Ventrue primogen. Two weeks reflects the se two groups’ typical behavior. they have before the for mal appointment, the London Brujah a tendency to get carried away, either with the ir own gathered and decided that Mithras’ intent was pretty
+pet is sue or the incendiary presentations of the ir fel- much bullshit. One week later, they made a grandilows. Some nihilistic Brujah even attend rants just to ose proclamation that they would physically beat to disrupt the m, or perhaps find a thrilling fight in which Final Death any Kindred who claimed the second to participate. In cases like the se, I wish the clan was n’t title of Ventrue primogen. Naturally, Mithras could so egalitarian — like representative democracy, not have demolished any of the Brujah, but none of the
+every Brujah should attend the se sorts of things. Not Kindred wanted the London Brujah clamoring for everyone has something constructive to say. Some his blood, so the secondary primogen position went
+Kindred just want to yank others’ chains. unfilled. Score one for the system of checks and bal Still, rant hosts typically prefer to keep things ances, courtesy of Clan Brujah. informal. Most rants are arranged around a stage or d eBAtes assembly-hall model in which the audience faces the
+Almost the exclusive purview of elders and speaker. Anyone is welcome to speak. Of course, the intellectuals (because the more rambunctious eleproceedings tend to be overshadowed by long-winded ments find the m terribly boring), debates involve
+elders or filibustering firebrands, but as long as you can the argument of an is sue for its own sake. Although bully you r way to the head of the crowd, you can have they may lead to a policy rant afterward, the arguyour shot at the podium. I remember one rant held
+ment itself comprises the crux of a debate rant. In in Italy, just after World War II of ficially concluded, a debate, the attending Brujah decide which side of at which some Brujah socialist waxed at length about the rant’s given is sue they support. Each side the n
+the utopian opportunity of fered by Mussolini’s death makes its case, examining or cross-examining as the and why the locals should use the ir influence to culparticipants see fit. Of the debates I’ve seen, I can’t tivate atheistic communes around the countryside. tell whether they’re supposed to be moderated or not
+This went on for more than 45 minutes before some
+— sometimes a moderator serves to keep the debate ill-tempered anarchists awaiting the ir turn had heard on topic while at others, the gathered Brujah simply enough and literally bombed the socialist of f the stage. take it on good faith that they won’t deviate from
+the ir actions met with applause, even though the ir the is sue at hand. Sometimes, they manage to stay on ensuing diatribe did n’t. target. The debate goes on until one side convinces
+The central purpose of the rant can take many the moderator (or, less frequently, the other side) for ms. Most rants involve some vaguely important that it is right, which may take nights or even weeks. Kindred is sue, but we afford the m equal gravity when
+Now, because the se are elders we’re talking they’re ceremonies commemorating memorable events about (for the most part, at least), debates rarely or figures, like the Martin Luther King, Jr. affair held
+degenerate into violence. I’ve found it more likely every February in Alabama. I’ve even been to a few for a participant to walk away with a new rival in that did n’t explicitly state the ir focus beforehand, the ever-unfolding Jyhad than a broken collarbone. and the rant opened with what ever is sue made it to
+Still, the exception proves the rule, and more than the floor first. one impassioned anarch has found himself shattered p Olicy r Ants over an elder’s knee during cross-examination. The loose structure inherent to Clan Brujah makes For the reader’s reference, I include this bit of any attempt at a universal statement of do ctrine im- transcript from a debate I attended in 1992. not e the
+possible. Still, that do esn’t mean local Brujah can’t attention to detail the speaker (Rudolph of Melk, a band together to serve a mutual purpose, at least liberal French elder) maintains in his argument. I temporarily. Policy rants serve to galvanize Brujah can recall this only because I had written it do wn; toward common causes. For example, back in the 19th the assembled vampires at a debate tend not to write century sometime (I do n’t recall exactly, because I things do wn, lest they leave proof of the ir positions
+was n’t the re, but this is one of those Brujah legends — or even the ir existence. Chapter two: unlife a Mong the brujah
+
+=== PAGE 43 ===
+“I would like to argue against the to draw the most outsider presence, whether that of
+32nd subissue of the 10th point that other Kindred or even kine. After all, not only must
+Critias raised on the third night of the individual’s secrets be preserved, but so must the the current debate by stating that the traditions. is sue is in fact negative, rendering r r all y Ants the 12th, 15th and 17th subissues ir Every now and the n, after local members of the
+relevant as well.” clan have united for some common goal, a Brujah
+That’s right — Rudolph remembered Critias’ calls a rally rant. the se are generally straightforward specific points over a series of nights as well as each affairs, used to psyche up the Brujah before turnof the subissues contained the rein. Upon crossing the m loose upon what ever has demanded the ir
+examination, Critias likewise refuted several of attention. Rally rants of ten turn violent, resulting
+Rudolph’s minor conjectures with similar attention in property damage and civil unrest like the rant to minutiae. Debates are no mere shouting matches, the Atlanta Brujah held in the condemned Omni but rather elaborately constructed considerations
+are na before the ir do omed stand against the Sabbat of the is sue from every angle. Although we Brujah in 1999. Let the host beware — whipping a gang of might be excitable, we express our passions in difangry Brujah into righteous indignation of ten takes
+ferent ways. its toll on the immediate environment. p r restige Ants s r pite Ants
+I must confess that of all the various rants, I enjoy
+The Brujah use the se rare and brutal venues to prestige rants the most. punish Kindred who have committed some transgres Prestige among the Brujah is a curious thing. sion, whether against “the clan” (which is a fairly
+Because the clan espouses change, it lauds those Kinspecious conceit — how do you rebel against rebels?), dred who make names for the mselves by challenging the brood, or in general for crimes that provide the established institutions. Now, anyone who thinks local thugs with an excuse to stomp a Brujah they
+about this realizes that as elders garner power, they do n’t like. In a sense, spite rants are exceptionally become institutions. While the elders of the clan are nasty prestige rants, though they serve the sole purpose
+more than happy to recognize status or prestige in an of punishment. In fact, the term is one I’ve made up; ancilla who, say, confounds a Ventrue’s bid for power, I’ve never heard a Brujah all ude to a spite rant, but they’re loath to do it when said ancilla confounds that seems to be the most appropriate term. I’ve only
+the ir own bid for power. Hypocritical? Certainly. Par been to two of the se — one was a street gang-style for the course where elders are involved. “gauntlet” beating held by anarchs that resulted in the
+That said, prestige rants not only recognize Final Death of the victim; in the other, the criminal
+Brujah achievements, they also all ow the assembled in question stood trial for supposedly revealing the
+Brujah to have a mean-spirited laugh at the follies location of a Brujah elder’s have n to an Assamite in of the ir peers. Prestige rants are of ten affairs that the Nosferatu primogen’s employ. A mob of neonates, require an invitation, and to decline an invitation seeing the opportunity to fire the mselves up about risks even more public mockery than simply attend- something, roped the of fender to a do or way and ing and taking you r licks. In a few cases, recalcitrant cracked his ribs with the broad side of a mattock for
+elders have been dragged bodily from the ir have ns six hours. to prestige rants, where, held do wn by enthusiastic r you nger Kindred, they suffered the scorn and abuse Aves of every Brujah from a several-hundred-mile radius. In the history of the Brujah, raves developed
+Humility, after all, is good for the soul. relatively recently. While I certainly remember having
+I feel myself becoming overexcited at that prospect. hosted and attended parties in the latter part of the
+In any event, prestige rants also acquaint Brujah 19th century, none of the se were on the scale of the vampires with the deeds of the ir clanmates. This may epic debauches that take place in the modern nights. take any for m, from an ironic “coming out” party to Brujah parties used to be small, private affairs. Maybe a a very for mal procession of Kindred, in which the city’s Brujah gathered at a coffeehouse, or maybe they host describes the mayhem he’s purveyed. The Brujah all gathered outside the city and how led at the guards
+have to be very careful, how ever, as the se rants tend on the wall. One of the best proto-raves I’ve had the
+Clanbook: brujah
+
+=== PAGE 44 === pleasure of attending reminded me of sneaking out of let the ir hair do wn. The typical rave of fers no end my father’s house as a child. It was right around the of hedonistic excess — dancing, thunderous music, turn of the century and several of us you ng ‘uns stole drug- and alcohol-addled vessels, kine to flirt with or a few horses and rode like the Four Horsemen of the bully, and perhaps a good-natured brawl to round out
+Apocalypse through the streets of New York City, the experience. kicking in windows and bashing derelicts. What can Raves, while open to all Kindred, are with out a
+I say? We were you ng, foolhardy, and loud, but by the do ubt Brujah affairs. Athough most, if not all, local time we laughed it of f at the end of the night, three Brujah attend raves in the ir vicinity, the entertainother Brujah had joined our parade of assholes. ment reflects an inclination toward the you nger
+I’ve traced the or igins of the word “rave” back Kindred. The music tends to be upbeat and either approximately 10 or 15 years, and it seems to have monotonous or savage. Metal, speed and thrash all come into usage concurrent with the English all-night have the ir places at the raves, but equally comdance parties of the same description. That’s no sur- mon are the urban, rap and Latin styles prevalent prise; the Kindred have been following and co-opting in ethnic neighborhoods and inner cities. Most
+mortal trends since, presumably, the establishment of popular, how ever, is the electronic music played the Masquerade. at the parties from which this Brujah custom was
+To describe Brujah raves as anything less than adapted. One pair of Brujah promoters operates a manic parties undertaken with reckless abandon is to perennial mobile rave that has thrown parties in Tel do the m a disservice. Whether gala affairs or raucous, Aviv, Prague, Oslo, Sydney, New York, Sao Paolo, secret garage parties, raves are places where Brujah San Francisco, Athens, Budapest, Buenos Aires, can convene, put the ir ideologies behind the m and Ibiza, and even the Cathayan cities of Tokyo and
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 45 ===
+Hong Kong, hiring prominent mortal DJs to whip The distinctly separate topic of non-Brujah the partygoers into ecstatic states. violence also deserves some attention. the se are
+At you r average rave, mortals throng the simply normal cases — booze-stoked rowdies coming dance floors, filling the air with the tang of blood to blows over perceived slights, gangsters resolvand sweat. A few you ng Kindred even refer to the ing turf disputes and such, just like at every other floors as buffets, from which they take the ir choice nightclub or party. of vessels. O d the r is tincti OnsOFthe
+Raves are n’t simply dance parties, how ever, B though that is how most non-Brujah guests see ruJAh the m. For Brujah Kindred, they are places to meet In certain cases, Brujah blood has deviated from old friends and rivals with out having to worry about its none-too-humble beginnings. the se cases are acopen conflict. Not that raves are somehow sacrosanct tual shifts in the makeup of the bloodline, not simple
+to the Brujah; we simply understand that not every social conventions like I’ve discussed above. Some night needs to be another episode in our endless of us are hardly “just another Brujah.” litany of personal vendettas. Even the Damned need But God help you if you think like that, anyway. to have a good time every now and the n. t A he ntitri Bu
+That said, raves see the ir fair share of violence. I make no claims of being a genealogist. My skills
+Brawls between Brujah tend to be affectionate or comlie in observation, not research. Still, I think it’s fair petitive, as with mortal siblings. It’s just a bit of friendly to assume that the Brujah antitribu arose as did many roughhousing, or the odd bit of alpha-Lick assertion. of the other anti-clans, as a result of sire-childe griev This typically goes over the heads of other Kindred, ances that culminated in the Anarch Revolt and the
+how ever, who either assume the worst and flee or, less for mation of the Sabbat. conveniently, join in as if unlives were at stake. This usually has the unpleasant result of turning the affair into a real fight, after which the Brujah are likely found
+shaking the ir heads and wondering what the hell the other Kindreds’ problem is, anyway. On occasion, mortal guests wind up involved in the
+fray — the less said about that, the better. Clanbook: brujah
+
+=== PAGE 46 ===
+Fine. they became upset, fought with the ir sires, antitribu. I believe the m, for the most part. To hear and left. I’m not going to pretend to examine the ir the m tell it, the Brujah of the Sabbat will soon have reasons. I’m more concerned with the ir practices. a greater voice, recognized as they are for the ir value
+As members of the Sabbat, the Brujah antitribu by the current leaders of the sect. do n’t typically follow the Traditions (see below) as Do you see a pattern? Can you find a few, recurrent a code. While they may observe a Tradition or two not es that strike you with the ir clarity? I do. in practice, it’s because it suits the m for the time be- The single greatest difference between Brujah of ing, not because they have any respect for the code. the Camarilla and the Sabbat looks to be the fire of
+Likewise, cities infested by Sabbat tend to be more rebellion and change. Among the Camarilla, we have violent, which all ows Brujah antitribu to indulge the ir almost as many personal causes as we do Brujah. In vampiric viciousness more of ten. they do n’t have the Sabbat, how ever, the Brujah cause seems to have to hide behind façades of social correctness or anti- experienced a unity, a focus. The cause of many Sabcorrectness — Brujah antitribu make no bones about bat Brujah is the Sabbat itself. At face value, this is
+who they are. neither good nor bad. Actually it’s a little of both, This is precisely what’s so sad about the m. The which causes the moderation — yes, it illustrates that
+Sabbat has effectively eliminated the artificial codes the divisive Brujah can, under certain circumstances, to which vampires adhere under the auspices of the strive toward a common goal. On the negative side, Camarilla. The much-feared Black Hand is not hing so the common goal they espouse is the Sabbat, which much as a survivalist religious cult; it has torn do wn any right-thinking Kindred immediately understands walls other Kindred built to protect the mselves. Where for the satanic lunacy it is. the Brujah are concerned, the result is disappointing. The methodology of the bloodline, though, is
+Given the opportunity to become what ever they want, almost indistinguishable from that of a significant most became simple fiends and thugs. Having turned portion of the Camarilla Rabble. In fact, the only the ir backs on the clan that spawned the m, they also difference I’ve been able to observe is the philosophy deny the history and legacy of a clan that once claimed behind it. I’ve watched frenzied Brujah tear apart
+to be the philosopher-warriors of undead society. No, police detectives in the name of the Masquerade. the Sabbat Brujah seem to be content with fulfilling I’ve seen prince-appointed sheriffs sate the ir undead only half of that destiny, and when you call the m on thirsts on urban latchkey children, burning the small, it, they pound you to pulp. bloodless bodies in apartment-building incinerators. Naturally, that’s not always the case, just the most I’ve witnessed recently Embraced neonates from the common. I’ve spent half of my essay dismissing stereo- gang culture rejoin the ir mortal affiliates with renewed types and the other half reinforcing the m — I hope bloodlust, drinking vitae from the ir fallen rivals. And
+to leave the impression that the Brujah are half what I’ve seen the exact same things take place in Sabbat you see and half what you can’t. This is n’t as true of cities. It seems that the fight itself is irrelevant; whether the antitribu, how ever, who seem to be three-fourths the prince, the Ventrue or the mythical Antediluvians what you see and one-fourth sick in the head. Obvi- are the enemy, all’s fair in Brujah unlife and war. Pasously, individuals exist, but the do gma of the Sabbat sion fires the soul, which is what makes it possible for
+has undeniably taken a firm hold in the collective us to rise each night, sect be damned. psyches of its Brujah. t n -c t he On Ons Anguine OusOF r Oile
+In the time I spent with a coterie of Sabbat Kin Once again, I’ll spare you the history lesson. dred, the two Brujah among the m continually took
+A few others would n’t be so kind, how ever. Acme aside to whisper that things were going to change cording to a small but vocal minority of Brujah, mostly in the coming nights. Apparently the Brujah of the paranoid elders, Brujah himself managed to sire a brood
+Sabbat have made names for the mselves among the that remained secret from his most not ed childe, Troile. traditional leaders of the sect, the Tzimisce and La Most of us accept the treachery of those Biblical nights sombra. My two proselytizers regaled me with tales of as par for the course and take it on faith that we’re
+Brujah cunning, crusades masterminded by the ir kind, descended from Troile. significant battles and assassinations undertaken by the
+As the tale unfolds, the members of this hidden
+“Brutes” (as they somewhat meanly call the mselves) brood have different proclivities than the rest of us and lofty positions of responsibility filled by daring
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 47 ===
+Brujah do. Apparently, the ir or iginal powers influenced have n’t). Only Kindred who would abolish things the flow of time itself, of which our own supernal speed such as personal ownership refute the validity of the is a pale and weak reflection. Additionally, we have Tradition of do main, for example, and even by do diametrically opposed temperaments — apparently, ing so, the abolitionists acknowledge do main in the the fiery Brujah Blood is actually a characteristic of breach rather than the rule. Obviously, such topics
+Troile, as rumor attributes the se “True Brujah” with a are more apropos to an elder debate than to a simple detached, dispassionate mien. collection of observations, but never let it be said that
+Pardon me if I seem a bit incredulous. Cainite his- I’m simplifying for my own sake. tory is rife with the se conspiratorial heresies. Do you Of course, I do n’t mean to discount the anarchist really think that a clan of opposite-and-more-potent presence among the Brujah by any means. they deserve vampires could exist with out someone having some the ir own investigation, but that comes later, away verifiable account of it? Such is not the case. Still, from discourse on the Traditions. the tales do circulate, always as secondhand accounts
+t M he Asquer Ade at best. Ask any Brujah about the Ventrue and you
+My verdict: Until I see one, I’ll indulge my right to probably work him into a lather. It’s not entirely undoubt. We do n’t need any more bogeymen to distract us. deserved — over the course of centuries, the Ventrue
+(Storyteller’s not e: More information on the have placed the mselves center stage in almost every
+True Brujah may be found in the Vampire Storytellrotten do uble-dealing that’s involved the Kindred. ers Handbook.) they can’t help it, if you ask me. Any time someone steps into a role of leadership, she’s got to make some t t
+he r Aditi Ons significant decisions and the results are bound to piss someone of f. So it is with the Ventrue. You think
+As much as any Brujah desires change and chalthey’d learn to quit putting the mselves in the line of lenge, only the most die-hard anarchist would dare fire, but they like it too much. I think they’re more suggest dispensing with the Traditions. The Brujah
+comfortable the re. joined the Camarilla after the Anarch Revolt — as
+Same with the Toreador. We supposedly hate much as certain Traditions pain us, most of us underthem almost as much as we hate the Ventrue. I’m stand the reason for the rule and at least pay it lip not sure why — it’s probably guilt by association. service. Not even the anarchs necessarily want to see
+Toreador and Ventrue have a lot of power invested the stone tablets of the Traditions hurled do wn and in the institutions that we have problems with, so smashed beneath the ir feet (remember, I said necessarthat might be where it comes from. ily — some do, indeed). with out guidelines, society
+That not with standing, the best idea a vampire’s reverts to barbarism; this may appeal to some Nodever had came from a Toreador and a Ventrue. I do n’t dist Kindred heretics, but the rest of us see it for the remember the ir names — only an elder would — but
+devolution it is. it’s pretty well accepted that the who le concept of
+No, most Brujah fully comprehend the need for the Masquerade was a joint effort on the part of the se social structures. The underlying passion of a Brujah is two clans. most of ten not his desire to destroy existing structures
+Only the dumbest Brujah has a problem with the for destruction’s sake, but rather as an opportunity to
+Masquerade. Rail as we might against the powers that install some system that suits his own ends. Kindred be, we can’t find any fault with this one. First of all, it of our clan run the gamut from reactionary feudalists
+covers the obvious protection thing. Most of us are n’t and neofeudalists to radical communists, socialists and stupid and we understand that the minute humankind moral progressives. The desire to “smash the state” is
+suspects that vampires walk among the m, it’s all over all too of ten interpreted by other Cainites as petty for us. A few of us even remember the nights of the anarchism. It’s not — it’s simply the first step toward
+Inquisition, when a handful of vampires protected creating an individual Brujah’s own vision of utopia. the ir own sorry asses by feeding the ir childer to the
+The six Traditions of the Camarilla serve some larger witch-hunters. Now, I might not be representative purpose for the Kindred, and most Brujah incorporate of the clan as a who le, but I’d be hard pressed to sugthem into the ir own philosophies (assuming that said
+gest that a single Brujah would prefer going to the philosophies have reached maturity, which many
+Clanbook: brujah
+
+=== PAGE 48 === fire to laying low every now and the n. Even when Convoluted? Hell, yes, but very effective at hiding we act up, we usually do it with as few witnesses as us. But, because it’s so impenetrable, it requires a possible. You know what I’m talking about — when great deal of effort to affect the outside world. It’s
+some angry you ng Lick loses his temper and uses his hard to bring even one small operation under you r vampiric strength to punch some poor slob through thumb — whether it’s a legitimate business, an of a wall, he’d better fake a convincing PCP freak-out fice of the local government, or even a rowdy bunch or he’s going to be a pile of ash with the sheriff’s of street punks who specialize in creating insurance footprints in it. settlements — that the Kindred have to pick and
+If you pay attention, you can catch vampires choose which efforts they’ll focus on. when the Masquerade fails, and the Inquisition knows It also makes it easy to settle the score with you r it. A few years ago, the Chicago Kindred had some Tremere rival, should he get uppity — you can beat trouble with the Lupines up the re. Now, between his ass into torpor and no one’s the wiser except for the were wolves and the hunters, almost three do zen his ghoul, who’s running scared with out a steady sup Kindred are dust. Three do zen! you r average city ply of vitae. do esn’t even have three do zen Licks, let alone three A great many Kindred are conspiracy the or is ts or
+do zen dead ones. mythology-upholding whack-jobs. You run into the ir
+But that’s only part of why the Brujah generally hysterics from time to time: “The Ventrue control the think the Masquerade is a good idea. More so than banks! The Toreador control the mayor! The Malkaany other Tradition, the Masquerade for ces other vian Primogen has do minated the Chief of Police so
+Kindred to temper the ir affairs. Let’s say one of thoroughly that he can’t even take a piss with out conyour Tremere rivals wants to devote his energies to sulting her!” This sort of thing is, quite plainly, bunk. acquiring a controlling interest in, say, a local freight What, the primogen has some sort of remote control expediter. He could stomp into the dispatcher’s of fice that she clicks and makes the chief do her bidding? Do and use his for midable powers of mind control to tell the banks set the ir exchange and interest rates based him that he’s the one in charge — a simple, one- upon what the Ventrue decide when they wake up
+shot affair. But if he did that, the dispatcher would each evening? No, it’s more likely that a certain Venno do ubt attract some attention to himself, is suing true has cultivated vast amounts of influence in each strange assignments, making weekly deliveries to the bank, perhaps even sitting on a few boards of directors witches’ coven at 1313 Mockingbird Lane, routing (probably under several assumed names). While this deliveries to other Kindred fronts through customs sort of thing is possible, it’s not practical because of
+and insurance companies, and generally making the rigors imposed by the Masquerade. the n again, unlife a pain in the neck for everyone else. When Kindred society is rife with such smoke and mirrors, the higher-ups catch wind of what this dispatcher’s and I’ll be damned if you could convince that Ventrue do ing, they call him on it, and he says, “Well, that to admit that he do esn’t “control” the banks. vampire over the re told me to do it like this, and And that’s how the Masquerade helps us. Special
+I could n’t help myself.” End of dispatcher, end of than ks to the Ventrue and Toreador for putting it in vampire, end of the Kindred. place. Extra than ks to the m for limiting the ir own
+Now, with the Masquerade in place, vampires interests in the process. Maybe they enjoy a challenge. are for ced to respect the unlives of other Kindred by d
+OMAin covering the ir own tracks. Instead of all that stuff
+This Tradition constitutes one of what I have afhappening because the Tremere walks in and puts a fectionately dubbed the Two Great Hypocrisies of Clan hex on the dispatcher, it happens because the company
+Brujah. It do esn’t help that the Tradition itself is so sinking its assets into the freight expediter’s stock says fraught with ambiguity that no two princes interpret so, and the single greatest investor in that fund is our
+it the same way. In some cities, the Second Tradition rival Tremere, who, through his “financial assistant” is merely a predicate to the Traditions of Destruction ghoul (who can operate in daytime, thus protecting
+and Hospitality. In others, princes all ow the resident the Masquerade), communicates to the fund man Kindred to establish the ir own do mains. Who’s right? ager that this is how the investors want operations
+Nobody, so far as I can see — tight-fisted princes with to commence, and if they do n’t, the investors will the power to back the ir own claims can pretty much back out, thus jeopardizing the expediter’s business. do what they want, while more liberal princes of ten
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 49 === have more popular support at the expense of less as a result of the ir own considerable power or in direct temporal power. Both succeed and fail of the ir own accordance with a liberal prince’s grant of do main accord. I know, I know — it’s just like everything else: rights to all Kindred, an established Cainite may
+like this except when it’s like that. Welcome to the well have already made the claim over real estate duplicity of unlife. that also falls under the do main of you nger Kindred. Anyway, back to what I was talking about: do- I do n’t have to tell you how this works out, do I? main. Now, remember that I’m largely considered an When Vlad the Elder’s claim comes in conflict with ancilla, having paid my dues, at least in a New World some neonate’s? context. I’ll be damned if I can make heads or tails This is one of the fundamental problems plaguof this Tradition. On the one hand, it grants each ing the Kindred in the modern nights — dwindling
+Kindred the right to be king of his own castle — the resources can not support an ever-growing population of mightiest Cainite prince is still a guest when he steps Cainites. A city that manages to appease 10 Kindred’s into the fetid have n of a sewer-dwelling Nosferatu claims to do main is unlikely to satisfy the claims of and must (in the or y) respect the customs of his host’s 11, unless each of the prior 10 gives up some little bit, do micile. On the other hand — and please do n’t and how likely is that among the nest of vipers that
+get the impression that I’m in favor of this sort of is the Camarilla? absolutism — some princes interpret this Tradition This is what rankles the Brujah, and this is also to mean that the ir claim of princedom over a city what establishes do main as one of the hypocrisies to makes the m the penultimate power behind God, which I all uded. While the ancillae and neonates
+Fate or what ever in the ir respective city. From the may rally against do mains held by elders, in the same primogen do wn to the lowliest neonate, all Kindred dead breath they execrate you for stepping on the ir exist with the prince’s permission in the se cases, and turf. When some cagey elder and the neonates of the he alone reserves the right to grant the m the benefits Blood Brothaz’ coterie simultaneously claim the Fifth
+of unlife in his do main. Ward, how can the Blood Brothaz seriously oppose the
+Excuse me while I suppress a shudder. elder? He claimed it first, but the neonates arguably
+While my own opinions are n’t at is sue here, I have as much influence as he (though likely in very uphold the views maintained by most Brujah — that different realms), so who’s right? the Traditions are a social contract established by In the end, no one’s right — the Tradition is so the Kindred, not a declaration of the Divine Right vague that it supports both sides of the argument and of Princes. Even if the intent of the Traditions was everything in between. And, as typically suits the
+to reinforce the more conservative interpretation of Brujah, we support this Tradition when it benefits us do main, the Tradition itself must change to accom- and oppose it when it works against us. Just like any modate the more modern circumstances that now other vampire. surround it. No Kindred Embraced with in the last p
+r Ogeny century is going to accept that some loud-mouthed
+The Tradition of Progeny is almost universally disprince owns his have n just because she’s older than dained by the Brujah, who gladly stop fighting among he is. Granted, the prince may well take this tack, the mselves to unite against anyone who limits the ir but with out popular recognition of her position, a
+choices, as this Tradition pretends to. prince is just another Lick. If Chicago’s continual
+When you’re a Brujah, you Embrace who you want, struggles over princedom do n’t illustrate that, I do n’t and fuck anyone who stands in you r way. how ever you know what do es, even if they do n’t relate directly to interpret this Tradition, whether “elder” means you r
+the Tradition of do main. own sire, the recognized clan elder of a given city, or the how ever, simple disagreement do es not a valid prince herself, a childe is the sire’s responsibility. Mortals opposition make. While my admittedly modern posidon’t ask the ir own parents if they may have children, tion — each Kindred may indeed claim rights in her
+and, as the Brujah reason, neither should Kindred have own do main — may differ from some European princeto petition some vague and arbitrary higher authority of-four-centuries’, as prince, her word is law and I’m for the same right. bound to respect it in her city. Why should they? As a conservative Brujah, Along with the prince’s claims, many elders
+my own outlook of ten differs from my brethren, have also acquired rights to do mains over the years. but on this I think most of us achieve consensus. It
+Whether as a reward for loyalty or service to a prince, Clanbook: brujah
+
+=== PAGE 50 === is, after all, easier to ask one’s “elder’s” (again, this is so ambiguous as to be superfluous) for giveness than permission. Also, I has ten to point out, when
+an elder invokes the last tenet of this Tradition or calls upon the Tradition of Destruction, she damns herself. After all, the Beast loves to slake its thirst on blood, and an “elder” had better think long and
+hard about whether she values her authority or her humanity more. The Tradition grants her the right to kill illicit progeny, but do es she really want to tempt the Beast by do ing so? That’s why it’s easier
+to ask for giveness, but it’s also a way to gain a new enemy. On the topic of the Embrace, stereotype once again rears its head. Ask a Kindred of a different clan about who m the Brujah
+choose for the ir childer and you’re likely to receive one of two answers. You might hear, “Anyone they want,” in reference to our characteristic lack of discipline, or you may hear, “Anyone with a shaved
+head or a trench coat,” in reference to the perennially popular fashions among disenfranchised you th. Again, some degree of both stereotypes is true. While the Brujah’s id-do minated temperaments may lead us to Embrace a bit more cavalierly than
+other Kindred, we most certainly do not simply walk do wn the street and Embrace who mever strikes our fancy. Sires of all but the most inconsiderate ilk single out individuals with who m they feel
+some sense of kinship. As with many Kindred, lovers of ten receive the Embrace, though the se do omed relationships of ten cool after the Becoming, leaving disaffected sires and resentful childer. Talented underlings sometimes receive the Embrace, particularly among the gangs and syndicates to which many you ng Brujah belong. Many Brujah maintain a strong sense of family, for which the clan makes a
+woefully inadequate surrogate. the se Brujah may well
+Embrace along family lines, such as the Almodovar lineage in northern Spain or the ethnic broods that pop up every now and again during times of political dissension. the n again, a particular
+Brujah might have a dire need for muscle and
+Embrace the meanest bat-wielding thug he can find. The common thread for almost every
+Brujah Embrace is utility. I do n’t use that word in the sense that Brujah Embrace people to use the m or screw the m out of
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 51 === something, but that they gain something personal arbitrary not ion of “Brujah.” I also has ten to point out
+(if temporary) from the Embrace. Whether they are that none of the se princes still claim that title. Perhaps combating the loneliness that afflicts every Kindred the ir prejudices proved the ir undoing. at some point during her unlife or simply populating In the end, of course, it’s all up to the sire. For a gang of like-minded (or simple-minded) Kindred, every Embrace that perpetuates the archetype, another the Embrace almost universally satisfies some need defies it utterly. If the sire is a cookie-cutter rebel, her
+of the sire. We are n’t as loose with the Embrace choice of childer is likely to reflect that. If the sire has as are some Gangrel, who m I have heard may well the awareness to look beyond the surface, her childe is leave behind a childe with out ever even telling probably not hing like her in personality. I believe this her what she has become. True, Brujah probably all owed the Brujah to survive and prosper — while
+populate much of the ranks of the Caitiff, but those many other clans burden the mselves with affectations are more likely instances in which the sire realizes and guidelines that restrict the ir choices of childer, the that the childe is not what he wanted and left the m Brujah have availed the mselves of an ever-growing behind before they became an obligation. Not that stock of new blood. As such, while the Tremere or the
+I’m condoning such acts — they strike me as the Ventrue may be the most powerful clan of the modern height of irresponsibility — but such things happen nights, the Brujah are certainly the most reflective of in the modern nights. the times the mselves. It is in this role that I see the
+And the n we have the anomalies — those strange Brujah’s true purpose — we are n’t the turgid anarchists
+Kindred we sometimes encounter and think to our- who tear do wn the establishment, but rather the prophselves, “Who would Embrace him?” I’m not referring to ets of a new era who pave the way by building upon
+“failed Kindred” or wretched childer. I’m talking about the lessons of the past while looking to the trends of those vampires who se mortal lives and even unlives the future. No other clan, save perhaps the Toreador seem so radically unsuited to the Curse of Caine that and a few of the you ng Sabbat, so represent the times they engender incredulity when one hears the ir story. from which they are drawn. I personally know two Brujah who were NFL athletes
+A cc Ounting in life, one of who m played in at least one Pro Bowl. I
+As far as I can tell, Brujah seem to be of two minds know Brujah who were mailmen, aerospace engineers, on this matter. Respect for the Accounting do esn’t cattle farmers and ad executives, none of who m at first have the gray are a that clan interpretations of the
+glance seem to carry the passionate spark that unites other Traditions do, nor do es it suffer the unilateral the rest of the clan (in purpose, if not in practice). disdain of the Tradition of Progeny. The division
+The rationale I of fer is this: The Brujah move do esn’t appear to be along any political lines, but through so many mortal circles and cultivate so many depends solely on the personality of the sire herself. contacts that, inevitably, one of us meets someone
+Instructing the childe is as personal an is sue as select-
+“outside the box.” the n, either becoming smitten with ing one for the Embrace. her or learning that a genuinely vibrant person lies
+At first, we have the flawed half of the equation, beneath the veneer, She’s Embraced in a fit of enthuthose who Embrace and leave the ir childer to the siasm. In the end, anomalies are more common than vagaries of the modern nights. the se are Brujah who one would think, but few of the m ever find the mselves
+may Embrace at the ir whim, rolling through a city on pegged as Brujah. the backs of the ir panhead Harleys and leaving do omed
+I think this helps us as much, if not more, than it childer in the ir wakes, or who are such hardcore inhinders us. I know many Kindred who discount the dividualists as to give the ir childer no instruction at words of Brujah, no matter how earnest, based on the
+all on the ways of the Kindred. Presentation of the ir speaker’s clan — they pass of f what ever idea the Kinchilder and other contrivances mean not hing to the se dred has as the ravings of a maniac or insurgent. Still
+Brujah — they’ve sired the ir childer, and now it’s time others subscribe to the old hoodlums-in-biker-jackets to move on. In a grim reflection of the mortal adage, view of the clan and pass of f every Kindred claiming
+“Anyone can make a child, but not just anyone can be a
+Brujah lineage as a violent brute. In the modern nights, mother or father,” the se sires leave the ir childer to the ir when secrecy is of the highest or der, playing one’s fates. It’s fairly common for the se abandoned bastards to cards close to the chest may well be the best tactic. I
+fall in among the bitter anarchs or suffer bleak, lonely have advised princes, who thought I belonged to the unlives as Caitiff or Autarkis. My own sire was of this
+Toreador or Ventrue, simply because I did not fit the ir
+Clanbook: brujah
+
+=== PAGE 52 === latter variety; after a few nights of accompanying me “do n’t get caught feeding,” but others go the who le on my railway travels, he left me to my own devices. nine yards. I’ve attended elaborate release galas evI learned much from those frontier Camarilla cities erywhere from the Riviera to Stockton. Let me be and from the Sabbat-do minated streets of New York the first to tell you, when some Brujah release the ir
+after the imprisonment of Boss Tweed, choosing my childer into Kindred society, you’d think it was the fate and making a name for myself. If not hing else, I second coming of Caine. Some of the se ceremonies am a testament to the fact that not every poorly sired are wild revels, taking place over the span of several childe is a was te, and, after convincing the Prince of nights and resembling mortal bachelor parties, in
+Atlanta to recognize me in 1876, I joined the august which the childe is kidded, embarrassed, indulged, body of the Kindred. and finally returned to his have n, where upon waking
+More responsible Brujah take an active and do mi- the next night, he is a full member of the brothernant role in educating a childe about the intricacies of hood of the undead. the Curse of Caine. they instruct the ir childer on all I’m reminded of the release rave held just a matters, much as I did my own childe. Granted, sires few years ago by one of the New or leans Brujah, rarely rise above the very Kindred habit of coloring Jake Almerson. The affair was a madhouse — a this education with the ir own prejudices — I have three-night debauch to which every freak, punk, to admit that I instilled in Vanessa a potent mistrust head, goth and weirdo in town had been surreptiof the very idea of the Tremere — but the fact that tiously “invited,” mortal and Kindred alike. For sires spend so much time taking the ir childer under those three days, the party raged out of control, the ir wing attests to the gravity with which some as ghouls and mortals kept the place in full swing
+Brujah sires choose childer. In many cases, the se while the Kindred retired to the ir have ns, only to
+Kindred are not those who stand to gain a great deal return once the sun had set. The venue, a dilapifrom the ir childe’s appearance in Kindred society — dated smuggler’s have n just a few blocks from the the childer of anarchs are as likely to be extensively bay, was crawling with prostitutes, drug dealers, instructed in the ways of Cainite unlife as are the hard-core party fiends and even a few cops who favored broodlings of a revered primogen. Sires may came by but decided that the re was not hing they do te on the ir childer or ride the m mercilessly, but could do to rein in the debacle. they could have
+the result is the same — the se Brujah choose to be called the National Guard, I suppose, but this was responsible for the ir childer, at least until the release New or leans, and the party was n’t a threat to anyspecified by the Tradition. one who did n’t have it coming. When Almerson’s
+In one of my rare moments of pride in my clan, I childe, Natasia, showed up at some point during must extol the virtue of this practice. Were we Brujah the second night, the place caught fire as someone’s somehow able to conjure a consistent vision of the flaming tribute spread to what was left of the heavy ephemeral utopias we seek, I have no do ubt that it, taffeta curtains. Sixteen people were carted away
+like our childer, would receive loving attention, at to hospitals, victims of drug overdoses, alcohol least until we grew agitated and saw the need to tear it poisoning or Kindred-inflicted “exhaustion.” Truly, do wn and begin anew. The amount of love we invest it was an utter bacchanal. in our creations attests to this. On the other hand, more serious sires may make
+I also believe this pride carries over into the a grave and somber procession out of the ir childer’s period of Accounting. Brujah sires stoically bear releases. This is particularly true of the more staid responsibility for the actions of the ir childer, even among the elders and those Brujah so consumed with those Embraced with out the consent of the prince. the ir own causes that they no longer all ow the mselves
+I’m given to wonder if the Accounting is n’t a Bru- to enjoy unlife. The aforementioned release on the jah “amendment” to the Traditions — the clan is Riviera was one of the se, much to my surprise. I had proud to a fault, but is not with out its own sense expected an aristocratic soiree, but the release of of obligation. François d’Hautmont, while scandalous in its own
+right (for one of the d’Hautmonts back in history had
+In line with this, the Brujah release may be a grand been a Toreador), was a reserved ceremony, taking affair. Surely, many you ng sires or Kindred with out an hour for the for mal release itself, followed by a
+much stake in the social or der simply release the ir sociable reception afterward. childer with a wave of the hand and the warning, Chapter two: unlife a Mong the brujah
+
+=== PAGE 53 ===
+I believe most Brujah prefer some moderation of Brujah made it possible for the Sabbat of Miami to the se two extremes — a civil acknowledgement of finally capture that city, for cing it out of contention one’s Brujah heritage and enough excess afterward to and firmly under the influence of that sect, at least make the affair more than just self-indulgence. Perhaps as far as Kindred are concerned. Why? All because
+my own lack of for mal release colors my opinion on the haughty would-be prince refused to acknowledge this, but this is what many of my peers express. The a visiting member of the clan. sincerity of the matter I leave to interpretation. I do n’t wish to overestimate the power of Clan h Brujah in this matter. Far be it for me to rally to the
+Ospit Ality causes of clan, queen and country. On the contrary, You knew it was coming — the other Great HyI’m saying that if you want to irk a Brujah, use the pocrisy of Clan Brujah. Traditions against her. As a sideline commentator, where as I suspect the previous Tradition of having
+I’d suggest that the Camarilla is currently in no posia Brujah or igin, I suspect this one of being contrived tion to get uppity with its all ies. The Gangrel have solely to anger the Rabble. Read the wording: “The left the fold, and it would be no surprise if a sizeable
+one who ruleth the re” and “with out the word of acfaction of Brujah turned the ir back on it as well, ceptance, thou art not hing.” owing to just this sort of backhanded benefice. Yes, Granted, this Tradition has been around since the Tradition means well, but not every Brujah is as the inception of the Camarilla and probably for
+aware or reasonable as myself. a thousand years before that, but come on. Has
+Regarding why it is the Second Great Hypocrisy, a vampire ever ruled a city? Maybe at some point look no further than the personal practices of most back in the nights of kings and emperors, but even
+Brujah. More than many of the other clans, we are the n, was it common? I do ubt it. No, this seems territorial. Yes, the Nosferatu have the ir feared warto be more of a nod to the natural arrogance that rens, but no one wants those. The Gangrel likewise
+afflicts Kindred when they find the mselves claimare welcome to the ir desolate do mains, which are ing princedom. Even the word itself, prince, is an usually either Lupine-plagued stretches of worthless analogy rather than a concrete political of fice. All a
+real estate outside the city proper or barren all eyways prince do es is interpret and enforce the Traditions, teeming with vermin. The Tremere are welcome to ostensibly for the good of all Kindred in a given city. the ir for bidding chantries; except for the chance to
+Show me a prince who claims to “rule” a city and steal or destroy something the Warlocks consider
+I’ll show you a sad, deluded Cainite. Still, wording valuable, you would n’t catch a Brujah near the witch this Tradition so anachronistically ensures that houses anyway. the Brujah are going to be up in arms about it. As
+The other clans of the Camarilla either una clan that makes challenging the status quo the ir derstand the value of diplomacy when it comes to badge of honor, the Brujah make it the ir business do main, or just do n’t care. Not us. you ng Brujah
+to prove you wrong the minute you tell the m they agitators claim “turf.” Elder Brujah pontificate at have to do something, especially when it’s because length about how they’ve earned the right to the ir
+you claim to be the ir ruler. Unless they choose to, do mains. Ancillae make it plain that the ir interests most Brujah acknowledge no masters. are the irs alone, and anyone attempting to transgress
+As for, “thou are not hing,” that’s more unfortunate will suffer the ir attentions. Do you see where I’m wording. According to the Tradition, of course, this headed with this? For a clan that’s so resentful of others
+refers to the protection granted by the Camarilla. If imposing limits on the m, they spare no time in markyou do n’t show up and introduce you rself to the prince, ing the ir own territory and (at least the or etically) you can claim none of the common Kindred rights establishing similar limits on others. Granted, if an
+in that city. But by phrasing it in that manner, the elder decides to stroll through the territory claimed preservers of the Traditions have practically ensured by some Brujah gang, he’ll probably be able to do it
+that the Brujah will do everything in the ir power to unchallenged, but they resident gang will certainly become “something” in spite of having no for mal apwork the mselves up to righteous indignation over it. proval from the prince. Kindred who “are not hing”
+With the same hostility, the Brujah will how l at the have overthrown princes in the past, joined anarch prince for demanding that they present the mselves in factions, undermined princes’ personal investments
+his do main and hurl acrimony at Kindred who have and far worse. It’s rumored that an otherwise satisfied the temerity to walk on a street they claim as the ir
+Clanbook: brujah
+
+=== PAGE 54 === own. Obviously, not every Brujah is a blustering gang lord out to validate her claims to turf, but many harbor a sense of ownership over territory, as long as it’s the irs and not
+you rs. It’s enough to make one shake his head in shame. d estructi On
+Brujah reaction to this Tradition is as wide and varied as the members of the clan itself. In the opinion of most, this Tradition is useful, preventing, ahem, unnecessary
+Final Death (and believe me, in a clan that resorts to violence as of ten as the Brujah do, we’re no strangers to it), the reby taking that weapon out of the hands of those who have n’t earned it. Less popular is the
+Tradition’s second tenet, which grants the right of destruction to an individual’s elder, though I attribute this lack of acceptance to the fact that some princes have the audacity to infer that
+they are the only elder to the clause refers to. It’s plain as day to me and most other
+Brujah that “elder” here means “sire,” and if it turns out that you’ve Embraced a potential disgrace or threat, it’s you r duty to put the matter to rest. Even as a firm
+supporter of the Camarilla, I have trouble all owing princes to deny or usurp the rights of sires, under what ever pretense. Still, most Brujah accede the Tradition of
+Destruction to princes and the ir councils in matters of larger Kindred concern. This do esn’t necessarily mean a blood hunt (see below) — when a Kindred’s sire is n’t present
+to invoke this Tradition when it needs to be invoked, the n it’s the prince’s responsibility to step in and do it in her absence. Instead of speaking in generality, I’ll give you an example: When
+I visited Ulster, decades ago, the city’s Kindred were in the throes of the ir sporadic war with the city of
+Dublin. (This do es become a bit confusing. Most of the United Kingdom and Ireland’s princedoms encompass wider geographical regions than just cities, and are known as, I
+think, fiefdoms. Ulster is its own fiefdom, but Connachta, the fiefdom that includes Dublin, is where the prince makes his have n). When one of Ulster’s up-and-coming ancillae turned out to be
+a Connachta-fiefdom sympathizer, the
+Kindred had no idea what to do with her. Destruction initially seemed a bit extreme, so the Kindred of Ulster “suggested” that since the ancilla was such a supporter of
+Connachta, perhaps she should relocate
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 55 ===
+B her have n the re. She refused. Her sire had long since ruJAh And met the Final Death or moved on or otherwise left c
+her to her own devices, and could exert none of her the AMArillA own influence over this agitating childe. p M
+Olitic Al Achine
+Prince Milesius of Ulster finally had no choice but to demand her destruction, owing to the fact
+A minority of Brujah sometimes find the mselves that her continued existence in Ulster threatened entangled in the Byzantine politics of the Camarilla. the fiefdom’s Kindred sovereignty. Since she refused
+Whether consciously or through acts of fate, most of to leave, and indeed, wanted to bring the fiefdom the se Brujah, because the majority of the clan places under the influence of another, Prince Milesius’
+itself outside such concerns, end up making names for only recourse was to remove her. Amazingly, the the mselves. they also frequently find the mselves re Ulster Brujah supported him. Despite the fact that sented or feared by other Brujah, again because so much
+the ancilla stood against the established system, of the clan wants little to do with the established power despite the fact that she was will ing to die for structure. Still, that’s no reason to discount the se august her political stance, and, perhaps strangest of all, or compromising Brujah — although the clan do esn’t
+despite the fact that she wanted to bring Ulster consider the Camarilla its enemy, most consider it the under the purview of Connachta’s Kindred council, most convenient of two evils, and anyone who makes which is do minated by Brujah, the Ulster Brujah
+the mselves a part of that body is obviously buying into stood behind Milesius’s call for her destruction. the propaganda. More than anything else, this illustrates that individual Brujah will suffer any hardship for what Granted, this is n’t always true. In some cases, of they believe is right, and that all egiances do not course, you have Brujah who do n’t want any part of always fall along clan lines. To the Ulster Brujah, the ir legacy of rebellion and see the Camarilla as a way
+the individuality of Ulster was more important to get what they want. Others look to the sect’s long than putting a Brujah-influenced outside primogen history and assume that the elders have it easy because in charge of the ir affairs. Over the intervening they enjoy the benefits of wealth, power and respect, decades, I’ve seen similar situations several times, and attempt to climb the ladder. Both of the se sorts of and not just in Europe. Kindred are in for unpleasant surprises. At its core, the
+Camarilla knows exactly what it is: a genteel society of
+With regard to blood hunts, my experience with monsters who se own best interest lies in pretending that the m has been that most of the m are n’t actually they’re not. The naive Kindred believes that an elder’s
+called against Brujah. Blood hunts, when they’re unlife consists of sipping sherry and hosting cotillions, not political vendettas maintained by corrupt or exchanging quick-witted drollery and lounging about the power-mad princes, keep the Kindred functional; have n in velvet dressing gowns. Look upon the elders
+they remove troublesome elements from our ranks. with out such delusion, how ever, and the truth becomes
+And by that I do n’t mean rivals or people who plain. Elder unlife is one of constant plotting against upstaged the prince at Elysium. Remember, I’m one’s peers just to keep one’s current station. The Brujah
+talking about the ones that are justified. In most primogen do es not continue to accumulate creature cases, reasonable blood hunts are called against comforts throughout her centuries of unlife; rather, she
+Masquerade-breakers, Kindred who otherwise flout fights tooth and claw against the depredations of other the Traditions, or those so far degenerated that eielders — of ten including those of her own clan — to the r the Beast has claimed the m utterly or they have
+simply keep what she’s already acquired. Likewise, fetes thrown in with the Sabbat. Most Brujah actually thrown by Kindred provide a respite from normal nightly approve of blood hunts, as long as they’re not the
+concerns. More than other Kindred, elders embody the subjects, because it gives the m an opportunity to static nature of the undead — the ir nights lack distincfind the perpetrator, let of f a little steam by kicking tion, each of a million awakenings bleeding seamlessly
+his ass, and maybe come one step closer to Caine into the next. The Brujah are no different. with a bit of Camarilla-sanctioned diablerie. the n again, I am talking about legitimately called blood This is another reason why the Brujah have hunts, which have happened perhaps twice in the joined the Camarilla — it gives the m purpose. history of the Camarilla. with out an authority against which to scheme, the
+Clanbook: brujah
+
+=== PAGE 56 ===
+Brujah are just agitated, meaningless vampires. We need the Camarilla, if only to use it and say we do n’t. Thus, the Jyhad becomes a central facet of Brujah unlife. Even those who do not actively take part of ten wind up dragged into the schemes of another, of ten unwittingly. The rogue cell of anarchs that
+wants not hing to do with elder games becomes a weapon one Kindred uses against another. The neonate Brujah detective who distances himself from Kindred society arrests an individual who
+happens to be the prince’s favored ghoul. Even the reluctant Kindred firebrand who surrounds himself with activism in mortal concerns colors the political climate of his city — he certainly
+do esn’t escape the eyes of the Kindred. From the treacherous, backstabbing primogen to the most seemingly oblivious fledgling, the
+Brujah can not help but play the ir part in the
+Camarilla’s destiny. I do n’t mean to imply that every Brujah exists at the sole discretion of the Camarilla, or that we run about on myriad petty errands for our elders. In fact, the elders the mselves of ten have not hing to do with the nightly
+affairs undertaken by other Kindred. Quite the contrary! Because the Camarilla has made it possible for the race of Cainites to flourish, it makes the Kindred a part of it
+unless they consciously distance the mselves from it by actively becoming Autarkis or joining the ranks of the infernal Sabbat. Even if she avoids Elysium and interacts with other Kindred only once a year, every
+Brujah exists in a world that would destroy her if it knew about her, but do esn’t because of the Camarilla’s efforts. do n’t misinterpret me — the Camarilla is plagued with problems. But by and large, it fulfills
+its purpose, and that is precisely what keeps the
+Brujah involved with it. It may not work perfectly, but it works. t p he rince
+Few cities have Brujah princes. The ones that do probably won’t have the m for long. Not only do members of other clans find Brujah princes too capricious or emotional for (in the ir opinion) the
+long-term safety of the city, few Brujah have tastes that accommodate the tedium associated with the position. Chapter two: unlife a Mong the brujah
+
+=== PAGE 57 ===
+This is truer of New World princedoms. European against the other primogen (usually), he’s simply
+Brujah of ten have very different outlooks than the ir questioning the ir methods and motives. Such be American counterparts, and are more of ten in line havior distracts and confounds the other primogen, with the “idealist” archetype, even among neonates. and you ng or rebellious Brujah appreciate this role. The Grand Duchy of Luxembourg, for example, has a On another level, the Brujah primogen is almost a
+Brujah as its current prince, and she has claimed that Socratic advisor to the prince; he not only exposes title for over a century. the activities of other elders, but he leads the prince
+Making generalizations about Brujah princes is to a better understanding of what they intend to do difficult. So few Rabble claim the title that any simi- and how it differs from what they’re do ing. Yes, this larities between the m are more likely coincidences is fairly vague — time for another anecdote. than policies. Suffice it to say that Brujah princes are Las Vegas is one of those strange cities that’s anomalies, and not of ten remembered fondly. not really “contested,” even though several factions
+t p clash over the city’s gambling industry. The prince he riMOgen is a Ventrue named Benedic. He takes a fairly liberal
+In Camarilla politics, the real spotlight for the approach to the who le matter (which is probably
+Brujah elder is of course the primogen’s position. why he’s still the re; a heavier-handed prince would
+Beneath all of the pomp, primogen have damned no do ubt have earned far more enemies). The big few responsibilities, though they’re of ten the most non-Camarilla presence in town is the Giovanni. respected Kindred in the cities where they make
+Benedic would have driven the Giovanni out of the ir have ns. This is particularly true of the Brujah, town already if he did n’t have to attend to the details because no one really expects individual Rabble to of princedom — if he could devote his full time to
+follow some arbitrary edict handed do wn from on foiling the Giovanni, the Necromancers would have high by a Kindred who has not hing in common with given up a long time ago. the you nger Cainites of his clan. As such, a Brujah
+Now, the Giovanni have probably as many primogen has the attention that his title garners with
+Kindred in Vegas as the Camarilla do es, but the ir very few of the duties that accompany it for elders scope is more limited: they’re more focused but less of other clans. diverse. While the Giovanni clash with Benedic, his
+This is n’t to say that the Brujah primogen do esn’t
+Ventrue, and the Toreador almost every night, they’re represent his clan’s interests. A city’s collection of outclassed on the street, in the churches and in most
+Brujah rarely has any common interests, how ever, of the non-gambling local business. and the Brujah primogen may safely push his own
+A Toreador elder named Sands (who has apparagenda and his “constituents” are usually none the ently met the Final Death, if the rumors are true, wiser. The Brujah primogen who earns the hostility than ks no do ubt to Brujah enmity or the do ubleof his “lessers,” how ever, may well find himself ousted crossed Giovanni) was also a mover and shaker in
+from the position, or the of fended you ng Brujah may
+Las Vegas; many Kindred looked to him rather than even beg the prince’s ear, informing her that the ir
+Benedic for guidance. primogen, quite frankly, is n’t representing the clan very reliably. What the prince chooses to do in this Unbeknownst to everyone, Sands cut a deal situation is up to her, but rarely do es anything a you ng with the Giovanni in late 1996. He did n’t want to vampire says fall upon deaf ears, because they’re the be prince himself. No, Sands thought he’d be hapmost in touch with the current state of the city. pier if the city was independent. It’s not that he was
+answering to Benedic, but Benedic had significant
+What, the n, do es a Brujah primogen do besides influence over a local investment company that watch his ass and throw around the weight of his looked like quite the plum to Sands. Now, Sands
+position? A valid question. The Brujah primogen realized that murdering a prince has some pretty satisfies members of his clan not by acting as a dire repercussions, and he did n’t want the enmity of
+lobby for the m so much as he challenges the goals the entire Camarilla. He figured that if he can take and actions of the other primogen. In essence, Benedic out of the picture and for ce him to make the most pressing responsibility of the Brujah prihis have n elsewhere, his influence in the venturemogen is to act as Devil’s Advocate for the other
+capital company would wane, leaving it ripe for primogen. While this might initially seem petty or another vampire to exploit. counterproductive, consider that he’s not acting
+Clanbook: brujah
+
+=== PAGE 58 ===
+The nature of Sands’s deal with the Giovanni was to attack Benedic from both sides. If the
+Giovanni redoubled the ir efforts among the casinos and in the local black market, they could make visible overtures at usurping Benedic’s power base. Once Benedic’s ability to back his claim of princedom came into dispute, Sands planned to
+publicly call Benedic’s reputation into question, further eroding his power. With Benedic on the defensive and the Giovanni working do uble time to hamstring him, the princedom would crumble. At that point, with the Giovanni interests unchallenged and the ir influence so solidified, no new prince could step in and claim the title with out
+the Giovanni stopping him. A nice plan, but it did n’t work. Sands acted too early. Just as the Giovanni began squeezing the casinos (whether they were the do minant interest the re or
+not, to the resentment of many local Kindred), Sands began his smear campaign, starting with the you ng Cainites of Vegas. The way
+he figured it, the neonates were in better touch with him than Benedic, and his sniffing around would go unnoticed until Benedic’s do om seemed certain, at which point he would look like he smelled disaster on the wind
+all along. The Brujah primogen, being no fool, felt the pinch the Giovanni put on the casinos and heard all manner of tales from the streets about Sands slumming with the you nger Licks. Putting two and two together, the primogen
+suspected a coup — incorrect, but close enough to the truth to bring it up in Elysium. Later, a captured Giovanni ball breaker cracked under the pressure and owned up to the clan’s involvement in
+the who le scheme. The Giovanni, not being members of the Camarilla, hung Sands out to dry. Benedic made Sands an object of public ridicule. The Brujah primogen laughed all the way to the bank, having crippled the Toreador’s plot and put the prince in
+his debt. That’s how Brujah primogen work. Scheming bastards to the last, but if they’re not on the ir clanmates’ side, at least they’re against the ir rivals as well. t s he heriFF
+The sheriff if the position most commonly held by Brujah in the Camarilla, primogen not with standing. I’m sure that do esn’t
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 59 === surprise anyone. Given the Brujah penchant for museum is the best way to cripple the Toreador power violence and capacity to hurt people, the Brujah base in the city. are natural sheriffs. t s he c Ourge
+In fact, I’d hazard a guess that most sheriffs are
+This is another natural fit, given the physical
+Brujah. I do n’t have any evidence other than the nature of the job. The biggest difference I’ve seen, anecdotal to back this up, but in the overwhelming though, lies in the attitude. where as the Brujah shermajority of cities I’ve visited, the sheriff is not only a iffs I’ve dealt with have been, in a word, dutiful, most
+member of Clan Brujah, he’s the first to tell you about of the scourges I’ve seen have been, in three words, it. It’s almost like a credential: “I’m Steve Reno, Clan sadistic as hell. I’m serious. Granted, the scourge’s
+Brujah, Sheriff of Houston,” like it was his last name responsibility is less… well, just, for lack of a better or something. Where I come from, people keep the ir word, than the sheriff’s is. The sheriff’s job is to enclans to the mselves, unless they’re trying to mislead
+for ce the prince’s interpretation of the Traditions. you into thinking that they’re something less than
+The scourge’s job is to kill Kindred. they are, just another walking stereotype. Among the
+Killing people becomes easier the more one do es
+Brujah sheriffs, though, clan is almost a qualification it. I’ve heard that from soldier types all throughout for the title. Throwing his clan into the introduction my century-plus among the undead. I suppose it’s
+certifies that the sheriff will fuck up someone’s shit if true when it’s you r responsibility. Me, I’ve never they mess with him. been comfortable with killing. I understand that I’m
+It’s not that Brujah are unsuited to the position. a vampire and a predator and all that, but the re’s
+Quite the opposite. The supernatural speed and not hing anywhere that says we have to kill our prey strength the Brujah command grants us a physical
+— if we follow reasonable unlives and do n’t depend edge when fulfilling sheriff’s duties, and our mystical too heavily on blood to fuel the gifts of Caine, we ability to increase our for ce of personality do esn’t hurt
+can get by with out ever taking a life. Barring the when you’re yelling at some empty-headed anarch inevitable frenzy, no one needs to die. who’s convinced himself that burning do wn an art
+Clanbook: brujah
+
+=== PAGE 60 ===
+Not so with the scourge. Killing becomes easier Seriously, most Brujah pass through the lower and easier because that’s what the scourge do es — echelons of society — it’s what we know best, and not only do es he become better at it, it becomes less it’s what we’ve secured from the greedy talons of difficult for him to rationalize his murders. For this other Kindred. To the m, the re’s not hing glamorreason, most of the scourges you meet who have been ous about providing for one’s unlife by selling
+at the ir profession for any length of time are either methamphetamines to club kids or by pimping completely alien or unapproachably cold. Killing has desperate hookers in the red light district. In one become so commonplace for the m that the simple sense, they’re right — why squander immortality destruction of Kindred no longer thrills the m. the se on drugs and who res? are the scourges who torment the ir victims, or end In another context, they’re completely wrong. unlives in cruel ways. I’ve watched a scourge kill his Like no other clan, we Brujah have made our own
+prey by driving over her in a pickup truck and the n place in the modern world. With the exception of the backing over her to make sure the job was finished. Gangrel, who can’t be said to make the best of the ir
+It disturbed me far more than it disturbed the person unlives at all, the Rabble have reinvented ourselves who actually did it. with every advancement society has made. No other
+Of course, this is n’t endemic to the Brujah state clan can claim that. The Toreador still cling to outof mind. It’s just that, again, due to the physical re- dated aristocracy. The Ventrue are not hing more than quirements of being a scourge, many princes choose greedy medieval merchants. The Tremere’s obsession the ir slayers from the ranks of the ever-capable Clan with rituals and incantations leaves the m ill equipped
+Brujah. to function in the mundane world. t h That’s why the Brujah, for all the street-level he Arpies grit we slog through, are proud. I’m not immune to
+And you thought Toreador harpies were bitchy. it myself; for all the grief I give my clan, I certainly
+Brujah make very effective harpies. I do n’t say do n’t want to be part of another. That’s why we they make “fine” harpies because the re’s not hing fine
+Brujah thrive. We meet the challenges the world about the way they act. Combining a vicious streak puts in front of us — we do n’t buy our way out of that only the dead can muster with the passion and
+the m or pretend that they’re too vulgar for us. We social awareness of the Brujah results in one hell of
+Brujah get out the re and get our hands dirty. The a fiendish creature. With the Toreador, all you have you ng Kindred you see, the ones best acclimated to to worry about is if you r tie’s crooked or if you’re
+the world, who meet everything the modern nights wearing last year’s fragrance. When you’re dealing have to of fer — they’re Brujah. Until we become with Brujah harpies, you’d better tell the m exactly
+static elders (which takes centuries), we’re the re at what they want to hear or you r social life will consist all the parties. We’re on the A-list, because we’re of scrubbing eggs thrown by neighborhood kids of f
+fashionably unconventional. Even those of us who the front do or of you r tract-home have n in the substill belong to the older countercultures do it because urbs where they’ve decided you best belong. Brujah we’re devoted to it — the Hell’s Angel Brujah love the
+harpies are n’t usually as susceptible to flattery as are open road and the Luddite Brujah genuinely believe harpies of other clans. Either they know they’re all that technology will bring about the end. No other
+that and do n’t care what anyone else has to say or
+Kindred can claim that. the ir harpy-ness stems from being so far removed
+Remember that as the Final Nights approach. As from what others think of the m that they’re hailed the top tiers of the Camarilla rot with incestuousas visionaries of the cutting-edge social or der. Like ness and avarice, more and more elders turn the ir
+Joan Rivers, if she drank blood. backs on the world to immerse the mselves in the ir
+My own experiences with harpies have not been inscrutable power games. Kindred society is built pleasant. upon the Brujah, and the Brujah exist to tear do wn t r ’ r r
+he ABBle s ucKAnd un the old ways in favor of the new. And that’s why, of
+Naturally, with few titles to go around and so all the mighty Kindred clans, we’re the ones who will many Kindred vying for the m, some are going to be persevere. Because we know how. left with out position. Indeed, most Brujah among the
+A n Archs
+Camarilla claim no title at all, no matter how humble, On the surface, the Brujah seem to have much and are satisfied to deal with things that they think in common with the anarchs. As is always the case, are important. Good for us, er, the m! Chapter two: unlife a Mong the brujah
+
+=== PAGE 61 === the relationship is significantly more complex than from with in the game. The anarchs want to play a it seems. different game from the outset. The first step in understanding the situation is t O
+understanding the anarchs. Look at the ir composi- he the rs tion: many Caitiff, some Brujah, a few Gangrel and
+We Brujah are a cosmopolitan lot. Many of us
+Malkavians, and a loose handful of the other clans, travel and it’s almost second nature to us to maintain most of who m are in it more for greed than idealism. vast networks of informants, all ies and associates. The Brujah are probably the second-largest contribu This social aspect brings us into contact with many tors to the Caitiff population (behind the Gangrel), different individuals, some of who m are fellow superwhich makes the Brujah demographic among the natural denizens of the night. While only the most
+anarchs even larger. well-traveled of Kindred could possibly hope to have
+Where relations begin to fray is, surprisingly, in met one of every strange creature that wanders the politics. Fundamental to the anarch cause is a reducshadows, the average Brujah is more likely to have tion or abolishment of the powers of elders and princes
+come in contact with “others” than some of the more and the ir ilk. Anarchs want an equal distribution of insular clans. In short, Brujah know people, some of available resources and a diminishment of deference
+who m are more than they seem. to the elders. A
+But the Brujah, as members of the Camarilla, ssAMites uphold the sect’s general principles to one degree or Over the several decades I’ve spent studying another. I’m not saying that every Brujah neonate the Kindred, I’ve not iced that a frightening number is fully behind the Tremere elder’s do minance of of historical anecdotes lead back to the Assamites. the police department. What I am saying is that Our revered Carthage had no shortage of Assassins; not every Brujah — few of the m, as a matter of I suspect that they may have even been the second
+fact — want the anarch’s egalitarianism. Like most most numerous clan the rein (which discussions with
+Kindred, Brujah are of ten vain, selfish creatures. Critias support to some degree). I’ve also found a few
+Why the hell would a Brujah want to share the odd connections between the Brujah and an obscure profits of his citywide heroin distribution network bloodline of Assamites called the Baali. It seems that with you? What right do you have to share that back in Carthage, Baali Assamites had some kind of influence? would n’t it be better for him if he took conflict with the parent clan — over religion, if my
+you out of the picture? interpretation is correct. Carthage, of course, lay on
+To the anarch mindset, the Brujah have sold out. the northern coast of Africa and was a mercantile
+The Rabble consider the mselves rebels, but they’re port city. Assamites and Brujah revered the same buying into the power structure against which they gods (and, presumably, impersonated the m) in that claim to revolt. To the Brujah, the anarchs want too city — and in many of the other cities around the much too quickly. they understand that to affect Middle East, the cradle of civilization and anywhere
+change, you have to institute it slowly so as not to anyone ever dreamed of having his sire killed. lose support for the changes due to fear of radicalism. The long and short of it is this: The Assamites are
+The upshot is a great deal of mutual resentment. The old, and one’s always involved if you trace the roots anarchs, disaffected and frustrated, can’t rely on the back far enough. Respect the m, even if the ir new
+Brujah; the Brujah acknowledge the need for struc- direction scares you. they’re do ing it for a reason. ture and would see change through to fruition than g
+Angrel wage a futile war that would only see the m dismissed
+I’m always amazed that when things become as maniacs. violent, the other Kindred turn to us to do a little
+This is n’t to say that some bleedover do esn’t ocknuckle dusting. Have you ever seen a Gangrel fight? cur. Particularly among the you ng Brujah, the anarch
+I mean, Jesus. We may be able to hit people fast and cause is quite popular. I bet that most Brujah flirt with hard, but when a Gangrel gets pissed at you, you’re it for some period of the ir unlife before moving on to
+lucky to be anything more than a bloody streak. a more realistic political outlook. For the most part, Even if you manage to hit the m, most of the time though, the common assumption is incorrect. The they just do n’t care. they’re too damn tough, even reality of the matter is that the Brujah effect change
+if you manage to land a punch before they sever you r arm and drink you r blood from it. Anyone who
+Clanbook: brujah
+
+=== PAGE 62 === voluntarily makes her have n in Lupine territory is part of the ir sect, they are n’t relevant. All too of ten, either a psychotic or a badass, maybe a little of both. an enterprising Ventrue may uncover a rival Giovanni
+The thing is, Gangrel generally want to be left in his do main (or vice versa). Now, the Brujah are n’t alone, at least from what I can tell. I know one Gangrel necessarily predisposed toward the Giovanni, but who dwells outside of Atlanta, and he says that this they’re a damn sight less hostile to the m than they are attitude was behind the ir mass migration from the to the average Ventrue. It would n’t be the first time
+Camarilla. they seem to have a loose tribal structure that a Brujah made some strange bedfellows simply and one of the ir chieftain-types decided that it was out of spite. better for the clan to collectively mind its own business Still, the Giovanni probably grew out of medieval than it was to keep its tenuous relationship with the or Renaissance merchant classes, which puts the m in
+Camarilla. Coincidentally, I know a few Brujah who the business end of things. In the se modern nights, sympathize with the m — some of the m went indie all it takes for some Brujah to peg you as The Man with the Gangrel and a few others think the Brujah is a suit that makes you look presentable. As such, should secede, too. The Gangrel have some kind of most Brujah have at best a neutral regard for the brothers-in-arms code of conduct, or maybe they just Giovanni. Those of us who see past the dime-store respect hardiness in other people. what ever the case, resentment may actually profit from relationships
+they do n’t seem to put much stock in the concept of with the Necromancers, assuming the Giovanni are clans and as long as you do n’t bother the m too much, interested. they turn up in the Mafia at times, as they do n’t care what you r politics are. well as in certain enclaves related to the Church, Once I stayed with a pack of anarchs just south of to which we Brujah are no strangers. Some Brujah
+San Francisco and they swore up and do wn that the gang leaders arm the mselves with Giovanni-smuggled
+Gangrel were friendly with the Lupines and had some guns or move Giovanni-smuggled drugs. In the end, sort of eco-terrorist agenda. To be honest, I have n’t the relationship is what ever the Kindred involved seen this, but it might be easily misconstrued — maybe can make it. they ran into a rogue chapter of the clan, or maybe it While it may be true that Brujah have a penchant was one specific brood. what ever the case, the Gan- for violence, I think it’s safe to say that few of us grel do n’t seem to be communing with nature in the are morbid. We have little taste for the Giovanni’s
+hug-a-tree sense. they remind me more of animals habits — we prefer the dead remain dead. Not that who are part of nature, not necessarily “at home” in this is any universal blanket statement; if the odd the environment, but certainly able to make the best Brujah do esn’t mind the proximity of corpses and of it. Critias suggests a similar point of view — that voodoo, that’s her business, but the concept of dealthe Gangrel are more like feral for ces of nature than ing with the dead is generally as taboo to us as it is
+any individual who just likes the wilderness. What- to other people. ever the case, they’re vampires like the old legends l
+AsOMBrA suggest, turning into mist, calling upon the animals
+The Lasombra are the leaders of the Sabbat. and refusing to die. Most Brujah who have spent more than a few nights g i Ov Anni among the undead grow to hate the Sabbat — even
+Here in the New World, Brujah and Giovanni if we’re not particularly happy with the stagnant do n’t of ten cross paths. As far as most of the Brujah Camarilla, few of us are exceptionally interested in
+I’ve spoken with are concerned, the Giovanni are little taking some Satanic joyride into the mouth of Hell more than a Ventrue of fshoot with a predilection for and calling it “freedom.” Put two and two together, necrophilia. In the Old World, how ever, particularly and you’ll come to the conclusion that Clan Brujah in Italy, Brujah and Giovanni have a little more con- has no particular love for the Lasombra. tact with each other. Although they’re not necessarily I’m given to understand that in centuries past, chummy, European Brujah and Giovanni of ten have the Brujah and Lasombra shared some common several enemies in common. The Giovanni operate ground, particularly around the Iberian peninsula. outside the traditional power structure — they’re not When the Anarch Revolt took place, though, the
+part of the Camarilla and do n’t have to answer to it. Brujah had the sense to, ahem, see the error of our
+As such, they of ten run afoul of Ventrue and Toreador ways and rejoin the fold. The only Kindred with
+Kindred who assume that because the Giovanni are n’t more pride than a Brujah is a Lasombra, how ever, so they chose to stick it out and call the antitribu
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 63 === to the ir banner. This causes more of our disfavor Be careful, though, because the ir wretched physical for the m — they’re as wed to power structures as state turns many of the m into utter assholes who somethe Ventrue, which automatically makes the m the how believe that they have a right to be obnoxious. enemy for many Brujah. The Nosferatu know everything. not hing surprisM ing the re. The only problem I have with the m is that
+AlKAvi Ans the ir information is useless unless somebody knows
+Here’s a clan that generally splits you do wn the it — so they have this unpleasant tendency of lordmiddle. Like the Brujah, the Malkavians do what ing the ir vast knowledge over you in the hopes that they want. Unlike the Brujah, most Malkavians
+you’ll do the m a favor and buy it of f the m. That’s are worthless. they make a big show about, oh, the the secret to dealing with the Nosferatu and coming wretched affliction that maddens the m, and lo, can’t
+out on top: Let the m know that with out someone to we see the gilded reaper poised inside our dreams to make the ir precious little secrets valuable, they could crack the foundation of the race of Caine! have the combination to every safe at for t Knox and
+Some of the m have the much-vaunted “insight” it would n’t matter. that they purport makes it worthwhile to weather the ir
+That said, they certainly make better compatriots presence, but I’ll be damned if half of it is n’t an act. than enemies because, in Kindred society, somebody
+When I made my have n outside Seattle, the always wants that little scrap of information and you’re prince did n’t all ow a Malkavian can did ate among the better of f if the secret has not hing to do with you. primogen. As a result, the city was n’t too hospitable
+Ironically, many of the se Kindred also have similar to Malkavians, so only three made the ir permanent inclinations toward compassion as we do. The only have ns the re. The prince had his hands full with the
+difference is that they feel it because they’ve lost the depredations of a vampire no one knew anything ability to interact with humankind, while we still look about — Kindred were turning up dead, or running
+in from the outside. It’s the ultimate price, inflicted into the sun to meet the ir maker, or devouring the ir by denial. ghouls before was sailing do wn the streets, thirsting for the blood of vagrants. r Avn Os
+When things start getting unpredictably weird, The Deceivers are n’t usually as bad as the Powfingers naturally point to the Lunatics. In this case, ers That Be would have you believe, but you can be though, the Malkavians were n’t acting any different sure that you’re never going to get more out of one from how they normally did; they were unaffected than she wants you to. If you’re after information, by what ever tide of madness had swept the city. By half of what she tells you is going to be a lie, probably reading her dreams and divining from trickles of blood intended to get you killed if you let anyone know you
+dropped into cold water, one of the local Malkavians spoke with her. If you’re do ing business together, she’s triangulated the location where this dangerous Kin- selling you r share to the highest bidder on the side dred made his have n. As it turns out, the Kindred and the n with drawing all the money before showing in question was a member of the Inconnu who had you the books that say you’re bankrupt. been apart from other Kindred so long that he had For lack of anything less euphemistic to say, I’ll
+become deranged, and his insanity was hed over the grant that they’re clever. When you work with the m, city’s Cainites — he was a plague do g of lunacy. So you’re dealing with the devil, and no one is better some Malkavians have the ir uses. at manipulating the emotions than a Ravnos with a the n again, of the other two Malkavians in Se- purpose. Recently, it seems, the clan has had its own attle at the time, one was convinced that the brain civil war, and they’re not above playing the oppressed
+of his sire had invaded his body and the other would refugee shtick to bilk you out of something. slit the throat of any woman who gave birth to a girl The thing is, the ir treachery is more than it seems on Monday because that’s when a prophecy had told — they have a genuinely nasty edge that’s going to her the Antichrist would be born. cut you if you run across the m. The best advice is to n steer clear, and do n’t upset the m or give the m any
+Os Fer Atu reason to take not ice of you. Invariably, you’ll get
+You have to have some degree of pity for the se the worst end of the deal, because they’re that good monsters because of what the Embrace do es to the m. Clanbook: brujah
+
+=== PAGE 64 === at taking what they want and leaving you to bear able to stomp a Toreador once, but you can bet that the responsibility. Toreador has some connection in the Kindred favor network that’s going to end up calling a blood hunt
+s etites on the Brujah. I feel similarly about the Setites as I do about the
+No, the best way to deal with Toreador is either
+Assamites, albeit with a bit more reservation. Trace to flatter the m to the point of stupefied mollification any Kindred treachery back far enough and the re’s or bring the m a Trojan Horse by way of an “all iance”
+a Setite in the re somewhere. Like the Assamites, if you can’t ignore the m altogether. Seriously, leave they’re in the Jyhad for something that suits the m you rself an exit strategy when you find you rself dealand the m only. Unlike the Assamites, they’re will ing ing with a Toreador, because most won’t hesitate to
+to let you in on the secret — for a price. drag you do wn in the ir place when it all goes to hell. As any Brujah do peman knows, you do n’t snort
+Contrary to the ir public personae, the ir shit do es you r own stash. When you’re around a vice all the stink, and you’re liable to make more enemies among time, you succumb to it. So it is with the Setites. the m by screwing one over, unless they think you did
+While they may have something that you want at a good job of it. first — drugs, a long-lost memoir that lists the sleept ing place of some powerful and vulnerable Kindred, re Mere the key to a mortal paramour’s heart — the price The Tremere come in two flavors: very breakable
+always proves exacting. Additionally, that price is and ungodly powerful. Be careful when you break one contrived to keep bringing you back to the Setite, of the fragile ones, because he might be one of the because the ir trade is n’t the merchandise or secrets powerful ones’ bitches. they sell. It’s the people who owe the m. they’re for ever scuttling around on some secret
+The trouble is, it’s hard to pass the m up, and mission to find the skulls of the ir elders and grind the m they’re well aware of that fact. Sure, you could spend into aphrodisiac powder or something. they get all a decade digging up information about the Heart’s uppity when you interrupt the m. Blood of Mithras and spend another five years outwit- what ever, Gandalf. ting the traps and rivals who would beset you if you t
+zi Misce pursued it, or you could just buy a vial of Mithras’s
+I do n’t know much about the se freaks, but I
+Heart’s Blood from a Setite and be do ne with it. have a the or y. who ever made the Tremere made
+And they’re not proud — they gladly deal with the the Tzimisce first as a sort of trial run, and Jesus, did wants of people who are n’t after such lofty things he ever fuck up. Not only do they thrive on hurting
+as Methuselah blood, which means they cross paths people — and I’m not talking about Brujah-style with many of the Brujah on the streets. they peddle punching you till you give up, I mean stuff like fang
+drugs, hookers, black-market contraband, favors from extractions and external genitalia relocation — but senators, what ever. Accept the m as a necessary evil, they actually wallow in it. The Sabbat deserves the m shut the m do wn when you can, and otherwise stay
+and vice versa. the fuck away from the m. I feel like I should say more about the m, but I t or e Ad Or do n’t really want to. Let’s change the subject, because
+A classic chicken-or-the-egg scenario — have they make me nauseous. the Brujah always hated the Toreador because the v entrue
+Toreador have always hated the Brujah, or is it the
+All right. Now I’m supposed to have fits and jump other way around? around and scream and shake my fist. Damn those
+As a group, they’re deplorable. As individuals, Ventrue! do wn with princes! Kill whitey! most of the m are still deplorable. Well, I’m afraid I’m going to have to disappoint
+But every now and the n you run across a Toreador you. I was n’t around for Carthage, version one. I do n’t who do esn’t buy into the bullshit that keeps so many think it’s possible, given the current state of Kindred
+of the m going. In fact, most of the m are as cunning as affairs, for Carthage, version two, and I do n’t think
+Brujah — they have an elaborately constructed steanyone who we expected to actually dwell in that city reotypical façade that leads many Kindred to discount would be too happy with it, as it could n’t possibly the m automatically. It’s true that most Brujah have
+be both modern and satisfactory to the undead. So I the physical advantage over the Toreador, but that’s do n’t harbor any grudge over that. not going to help the m for long. Sure, they may be
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 65 ===
+No, by all accounts, the Ventrue are utterly placid. they’re decent enough leaders of the Camarilla, in that they’re no more corrupt than you r average middle manager and we do n’t have too many interests that coincide, so we never have
+to see each other if we do n’t want to. While the
+Ventrue are happy to place the mselves at the head of the line and in the path of incoming fire, everyone else who’s a part of the or ganization can pretty much do what they want and let the Blue
+Bloods shuffle the papers. If you ask me, I think that’s what lies at the core of Ventrue-Brujah hostility. It’s not so much that the Ventrue represent authority. No, I think that the Ventrue are complacent. they’re the status quo. If you have a Ventrue dissatisfied, it’s because he wants more, not different. While the Brujah are committed to change
+and rebuilding, the Ventrue are committed to keeping things the same and growing wealthy from it. Building the ir empires upon the backs of those who make the empire possible is what
+irks the Brujah about the Ventrue, not the simple quality of unlife. But the n, I’ve thought about this more than you r average Brujah, and it’s been my privilege to watch undead society for a century. If
+you want blind, screeching, fist-shaking anti-Ventruism, I’m sure many Brujah would be happy to oblige. t c he AMArillA
+No better, no worse, than it ever pretended to be. The benefit of the
+Camarilla over the Sabbat is that the for mer knows that it must change to remain viable. Well, that and the fact that you do n’t have to drink
+the blood of every Kindred who looks in you r direction or sell you r soul to the devil. Seriously, the Camarilla has its fair share of problems, most of which
+I chalk up to the inherent differences between elders and neonates (and ancillae, but
+I consider that more of a transitional stage between
+Clanbook: brujah
+
+=== PAGE 66 === the two). Neonates, by the ir very nature, are new to about the ir politics, rituals and practices, and it still the entire experience of being Kindred. Elders, by floors me that anyone ever managed to get a group virtue of having been around for ever and a night, like this to work, how ever erratically. know the state of vampirism in and out. how ever, In a nutshell, Sabbat philosophy is built around
+the neonates are far more in touch with the current an unceasing holy war against creatures that do n’t state of the world, while the elders have been placed exist, which somehow asserts the ir superiority out of time for so long that very few of the m relate at over mortals. all to the environment around the m. It’s the classic do esn’t make much sense to me, either. example of having one’s cake and eating it, too, if
+Some people seem to think that Sabbat ideology you’ll pardon the entirely un-vampiric metaphor. fits the Brujah unlifestyle. I won’t argue with that. We
+You can see the se distinctions. Some elders are
+Brujah are not stupid, how ever, and being told what so staid that they still wear the clothes of the times to do with a backhanded reference to it as freedom in which they were Embraced, and the n they can’t
+strikes us as fundamentally flawed. The Brujah do n’t understand why the tactics they used hundreds of want to be part of the Sabbat — the Camarilla works years ago are no longer efficacious. Neonates have
+for us because it generally all ows us to do what we every available modern advantage, but they still will with unlife. Were we to join the Sabbat, we’d do n’t understand the gravity of the Blood, or the
+have to follow the ir party line because that’s all the re predilections it indelibly imposes upon someone is to the m. And have I mentioned how misguided it once they receive the Embrace. Elders have n’t been
+is? Add to this the juvenile veneration of taboo, and
+“human” for so long that they do n’t respond to the you lose us completely. world like humans — to some elders, it’s a perfectly
+No, we know that the best way to deal with an acceptable course of action to behead one’s enemy idiot is to let him dig his own grave. and place his remains on a pike in the ir front yard. t i
+Neonates know that this sort of thing gets one ar- he nc Onnu rested instead of respected, but the ir influence over I’m not sure the re really is an Inconnu, or if it’s the world is too negligible to all ow the m to challenge one of those elder stories told to keep childer in line. the elders’ power. Not that they’re made out to be ravening monsters, It sounds like an endless, vicious cycle, do esn’t like the Sabbat — they’re more of a boojum used to it? That’s because it is. how ever, it’s a vicious cycle spook the intellectual neonates. You know, “Better
+that, on the who le, works better than anything behave or the incomprehensible elders from the Old else we’ve come up with. Now, before you claim World will carry out some hidden plot with you as the that accepting it because it works well enough is Manchurian can did ate!” contrary to my Brujah nature, let me quantify. The Until I’ve met one, I’ll reserve a more constructive
+Camarilla, if it wants to survive, has to reach some comment. And I do n’t know anyone who’s met one. equilibrium. It needs to evolve past its for mal rules, A w e y c n nd h Atever lse Ou An AMe much like Marxism intended to. The system itself were wolves. Witches. Ghosts. Angels. Devils. should grow to be ingrained in the nature of the
+Aliens. All of this may or may not exist, but to be
+Kindred. Thus, we would be able to eliminate the frank, it do esn’t concern us. Let the Gangrel chase titles, positions and responsibilities and get back to the Lupines out of the ir have ns and let the Tremere
+the finer points of unlife. trade grimoires with the wizards under the light of
+Obviously, the Camarilla has to make significant a harvest moon. Brujah do n’t deal with those sorts changes before it makes the Brujah happy with it, of things except on rare occasions, and I’m smart but we’re not the only ones it’s got to appease. I’ve
+enough not to let those few occasions for m a cohesive said it before — it’s the lesser of the evils open to opinion for me. In my experience the best tactic is to us, and not much more. leave well enough alone. If that do esn’t work, start
+t he s ABBAt swinging. If you can’t beat it that way, run like hell
+This group of maniacs earns my vote for the worst and know that at least you’ll be around longer than idea ever. Over the years, I’ve learned no small amount any of the se other freaks. The Curse of Caine has its benefits, after all. Horace Kaplan
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 67 ===
+B w urning r Ath
+(c •••, p •••) elerity Otence
+This power’s or igin is lost to the Brujah, though many of its more combative members have learned the secret. Indeed, its use is very widespread, particularly among the less genteel ranks of the clan. When the Brujah activates this power, she becomes capable of striking an enemy with devastating power many times in succession — each punch or kick actually impacts the foe multiple times, all of which carry the full for ce of the Brujah’s supernatural strength. The blood used during this power’s activation also causes the Kindred’s flesh to blush a violent crimson. In some cases, visible waves of blood-heat emanate from her body or a red mist envelops her. System: The player spends one Blood Point for each use of Burning Wrath, whether or not the character
+actually hits the target. On the Kindred’s next attack, all brawling damage she do es is aggravated, including damage do ne through the extra successes imparted by her Potence. Burning Wrath may even be used multiple times in a single turn, on split actions or Celerity actions, so long as the player spends the requisite Blood Point for each attack. MET System: The player spends one Blood Trait for each use of Burning Wrath, whether or not the attack is successful — the usage must be declared before determining the challenge’s outcome. Successful attacks inflict the full amount of damage as aggravated. It costs 15 experience points to learn this power. In MET, this power costs eight Experience Traits. i h (p •••, p •••)
+r On e Art Otence resence
+Some Brujah can steel the mselves against even the most for ceful extensions of other Kindred’s will. By calling upon the ir physical strength and what some vampires suspect is sheer id, the Brujah can shrug of f the effects of mental suggestion and supernatural for ce of personality. you ng Kindred tell tales of bold Brujah even ignoring the attempts of princes to do minate the m — likely a use of this power. System: Increase the difficulty by two for Kindred wishing to employ do minate, Presence or mindcontrolling powers of Thaumaturgy against a Brujah with this power. Also, a Kindred may use Iron Heart
+to strengthen the will of another: The player spends one will power point, and the subject of his choice becomes harder to affect, adding one to the difficulties of do minate, Presence and Thaumaturgical mind control attempts for the remainder of the scene. MET System: A Kindred with this power wins on ties to resist any attempt to use do minate, Presence or
+Thaumaturgical mind control against him. Also, the Kindred may use this power to strengthen the will of another: The player spends one will power Trait and the subject of his choice gains an automatic retest to resist any attempts to use above mentioned powers. This lasts for the remainder of the scene, or one hour, which ever comes first. This power costs 18 experience points. In MET, this power costs nine Experience Traits. p u (A •, p •••) ulseOF nde Ath uspex Otence
+By focusing her heightened awareness and physical prowess, a Kindred can “feel” for which of the physical gifts of Caine another Kindred may have learned. Potence manifests as a vibration of the muscles, for titude generates a cold rigidity in the body and Celerity causes a brief feeling of vertigo. System: This power enables a character to know which, if any, of the three physical Disciplines (Celerity, for titude, Potence) another character possesses and at what level. The player rolls Perception +
+Empathy (difficulty 6). Each success indicates that the character learns the nature and level of one of the other character’s physical Disciplines. In some cases, particularly if the subject has a higher rating in a given Discipline than the character using this power, the results may be imprecise. A character may feel the telltale dizziness that indicates Celerity, but might well be unsure of the subject’s potential with it. MET System: To learn which of the three physical Disciplines another character possesses, the player must succeed in a static mental challenge against the target character’s Mental Traits. If she succeeds, she
+may spend one Mental Trait per Discipline to learn what level the target has of each. It costs six experience points to learn this power. In MET, this power costs three Experience Traits. Clanbook: brujah
+
+=== PAGE 68 === c the group. Remember that Military for ce is not nech Ar Acter And essarily a collection of do ting sycophants who follow t the character’s or ders at the drop of a hat — Military
+r Aits for ce consists, obviously, of people who fight for the character. Sycophants, yes-men and lieutenants are best
+The Kindred of Clan Brujah are a diverse group, covered by an additional investment in the Retainers differing at times as much from each other as they do or all ies Backgrounds. from vampires of other clans. As such, a few unique
+The Military for ce Background appears in the
+Traits have arisen that are especially appropriate to
+Vampire Storytellers Handbook. members of this clan. Storytellers take not e: While the se new Traits are not necessarily exclusive to the n d p ew is cipline Owers
+Brujah, all of the m are options. they may be used by
+The following powers are all manifestations of
+Kindred of other clans, or not at all, at you r discretion. the personal nature of Disciplines as a Kindred’s
+Sections that make mention of MET are for mastery rises to the sixth level or greater. Characters use with White Wolf’s Mind’s Eye the atre livewith the ability to learn and create new Disciplines action rules. might wish to acquire the se or use the m as a base
+c Onsider Ati Ons FOr from which to explore the ir own options. Likewise, e t certain Storyteller characters may have access to xisting r Aits the se powers. In some cases, the Storyteller may wish to make t g r
+a few adjustments or special all owances for Brujah he entle e Bu Ke
+(p l s )
+Otence evel ix characters who se concept deserves it. As always, the
+Facetiously named, this power all ows the Kin Storyteller is the final arbiter of such situations. dred to physically knock another character away
+A i B ltern Ate dentity Ac Kgr Ound from herself with the slightest of touches. Although
+Because much of a Brujah’s reputation depends this power do es no damage in and of itself, is use is on her deeds, misdeeds, infamy and valor, some Bru- quite humbling, and certainly, to be hurled away jah choose to go by different names when they meet from an elder in a social setting has its embardifferent Kindred. The anarch icon, Smiling Jack, rassing repercussions. Some Kindred who use this for example (see Chapter Three), has concocted power do so surreptitiously, touching the ir victims
+numerous aliases to hide his identity when it might and sending the m reeling across the room. Others not be prudent to be known as a rabid opponent use this power as a not-so-subtle display of the ir of the princedom. Although it is presented in the might, giving the ir victim a casual slap that has
+Guide to the Sabbat, Alternate Identity is certainly overwhelming results. a valid Background for any Kindred who se name
+System: The player spends a Blood Point and the might otherwise earn her unwanted attention, posicharacter must physically touch her target (which may tive or negative. require a Dexterity + Brawl roll in certain situations). M ilit Ary F or ce B Ac Kgr Ound The character on the receiving end of this power is
+Elders are n’t the only Kindred with devoted sol- immediately thrown a number of yards equal to the diers at the ir beck and call. The Brujah, given the ir invoking character’s Potence rating. The results of connections to the mortal world and the ir skill with this vary by situation, and are left to the Storyteller the Presence Discipline, sometimes cultivate groups of — a character hurled into a wall may well sustain
+followers that either exceed the quantities suggested by damage, while a character tossed haphazardly away the all ies and Retainers Backgrounds or are populated might have to succeed on a Dexterity roll (difficulty by people who have less versatility than normal all ies 6) to remain standing. or Retainers. Among the se are the Brujah gang lords, MET System: The player spends a Blood Trait capos, religious faction leaders, political jackbooters, and must succeed in a physical challenge to touch
+entourage-bearing glitterati, activists and, well, anyone the target (this may be do ne surreptitiously, but who can convince a group of chain-swinging hooli- the player may not make use of other Potence bengans to fight who mever he tells the m to. In cases like efits). The challenge is not required if the subject this, Storytellers may wish to all ow the character to all ows the player to touch him (a handshake, a invest a point or two in Military for ce, to represent “friendly” hand on the should er, etc). This power
+Chapter two: unlife a Mong the brujah
+
+=== PAGE 69 === hurls the victim 20 feet directly away from the the eye to perceive, much like the fluttering of a invoking character. If the subject strikes a wall or hummingbird’s wings. other solid obstacle, he suffers two health levels of MET System: The player spends a Blood Trait to bashing damage. Otherwise, the character needs to activate this power. For the turn in which the characwin a static physical challenge against six Traits ter calls upon this power, she may use six additional
+to remain standing. Physical Traits (Graceful x 2, Nimble x 2, Quick x r p (p l s ) 2) for the purposes of defense. the se bonus traits do elentless ursuit Otence evel ix not apply to the character’s attacks. She also gains
+With this power, the Kindred becomes capable of a single “Stutter” retest in any challenge, applicable truly impressive physical displays. He may leap from for defensive actions. The “Stutter” retest is always
+rooftop to rooftop over entire streets, jump to a fire the last retest declared in a challenge, unless the atescape a do zen feet over his head and other feats of tacker declares the use of Might. athleticism. This is useful both for pursuit and evasion, but is quite a breach of the Masquerade, should n M F ew erits And l Aws
+anyone see this power in use. Like all Merits and Flaws, the se Traits are optional, System: Characters with out this power may leap pending Storyteller approval. For more details on the a distance of two vertical feet or four horizontal feet
+Merits and Flaws, see Vampire: The Masquerade, per success on a Strength or Strength + Athletics roll pp. 295-296. (difficulty 3; see Vampire: The Masquerade, p. 202). c (4-. M M )
+With this power, the character can jump four feet OMp Assi On Ate pt ent Al erit vertically or six feet horizontally per do t of Potence You have the moral character of the Brujah of he possesses, needing only to succeed on a Dexterity old, the proud warrior-poets who did what they did
++ Athletics roll (difficulty 4) to land correctly. If this because the ir hearts called to the m. If you ever fail last roll fails, circumstances dictate the results — the a Conscience (but not Conviction) roll, you may character may overshoot a building ledge or simply spend a point of will power and attempt the roll land less than gracefully. again, at a difficulty of 1 higher than the last. If you
+MET System: The player may use this power succeed on this roll, it counts as if you succeeded on to all ow her character to leap up to 25 feet verti- the first. You may do this only once per Conscience cally or 40 feet horizontally. She must succeed in a roll; you must accept the results of the re-roll. If you static physical challenge against four Traits (retest botch this second roll, you lose one permanent point
+with Athletics) to land correctly — if she fails the of will power in addition to any consequences of the challenge, the Storyteller should assess results as failed Conscience roll. appropriate. In MET, the player must spend one will power
+Trait to attempt a retest, which is treated as if it were s -s (c l s ) tutter tep elerity evel even one level higher on the Hierarchy of Sins. The player
+Calling upon her preternatural speed, a Kindred must accept the results of the second test. using this power appears to undertake several actions d p at once, “flickering” from one action to the next. ynAMic ers On Ality
+(5-. s M ) pt Oci Al erit
+This is particularly useful in combat, as one’s foe
+People are drawn to you, due to some charactercannot guess which of the actions he perceives is is tic appeal you exude. You may purchase additional the one with which the character follows through. Backgrounds using you r experience points at the end
+The character seems to be a dervish while this power of each story — two experience points earn you one is in effect, beginning countless feints, do dges and
+Background do t from the following group: all ies, parries. Contacts, Herd, Retainers. System: The player spends a Blood Point to
+In MET, this Merit all ows the player to purchase activate this power. For the turn in which the more Backgrounds with Experience Traits. When the character calls upon this power, she may add her
+player purchases Traits in all ies, Contacts, Herd or full Celerity rating to her do dge, Block or Parry
+Retainers, he may gain two Background Traits per pool. This pool may be also be distributed among
+Experience Trait spent. Storytellers should watch multiple actions — a character with this power can this Merit carefully for potential abuse. use it in a succession of do dges, moving too fast for
+Clanbook: brujah
+
+=== PAGE 70 ===
+O Bvi Ous p red At Or (2- pt. s Oci Al F l Aw ) u nc Ontr OllABle (5- pt. M ent Al F l Aw )
+Either you r face or you r immediate disposition Rage and passion constantly war in the soul of a lets people know that you have not hing good in store volatile Brujah. Perhaps you were ill tempered before for the m. Mortals react poorly to people who exude the Embrace, or perhaps you r Brujah lineage awakened such a blatant air of menace, and all you r difficulties some latent fury. In any case, even more so than you r
+for Social rolls increase by two (with the exception clanmates, you are prone to frenzy. Difficulties to of Intimidation-related rolls). resist frenzy are always 10 for this character. Prepare
+In MET, this is largely a matter of roleplaying. for a short, hellish ride. A player who chooses this Flaw must wear a card or In MET, characters with this Flaw always lose on other item that identifies him as an Obvious Predator. ties in attempts to resist frenzy. Uncontrollable can
+Kindred with this Flaw lose all ties in social challenges easily disrupt a LARP, and Storytellers are cautioned with mortals. Obvious Predator do es not inflict a to carefully consider whether it’s be appropriate in penalty upon Intimidation-related challenges. the ir games. Chapter two: unlife a Mong the brujah
+
+=== PAGE 71 ===
+Clanbook: brujah
+
+=== PAGE 72 === c t: h Apter hree t r ’ he ABBle s
+An Ks
+”This is n’t really death,” Tyler says. “We’ll be legend. We won’t grow old.”
+I tongue the barrel into my cheek and say, Tyler, you’re thinking of vampires
+— Chuck Palahniuk, Fight Club
+Of the Brujah as a who le, what can be said that That is the intrinsic horror of the Brujah clan — the several outstanding members of the clan do not im- endless rage against the known evil for the unknown mediately contradict in thought or behavior? That that one feels is right, but can not know for sure. The they are passionate? Well, what about the ennui of the idyllic Carthage was also a bloody or gy and a crucible for
+elders or the stagnation of those who have made things infants, all in the name of vampire gods. Transylvania, comfortable for the mselves? Or are the Brujah rebel- where the night claims the innocent, was have n to the lious for its own sake? What the n of the Brujah who Brujah who fled the tyranny of the Roman Ventrue. take positions among the social elite of the Camarilla? Even the streets of the modern nights, where many
+Are they all mindless anarchs, plotting the overthrow you ng Brujah claim the ir do mains, are pits of drugs, of princes around the globe? How, the n, to account for violence and utter desperation. those (admittedly few) cities in which a Brujah claims Brujah, the n, are the Kindred who make the ir the princedom? The Brujah are a clan of contradictions have ns in the horror of the conscience. Let that be and hypocrisies, fierce pride and craven treachery. The the ir common thread. only difference between a Brujah warlord and his vicious counterpart in the Sabbat may be a simple statement
+of all egiance. Chapter three: the rabble’s ranks
+
+=== PAGE 73 === t c he On Feder Ate
+Quote: “Southern justice” is about to take on a new meaning for you. Prelude: you r interest in the plight of the American
+South began as it do es for many people, as a result of school studies. Although you were born and raised in Virginia, you r parents were neither overly political nor attached to one of the state’s “old money” families. Quite the contrary, they
+both found it odd that you became engrossed and increasingly vocal about the “Lost Cause.”
+By the time you had made a life for you rself, you had become a local expert and an acknowledged armchair historian of the
+American Civil War. you r sympathies lay with the Confederacy, and you published two books on the history and economics of the war in you r spare time. A few colleges even invited you to speak in panels or debates, which was
+where you met the Kindred who became you r sire. Like you, he was an eloquent, educated man, though you could tell
+that years on the intellectual circuit had left him more than a little bitter. Slowly, obliviously, you earned you r sire’s trust and respect. He
+invited you to a quiet but important meeting of like-minded pro-Southerners, where you realized that, if or ganized, the South could rise again. By the end of the meeting, you r sire revealed to you what he and
+his companions were — Kindred. With the powers he possessed, he argued, and with the powers of the Blood, you could coordinate an effort that could right the wrongs the South had suffered under the
+Union. Thrilled with the opportunity, you accepted. Since that time, you and you r sire have grown apart. He did n’t mention the unpleasantness of being a vampire or the great costs it carried. Still, you accept you r fate nobly. You have fought against the vampires of the Sabbat, which seems a bit ironic to
+you — you are fighting the vampires’ war of the sects simply to be able to one night fight a new war between the states. But you r resolve is firm — you r cause will prevail. Concept: You count you rself among the idealist camp of Brujah, those who believe the clan can come together in or der to advance a certain idea — you rs, in this case. you r Confederate sympathies are
+based on economics and regional culture. You believe that the South should focus on an agricultural economic base and leave industrialization to the Yankees. you r Brujah nature lends the fire of passion to you r arguments, though it is as of ten a detriment as it is a benefit. Roleplaying Hints: Maintain as even a temper as possible — you know from experience that flailing fanatics rarely make the best
+case for the ir positions. You are rational and impassioned, and you rarely undertake an action with out considering its outcome. do n’t proselytize; you r case is subtle and not dependent upon converting people. Equipment: American SUV, professorial tweed-and-twills wardrobe, outdated laptop computer, American history journals
+Clanbook: brujah
+
+=== PAGE 74 ===
+Chapter three: the rabble’s ranks
+
+=== PAGE 75 === t h - -B he Arpy tO e
+Quote: Let me be frank — if you ever expect the other
+Kindred to regard you as anything besides competition for sustenance, you’d best learn a modicum of grace. And do n’t even get me started on that jacket.…
+Prelude: Life and unlife blurred into the same for you
+— you never really felt alive even in the days when you still breathed and ate and made love. You worked a nondescript job as an of fice manager and followed all the requisite fads: fitness, diet cola, designer clothes, wine and gourmet ingredients. None
+of it fulfilled the basic emptiness that had become you r daily routine. At times
+you were simply bored with life while at others it simply left you wanting… more. That’s why you r sire
+chose you for the
+Embrace. While you had come to characterize you rself as another vacuous, empty
+you th, he could see you r disappointment and thought that you would make an ideal addition to the ranks of the Kindred. You met him at a New Year’s party, kissed him at midnight and met the new year as a vampire, never looking back at what you r life had been. Becoming a vampire has been simultaneously the best and worst thing that has ever happened to you. Only now do you see the things you had
+taken for granted. On the other hand, you no longer have to worry about saying or do ing “the right thing,” because of you r for ce of personality. This has bred a cruelty in you, though, which you have secretly begun to fear — it has taken you r death for you to truly feel alive, but now you miss what life had to of fer. Concept: You are the veriest Kindred socialite, attending prestigious
+parties and escorting Cainites and kine to what ever events you feel would benefit from you r beauty and wit. Other you ng Kindred, though, do not have you r refinement. they do n’t understand that the world needs people like you to provide the m with a glimpse of the wondrous. You’re such an important figure that you do n’t even do anything: You’re the idle rich, making the most of you r undead gifts. Roleplaying Hints: Unlife is you rs for the enjoyment, and anyone who tries to say otherwise suffers the entirety of you r derision. Others exist to serve you r
+desires or sate you r hunger. You can be cunning and cruel or tender and compassionate and everything in between but only at you r whim. Completely emotional, you of ten find you rself in unpleasant situations of you r own making, but is n’t that what unlife is for? Equipment: German sedan on short lease, enormous designer wardrobe (updated weekly), PCS phone, uptown condominium, high-yield mutual fund portfolio
+Clanbook: brujah
+
+=== PAGE 76 === t p he Al Adin
+Quote: See? That was n’t so hard, was it? Now pick up you r teeth and get the hell out of here. Prelude: You were always tough — you played football in high school and college and kept in shape through municipal boxing after you graduated. The problem was
+that you did n’t know when to stop. You racked up six football injuries during you r gridiron days and you found you rself suspended from the boxing league for excessive for ce. You could n’t help it, though; pressure to succeed
+academically stressed you out during high school and college, while the nonstop trials of helping to manage a retail store put you on edge as an adult. It was almost a relief when you found you rself abducted from a local nightclub and press-ganged into the service
+of the Sabbat, who wanted you to be as fierce and angry as you possibly could. While the pack’s insistence that you were fighting a holy war grew tedious after a while, the frequency with which they all owed you to “blow of f steam”
+earned you quick recognition and respect. Before long, you had distinguished you rself enough for the bishop to make you a templar, which gave you great pride. Still, you believe that you have left
+some degree of unfinished business in the world of the living. Being a Sabbat enforcer do esn’t mean you’re simply a conscienceless
+killer. Unlike most Sabbat, you have n’t completely written of f you r mortal family — you still send you r mother and brother letters, describing you r wonderful life and success at work. You do n’t see this
+as a weakness; you r mother did n’t raise her son to be a boor. Concept: you r life was a never-ending source of stress, but you r newfound role in the Sabbat provides you with a release. Unlike most others in you r position, you are not a sadist, though you fulfill you r duties with zeal. For you, the sect is not so much a holy cause as it is a group that
+claims you, and you have no illusions about the real nature of the community it claims to be. The Sabbat is little more than a collection of self-interested individuals, and you have no problem going you r own way in the sect. Roleplaying Hints: You are at odds with you r inherent clan passion. While the Brujah Embrace may incline you toward fervor, you feel you r unlife is stagnating and that you have no real cause. After all, the sect’s
+propaganda do esn’t carry much weight with you; you’ve had to entertain you rself in the nights since you r Embrace. Still, you feel some sense of achievement in you r appointment to the position of paladin, and you’ve been trying more and more frequently to foment an interest in the Sabbat’s affairs. Beneath it all, how ever, you know it’s not genuine. Equipment: Flashy convertible, extensive wardrobe of club clothes, brass knuckles, ax handle
+Chapter three: the rabble’s ranks
+
+=== PAGE 77 ===
+Clanbook: brujah
+
+=== PAGE 78 === l B d s M
+A elle AMe Ans erci
+Quote: I do n’t care what you want. You’re not my concern. Prelude: Life in the barrio trained you to watch out for you rself at an early age, and being a you ng woman just made it more difficult. The gangs were only part of the problem
+— of more concern was the daily disorganized crime that threatened you at every turn. The neighborhood was full of heads, rapists, thieves and two-bit criminals who took advantage of any opportunity they saw. And they almost
+always saw it in the chicas who called the neighborhood home. The church was you r sanctuary, though: a place you escaped the evil of the world by looking to Christ. But faith was n’t enough to protect you. After being raped by one of you r brother’s cholo friends, you
+turned to the gangs for you r own protection. You had to resort to that which you hated just to make life tolerable, and even that was a left-handed deal. You suffered through group sex with the gang’s male
+members and a tooth-jarring beatdown at the hands of its females before the locos considered you one of the irs. Surprisingly, you took to the gang lifestyle with ease — it
+stirred something primal with in you. It gave you power that you had never commanded but you’re not about to do something before. Before long, you had stupid like renounce the Camarilla
+more status in the gang than or join the Sabbat. Just like with the many of the guys and found gangs, the Camarilla of fers safety in you rself running several numbers, and you do n’t really take part of the more profitable jobs. in all the ir political bullshit anyway. The
+The money rolled in, the cops gang’s more a family to you, anyway, but did n’t fuck with you, you had all that’s as it should be. the drugs and booze you wanted, Roleplaying Hints: you r hot temper and if anyone had a problem with leads you into many acts of violence or you, you r vatos hit the m so hard they indiscretion, but as you see it, that’s what
+learned to never speak up again. vampires do. you r prime concerns are
+Where was the catch? money, vitae and some small degree of the n that you were told it had physical comfort, but you lend you r all been a test. The gang’s leader strength and connections to anyone called you in for a meeting and you believe has a just cause, sort of like
+inducted you into a new gang: the folk heroes of you r Latina upbringing. the Kindred. To this night, you Other vampires are either tools to use do n’t know whether it’s because or important people to know, but you r you passed or failed. sire has told you that the re are some
+Concept: Being a vampire serious badass Kindred out the re, in a gang means never being for who m you should have fear and taken for granted. Of course, respect. Fuck that — in you r eyes, very few of the locos know you’re everyone’s got to prove the mselves
+Kindred; to the m it just seems or they’re no good to you. that you’re damn good at what Equipment: Lowered pickup, you do. you r sympathies pair of unregistered revolvers, switchtend to lie with the anarchs blade, two grand worth of Seconal
+Chapter three: the rabble’s ranks
+
+=== PAGE 79 === t A he n Achr OnisM
+Quote: Let’s just say that in my day, we did n’t know what the president was up to in his private chambers, and we had the good sense not to care. Prelude: The outlaws swept in like a raging fire across a plain and turned the town of Scofield upside-do wn. they
+roared in one night, shot the place full of holes, killed a traveling marshal and burned do wn the Chinese laundry. The outlaws terrorized the place only at night; everyone assumed they were busy getting drunk during the day and came out only once they had become
+all whiskey-mean. But you found out the truth. As a for mer cowboy and plainsman, you
+settled do wn in
+Scofield to open you r own smithy and livery. The outlaws dragged you out of bed in the middle of the night to shoe the ir
+horses before they headed of do wn the coast and Embraced you by way of payment. they
+starved you for a few hours after the Embrace, though, and before they left they buried you in the churchyard, not really caring one way or the other if you managed to dig you rself up. And for the longest time, you did n’t. In the cold arms of torpor, you
+slept away the years in a state halfway between life and death. But the n you awoke. An indescribable dread shook you from you r slumber and you r erupted from the earth in a frenzy, slaking you r hunger on a disbelieving police of ficer before finding out that almost 70 years had passed since you r “untimely demise.” An industrious sort, you looked into the finer details of what
+you had become and learned that a nomadic pack of Sabbat had do ne the deed. According to a few of the local “anarchs,” the same pack still traveled up and do wn the coast. What a night it’ll be when you find the m. Concept: You had always been a firm believer in fate and God’s will. This may be strange, but it’s what He apparently wants for you — do ing the Devil’s
+work. You know that you r gripe do esn’t lie with this “Sabbat” thing, but rather with the Cainites who turned you. Since returning to the conscious world, you’ve found a pack with who m you can travel and you do what they ask you as long as you believe it might lead you closer to you r missing sire. Roleplaying Hints: Vengeance fuels you, and you’ve fully convinced
+you rself that when you find and destroy the Cainite who made you, you might well have to die to set things right. Still, you’ll cross that bridge when you come to it. In the meantime, you’d best get used to this modern world. Who’d have known things could have changed so drastically in just a few decades? It sure do esn’t help that you’re so easily frustrated and
+angered by all this technology now that you’re dead.…
+Equipment: Weathered Wal-Mart “Western wear,” single-action revolver, lever-action rifle, ’81 Pontiac Firebird, ghouled mutt companion
+Clanbook: brujah
+
+=== PAGE 80 ===
+Chapter three: the rabble’s ranks
+
+=== PAGE 81 ===. net Kindred
+Quote: You wanna know what the prince’s venture-capital company made in profit last year? Hang on; I’ll grab the ir annual report of f the ir Web site. Oh, this is some pretty specialized stuff — I’m going to have to charge you a consultation fee. Prelude: You had made a decent living, cashing in on the Internet revolution. After a small-business loan from
+the bank enabled you to start you r own company, business boomed for a few years, as you had managed to ride the first wave of e-hysteria. Before long, how ever, the market matured and you r services became less valuable. you r
+business had dwindled to a few contract jobs with larger solutions companies. The money came regularly, but only at the same time every 30 days, and you felt the squeeze. Just as things started to look bleak, you met the strangest client who’d ever employed
+you. He said he was working on a Web project — and that he was looking to do something not entirely on the level. Intrigued, you accepted the contract, which was a commercial Web site designed to
+process false or ders through which the client intended to launder money. When the time came to accept payment for the project, the client stated that he wanted
+you to administrate the site full-time… and promptly Embraced you. Luckily for you, ing Web jockeys, you r unlife is going to be very lucrative. most vampires, like
+Of course, that’s the least you can ask. After all, you most mortals, are n’t have no choice but to serve the Kindred now. very smart when it
+Concept: you r talents lie in very specific backcomes to computoffice Web applications, like dynamic databases and ers. The Internet user-defined content preference managers. Still, it is this nebulous
+helps to know most of the technical details. At thing that exleast, you know the m well enough to hide traces is ts inside a of you r passing. Now, you pay the rent at you r
+magic box have n by skimming money the very investments that sits you’ve been hired to protect. Morals are n’t you r
+on the ir strong point — you’d rather spend the time “day” d e s k, trading in for eign markets or developing custom and only
+apps to keep you ahead of the business curve. techno Roleplaying Hints: It’s all about the bottom wizards like line. You’re better socialized than the stereotypiyourself can cal “computer geek,” but you r passions still lie in
+bend it to the same subjects. To you, everyone is a potential the ir will s. employer or asset. they exist to validate you, As such, you whether by working for the m or hacking the m. charge premi You enjoy showing of f; it’s you r quiet revenge
+um rates for the on a world that mocked you as a you th and now
+Kindred, who you’re flaunting you r success in its face. could n’t keep up with the technology even Equipment: Cheesy late-model American sports car, bleeding-edge laptop, wrinkly
+if they wanted to. Unless slacker clothes, PCS phone, two beepers, other people start Embrac Yak Pak full of wires and program manuals
+Clanbook: brujah
+
+=== PAGE 82 === t s -t s he MAll Own heriFF
+Quote: You want to do this the easy way or the hard way? I’m hopin’ you choose the hard way, myself. Prelude: If it was n’t one damn thing in you r town, it was another. One month, you had all the niggers getting uppity and rioting of f the access road. The next month it was all the pinkos and hippies from the university up the highway staging
+some kind of animal-rights protest at the can nery. the n some faggot march and, in the same month, the lynching after that child molester was acquitted. Yeah, every time some group or another got a wild hair up the ir ass, they took to the streets. As the sheriff, how ever, you kept or der, because that’s
+what the decent people of the town wanted. A little skullcracking went a long way when people knew they should fear you and if they did n’t, you and you r deputies made things right for the decent people of the town. you r fervor attracted the attention of one of the se weird types — turns out
+she was a real-life vampire. She made you an of fer that sounded like business; she wanted you to work for some special-interest law
+enforcement arm in some city a few states away. It sounded like a good deal, until she made you a vampire. Now you’re working for some guy who calls himself the prince and busting heads when he snaps his fingers. It’s no big deal — most of this vampire or der is basically made up
+of decent people, and you’re just whipping the shitheads into place. At least, that’s what you tell you rself when you rise each night. Concept: you r dedication to the law (or to the Traditions, as is now the case) draws inspiration from two sources: you r own desire for or der and the thrill you get from exercising you r power. Even though you do n’t wear a badge anymore, you still have the prince backing you, so you r word is still
+law. Unless the prince says otherwise, of course; you do n’t always agree with how she interprets things. In you r opinion, the se vampire rules are too liberal and the who le lot of the Kindred could be improved with some or ganization. Of course, you’d need to be the one keeping the peace.…
+Roleplaying Hints: You’re the sheriff now, just like in life, and people better give that title the respect it deserves. You lord you r position over other Kindred, and you’re condescending and haughty to mortals. Still, you r mouth do n’t write checks you r ass can’t cash, and anyone who calls you r bluff ends up with knuckle dents in
+his head. At times, you abuse you r power for perks or simple viciousness, but most of the time you uphold the prince’s policies to the letter. with out or der, this who le Camarilla thing is going to fall do wn around everyone’s ears. Equipment: Nightstick, police-auction highway patrol car with civilian paint job, pepper spray, S&W Model 29, Dickies wardrobe
+Chapter three: the rabble’s ranks
+
+=== PAGE 83 ===
+Clanbook: brujah
+
+=== PAGE 84 === t d M he igit Al usici An
+Quote: I do n’t care what you r politics are. I’m an entertainer. You want me to play a benefit, fine, but do n’t drag me into you r little war. Prelude: When other kids wanted to be rock stars, they picked up guitars. That was n’t the case with you, though. You were you ng enough to relate better to computers and satellite
+broadcasts than you were to the Rolling Stones. In fact, you r musical heroes were anonymous, hiding behind banks of synthesizers when they played live and appearing nowhere at all on the ir CD liner not es. Beginning in junior high, you saved enough money to buy a synth and a drum machine. Even in high school, when
+the other kids were spending money on cars and clothes, you bought computers and sequencers. By the time you were 17, you were playing clubs that legally you could n’t even patronize. Still, no one asked you
+you r age, thinking you were just another you ng-looking wunderkind. you r you th even surprised you r sire the night he
+Embraced you — he told you that you r music was the sound of restless rebellion. You did n’t care; you just liked making people dance. After the Embrace, you’ve found you rself Concept: You’re not too far reto be rather popular moved from the James Dean-style of
+among the rock ‘n’ roll rebel, differing only
+Kindred. in the specifics of the music
+After itself. You still maintain leaving the accelerated, highhome, energy unlifestyle of the you’ve music world. You do n’t p a i d have much in comy o u r mon with the rebellious
+rent by play- nature of you r clanmates ing Brujah raves, other than providing the m with
+Toreador parties and a soundtrack for it, but so what? Politics the nightclub scene. have always bored you; you’re happy playing
+Having left you r mortal the role of the darling for the time being. family behind, you travel
+Roleplaying Hints: what ever you’re the country as the flavor of the do ing, you’re in it for the party first and month, going where the work
+the money second. It’s not that you do n’t takes you. More than anything, have the Brujah passion, you just find it in you find you rself missing the different things. Being introduced to the
+old days as a mortal, which you self-promoted celebrity world so you ng has think is a little strange. Perhaps taken its toll on you, and you are of ten
+it’s because you never had a terse, short and demanding with people, chance to enjoy what life had who of ten see you as a prima do nna. to of fer, or perhaps it’s because
+Equipment: Turntables, CD playyou just do n’t feel what you used ers, mixing boards, effects processors, to. All you have left is music, and microphones, keyboards, computers, drum the never-ending thirst for blood. machines, synthesizers, amps and monitors, And in a few years, the music will
+all in various stages of repair be yesterday’s news. Chapter three: the rabble’s ranks
+
+=== PAGE 85 === t p he ugilist
+Quote: I never study the odds. It’s bad luck. Talk to my manager. Now, if you’ll excuse me, I have some ass to kick. Prelude: Let’s face it — feel-good charity programs aside, inner-city kids do n’t have too many opportunities to build something better for the ir futures. Despite the odds stacked against you, how ever, you turned you r physical talents into
+something beneficial instead of throwing in with the gangs. Just as you began high school, you also began you r boxing training at the precinct police gym. Quick, strong, and clever, you possessed ideal traits for a boxer and soon became a tri-state Golden Gloves contender. By the time you graduated from college, boxing had become you r second calling. During the day you attended classes and you r telemarketing job, while at night you hit the gym or the circuit. With you r
+coach and a local promoter, you parlayed you r ability into a promising career in the amateur fights. Little did you know they would become you r do wnfall. The criminal element had its sights set on the local boxing and bookmaking interest. In
+you, it had a powerful asset, at least until you made it clear to the m that you were n’t going to take a dive for any amount of money. You expected to take a beating for it; instead, the
+fixer smiled and said he admired you r conviction. Instead of breaking you r legs, he did Concept: You’re do wn but not out. something far worse — he Embraced you. Boxing and street fighting are what you
+Now you’re a broken man. know best, but you still do it only for you r The Brujah could n’t take self. You’re not a brawler or thug like what mattered most many of the city’s other Brujah; for to you, you r sport, you, fighting is an art. You’ve made but they could several contacts among the city’s
+take away all or ganized criminals, and you’re also the enjoyment quite popular at soirees and parties, you drew from but none of that makes up for the it by for cing you price you’ve paid. to deal with it on Roleplaying Hints: You the ir terms. It’s undertake everything with a
+been harder and grim resolve because all that harder to push you love has lost its meaning the “night fights since the Embrace. all ies only” clause in and acquaintances consider
+you r contracts, you morose but you know they so you’ve turned just do n’t understand what it’s to you r sire for like to die inside. You have a soft spot for kids, help. He and a few especially those who want to rise above what of his associates re- life has given the m; you hope that they
+vived an underground achieve what you had a chance to fighting circuit with you as reach but were denied by you r sire. the star. Of course, this help
+Equipment: Wardrobe of trunks, was a do uble-edged sword, workout gear and meet-the-press suits, as it’s made you dependent endorsement-supplied boxing gloves, upon him once again. leased sports coupe, duffel bag
+Clanbook: brujah
+
+=== PAGE 86 ===
+Chapter three: the rabble’s ranks
+
+=== PAGE 87 === t A r he n Arch ingle Ader
+Quote: you r life’s a joke, guy. When you get tired of Coca-Cola, Microsoft, Puff Daddy and all y Mc Beal, come see me. I’ll show you the next big thing. Prelude: Life had little meaning for you. You simply wandered through it, fulfilling you r destiny as a member of a consumer culture and pushing a pencil at you r day job as a claims adjuster. You went so far as to attend support meetings for people suffering from diseases you did n’t even have. the n you met you r mentor on a flight from Los Angeles. He said that he knew exactly what you felt, how trivial you r life was. He said he had been the re himself once but had found a new purpose in an invisible struggle to “disrupt the status quo.” Gaining the opportunity to fight in that struggle had given him “a new perspective on his own mortality.” Did you want to join the struggle? Of course you did. You were
+desperate. He of fered you a ride home in a stolen car, at which point he Embraced you. Since the n, he’s had to handle pressing engagements on the West Coast. But he was right: Since you’ve become embroiled in the Jyhad and the anarchs’ struggle against the elders, you’ve had quite the awakening. you r natural charisma has come to the for e, enabling you to amass
+a following of anarchs, ghouls and mortals to act against the plots and schemes of the elders. And so, each night you rise and make another covert strike against the plans of you r current mark. Deep with in, you know that you do n’t even want to succeed — if you managed to “win” this deadly game, you’d have not hing left to fight. But you’ll cross that bridge when you come to it; until the n, you have rivals to foil and daring escapes to make. Concept: Muscle is cheap; brains like you rs are what’s really important. You are equal parts
+drive and megalomania, but people usually see you as charismatic until they find out what really makes you tick. The end is far more important than the means, and you have few qualms about sending all ies of f to certain death, as long as the re’s something to gain from it. Not that you’re sadistic, you just understand that to make an omelet, you need to break a few eggs. Roleplaying Hints: When it comes to fighting the crushing grip the elders have placed
+on the city, not hing is too extreme. you r coterie is simply a matter of convenience, a collection of Licks to be used in the course of you r conflicts. Of course, it’s not wise to let the m know that, so you adopt a demeanor of concern for the ir wellbeing —
+which just happens to coincide with you r own desires. Assuming you survive, you’ll make
+a fine elder one night.…
+Equipment: Mossberg shotgun, converted full-auto
+Tec 9, shabby ‘83
+Chevrolet
+Caprice
+C l a s s i c, briefcase full of homemade soap. Clanbook: brujah
+
+=== PAGE 88 === s B: is not dependable, and the group sometimes has to
+AMple rOOd face lean nights. Likewise, adding other vampires h ’ r to the mix threatens the already weak Masquerade eze Ki Ah s eviv Al
+— while Hezekiah and his brood can pass of f the ir
+Grass-roots religious movements are not hing new own powers as miracles, if visiting Kindred among
+— from wandering cults of pre-Christian nights to the the crowd performed “feats of faith,” the coterie numerous “heretical” factions of the Middle Ages to would attract an uncomfortable amount of attenthe millennialist splinter groups of the modern nights, tion. they do n’t necessarily attack other Kindred reverence for the Powers Above has motivated those (which would be unbecoming for a preacher and his need of something greater than the mselves. And as ministry), though they may use other tactics such as
+long as the se groups have existed, the Kindred have blackmail, rumors, character assassination, or favors walked among the m, sometimes masquerading as they’ve accumulated from other Kindred. the faithful, at other times impersonating the deities A physically or iented coterie would likely be the mselves. able to make short work of Hezekiah’s Revival, Hezekiah’s Revival is one such movement: but such is not why they’re included here. The an itinerant cell of Brujah evangelists that moves revival is built around a social core — the focal
+throughout the United States, spreading the Word point of the group is its herd, not its capacity for of God and taking the ir sustenance from the as- violence. This can provide its own hooks, as the sembled flock. revival may appeal to anyone. Perhaps a character’s trusted ghoul becomes interested in the revival, or
+We include Hezekiah’s Revival as a resource for an elder loses significant business influence when the Storyteller, to be used as characters in a chronicle, the president of his corporation decides to make a source of plot hooks, or as potential background
+an enormous charitable contribution to Reverend cast for a specific player’s character. Although the
+Rutledge’s church. Almost any of the peripheral brood’s histories feature some specifics, the revival characters associated with the players’ characters may show up anywhere or in any chronicle; the se
+can be affected (positively or negatively) when the
+Kindred can make appearances in you r own stories revival rolls through town. Who knows — some as needed. might even join. u h ’ r sing eze Ki Ah s eviv Al The most important thing to remember when
+This traveling troupe can fit into the chronicle using Hezekiah’s Revival in a chronicle is that as bit players or major characters. they could be they are sincere. The nomadic church is a front for used to explore the the mes of the Masquerade: A Kindred, but that’s not all it is. Hezekiah and his
+Storyteller may wish to have the m function as a followers truly believe in God, and they honestly walking, talking testament to the power of faith seek to spread His word. This calls upon the most
+(do esn’t the flock not ice how strange they act?) or fundamental of Kindred mythologies — God cursing set the m up as antagonists who threaten to expose Cain(e) and his progeny for the sin of murdering the Cainite race with the ir depredations. With a few Abel. Each member of Hezekiah’s Revival has her minor adjustments, the coterie would even make a own interpretation of how vampires should best
+suitable pack of Brujah antitribu, who may be using do this, and certainly not all of the m are healthy, the revival as a cover for the Sabbat Inquisition or constructive or who lesome, but they have not hmay be a pack of nomadic scouts do ing reconnais- ing if not conviction. The Kindred of the revival sance for a crusade. interpret the ir undead state as God’s will — they
+In any event, the revival do es not respond well have literally been touched by the divine in or der to other Kindred. While he respects the Masquerade, to carry out His purpose. None of the m have True
+Hezekiah Rutledge do esn’t want to tax his already Faith, how ever; no matter how much they believe limited resources any more than they already are. in God, God must surely see the m as a less than
+Despite the size of the herd the revival enjoys, it ideal vehicle for His aims. Chapter three: the rabble’s ranks
+
+=== PAGE 89 === i cars rotate in and out of the lineup. Some are sold n Fluence on the road; others fail and need to be discarded. The revival moves too of ten to accumulate sig For the most part, how ever, Hezekiah’s followers stay
+nificant influence in any specific city. As such, none with him only in certain regions — the hangers-on of the members has any interest other than what they and contract staff who move with the revival in the
+can personally convince people to do. southeast are not the same as those who follow him
+In many cases, that’s significant influence, through the tour of the Midwest. Every now and though. The revival attracts people who have the n, an exceptionally zealous follower tags along for searched desperately for any kind of hope or salvalonger than normal, but this rarely lasts too long. He
+tion, and a preacher of fering such can procure almost either runs out of money or moves on to some other fanatical service from a devout follower. Also, the interest — or becomes sustenance for the Kindred, coterie has a reliable reputation as clergy, who m
+who reason that with out anything to tie him do wn, even nonbelievers of ten trust on the basis of the ir he has no one to miss him if he vanishes. calling. The brood’s high Herd ratings (see below)
+When the revival enters a town or city in reflect the faith its followers have in it, and the ir which it desires to set up shop, it typically do es so service do esn’t end with simple sustenance. As not ed
+one week before its scheduled event. Hezekiah and above, some of the flock attach the mselves to the
+Le Roy maintain a schedule, by which they arrange traveling ministry. Others may be called upon for for space, permits and advertising at least one month favors when the revival comes to town — the group
+in advance. Securing the se details is work for the accepts do nations of cash, traveling goods, clothing volunteers or contract managers, since most of it must and other sundries that it can either pawn in the
+be handled by day. the n the revival rolls into town, next town over or use to comfort the less well-to-do bringing with it an almost carnival-like atmosphere. among the ir following, which builds the ir reputation
+Reverend Rutledge parks the RV near the revival even further. site, and the workers set up camp, staying in tents, n OMAdic u nli Fe sleeping in the ir vehicles or renting hotel rooms at the ir own expense. Especially in winter, the camp Depending on where you decide to incorporate sites can be desolate sights, populated by laborers
+the m, Hezekiah’s Revival can have a variety of who spend uncomfortable nights in the ir cars yet have ns. As conceived, the coterie is nomadic, travelwork tirelessly with a fervor for Hezekiah’s cause. ing the country in a caravan led by a medium-sized
+For the week prior to the actual revival, a mobile home (which all ows the Kindred to hide ragtag crew sets up the tent, clears a driveway and from sunlight) and an escort of pickup trucks and
+parking lot, decorates the stage with the meager aging sedans. accouterments the revival carries with it and gener The mobile home has been converted to let in all y handles logistics while the Kindred plan the ir as little light as possible. The driver’s cabin may
+sermons, oversee the labor and give direction as be closed of f, affording the passengers in the main necessary. Most of the se operations take place with body of the RV privacy as well as protection. Each
+less than a do zen helpers — only one or two have of the sleeping bays features a pull-do wn shade and ever employed a retinue of more than 20. all of the windows have been fitted with blinds or
+During the week before a revival, the Kindred curtains — as long as a vampire remains in her bed sometimes take refuge in local motels or with during daylight hours, she never has to worry about
+hospitable families, solely to get out of the RV the sun. Obviously, daylight activity is a problem bays. The nocturnal habits of the revival members for the revival, but it has n’t had serious cause to
+sometimes come into question, but Hezekiah and worry yet. If some diurnal attacker descends on the his brood have had several years to come up with revival (for what ever reason), he definitely has the
+excuses. they explain that because the revival takes upper hand. place at night, the ir (nonexistent) church insur The escorts are passenger vehicles or pickup ance all ows the m to work only during those hours, trucks with model years from the late 60s to the and none of the m could afford to work with out it. early 90s. Driven by volunteers, modern-day pilgrims
+Likewise, because it’s cooler at night, the caravan following in the wake of the revival, most of the se
+Clanbook: brujah
+
+=== PAGE 90 === travels more efficiently and uses less gasoline if him by God. Although God had cursed him, such it travels after dark. Many campgrounds and rest was the price he paid for the exaltation of bringing stops do n’t charge for day visitors (or they charge the Faith to others. less), as opposed to all-night camp and parking And so began one of the strangest and most
+costs. Indeed, from a variety of fronts, Hezekiah’s contradictory unlives ever. By night, Hezekiah travrevival looks like a quirky but legitimately poor eled the 13 colonies, delivering powerful sermons grassroots ministry. Accepting the charity of good resplendent with hellfire and brimstone. Over the
+Samaritans not only feeds the m, it lends credibility decades, how ever, the religious climate of the you ng to the ir cover. colonies changed. Politics rose to prominence; the t K once-critical matter of religious freedom fell to the he indred
+wayside as governmental autonomy became the
+Although the Brujah who comprise Hezekiah’s or der of the day. Hezekiah persisted, though his
+Revival all claim the coterie as the ir brood, al- nocturnal rallies drew fewer and fewer listeners. most all of the m have the ir own agendas. they Against the backdrop of the Revolutionary war recognize the need for unity for the sake of the and the nightly skirmishes between the nascent revival, how ever, and put the ir differences aside New World Sabbat and the Camarilla, Hezekiah in the interest of keeping up appearances. Still, championed the cause of the Lord’s Will in the
+the Final Nights may well spell the end for this only way he knew — with the apocalyptic screed turbulent brood — or prove to be the catalyst that that worked in years prior. Princes and bishops brings the m together. alike dismissed him as a lunatic. As with any movement that relies on do omsday prophecy, though, Hezekiah’s following grew. It attracted ranks of the disenfranchised, the disillusioned
+and the destitute. the se followers for med the basis for Hezekiah’s vast herd, and he left small groups to establish churches in each city he passed through. Once a year — maybe more frequently, maybe less
+— he stopped in on his old converts to see how the ir faith had flourished. In his absence, most of the se ragtag congregations collapsed with in a few months of the ir for mation. Few of his followers had the same fiery passion for the ology, or wielded the same knowledge and savvy that could turn a do ubting Thomas
+into a faithful disciple. Still, Hezekiah appreciated the irony of it all; despite the wake of crumbling churches he left behind him, he had nevertheless managed to bring God into each one of those desperate lives. In the two centuries that have since
+r everend h eze Ki Ah r utledge passed, his songs and sermons remain the same, but
+Background: Hezekiah’s Embrace should have no matter how the tastes and mores of the culture given him a taste of humility — his sire bestowed change, Hezekiah still draws followers. True, they him with the Curse of Caine when Hezekiah sent may falter. they may lose the ir faith and once his previous childe to the witch pyres at the turn of again succumb to the pressures and torments of
+the 18th century. The for mer congregational priest the Final Nights. But they never for get that, albeit refused to accept his fate lightly, how ever, and chose sometimes briefly, God had touched the m through to reinvent himself as a spiritualist of the Damned. His vessel, Hezekiah Rutledge. Educated in the do gma of puritanical Calvinism, Image: Rutledge possesses all the physical at Hezekiah interpreted his Embrace as a test set before tributes of a dynamic speaker. His eyes shine when
+Chapter three: the rabble’s ranks
+
+=== PAGE 91 === he speaks, his gaze quiets dissenters and his statuesque posture lets his audience know that what he says is important. Despite the many incarnations the revival takes, Hezekiah’s appearance remains
+largely unchanged. He wears somber suits and almost never dresses casually. His movements are relaxed and subtle — Hezekiah do esn’t flail or spit when delivering his sermons. He speaks firmly, gesturing
+when necessary, and lets the gravity of God’s Word do the rest. Roleplaying Hints: In most matters, you are with drawn and deferential, except when the divine becomes the topic of conversation. At that point, you do minate the discussion with you r extensive
+knowledge of the ology, interjecting parables and aphorisms. This is not to say that you are effete in matters that do not involve religion. Quite the opposite — you know that God has selected those who shall join him in Heaven and that He has given free
+J t will to His creation so they may live it as they see AcK Arver fit. you rs is not to judge; it is simply to bring God to Background: The Civil War left many Union those who need him. soldiers separated from the ir units. for ced marches, last-minute changes of or ders and the chaos of
+Sire: Kristofer Heinemann battle made it easy to desert, or to find oneself
+Nature: Director deserted. Jack Tarver, the conscripted third son of
+Demeanor: Pedagogue a Delaware silversmith, found himself in this very
+Generation: 9th situation after the First Bull Run. With no money
+Embrace: 1697 to return home and no way to find the remainder
+Apparent Age: early 40s of his outfit, Jack had no choice but to live of f
+Physical: Strength 2, Dexterity 3, Stamina 5 the land. Social: Charisma 4, Manipulation 3, Appearance 3 Unfortunately, Jack was n’t much of a farmer. In Mental: Perception 3, Intelligence 5, Wits 4 side of a month, he had become a highwayman on the
+Talents: Brawl 1, do dge 1, Empathy 4, Expression 5, roads leading from Richmond, and shortly the reafter
+Intimidation 3, Leadership 4, Subterfuge 4 awoke with a throbbing head in jail. Convicted as a deserter (of the Confederate army, no less), Jack was
+Skills: Animal Ken 2, Crafts 1, Etiquette 3, Firearms 2, scheduled to hang. Melee 1, Performance 4, Stealth 4, Survival 4
+The night before his impending execution, Jack
+Knowledges: Academics (the ology) 4, Finance 1, received a visitor. The preacher Hezekiah Rutledge
+Investigation 3, Law 4, Linguistics 2 (Latin, Spanish), convinced the prison guards to all ow him to console
+Medicine 2, Occult 3, Politics 3
+Tarver and prepare his soul for Heaven. Of course, Disciplines: Animalism 2, Auspex 2, Celerity 3, do mi Rutledge had no intention of this — he Embraced Jack nate 2, for titude 2, Potence 2, Presence 5, Protean 1 on the spot and the two of the m fled into the night. Backgrounds: all ies 1, Contacts 2, Herd 5, Resources
+Jack knows Hezekiah Embraced him to serve his
+3, Retainers 5 own ends. Hezekiah has said so. Jack had nowhere
+Virtues: Conscience 4, Self-Control 4, Courage 3 left to turn, and would have been dead come morn Morality: Humanity 7 ing had the preacher not “rescued” him. Still, Jack’s
+Derangements: Gluttony not the kind to quit. He do es what needs to be do ne, will power: 7 even if he’s not particularly skilled at it. In this
+Clanbook: brujah
+
+=== PAGE 92 === sense, Jack has become Hezekiah’s manservant, to Physical: Strength 3, Dexterity 3, Stamina 3 a degree. He drives and maintains the RV in which Social: Charisma 2, Manipulation 2, Appearance 1 the revival travels, he sets up tents and attends to
+Mental: Perception 3, Intelligence 2, Wits 3 the numerous petty details that, if ignored, would
+Talents: Alertness 1, Athletics 2, Brawl 4, do dge 2, cripple the operation. Intimidation 1, Streetwise 2
+Hezekiah has made it plain that Jack will go to
+Skills: Crafts 5, Drive 4, Firearms 3, Melee 2, Security
+Hell if he meets the Final Death, just like he will
+3, Stealth 3, Survival 2 himself. Although he’s not profoundly religious, Knowledges: Academics 1, Computer 1, Law 1, Jack believes Hezekiah, and has no desire to meet
+Medicine 2 the Devil face to face. At times, this is the only
+Disciplines: Celerity 2, Potence 2 thing that keeps Jack from destroying himself. At
+Backgrounds: Herd 3, Resources 2 other times, Jack simply ignores his situation, do ing what Hezekiah requires of him with out consciously Virtues: Conscience 4, Self-Control 2, Courage 3 considering the is sue itself. Each night Jack rises, Morality: Humanity 4
+a little bit more of him with ers away. Soon, he will will power: 3 either collapse under the weight of the calamities heaped upon him and destroy himself, and drag the preacher to hell with him. Image: Jack Tarver is a broken man, with the
+bent posture and haggard face to prove it. He rarely betrays any expression, having long since resigned himself to his fate. Jack do esn’t even bother to groom himself on most nights — why bother? His hair is
+perpetually mussed, he wears three days worth of beard and his clothes look rumpled, even when they’re clean. A large scar, earned at Bull Run, travels do wn from his right eye, across his cheek, and on to his should er; he was Embraced before it had an opportunity to heal. Roleplaying Hints: Rutledge tells you what
+to do and you do it. You do n’t do it will ingly, though, and you do n’t necessarily do it well. If you can get away with do ing a half-assed job, that’s precisely what you do. Still, you’re not the kind of man to give up — killing you rself means
+M s
+Ari On is ley a one-way ticket to Hell, and that’s certainly
+Background: Sometimes, a crowd do esn’t want worse than changing tires and setting up rows to hear bleak, bombastic tirades about God’s wrath of folding hairs. Once you had a sort of morbid
+and his infinite capacity for vengeance. Especially in dignity — sure, you failed, but you were you r the modern nights, people get enough of that in the ir own man — and if you could regain that, perhaps
+day-to-day lives and turn to spirituality to escape it. you’d be able to escape Rutledge. In the se cases, Hezekiah’s sermons make the crowd
+Sire: Hezekiah Rutledge uncomfortable instead of turning the m to God. The
+Nature: Child reverend realized this a few decades into his undead
+Demeanor: Conformist career, but chalked it up to narcissistic listeners. But
+Generation: 10th in the past few decades, he’s learned that he needs
+Embrace: 1874 to play to the audience. Marion Sisley represents his
+Apparent Age: early 20s attempt to place a more pleasant face on his cautions of Armageddon. Chapter three: the rabble’s ranks
+
+=== PAGE 93 ===
+A salesman’s daughter in rural Alabama, faithful, preferring dresses and tastefully skirted suits. Marion inherited her father’s charm. She was a Her Embrace came not too long after her adolescence, genuinely pretty girl, well liked in school, who so her face still appears vibrant and you thful, unlike sang in the church choir on Sundays. One night the drawn and weary faces of the other members of in the early 1950s, she and her parents attended a the revival. revival held by the Reverend Rutledge, and since When she do esn’t have to present herself, how the n she has been part of the preacher’s entourage. ever, Marion’s shattered self-esteem takes over. When
+Hezekiah was so impressed with her visage that he she knows she’ll be alone with Reverend Rutledge, “convinced” her parents that Marion’s true call- she wears clothes that expose as much of her body as ing was his church, and that he would provide for possible with out being completely immodest. She do es her if they all owed her to assist him in spreading this not only to denigrate herself, as her Embrace has
+God’s Word. The Sisleys never had a chance, nor led her to believe that she is not hing more than an did the ir daughter. That night, Marion joined the object of wanton lust, but also to remind Hezekiah ranks of the undead. of his own frailty. Naturally, this bothers Hezekiah
+Marion was — and still is — a remarkably percep- in the extreme. tive woman. She knew that more than a modicum of Roleplaying Hints: What a wretched thing carnal lust underscored the reverend’s desire for her you’ve become! Cursed with the Devil’s body, company. She also understood that he completely trapped as a plaything for the impotent desires of denied that impulse — the more he wanted her, the a vain sire, you want not hing more than to help more he convinced himself that she was truly one of others escape the filth through which you must
+God’s predestined. As such, she knows that her ability drag you rself to satisfy God’s plan. Each night, to sway the flock was only the secondary reason for you find you rself growing to hate Hezekiah even her Embrace. The real reason Hezekiah Embraced her more, as he leads his flock blindly do wn the path was out of a perverted longing, and this has for ever that might have been appropriate two centuries distorted Marion’s self-image. ago, but that is completely inappropriate now. Her hatred of herself and her state pales be- Still, you do n’t want to usurp his position; you
+hind the opportunity to do God’s work, how ever. simply know that his time is past and his service
+Marion is but one woman and shares Hezekiah’s to God has expired. He has lost sight of what truly interpretation that the Kindred must suffer in or der matters — the salvation of the flock, not his own to be the vehicles of God’s greater purpose in the veneration or perversity. world. When she steps onstage or into the pulpit, Sire: Hezekiah Rutledge she evokes such passion and joy for the glory of
+Nature: Martyr
+God’s Creation that one almost for gets that she’s
+Demeanor: Penitent dead (assuming one knew it in the first place). Generation: 10th
+In many ways, undeath has opened her eyes: She
+Embrace: 1954 communicates the wonders her preternaturally
+Apparent Age: early 20s sharpened senses detect and she sings with the voice of an angel. Physical: Strength 2, Dexterity 2, Stamina 2
+Like Tarver, who m she pities, she believes that Social: Charisma 4, Manipulation 3, Appearance 4 she is predestined for Hell, given her undead state, Mental: Perception 4, Intelligence 3, Wits 2 but she accepts this as a challenge. It is her duty to Talents: Alertness 2, do dge 2, Empathy 4, Expression bring the Word of God to as many people as she can 5, Style 2, Subterfuge 2
+before she meets her fiery fate, perhaps starting with Skills: Crafts 3, Etiquette 3, Firearms 1, Performance the reverend himself. 5, Stealth 4
+Image: Marion is the archetypal 50s girl next Knowledges: Academics 2, Computer 1, Investigation do or: who lesome, demure and charming. She wears 3, Politics 1, Science 1 conservative clothing when appearing before the
+Disciplines: Celerity 2, Obfuscate 2, Presence 4
+Clanbook: brujah
+
+=== PAGE 94 ===
+Backgrounds: all ies 1, Herd 5, Resources 3, Re- away when they became too fervent during the tainers 2 revival’s ceremonies. Marion explained to the
+Virtues: Conscience 3, Self-Control 2, Courage 3 disgusted man what was truly taking place and told
+Morality: Humanity 5 him that she could not all ow the secret to escape. When Marion of fered will its a choice between will power: 4 death and the Embrace, he chose the latter. She told him that he had made a mistake, but Embraced
+him anyway. Hezekiah was furious, but did n’t destroy Le Roy outright. Instead, he recalled the serenity with in the man that had caught his attention in the first place. He instructed will its in the art of or atory and began his education in the Good Book’s ways. with in a
+few years of the reverend taking him under his wing, Le Roy was delivering sermons and singing alongside
+Marion and Hezekiah. Although he’s not book smart, Le Roy is a savvy man, and is n’t oblivious to the fact that he’s the weapon Hezekiah and Marion are using to stab at each other. While he has truly grown fond of the m
+both, the way they behave at times disgusts him. It’s unbecoming, and completely inappropriate for people of God. Still, they are his elders, and until he knows he can make a place for himself in the world far away
+from the pettiness of the revival, he do es what he l r w e Oy illits can to cope with it. He and Jack keep each other
+Background: From what little Le Roy has shared company on the nights the revival is n’t “on,” and the with other members of the brood, his mortal life was two talk long into the night about getting away from
+certainly humble, if not hing else. The eleventh child all this. of an impoverished family of sharecroppers and odd Image: Le Roy is a huge African-American man jobbers, Le Roy grew up knowing hardscrabble farm with a rugged handsomeness. He dresses well, prelife and church faith. He claims that the family farm
+ferring subtle suits and well-made casual sportswear. is somewhere in Mississippi; he joined Rutledge’s
+Before the Embrace, a smile of ten graced his face, brood in Birmingham. the last vestiges of which can still be seen beneath
+Hezekiah and Marion both took an immediate the solemn look he now wears. His hair is naturally interest in Le Roy when he showed up at the revival on long and natty, which he crops short each night when
+a cool summer evening. The reverend saw an honest he rises, and he lost half of his left ear in a farming fear of God in the hardy you ng man. Marion saw a accident when he was a child. resolve in him — despite his poverty and hardship, he
+Roleplaying Hints: Play to both Hezekiah’s knew God loved him. During the sermon, Hezekiah and Marion’s cues — the more valuable you are called Le Roy to the stage and lifted him bodily over
+to each of the m, the more power you have over his head in a demonstration of the “powers of faith.” the m. It’s not about power, of course, but that’s
+With that, Le Roy knew the reverend’s congregation all the se people seem to understand. they’ve lost to be holy and earnest, and inquired about joining. God’s message in all the backstabbing they’ve do ne, Hezekiah happily obliged. and playing both sides keeps you from choosing
+The deception did n’t last long, how ever. Rutone over the other. When people let him, God can ledge had Le Roy working at menial jobs, assisting be a potent agent of change, improving people’s the miserable Jack Tarver and “ushering” people
+lives once they let him in. That’s you r purpose
+Chapter three: the rabble’s ranks
+
+=== PAGE 95 ===
+— help the flock let God help the m. Everything believe that the modern world has no place for God. else is vanity. Ben is the obligatory “bad guy turned good once he
+Sire: Marion Sisley saw the light”: a for mer outlaw biker who spent years
+Nature: Celebrant of his life dusted to the gills on heroin and bounced in and out of county jails. Since Ben turned his life
+Demeanor: Visionary to the Lord’s path, things have been not hing short of
+Generation: 11th miraculous. Embrace: 1964
+At least, that’s what Ben would have you think. Apparent Age: early 30s
+He’s convinced Hezekiah, Marion and Le Roy that he’s
+Physical: Strength 5, Dexterity 3, Stamina 4 turned his (un)life around, but the truth of the mat Social: Charisma 3, Manipulation 2, Appearance 2 ter is a little more complex. Ben was Embraced by an
+Mental: Perception 3, Intelligence 2, Wits 3 archon of the Camarilla who saw Hezekiah’s Revival
+Talents: Alertness 2, Athletics 3, Brawl 3, do dge 2, and became worried that it was a Gehenna cult. As Expression 2, Grace 1, Streetwise 2, Subterfuge 2 signing his childe to keep an eye on the group, Ben’s
+Skills: Animal Ken 3, Drive 3, Firearms 1, Melee 3, sire returned to the Inner Council and awaits reports
+Performance 2, Stealth 2, Survival 3 on the matter. Knowledges: Finance 1, Law 2, Investigation 2, Ben figured that the best way to watch the
+Medicine 1, Politics 2 group with out arousing suspicion was to get inside
+Disciplines: Animalism 1, Potence 2, Presence 1 it. Playing the part of the repentant sinner, he disclosed his Kindred nature to the group and, though
+Backgrounds: Contacts 2, Herd 5, Resources 3, they were wary at first, they accepted him. In the
+Retainers 1 revival’s eyes, Ben added credibility to the group —
+Virtues: Conscience 4, Self-Control 3, Courage 4 in the se cynical times, you ng people of ten dismiss
+Morality: Humanity 7 the Church as too goody-goody. Ben makes the m will power: 6 see otherwise, that life can be as dangerous as you
+want it to be and that God will still love you. As far as he can tell, Ben’s got the revival eating out of his hand, both ministry and flock. Jack Tarver knows Ben’s secret, how ever, having followed the Kindred one night and eavesdropping
+on a phone call Ben made to his sire. Jack’s kept that information to himself — even Ben do esn’t know that his cover’s been blown — because he’s not sure how to use it. Ben continues his charade. While the Kindred of Hezekiah’s Revival know that Ben’s not
+quite so fervent as he acts onstage, he seems largely genuine. Also, his physical prowess has helped the group out more than once when things became physical. Ben has led Lupines away
+from the brood, fought rowdies alongside Le Roy and sometimes even helps Jack set up for the night’s ceremonies. To his credit, Ben sees the revival pretty
+B en M e Ad much for what it is. He knows the group has its
+Background: The only member of Hezekiah’s own schisms troubling it internally, but they hon Revival who’s not a direct descendant of Reverend estly believe in God and what they’re do ing. He
+Rutledge, Ben Mead joined the traveling company as do esn’t see the m as any threat to the Masquerade, a nod to the tastes of you nger, jaded churchgoers who and they’re certainly no Gehenna freaks, so for
+Clanbook: brujah
+
+=== PAGE 96 === the time being, he’s content to let the m carry on B n ruJAh OF Ote business as usual. After all, it all ows him to travel, and every now and the n he runs across something Among the Brujah, fame and infamy exist side
+completely unrelated to the revival. Still, if Ben’s by side. One night, a Kindred might find herself secret comes to the for e, the revival no do ubt feel the subject of legends, her exploits recounted in betrayed, and given the ir own problems, the re’s no reverent tones. The next night, she may find her telling how they react. name tarnished and herself sorely out of favor. To
+Image: Ben’s been on the road for many years of the Brujah, reputation is a fickle thing, made and his life (and unlife), and brother, do es he look the broken a thousand times with every mention of the part. His hair is a terminally knotted tangle of black individual. wires and his riding clothes have an indelible sheen s J
+Miling AcK of grease. His skin is uncommonly dark for a Kindred, The tales regarding Smiling Jack are a testaas he spent his living days under the highway sun. ment to the power of legend among the Kindred. When he takes the stage, he typically wears a cleaner
+By turns a 17th-century pirate, an anti-Ventrue version of his normal clothes, including shiny morevolutionary, an anarch leader in the crumbling torcycle boots and a revival T-shirt with the sleeves
+Anarch Free State and any number of other myths ripped of f. — which may or may not be true — the renegade
+Roleplaying Hints: Keep you r eyes open. The known as Smiling Jack inspires either loyalty or revival folks seem pretty clear of the concerns enmity where ver he goes. you r sire had, but the re’s no telling whether or
+Rebellious Kindred have a high regard for the Lick not they’re just good at hiding the ir secrets. Still, calling himself Smiling Jack, who m they regard as “an a cover’s a cover and you do what ever’s necessary anarch’s anarch.” Currently residing in California, to fulfill you r obligation to you r sire. Despite the
+Smiling Jack has made an unlife for himself by striking fact that the se guys are Brujah too, they’re talking at the institutions of the Camarilla. He’s spoken out about stuff that’s way different from what you’ve
+against the anachronistic titles of the sect, opposed been exposed to, which is probably why you r sire’s the actions of individual princes and primogen, and up in arms. even clashed with the esteemed Jeremy Mac Neil, Sire: Ahmet ibn-Ahmed ibn-Mahmoud abd-Yzir
+an anarch leader who se unification campaign in the
+Nature: Curmudgeon
+Anarch Free State led to an unprecedented era of
+Demeanor: Judge nonpartisan Kindred cohesion before the Cathayans
+Generation: 11th invaded. Embrace: 1991 Since the n, Smiling Jack has been a constant
+Apparent Age: early 20s thorn in the sides of both the Cainites and the Eastern
+Physical: Strength 4, Dexterity 4, Stamina 3 Kindred, leading ragtag bands of anarchs against the
+Social: Charisma 3, Manipulation 2, Appearance 2 Cathayan menace. The Eastern Kindred naturally
+Mental: Perception 3, Intelligence 2, Wits 3 hate him for opposing the ir attempts to influence
+Talents: Athletics 3, Brawl 4, do dge 3, Empathy 1, the American West Coast. The Camarilla finds him
+Streetwise 3 to be a threat, not only for his vocal stance against
+Skills: Animal Ken 2, Crafts 3, Drive 3, Firearms 2, princes, but also because he continually reopens old
+Melee (chain) 4, Stealth 2, Survival 3 wounds on the West Coast. Knowledges: Linguistics 1 (Spanish), Medicine 2, d OMinic
+Science 2
+Although do minic’s name is not widely known, Disciplines: Celerity 1, Potence 3 his influence has survived for centuries among the
+Backgrounds: all ies 1, Herd 4, Mentor 3, Brujah. Over the course of his unlife, do minic has
+Resources 3 nursed an ever-growing hatred for the Ventrue. Like
+Virtues: Conscience 2, Self-Control 2, Courage 4 many Brujah, he blames the m for the fall of Carthage; Morality: Humanity 5 unlike many Brujah, he became a vampire in that will power: 5 fabled city. Chapter three: the rabble’s ranks
+
+=== PAGE 97 ===
+Estimations of do minic’s power vary among travails, Tara shifted all egiances from the anarchs to those who have met him, but most of his acquain- the Camarilla. tances place him somewhere among the Fifth Supported by the Camarilla, Tara gives San through Seventh Generations. Over the centuries, Diego’s Kindred society the bulwark it needs to do minic has supported both the Inconnu (as he with stand the numerous threats from with out. Aldoes currently) and the Sabbat, shifting all egiances though the anarchs resent Tara’s “sleeping with the
+as his rage waxes and wanes. Many of the or iginal enemy,” most at least reluctantly realize that with out
+Brujah antitribu of the Old World name do minic the contacts and aid the Camarilla provides, the city a nominal mentor, if they do n’t place him some- would have fallen under Sabbat influence or worse. where in the ir own lineage. Indeed, do minic’s Tara remains a fairly laissez-faire prince, and the influence and anger colored much of the Brujah’s city’s numerous anarchs regard her as a necessary position in Eastern Europe in the centuries after (and well-connected) evil. the Anarch Revolt. As for Tara’s own ambitions, she understands
+In the modern nights, do minic spends much that what she has been for ced to do was the only time in torpor or passing unknown through Kindred recourse. She would have preferred to remain society. According to rumor, he awaits the time baron, but even her great network of contacts and when he can strike against the hated Ventrue most agents could n’t prevent San Diego’s ultimate loss to
+efficaciously. The fires of vengeance have cooled the Sabbat. Currently she plays a dangerous game, somewhat in him, as he has managed to defeat his courting Sabbat scouts and Cathayans alike, turning greatest rival — Bulscu of the Hungarian Ventrue. the m against each other by telling each that only by
+Still, this has not evened out his temperament. eliminating the other can they cultivate influence in
+Rather, he now lacks the focus of a vengeful goal, the city afterward. She has an intense rivalry with and the Beast claims him a bit more each night as the Sabbat Nosferatu Cicatriz, who is one of the he lacks a nemesis to steel himself against it. Of most powerful Cainites in the city of Tijuana. Also, those you ng Kindred who have heard of him, many the “Prince” of El Cajon, a Kindred named Shay, fear him. After all, if the stories are true, a waking, wants to return the city to its anarch roots, and she degenerating, angry Methuselah walks among the m. of ten clashes with him. Each night, Tara struggles to
+He spares no love for his own childer, let alone those maintain balance between the eight or so different of other sires. factions vying to control the city. To date, she has t, p s d been able to make ends meet only through sheer for ce
+ArA rinceOF An iegO of personality. From the precarious baronies of the Anarch Free
+State, Tara emerged as one of the “new breed” of Ca- t heO B ell marilla vampires. Opportunistic and savvy, Tara rose From his humble beginnings as a slave, through to princedom under the guise of anarch sympathy. In his scandalous Embrace and into the modern nights, truth, Tara truly upheld the loose code espoused by the o Bell embodies the Brujah’s taciturn side. Even anarchs, but when she saw the tides changing for the as an archon, the o sees the Kindred condition as yet
+free state, she moved to preserve the city she claimed another for m of slavery, another obligation that he as her barony. San Diego’s Kindred had grown tired has no choice but to meet. of fighting back Camarilla influence and repelling Still, the irony of the o’s position do esn’t abate
+Sabbat incursions. Added to that, the Cathayan his zeal. He ruthlessly opposes the Sabbat, seeing invasion taxed the already dwindling resources avail- the m as would-be lords of the night who are too able to the San Diego Cainites. Long acknowledged, consumed with the mselves to understand what they albeit begrudgingly, as the city’s baron, Tara waited do to the world around the m. But the o’s service to
+for her enemies to attempt coups, which she knew the Camarilla is n’t entirely altruistic — he believes would fail. As the last of her rivals fell to the tide of that the Sabbat would make the world an endless anarchs, Sabbat packs, Eastern vampires and other hell, and he wants no part of that. It’s not so much
+Clanbook: brujah
+
+=== PAGE 98 === that he reveres the Camarilla as he sees it satisfying mere blood magic and one overbearing Malkavian his own desires for the time being. application of do minate. the o played an instrumental role in the Kindred with any knowledge at all about
+Camarilla’s recent reconquest of New York City, the groups abilities speculate that it serves some coordinating several of the sect’s critical battles greater purpose, as each vampire in the coterie and working closely with the Ventrue Jan Piet- has his or her own unique talents. Mercury has an erzoon to keep the city from falling back into extensive command of the Presence Discipline, the Sabbat’s talons. Of course, the o has little and is most of ten the mouthpiece through which
+desire to take more responsibility upon himself the coterie speaks. Certainly, all requests for aid
+— he has no desire to be prince and cast his vote or favors from the collective coterie go through for the Nosferatu scout Calebros to assume the “her.” Martin has been observed using strange temporary position until a permanent can did ate ritual magic, which some Kindred believe is makes her claim. In truth, Camarilla politics leave Thaumaturgy or a previously unheard-of Disci the o cold — he do esn’t see the Curse of Caine pline. Veronica seems to be either the lover or
+as a deathless game, but as the last opportunity servant of the other two Kindred, though they to seize redemption. have been known to use her as “bait” for Kindred c with who m Coven wishes to speak. Oven
+In the end, the ir purpose or agenda is unknown, The politics of the group calling itself Coven are except for the strange messages or missives they anyone’s guess, but the coterie resembles not hing so sometimes deliver to Kindred across the United
+much as a small anarch pack. The coterie consists
+States. A few speculations even attribute some of three vampires, Veronica Go, Martin Hyde and connection to the Inconnu, which would n’t be
+Mercury, all of who m claim to be somehow related altogether impossible, given what little is known and members of Clan Brujah. The most prevalent about that mysterious sect. the or y is that the and rogynous Mercury sired both
+Veronica and Martin, as the latter two seem to defer c hristOF r OMu Ald to “her.” The Brujah known as Christof emerged from
+Coven is a strange coterie, indeed, its mem- the Long Night of the Dark Ages as a member of bers having seemingly little in common with each the Swordbrethren, a knightly or der sworn to fight other. Its Kindred travel like nomadic anarchs back the tides of the paynim scourge during the or Sabbat, moving across the country in a classic Crusades. Once a God-fearing man, Christof found
+1970 Plymouth Barracuda convertible. Every now his faith challenged after he received the Embrace. and the n they establish a temporary have n in some How could God all ow monsters like him to defile His city or another, stay for a few nights, the n move creation? How could a loving God turn his back on on, of ten leaving the local Kindred no wiser as to all the wickedness of the world? Christof answered what they did during the ir stay. Cainites who have the se questions — the same ones with which almost
+heard of the m do n’t suspect that they are Sabbat all neonates struggle during the ir early years — by
+— were that the case, Coven would surely have deciding that God had abandoned him. had some more lasting effect on the cities where Shortly after his Embrace, Christof traveled they stop. More likely, they’re messengers for some Eastern Europe. He clashed with the barbarians inscrutable group of Kindred, as evidenced by the ir of Hungary, leveled his sword against the Eastern standard method of operation. When Coven rolls Lord Ventrue, fought with Transylvanian Tzimisce
+into a city, its members can vass the local vampires and the ir minions and even met the fabled golem for the locations that specific Kindred are known of Prague. More and more, Christof filled the void to frequent, despite having never been to the city in his soul left by the absence of God with rage and before or knowing any personal details about those viciousness. Even when he solicited news of home, Kindred. The only reason Coven is known to be he learned that the lands of his native France had
+unanimously Brujah in or igin is the result of Tre- changed. The wickedness of the world seemed to echo his own tarnished faith — while he was too
+Chapter three: the rabble’s ranks
+
+=== PAGE 99 === busy indulging his bestial wiles to not ice, the world trates the struggle of the Brujah so perfectly as had become base and venal. that of the passionate Tyler. A mortal lover of the
+And the n, abruptly, Christof vanished from English insurgent Wat Tyler (from who m she later
+Cainite society. In the Final Nights, a vampire took her name), Patricia Bollingbroke rose from claiming the same title, sire and heritage has an inauspicious peasant’s life to a life of rebellion. returned to stalk the nights, speaking little and She marched with the masses on London, aided leaving behind him only rumors and what can in the assassination of an Archbishop of can only be described as modern legends. Some speak terbury, and ultimately ended up in a royal gaol. of him as the Prince of New York or the Arch- the re, awaiting execution, she met the Brujah bishop of London and that the beautiful woman Robin Leeland, who had watched her from afar
+sometimes seen in his company is a member of and grown enamored of her zeal. He cursed her
+Clan Tzimisce. Others claim he wields the sword not with execution but with the Embrace, and of Dracula, or that he is in truth a Cathayan the two fled into the night. “Kindred” from the East. Since the n, Tyler has played a vital role in many what ever the case, the modern “Christof” ap- Kindred uprisings, including the Anarch Revolt. pears to have come to grips with his own undead During that time, as one of the pre-Sabbat antinature. When he speaks, he do es so with the air tribu, she took a stand against the mighty Ventrue of a man who has spent unimaginable periods of Hardestadt, an archetypal oppressive elder who
+time in self contemplation. A few venerable elders championed the Camarilla. Murdering him in his who have met him claim that his philosophies are Spanish castle, Tyler was surprised to see him turn up similar to those of the Carthaginian Promethians years later at the Convention of Thorns. She later
+— or the suspected tenets of one who has achieved learned that she had been duped — Hardestadt’s
+Golconda. To be sure, Christof has no love for childe had assumed his name and role while conthe Sabbat and regards the Camarilla with casual tinuing to support the foundation of the Camarilla. interest at best, but he makes no claims of know- By that time, how ever, she realized the merit of ing or belonging to the Inconnu. In the end, only the new sect, though she expressed vehement resone thing is sure: that Christof follows his own ervations about how easily it could be turned into path, and seems determined to continue do ing so. a tool for elder tyranny and Ventrue greed. Still, she knew that it was the preferable alternative to the Sabbat, which embodied all of the injustices of
+aristocracy. She reluctantly joined the Camarilla in the early 16th century, having watched the anarch resistance crumble. Tyler vowed to continue her revolutionary cause and carry her sire’s legacy for ward, and the Camarilla was the best vehicle
+by which to do so. In the modern nights, Tyler makes her have n in Chicago, where she has once again embroiled herself in the struggles of elder powers. The conflict between the Methuselahs Helena and Menele has become the backdrop against which she fights
+nightly. Consumed by Chicago politics in the wake of a disastrous war with the Lupines, Tyler has become increasingly desperate. With the support of the Toreador Helena, she has obtained a place
+among the Chicago elders, some of who m know of her founding role in the Sabbat. In fact, she has trafficked a bit with Black Hand during various t,... p B skirmishes of the Chicago Jyhad, which her peers
+yler A K A AtriciA Olling BrOKe might find intriguing, to say the least. Background: Perhaps no other unlife illus Clanbook: brujah
+
+=== PAGE 100 ===
+Image: Tyler is a bit shorter than average, which she makes up for in disposition. She affects casual clothes — blue jeans, T-shirts and simple blouses — and wears her long, dark hair in a ponytail. While
+mortal, she contracted smallpox, and the scars still decorate her otherwise attractive face. Roleplaying Hints: The fiery blood of the Brujah infuses you to such a degree that every conversation stokes you r passion. Whether discussing something
+as mundane as a bus schedule or as grave as Chicago’s
+Kindred power games, speak with all the emotion you can muster. At times, you must even clench you r fists to rein in you r excitement. Give no Kindred an excuse to do ubt you r fury. Sire: Robin Leeland
+Nature: Rebel
+Demeanor: Conniver
+Generation: 6th
+Embrace: 1381 peril. Rather than succumb to any of the numerous
+Apparent Age: early 30s dangers Italian Kindred faced — raging Lupines, Physical: Strength 5, Dexterity 6, Stamina 7 fervent Inquisitors, frenzied sect rivals — Evangeline rose to the challenge, surviving her impetuous sire
+Social: Charisma 4, Manipulation 5, Appearance 3 and becoming something of a local heroine to the
+Mental: Perception 5, Intelligence 4, Wits 7
+Italian Sabbat. Talents: Alertness 4, Brawl 4, do dge 3, Expression 2, Although her influence and power are relatively
+Intimidation 5, Leadership 4, Streetwise 3, Style 2, inconsequential compared that of to elder Cainites, Subterfuge 2
+Evangeline has become something rare among the
+Skills: Crafts 2, Drive 2, Etiquette 1, Firearms 4, Melee
+Sabbat: neither neonate nor elder, but an ancilla. 5, Ride 2, Stealth 3
+In a sect comprised predominantly of excitable
+Knowledges: Academics 1, Linguistics (Spanish, fledglings and cunning elders, Evangeline has
+French) 2, Politics 5, Sabbat Lore 1 outlasted what she jokingly refers to as her “trial
+Disciplines: Celerity 4, do minate 4, for titude 3, Obperiod.” While she may be too inexperienced now, tenebration 1, Potence 5, Presence 6 with in a few more decades, she plans to become
+Backgrounds: all ies 2, Contacts 4, Influence 3, Mentor one of the sect’s most promising you ng “elders.”
+5, Resources 4, Retainers 7 In her you nger years, she saw as much action and
+Virtues: Conscience 3, Self-Control 1, Courage 4 terror as any Sabbat, but Evangeline has placed that
+Morality: Humanity 5 time behind her. Indeed, she earned the respect of will power: 8 you nger Kindred through fighting the Camarilla and even counting coup on a Lupine with her e
+v Angeline for mer pack. Her social acumen has also kept her
+Background: Italy has long teetered between from falling prey to the wiles of elder schemes —
+Camarilla and Sabbat influence. Kindred society even Giangaleazzo has been unable to hunt do wn reflects the tempestuous mortal political environand destroy his for mer rival’s childe. ment, and the vampires of Italy know only that
+As both ductus and priest to her current pack, change is constant. Embraced by a Sabbat Brujah
+Evangeline leads her fellows on nocturnal raids on during a do omed attempt to oust the n-Bishop (now rural Italian settlements. She knows this makes
+Prince) Giangaleazzo in the late 19th century, Evanfor a dangerous unlife, but as she sees it, it is no geline learned quickly that unlife was fraught with
+Chapter three: the rabble’s ranks
+
+=== PAGE 101 === more dangerous than unlife in a city that vacillates are almost all that matter to you — you are the nightly between the sects’ influences. The dangers consummate competitor, always striving to be the of the countryside are obvious — the savage Lu- most… everything. pines and shotgun-wielding farmers are no match Sire: Tommaso Ghibli, the Red Shirt
+for the treacherous plots of the elders who vie for Nature: Competitor supremacy in the cities. Demeanor: Gallant with in a few years, Evangeline plans to take
+Generation: 10th her nomadic pack to the New World, where the
+Embrace: 1882 vast distances between cities make for is olated, Apparent Age: mid-20s desperate princes. the re, she plans to slice a
+Physical: Strength 3, Dexterity 4, Stamina 4 bloody swath through the lonesome do mains of the Camarilla. Social: Charisma 5, Manipulation 3, Appearance 2
+Image: Evangeline has the vibrant red hair Mental: Perception 4, Intelligence 4, Wits 4 and fair complexion many devout Italians consider Talents: Alertness 2, Athletics 1, Brawl 3, do dge 3, the mark of the Devil. She dresses according to Expression 1, Grace 3, Intimidation 1, Leadership 4, what ever circumstances dictate, equally comfort- Streetwise 2, Subterfuge 2 able in the designer labels of the nightlife as she is Skills: Animal Ken 2, Crafts 2, Firearms 2, Melee 2, in the khakis and boots the countryside requires. Ride 2, Stealth 2, Survival 3
+She is not traditionally pretty, but carries herself Knowledges: Investigation 2, Linguistics (English) 1 with a continental grace that makes her attractive Disciplines: Animalism 1, Celerity 2, for titude 2, nonetheless. Potence 3, Presence 3
+Roleplaying Hints: You are vainglorious, but Backgrounds: Resources 2, Retainers 1, Sabbat Status 3 not to the point of stupidity. Quite the contrary, Virtues: Conviction 2, Instinct 2, Courage 4 you know where to draw the line between leading
+Morality: Path of Night 6 you r packmates into certain do om and the next will power: 4 victory to celebrate around the fires. Accolades
+Clanbook: brujah
+
+=== PAGE 102 ===
+™ n: n: g: AMe Ature ener Ati On p: d: s: l Ayer e Me An Or ire c: c: h: hr Onicle Oncept Aven
+A ttri but es p s M hysic Al Oci Al ent Al
+Strength____________O__O_O_O_O Charisma____________O_O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O_O__O_O Wits________________O_O_O_OO
+A
+Bilities t s K
+Alents Kills n Owledges
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge______________O__O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O_O__O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O_O__O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O_O__O_O_O
+A dv Ant Ages
+B d v
+Ac Kgr Ounds is ciplines irtues
+____________________O_O_O__OO ____________________O_O_O_O_O Conscience/ConvictionOOOOO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Courage____________OOOOO
+M /F h /p h erits l Aws uMAnity Ath e Alth
+__________________________ __________________________ Bruised
+__________________________ O O O O O O O O O O Hurt -1
+__________________________ Injured -1
+__________________________ w illp Ower Wounded -2
+__________________________ Mauled -2
+O O O O O O O O O O
+__________________________ Crippled -5
+__________________________ Incapacitated
+__________________________
+B lOOd p OOl w eAKness
+__________________________
++2 difficulty to resist
+__________________________ frenzy
+__________________________
+
+=== PAGE 103 ===
+O t the r r Aits
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O r e itu Als xperience n AMe l evel t Ot Al: _______________________________
+________________________________________ t s:________________________
+Ot Al pent
+________________________________________
+Spent on: ________________________________________
+________________________________________
+________________________________________
+_________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________ d er Ange Ments
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+B B / v lOOd Onds inculi
+B Ound tO r Ating B Ound tO r Ating
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________ c
+OMBAt
+A we Ap On dAMAge r Ange r Ate clip c Once Al rMOr
+
+=== PAGE 104 ===
+™ e B xp and ed Ac Kgr Ound
+A llies M ent Or
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+________________c_O__n_t_A_c__t_s__________________________________r__e_s_O_u__r_c_e_s_______________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________ F__A_M_e_ ____________________________________ r__e_t_A_i_n_e_r_s________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________h__e_r_d______________________________________ _s_t_A__t_u_s_ ________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_______________ _i_____________________________________________O_______________________ n Fluence the r
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ p
+Ossessi Ons
+______________________________________________________________________________________ g (c ) e (O ) e Ar Arried quip Ment wned
+__________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________ F________ g________________________________________ v________________________ eeding r Ounds ehicles
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+______________________________________h______________________________________________
+Avens
+______ l__
+_ c
+__
+A
+_ t
+_ i
+_ n
+_ ________________________________d__ e
+_ s
+_ c
+_ r
+_ i
+_ p
+_ t
+_ i
+_ n
+_________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_____________________________________________________________________________________
+
+=== PAGE 105 ===
+™ h is t or y p
+relude
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+A ppe Ar Ance
+____________________________________________________________________________________
+____________________________________________________________________________________
+Age _______________________________________________________________________________
+App aren't Age ______________________________________________________________________ d Ate OF Birth ________________________________________________________________________
+RIP________________________________________________________________________________ h Air ______________________________________________________________________________ eyes ______________________________________________________________________________ r Ace ______________________________________________________________________________
+n Ati On Ality __________________________________________________________________________ height ___________________________________________________________________________________ weight ___________________________________________________________________________________ sex __________________________________________________________________________________
+v is u Als c Oterie c h Art c h Ar Acter s Ketch
+
+=== PAGE 106 ===
+TM
+BBBrrruuuttteeesss aaannnddd BBBrrraaavvvooosss,,, IIInnnttteeelllllleeeccctttuuuaaalllsss aaannnddd IIIdddeeeaaallliiissstttsss
+SSSiiinnnccceee ttthhheee ccclllaaannn’’s’ss fffiiirrrsssttt nnniiiggghhhtttsss,,, ttthhheee hhhiiissstttooorrryyy ooofff ttthhheee BBBrrruuujjjaaahhh hhhaaasss bbbeeeeeennn ooonnneee ooofff ssstttrrruuuggggggllleee aaannnddd pppaaassssssiiiooonnn... WWWhhheeettthhheeerrr ccchhhaaalllllleeennngggiiinnnggg ttthhheee tttyyyrrraaannnnnnyyy ooofff fffeeeuuudddaaallliiisssmmm ooorrr rrraaallllllyyyiiinnnggg aaagggaaaiiinnnsssttt ssstttaaagggnnnaaannnttt iiinnnssstttiiitttuuutttiiiooonnnsss,,, ttthhheee BBBrrruuujjjaaahhh tttaaakkkeee ttthhheeeiiirrr fffiiiggghhhttt iiinnntttooo ttthhheee mmmooodddeeerrrnnn nnniiiggghhhtttsss... PPPhhhiiilllooosssoooppphhheeerrr ooorrr ttthhhuuuggg,,, aaa
+BBBrrruuujjjaaahhh wwweeeaaarrrsss hhheeerrr eeemmmoootttiiiooonnnsss ooonnn hhheeerrr sssllleeeeeevvveee;;; wwwoooeee tttooo ttthhhooossseee wwwhhhooo gggeeettt iiinnn hhheeerrr wwwaaayyy... CCClllaaannnbbbooooookkk::: BBBrrruuujjjaaahhh IIInnncccllluuudddeeesss::: ••• AAAnnn uuupppdddaaattteeeddd lllooooookkk aaattt ooonnneee ooofff ttthhheee CCCaaammmaaarrriiillllllaaa’’s’ss mmmooosssttt iiimmmpppooorrrtttaaannnttt ccclllaaannnsss
+••• DDDeeetttaaaiiilllsss ooonnn eeevvveeerrryyy aaassspppeeecccttt ooofff BBBrrruuujjjaaahhh uuunnnllliiifffeee,,, fffrrrooommm ccclllaaannn hhhiiissstttooorrryyy tttooo ttthhheeeiiirrr cccuuurrrrrreeennnttt iiinnnttteeerrreeessstttsss
+••• NNNeeewww DDDiiisssccciiipppllliiinnneee pppooowwweeerrrsss,,, MMMeeerrriiitttsss aaannnddd FFFlllaaawwwsss,,, aaannnddd ssseeecccrrreeetttsss ooofff ttthhheee ccclllaaannn
+W W W. W H I T E - W O L F. C O M is BN 1-56504-267-0
+WW2351 $14.95 U.S. PRINTED IN USA
+CLANBOOK:

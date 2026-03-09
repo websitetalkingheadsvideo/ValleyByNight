@@ -1,0 +1,2918 @@
+=== PAGE 1 ===
+TM
+CLANBOOk: TM
+TM
+
+=== PAGE 2 ===
+C l a n B o o K: ™
+B G S J C y reG tolze with ohn ham BerS
+Contents
+
+=== PAGE 3 ===
+C reditS
+Written by: Greg Stolze with John Chambers
+Additional Material: Justin Achilli
+Developed by: Justin Achilli
+Editor: Ed Hall
+Art Director: Richard Thomas
+Layout & Typesetting: Pauline Benney
+Interior Art: Michael Gaydos, Leif Jones, Vincent Locke, Matt Mitchel and Christopher Shy
+Front Cover Art: John Van Fleet
+Front & Back Cover Design: Pauline Benney
+© 2001 White Wolf Publishing, Inc. All rights reserved. Reproduction with out the written permission of the publisher is expressly for bidden, except for the purposes of reviews, and for blank character sheets, which may be reproduced for personal use only. White Wolf, Vampire, Vampire the
+Masquerade, Vampire the Dark Ages, Mage the Ascension, World of Darkness, Hunter the Reckoning and Aberrant are registered trademarks of White Wolf Publishing, Inc. All rights reserved. were wolf the Apocalypse, Wraith the
+Oblivion, Changeling the Dreaming, were wolf the Wild
+West, Mage the Sorcerers Crusade, Wraith the Great War, Trinity, Clanbook Giovanni, and Dark Ages Companion are trademarks of White Wolf Publishing, Inc. All rights reserved. All characters, names, places and text herein are copyrighted by White Wolf Publishing, Inc. The mention of or reference to any company or product in the se pages is not a challenge to the trademark or
+copyright concerned. This book uses the supernatural for settings, characters and the mes. All mystical and supernatural elements are fiction and intended for entertainment purposes only. This book contains mature content. Reader discretion is advised. For a free White Wolf catalog call 1-800-454-WOLF. Check out White Wolf online at
+http://www.white-wolf.com; alt.games.whitewolf and rec.games.frp.storyteller
+PRINTED IN USA. Clanbook: Giovanni
+
+=== PAGE 4 ===
+C l a n B o o K: ™
+C ontentS i: K C 4 ntrodu Ction is SinG ou SinS
+C o: a F C 12 hapter ne amiliar on Ceit
+C t: i r F 34 hapter wo t un Sinthe amily
+C t: S C h 80 hapter hree hareholder Sand harnel ou SeS
+Contents
+
+=== PAGE 5 ===
+Clanbook: Giovanni
+
+=== PAGE 6 === i: ntrodu Ction
+K C is SinG ou SinS
+Boston, April 4th
+It was late afternoon when Kay Polerno arrived at the Boston mansion of her mother’s family. She was nervous. She had met her maternal cousins before, but not of ten and never in a large group like tonight’s. She lifted a fingernail to her mouth and the n lowered it. they had all been filed, manicured, sculpted and lacquered expertly — not by some beauty salon worker but by her great aunt is abel. (At least, “great aunt” was what Kay called her. She assumed is abel had, like her mother, been born with the Milliner name and taken her husband’s name.) is abel was different from the rest of Kay’s family: She was exotic and
+graceful and had a glamorous aloofness that Kay associated with the East Coast, and with Europe, and with other places far from her home in Georgia. It was impossible to imagine is abel blushing, or ending up picked last for volleyball, or going to the bathroom. She had the unchanging perfection of a statue, and Kay was eager to see her again. Kay also wanted to see her cousin Stewart Milliner, but she would n’t tell anyone about that. is abel had said she would meet Kay at the party. That made Kay less nervous. Also, is abel had brought her a beautiful red velvet dress for her birthday, but wearing the dress made Kay both more and less nervous at the same
+time. is abel had given her another gift, which was in her stylish matching clutch purse. “Do you think I’ll need this?” Kay had asked. “You never know,” is abel had said, with the secret smile of a worldly woman. “But at the party? I thought it was just family.…”
+“Even with family, you never know.”
+Like the dress, the other gift made her both more and less nervous. The car turned a corner, revealing the Milliner mansion. Everything that comforted her evaporated, and everything that scared her do ubled. She had seen pictures of her mother’s childhood home before, of course, but they could n’t do it justice. The pictures did n’t convey the barren smell of the land or the way it looked so much like a tombstone with the name worn of f. Stepping out of the car, she glanced toward one end of the house. Had she seen…? Maybe it was just the wind blowing leaves, playing on her nerves to look like flowing white cloth. Kay had her hand raised to knock on the do or when it opened, revealing her cousin — not cousin Stewart, though. where as Stewart was tall and healthy, the figure before her was short and pale with a bent and cringing posture. “Cousin Kay!” He grinned and actually clapped his hands. He wore a tuxedo that hung awkwardly on him. He’d already managed to lose a cufflink. “Hello, uh….” She struggled to remember his name. “Primo! Cousin Primo. It’s, uh, good to see you.”
+Primo Giovanni smiled, showing even teeth that were the only perfect thing about him. “Ah, Cousin Kay! I hoped you’d be invited this year. Come in!”
+“This year…?” He ignored her question, grabbed her wrist and pulled her into the house. Looking around, Kay could see people of all ages, for mally dressed, mingling, drinking. She saw a few blond heads, but not Stewart’s, and she did n’t see is abel anywhere. kissinG Cousins
+
+=== PAGE 7 ===
+“Here, come with me Kay.” Primo had not released her wrist, and he was pulling her insistently away from the party, toward the west wing of the house. “I’d really….”
+“No, I have something to show you! But you have to hurry!”
+She’d seen Primo a few times when they were both children. He’d been ugly, whiny and tantrum-prone the n, too. But he was one of the Giovanni, and Kay suspected they were the ones with the money, because even her proud mother deferred to the m. Unsure what else to do, Kay went along with Primo, even though something about him, or the night, or the twisting corridors of the house made her skin tighten with fear. Primo pulled her through a small side do or way and into a garden of thin, spindly plants. “Primo, I’m not going another step until you tell me what you’re going to show me.”
+“I just wanted to show you the sunset. From the top of the hill? I very much want to watch it go do wn all the way. Please come with me? It’ll be perfect!”
+Kay felt that cold sickness in her chest that came from watching someone humiliate himself and not realize it. He sounded so uncertain and needy that she acquiesced. At the top of the hill was a cold stone bench under a desiccated tree with only one stout branch that stuck out like the arm of a gallows. Primo sat on the bench and stared, rapt, at the setting sun. Kay joined him and, after a moment, frowned. Why had he been so insistent that she come with him if he was only going to ignore her? Wide-eyed, he gazed west, like a child watching TV. Her glance followed his for a moment, but even the sunset was ugly: Through the thick gray clouds, the red and purple or b looked tired and bruised. Kay turned quickly. Had she heard laughter? But the re was no one around. “Primo? Is this what you…?”
+“Shh! Not yet. It’s not all the way do wn.”
+Clanbook: Giovanni
+
+=== PAGE 8 ===
+“So what? I mean, it’s just a sunset. I think they have another one scheduled for tomorrow night, y’know?”
+“This could be my last sunset ever,” he replied, still not looking at her. She sighed, and crossed her legs and arms, but she stayed until it was dark. Primo turned to face her. “Can we go back now?”
+“What’s you r hurry?” He put one hand on her knee and the other behind her neck. She pulled away, but not quick enough to avoid feeling his rough lips on hers. She turned her head and tried to pull back, but Primo was stronger than he looked. Despite her struggles, she could not get free. “Primo! Quit it!”
+“No, do n’t you see? This will be perfect.”
+“do n’t!”
+“No, look, this way our son will be a Giovanni,” he said, as if it was the most reasonable thing in the world. Kay screamed. Primo flinched but did n’t let go. “Our son will be single blooded,” he said, shifting his grip. “Kay, I do n’t want to die a virgin!” the ir struggles tumbled the m of f the stone bench, and Kay landed atop her cousin. She felt him trying to roll her onto her back, so she braced her leg against the bench to stop him while her hands struggled with her purse. Both the ir hands were tugging at red velvet as Kay finally got her bag open. She wondered if this was why is abel had given her a 50,000 volt stun gun. She jammed it hard into Primo’s scrawny arm. The effect was immediate. He began thrashing and shuddering. Kay pulled away and sprawled on the ground
+for a moment, breathing heavily. Primo was blubbering, curled up in the fetal position. “It’s not fair…” he moaned. Kay pushed herself unsteadily to her knees, crawled for ward and jammed the electrodes into his thigh. “Bastard!” she shouted. He screamed too. She stumbled to her feet, the n sat on the stone bench. She burst into tears. She regained some of her composure only when she realized that Primo was starting to uncurl. “Asshole!” Her throat was raw and sore. He was making soft keening sounds as he scrambled away from her on all fours, but she easily caught up with him and kicked him in the side of the head as hard as she could. She
+kicked and kicked until he stopped moving. æ æ æ æ
+Although Kay did not know it, her fate — along with that of Primo and of Stewart — was being discussed back at the house at that very moment. “I think Primo is ready for the change,” Accorri Giovanni said. He tried hard to keep his voice neutral. “He is single-blooded, he has flourished under the Proxy Kiss, and even now he is developing necromantic skill. You know how rare that is before the Embrace….”
+Diego Giovanni shrugged, but it was only superficially a human gesture. His should ers rose and fell, but with the smooth movement of a machine, not an animal. He moved like an object, not a person. Judged by appearance, Diego Giovanni would seem the you ngest person in the room. But someone who looked deeper, who gauged by the postures and attitudes of the people around him — Accorri’s slight, defensive defiance, the for mal attention of the ir host Eric Milliner, even the intent regard of Kay’s “Great Aunt” is abel — would instantly realize that he was the one making the decisions. Diego Giovanni looked as if he were in his late twenties. He had been dead for over six centuries. “Accorri, you r loyalty to you r descendant do es you credit,” he said. “I would hate to think you r loyalty to the
+family as a who le is less intense.”
+Accorri stiffened. “What are you saying? You think I’m disloyal? Is that it? You want me to walk on fire for you?” kissinG Cousins
+
+=== PAGE 9 ===
+“That should n’t be necessary. I’m simply concerned that you r fondness for Primo might lead to regrettable has te in this important matter. Primo would be one of the you ngest Embraces in the history of our clan. If he is as brilliant and valuable as you say, should we not wait a few years and all ow him to pass on his qualities the mortal way?”
+“Primo… is most eager to change. He knows his studies are limited while he is mortal. Now, in this crisis, can you afford to ignore a necromantic prodigy?”
+“Well, I trust you r judgment,” Diego said, sounding suddenly bored. “If you feel he is so very worthy, I shall all ow my great grandchilde Gianmaria to Embrace him. She has been most ardent in her desire for the consolations of childer.”
+Accorri blinked. “Gianmaria? I thought I might give him the honor myself.”
+“Oh, that would n’t do. Already, he has taken you r blood as a ghoul, yes? Giving him the Embrace would bring him into a closer bond, and that sort of thing is usually reserved only for loose can nons. He do es not require such controls, do es he?”
+“No, but….”
+“If you feel like waiting, on the other hand, I might do the deed myself.”
+Accorri’s face lit up with a greed he quickly concealed. “Oh, you honor us too much. What sort of wait are you thinking…?”
+“He’s already had the Proxy Kiss, so the re’s no hurry. Once I am satisfied that he is as precocious as you think, I suppose.”
+“I, uh… I suppose I’ll have to think this over.” Accorri covered his confusion with a sip from his heavy snifter. Eric, seeing his companion’s confusion, smoothly entered the conversation in Accorri’s place. “And have you met Stewart?”
+Diego’s face was flat as he said, “Ah. Stewart.” His tone immediately alerted Eric that something was wrong. “Do you think Stewart is worthy of the change, Eric?” Eric glanced at is abel, but her face betrayed not hing. “Stewart would be a tremendous asset,” Accorri said. “If you think we should wait on Primo, you could do no better than to Embrace Stewart.”
+“Really? I take it you’re unaware, the n, that he’s been bound?”
+“What?” Eric leaped to his feet before he could stop himself, but Diego was standing before the taller blond had finished rising. Diego’s palm slapped the table hard enough to crack the heavy wood, and his voice was harsh. “Blood bound, and not to one of ours!”
+“That can’t be!”
+“It has been seen, Milliner,” Diego spat, his voice rich with contempt. “You constantly agitate for more authority, more autonomy, and yet this is how you squander the trust you’re given! Count you rself for tunate if he’s all owed to retain the Proxy Kiss. Or perhaps we should just bind him completely?”
+“Who has do ne this? I’ll break the bond by killing his do mitor! Tell me, I… I beg you… signore.” The last word came out with a humiliated crack. “If the storm of ghosts has been such a crisis here as you claim, you have more to worry about than one wayward ghoul-child. Is this why you are in such dire straits? Because you’re all thinking of you r personal legacies instead of the family’s needs? Or are you just exaggerating you r problems so that we’ll give you more license for you r foolishness?”
+For a moment the room was tense and deadly still. Eric stared at Diego Giovanni. He knew, with cold certainty, that cursing him would be pure suicide but was surprised at how much he still wanted to do it, irrationally, insanely. Part of him whispered with out words, showing him how sweet it would be to give in, to rage at his elder, to die in a brief, pure, thoughtless act. Clanbook: Giovanni
+
+=== PAGE 10 ===
+Accorri watched closely. If Eric attacked, Accorri wondered, would the re be any way — any conceivable way
+— Accorri could save him? His mind raced, going through every possibility. Except, of course, the possibility of joining him in a fight against Diego. That was simply not thinkable. is abel merely watched. “I… do n’t think… you’re being fair… signore.” Each word rasped out of Eric Milliner like a knife coming up through his throat. æ æ æ æ
+Kay stumbled back into the house, to the wide eyes of her family. To every question, she just said, “Where’s is abel?” Eventually a Latin-looking man finally said, “I think she went back through the conservatory into Eric’s of fice, but.…”
+Brushing away tentative hands, she kept moving. Behind her she left whispered talk. “Did you see…?”
+“I think she went of f with….”
+“Who is that, anyway?”
+“…is abel…?”
+The conservatory was lovely. It had a Venetian-style trompe l’oeil ceiling, an inlaid floor, a baroque harpsichord flawlessly restored and tuned. A well-used bass viol sat on a stand in the corner, and a frumpy old woman sat on the bench at the harpsichord. She smoked a cigarette and caught the ashes in her hand. “I need to see is abel,” Kay said, heading toward the do or. Moving with surprising speed, the old lady
+got in her way. “No one enters,” she said with a thick Italian accent. Kay tried to move past her, but it was like trying to push a couch up a spiral staircase. “No one enters,” the woman repeated. Kay could feel the tears welling up inside her again when the do or opened and three men emerged. The you ngest of the m was saying something in Italian to a blond man. Kay’s Italian was very poor — something about how a man who could control his animals could
+still prosper. The blond man looked very angry in a cold and distant way. the n Kay saw is abel and threw herself toward her relative. “Kay! What… what’s wrong?”
+Clutching is abel, Kay could n’t stop sobbing, even as she realized that the blond man and another, darker, man were staring at her. “He… he tried to….”
+“Shh, calm do wn now Kay.” is abel pushed her away, holding her at arm’s length. “Kay! Look at me! Calm do wn!”
+Gazing into is abel’s eyes, Kay felt the clenching sobs that had held her relinquish the ir grip. they were perfect, is abel’s eyes, dark and flawless and deep…. “Tell me exactly what happened,” is abel said. “Cousin Primo tried to rape me.” is abel’s gaze flicked over to the dark-haired man, and as Kay looked around she realized the others in the room were staring at him — not at her, as she had feared. The subject of the ir stares opened his mouth, closed it, the n finally shrugged and said, “Shit. Well, good thing she’s a fast runner, I guess.”
+His callous tone left Kay speechless. It also provoked a bark of laughter from the old woman and a glare from is abel. the n the you ng man spoke. kissinG Cousins
+
+=== PAGE 11 ===
+“How did you get away?” He asked. The authority of his voice pulled her around to look, instinctively, and once she looked into his eyes the thought of lying, or even not answering, became impossible. “I think I may have killed him,” she numbly said. “What?”
+æ æ æ
+Accorri Giovanni had been a powerful man in life, and he was immeasurably stronger in death. The thought that this… this nobody girl!… might have killed his beloved great-great-grandson obliterated all rational thought. Before even is abel could react, he was at Kay’s
+throat, lifting. He was about to smash her head through the harpsichord, when he realized that taking hold of her had broken her neck. is abel lunged at him. Eric’s attempt to shield Accorri slowed her only for an instant but completely destroyed the bass viol when he landed in it. But it was enough: Before is abel could reach Accorri, Diego
+was between the m. “Enough,” he said. Neither one would meet his eyes, but both stepped back. “She was to have the Proxy Kiss tonight, Accorri,” is abel said, her voice tight, controlled. “Fuck you,” Accorri replied. “Both of you be quiet,” Diego said. the n he spoke again, this time in Greek. A moment of chill spread over the room. Diego
+cocked his head and said, “Primo is n’t dead. He is badly injured, how ever.”
+Accorri’s grip tightened for a moment, the n he dropped Kay’s limp for m to the floor. “Signore, I—” Eric Milliner began. “Hush,” Diego said. Thinking hard, he was perfectly still. He did not blink or move his hands. He turned to is abel. “This Kay: She is the one of who m you spoke? The scholar-athlete?”
+is abel nodded, and added, “With enough guts to fight a ghoul and win,” glaring at Accorri. “She will receive the Embrace tonight,” Diego declared. Clanbook: Giovanni
+
+=== PAGE 12 ===
+“What?” shouted Accorri, for the second time that night. “And you, Accorri, will give it to her.”
+This time, it was is abel who se eyes widened with shock. “Meanwhile, is abel, you will find Primo and give the Embrace to him.”
+“But signore, this is… it’s…” Even as he protested, his master’s reasons were lining up in Accorri’s brain. Each sire would be saddled with a disliked and distrusted neonate — the last people they’d enlist for treachery against the ir fellows. Also, each neonate would be bound by loyalty to the very family members they would most want to betray. “Yes, Accorri?”
+Accorri shook his head. “I wish you’d asked me to walk fire instead. But what ever you say. For the family.”
+“For the family,” is abel echoed, sourly. She turned to exit the music room as Accorri, resigned to his task, bent to it. Diego turned to Eric Milliner. “Perhaps you’re right, Eric. Perhaps the Proxy Kiss is a bit old fashioned in the se modern nights.”
+The old woman gave another bitter laugh. kissinG Cousins
+
+=== PAGE 13 ===
+Clanbook: Giovanni
+
+=== PAGE 14 ===
+C o: hapter ne a F amiliar
+C on Ceit where as his kinsmen chiefly brought him up; So soon he profits in divinity, The fruitful plot of scholarism graced, That shortly he was graced with do ctor’s name, Excelling all, who se sweet delight disputes
+In heavenly matters of the ology, ’Til swollen with cunning of a self conceit, His waxen wings did mount above his reach, And, melting, heavens conspired his overthrow; For falling to a devilish exercise, And glutted more with learning’s golden gifts, He surfeits upon cursed necromancy. — Christopher Marlowe, do ctor Faustus (1604 A Text)
+You want a history of the Giovanni clan? You got Oh, but do n’t start writing checks just yet, paisan. it: A death cult of deranged Kindred Embraced the You’re new. All the smartmouthing I just did is n’t going scion of the Giovanni family. This scion was ted no time to help you get ahead. Not with out some understanding. burying a knife in the ir backs. He Embraced childer of do n’t roll you r fucking eyes at me. I’m telling you this his own, who became very rich, very powerful, or both, as a favor to you r mother, God rest her soul. You’re one of and all the other Kindred resented the m for it. Knowing the lucky ones. You get to learn the big picture. Most of
+that the End of the World was coming, the Giovanni the you ng ones have lazy sires or only listen when we get prepared while the rest of the Kindred fought with each to the parts about making a million do llars or sitting on other and guzzled fresh blood at each other’s cotillions. the ir brothers’ faces. Most of the you ng ones die. As to the future of the Giovanni clan, here it is, New blood like you comes pretty cheaply in the too: We win. When the great Gehenna comes and the modern nights. So, now that you’re Kindred you’ve
+rest of the undead are burning in smoldering columns got it all figured out, huh? All the Giovanni family of brimstone or sucking do wn the ir childer’s precious secrets? Now you know why the April 4th reunions vitae, Augustus will come for ward, peel back the skin are so important and why so few get invited to the m? between the worlds of the living and the dead, and we’ll Well the n, answer me this. What is the significance of all carve thrones from the bones of those too stupid to the reunion’s date? And where did all the se Kindred in
+know what had been a long time coming. our family come from? Chapter one: a Familiar Con Ceit
+
+=== PAGE 15 ===
+No idea, huh? See, you’ve just gone from being from the unsexed loins of a virgin. Shit like that’s just ignorant kine (that’s what we vampires refer to hu- not physically possible. All of the deeds attributed to mans as, see) to ignorant Kindred. That’s what most Jesus are the work of an uncountable number of early vampires refer to the mselves as. Yeah, I know. It’s like Christians, boiled do wn to the parable that is the Bible. we’ve got a different name for everything. And by the It’s the same with Kindred — “Caine” is an early maniway, do n’t ever use the word “vampire.” It’s stupid. festation of the Everykindred. Sure, Kindred is affected, but if you refer to you rself No, the truth of the matter is that the re was no
+as a vampire to another Kindred, they’ll probably look “first vampire.” Or if the re was, no one remembers the at you like you just shouted “motherfucker” in the motherfucker’s name. God did n’t look askance at the middle of Mass. Shut up and deal with it. Giovanni world and say, “Okay, now it’s time for some bloodcan handle the human side of the family remaining in sucking parasites to run around and fuck with the the dark about things; hell, we prefer the m that way. Children of Seth” — Seth being another metaphorical
+With all the shit that’s going do wn right now, what personage from the Bible, and the father of the race of we can not abide is another ignorant Giovanni whelp. mortals as we know it tonight. No, the earliest Kindred
+Everything is a little too precarious to have another were part of the world as it was before the sudario — wet-behind-the-ears neonate Kindred around (neonate the wall that separates the dead from the living (and means you r kind, newbie). So it’s up to me as you r sire, us) — came to be. the one who Embraced you to bring you, my childe, Look at some of the concepts of the afterlife that up to speed. Capice? Good. almost universally arise when you get into early cultures. We got a lot to cover. On the plus side, though, this The Underworld was a place you could physically go. To
+story’s got everything — sex scandals, incest, nigrimancy, the Greeks, you could enter the Underworld through connections to or ganized crime. The list goes on and caves and caverns; it existed literally below the ground. on. So, sit back, relax and enjoy. Just promise me you To the Egyptians, traveling westward would eventually won’t make this shit into a movie, or I’ll have to kill you. bring a man to the land of the dead. Certain Native
+B h American cultures believe that the soul goes to the e for e is tory
+“happy hunting grounds” after death. Even some more
+“modern” conceptualizations of what comes after death
+Now, this is the part of the “Welcome to being involve places: the Christian Heaven and Hell, the
+Kindred” talk where I’m supposed to tell you about
+Norse Valhalla and Niflheim, Kabbalist Rabbi Joseph crazy farmers murdering the ir brothers and ancient cities ben Shalom’s “abyss of not hingness” that is crossed at of Kindred coexisting with mortals and shit like that. the moment of death and Gnostic Awakening. the se
+Well, I’m not going to. I’m not going to because are all places. they’re all locations. they’re all geoit smacks of all that pompous self-satisfaction that graphically describable settings that, whether physical, the other clans have in spades. Invariably, The Most metaphysical or spiritual, are places you can stand and
+Auguste Historiye of Our Noble Clanne is a pack of smoke a cigarette. self-congratulatory lies that other Kindred construct
+It only makes sense, the n, that if you can go to the se to fit the ir self-images. Believe me, I’ve heard enough places, you can come back from the m. tales of Toreador bull-dancer goddesses and marbleskinned Ventrue conquerors to know that you can That is what a Kindred is. It is, for better or for trust a creation myth only so much as you can trust worse, a person who has come back from the place
+the teller. And remember, you’re Kindred now — you known as death. Not everyone can do it. And I do n’t can’t trust anybody else. think anyone can do it more than once. Add to the fact that clan histories are largely pro- do n’t look sideways at me. I’m as Catholic as you paganda the fact that they’re outright wrong. Ask most are. I know that when I died I should have gone to of those other motherfuckers about the progenitor and Heaven or Hell. But I did n’t. You did n’t. Our souls, for
+you’ll hear some cockeyed claptrap about Cain-with- what ever than atological reason you choose to ascribe an-“e” and being cast out of the Land of Nod (or maybe to it, got part of the way the re, said, “Holy shit, I for banished to the Land of Nod — I do n’t remember) and got something,” and came back to inhabit our bodies. other sorts of riffs at the Biblical level. Now, I’m as I do n’t pretend to know why — that’s something the faithful a Christian as I trust you are, but I know as well wisest elders in the clan have been studying since before as any sensible Kindred that the Bible is fucking meta- the re even was such a thing as Clan Giovanni. But I
+phor. Jesus, if he existed at all, was a man upon who se know that it’s true. should ers the weight of the world fell — in principle. I’m not trying to be all new-age and mystical with
+He’s like George was hington. He did n’t single-handedly you. Fuck that. God has designs for a person, that’s what bring the Word to a needy people, and he did n’t spring I believe. It just so happens that God’s designs for those
+Clanbook: Giovanni
+
+=== PAGE 16 === of us who became Kindred are just a little different from what’s normal. If you ask me, you got no reason even trying to figure out why God wants Kindred stalking
+His creation. You may as well ask you rself why the re’re such things as wolves or lions. God knows. You do n’t. You can’t, so do n’t fuck with it. You do you r job and let God do His. That “coming back,” that return from the land of the dead is what sets you apart from the living, and it’s
+what sets the Giovanni apart from the other undead. I’m not debating that the Embrace works. You do n’t have to walk to a special room that’s labeled “Dead People” and step back out. you r body do esn’t make the journey. you r soul do es. It makes the trip and the n returns to
+you r body — that’s the Embrace. That being the case, I’m sure I have to shed only a little more light on the subject. Unless you’re one of the lowborn American caste of Giovanni, you probably know that our stock in trade is souls, that the
+Giovanni have the power to grab the spiritual part of a mortal (or, more accurately, her spiritual residue left after she’s departed) and do what we want with it. Hell, it would n’t surprise me if some Giovanni elder somewhere knew how to create Kindred with out even
+resorting to the Embrace, maybe catch the soul of a dead man and stuff it back into his body at the moment of transition. Ah, but never mind that — I’m getting away from myself. The most important thing is to remember that, as Kindred, you were made. You were Embraced for a
+reason. you r soul animates a clinically dead body for a reason, or, more likely, a multitude of reasons that just happen to coincide. My reason for Embracing you is n’t the same reason that Diego asked me to Embrace you, which is n’t the same reason you r mother wanted me
+to step for ward and suggest it in the first place, which is n’t the same reason that Margaret Milliner wanted to
+Embrace you instead of having me do it. And after all that, none of those reasons are the same reasons that
+God makes it possible for the who le thing to happen to begin with. Regardless of the nature of any single one of those purposes, those purposes do exist. That’s the best way to look at it. The worst way to look at it is to consider that you
+fucked up dying and came home for more. Welcome back. Now the rules are different. m r or tal ootS
+I’m not going to pretend to be an expert on this part. All the shit we’re going to talk about happened as much as two thousand years ago. That’s not to say we’ve hidden Kindred in our midst for two millennia. Chapter one: a Familiar Con Ceit
+
+=== PAGE 17 ===
+We’ve borne that distinction for only the last thousand Of course, the Black Art had yet to gain its dreadful years, give or take. That’s the reason most of those in stigma during the time of Roman do minance. Ancesthe know believe us to be merely a product of the rise tor worship was accepted as part of the natural or der. of the burgeoning middle class toward the end of the Emperors were gods, and most families kept some sort
+Dark Ages. That’s the problem with the other clans; of shrine or another in the ir homes to please the spirits they overlook the longevity and resources of the mortal of the departed. Familial responsibility did not end with
+Giovanni family. Kindred pride can blind you to the fact death, on either side of the sudario. It was important that the kine can and do affect history. But I digress. that the dutiful lares familiares be venerated and the
+The fact is that the Giovanni family first came to spiteful lemures be appeased. In return, the spirits of prominence at the height of the Roman Empire. Of our ancestors blessed the family’s endeavors and came course, we were n’t called the Giovanni at the time. Our to our aid in time of need. In particular, the founder of precursors were known the n as the Jovian family. Much our line was held in the highest esteem. Although his
+as we Giovanni would later do during the Crusades, the true name is lost to us, with the possible exception of
+Jovians made a tidy profit on the constant wars that Augustus or one of the most exacting anziani elders, he plagued the Empire. The annals some elder seneschals became identified with the deity Dis Pater, god of the keep at the Mausoleum in Venice even include cargo Roman Underworld. Quite ironic, considering the root manifests the Jovian family transacted as early as 31 of our name came from Jove, god of the sky. BC, when the Jovians shipped supplies to Octavian’s Through a combination of the mortal Jovians’
+armies in northern Africa and the n, to make an extra shrewd business acumen and possible aid from Dis Pater buck or two, ferried spies and messages back to Rome and the family’s other dearly departed, wealth flowed for Mark Antony’s side of the war. It would n’t surprise into Jovian coffers from all over the Empire. The Jome if the Jovians sold the Romans the metal to craft vian family earned its wealth through moneylending, the nails they pinned Christ to the cross with (again, merchant ventures, shipping and travel, and even some assuming that Christ was real). degree of artisanship. You might say that they were
+And, in a tradition the Giovanni continue to one of the or iginal conglomerates. Of course, that’s uphold, the Jovians began our practice of nigrimancy. not exactly true — the family certainly was n’t a very
+Clanbook: Giovanni
+
+=== PAGE 18 === d p iS ater
+Although unknown to many but the eldest of Giovanni Kindred and the most dedicated students of the family’s history, the potent spirit that Giovanni anziani in the know consider the legacy of the ir family’s progenitor has wielded great power in the Underworld for thousands of years. In that time, the spirit calling itself Dis Pater, or Father Wealth, has subtly influenced the living and undead descendants of the Jovian family
+with varying degrees of success. While the standard Giovanni opinion on spiriti is that they’re only around to be used to achieve the family’s goals, like any other exploitable resource, most anziani — and even Augustus himself — treat Dis Pater with respect. The Necromancers cite several reasons for this unique reverence. First, Dis Pater is a being of immense power, both as a potent for ce with in wraithly society and in terms of his own personal puissance, and it’s prudent to have such a spirit on you r side when many wraiths would be
+more than satisfied to see the Necromancers destroyed. The Giovanni’s veneration and the emotional energy it generates serve to give the powerful spirito a reason to intercede on the clan’s behalf when one faction or another in the Underworld decides it has had enough of the Kindred. For ages, a charge of direct violation of the Dictum Mortuum (the Code of the Dead, which until recently prohibited spiriti from interacting with
+the lands of the living) levied by someone of Dis Pater’s influence was usually sufficient to put an end to any attempt at wraithly retaliation against the Giovanni. Tonight, given the state of things across the sudario, no one’s sure of just what Father Wealth’s reach may be. Just keep in mind that on more than one occasion, Dis
+Pater has used its influence to pull Giovanni fat from the fire. And of course, by the same token, Dis Pater may also use his influence and might to harm those who displease him. The ancient wraith’s level of power is such that those Giovanni who make the mistake of showing improper reverence or, worse still, irreverence, tend to suffer grave misfortune (sometimes culminating in the ir Final Death). As the Giovanni well know, a
+Kindred has no better incentive for respect than the sense of self-preservation. Second, Augustus shows Dis Pater respect. Not that the entire clan is populated by yes-men (though given Giovanni Embracing practices, few Necromancers would deny some truth in that), but rather, this ties into the respect based on self-preservation mentioned before. If you disrespect someone Augustus Giovanni himself reveres, you are indirectly showing you r disrespect of the Antediluvian himself. Given Augustus’
+temperament and ability to hold a grudge, this is not the way to enjoy a long unlife. Finally, in the case of the eldest of the Giovanni especially, the reverence of Dis Pater is an ingrained habit. It’s something the anziani practiced in the ir breathing days, with the Wealthy Father being venerated alongside the Christian saints in the uniquely Giovanni observance of Catholicism. In Giovanni do gma, Dis
+Pater is the equivalent of the patron saint of the Giovanni family itself. Although to some modern Giovanni, even a few in Italy, Catholicism is not hing more than a social event where family and neighbors spend an hour or two each week renewing ties of community, most of the mainstream branch of the family, at least, observes a devotion that, while unsettling to many Kindred outside the family, nonetheless takes a reverential stance on the Trinity and the agents of God on Earth, passed on or otherwise. The Catholic Giovanni are taught
+from an early age that in times of need a member of the Giovanni family may call upon Dis Pater for aid and that, if the need is great enough, he will respond — a fact that has been borne out for many of the anziani elders since becoming Kindred. Having a patron saint literally come to one’s aid is a great way to reinforce a person’s, or a Kindred’s, reverence. centralized entity, so far as I can tell. It was like any as prominent as they would soon become) during the
+family, with the individual members do ing what they last days of the Senate and suddenly ubiquitous at the wanted. It just so happened that the Jovian family was emergence of the Empire. also a prime network. The guy who sold you Venetian Some of the Jovians, I think, also had to be aware sculpture also had a brother who could get you spices of the Kindred. I’ve talked to one of the anziani about cheaper than everyone else paid for the m, and the ir what showed up on a really old bill of lading as “two
+cousin quarried marble that would look perfect for casks, filled with earth and other sundry material, to be the floors of you r new palazzo. they were guildsmen left for retrieval” at Roman ports in Corsica and at the and black marketeers, talent craftsmen and scurrilous southern tip of what became Spain. Of course, I can middlemen. One would fuck you r sister and another make no guarantees, but I’m personally certain that
+would whisper of you r grievance to the Caesar. they also, during the Punic Wars that served as the mortal were everywhere, almost unheard of (or at least not cover for the Malkavian-Brujah vendetta, any number
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 19 === of fleeing or rallying Kindred traveled between Carthage was that the ancestors who m they had venerated for and Rome and perhaps back again aboard the earliest centuries had cut and run when the ir aid was most in
+Jovian privateers. Certainly, some Jovian was Embraced demand. To this night, the Giovanni family no longer by one clan or another for her personal assets. Who asks aid of wraiths, whether family or otherwise — knows? Maybe even one of the Premascines — I’ll talk rather, they compel it. about the m later — or the brood-mother of one of those Fearing for its safety, the family cut its losses and infamous Roman Nosferatu dens was one of the early fled to an is land settlement founded by Roman refugees
+Jovian Embraces. from Attila the Hun’s invasions a quarter century earlier. with in 200 years — an ironically short and long After that, it was every man for himself for a while, but time for Kindred, as you will no do ubt find out unless at the end of the fifth century, 12 of the se is land comyou meet you r Final Death early — this loose cabal munities decide to band together under a council of the ir of related mortals became a wealthy and increasingly representatives. In the beginning, the se settlements paid close-knit family, setting the precedent for the Giovanni lip service to the Eastern Roman Empire, but it was n’t
+merchant princes of the coming Renaissance. Obviously, long before the Lombards waltzed in and kicked the they were n’t everywhere or in everything that found its shit out of the remainder of the Roman army in Italy. way to the Empire, but that did n’t matter. they were the And so, more refugees fled to the safety of the is lands
+Kennedys and the Medicis of the ir time. The Jovians of the Venetian lagoon, increasing the settlements’ had enough commerce going and enough contacts to population. The Jovians, while on the ropes, were n’t expand it to keep the ir pockets fat for centuries to come. crushed, how ever. they adapted to the environment, With that wealth came power. Jovians gained high settling in roles of leadership (who do you think was of fices throughout the Empire, finally culminating in one on that representative council?) and mercantilism. of the family becoming emperor, Flavius Jovianus, in the when ever people had a need, the Jovians were always
+fourth century. The Jovians had been Christian since it among the ones to provide. had been an option, if the almanacs of Ludo Giovanni are Now the next couple of centuries were pretty quiet, true. Flavius Jovianus became emperor after the death of by Italian standards. The Lombard invaders and the
+Julian the Apostate, once again turning the Empire into Roman for ces reached a stalemate. The nascent Venice a Christian nation after Julian’s reign of paganism. the n continued to grow, becoming more influential in the again, Julianus Apostata was the nephew of Constantine region, electing its first do ge (the Venetian dialect of the the Great, who made the empire Christian of ficially. The Latin title dux) in the early eighth century as a response
+state religion seesawed back and for th between emper- to rebellious sentiment engendered by Emperor Leo or s, but that’s always the case with the is sues in politics. III’s position in the Iconoclast movement the previous
+Regardless of all this back-and-for th, the Jovians had year. The iconoclasts, Leo among the m, saw religious chosen the ir side years before. iconography as sinful, because man had no right to
+But the halcyon days were not to last. Flavius Jovianus represent God as filtered through his own feeble senses. ruled as emperor for one fucking year before dying on the The iconodules, on the other hand, saw no problem way from the frontier to Constantinople. Yes, he had a with representations of God, reasoning that by virtue
+Christian burial — I believe you can still find the tomb of the Incarnation, God was man, and the refore it was at the Church of the Apostles the re. By the end of the no big heresy to represent him graphically. Needless to fourth century, the Empire was already in decline in the say, this was the religious hot but ton of the century, with
+West. Tribes of Germanic barbarians threatened to over- iconodules claiming that the iconoclasts were replacing run Rome, and by the fifth century, it was obvious they images of the glory of God with monuments to the ir own would probably succeed. Rome was sacked twice prior vanity (read a biography of Constantine V sometime), to its eventual surrender to Odoacer in AD 476. Both while the iconoclasts maintained that God’s glory was times, the Jovians weathered the Germans’ depredations God’s glory and it’s His decision how to reveal it. The
+by buying the ir longevity or with aid from the ir familial who le situation was n’t particularly new; the question guardians. how ever, in the ir moment of greatest need, had been raised since the first stick figure that someone the lares familiares deserted the m, or worse, appeared as wrote “God” under had surfaced five seconds after the lemures and added to the destruction. Word was spoken, but you know how easy it is to fire
+F ’ F up the zealots on either side of an is sue. or tune S all
+Shut the fuck up; this all has a point. From that
+What we later learned was that a great storm had argument, the Giovanni family emerged, complete with erupted in the Underworld, to coincide with the Em- its modern surname, as a prominent power with in the pire’s fall. At the time, how ever, all the Jovians knew newly for med state. Divorcing the mselves from the
+Clanbook: Giovanni
+
+=== PAGE 20 === references to Jove, god of the sky, the new Giovanni all channel markers and buoys removed, making the reinvented the ir identities in a new Italian (as opposed shallow lagoon a hazardous maze of hidden shoals and to Roman) context. This satisfied the iconoclast Jovians/ swift currents impenetrable to the Italian king’s navy. Giovanni in that they no longer took “God” as the ir In short, it was a big “fuck you” to the dynasty that
+surname, and satisfied the iconodules in the family by Venice had long sought to remain independent of. I removing the is sue from debate altogether. do n’t think think we should use that tactic again sometime — or that the concern was any less among the for mer Jovi- maybe remove all the lane markers and directional ans than it was among the rest of Christianity. One of dividers from the highways and thoroughfares when
+the Giovanni iconoclast’s strongest proponents, Piero it becomes prudent. But that’s neither here nor the re. Giovanni, wrote two do gmatic treatises on the subject, I can’t think of too many times invading armies have practically screaming that, “We can not be godly if we threatened Boston or Venice in the past 50 years. It’s claim to be god when introductions are made.” I hope still a great idea, though. that he’s settled do wn now that he’s dead. Anyway, Pepin’s army spent six months camped n r F w on the mainland, where they suffered bouts of deo e St or the iCKed
+bilitating summer fevers, harassing attacks by the
+After the resolution of that particular hysteria, Venetians and constant rumors of a Byzantine fleet things calmed do wn… until Charlemagne came onto on its way to support the city. In the end, Pepin and the scene. his army with drew, with only a token agreement by
+See, at the end of the eighth century, the Lom- Venice to pay annual tribute to show for the ir efforts. bard king Desiderius decided to stick his nose into a King Pepin died a few weeks later, and his father dynastic dispute among the Franks. All this succeeded Charlemagne gave up his ambitions of conquering in do ing was pissing of f the guy who came out on top Venice. That’s what you get when you fuck with of the dispute, Charlemagne, and convincing him to the Giovanni. head south to kick some Lombard ass. Which he did. More important than the military victory, though, Charlemagne defeated the Lombards at the ir capital the campaign served to for ge a sense of community
+of Pavia (south of Milan) in 774. In a very generous among the Venetians that defined the m for the next gesture, Charlemagne divided the conquered lands with thousand years. The siege was also responsible for mov Pope Adrian in Rome, creating the Papal States. Such ing the Venetian capital from its or iginal location on generosity, and probably no small amount of coercion, the barrier is land of Malamocca to a better defended induced the Pope to name Charlemagne’s son Pepin King group of is lands near the center of the lagoon, an are a
+of Italy in 787. This is where Venice, and by extension known as Rivo Alto, or more commonly Rialto. Many the Giovanni, become involved. Venetian families, including the Giovanni, moved to
+At the turn of the ninth century, Oberlerio degli Rialto for the protection provided by the treacherous
+Antinori, the n do ge of Venice, foolishly committed shallows that lay between it and the invading for ce. Venice to the Frankish empire — which by the n had Even after the siege was broken, the capital remained been dubbed the Holy Roman Empire — in an effort to at Rialto, as did the Giovanni. The are a at Rialto soon strengthen his very tenuous grasp on power, fearing a coup became the metropolitan center of the lagoon, the city like the one he himself had engineered to put himself in known tonight as Venice. “Rialto” even remains the
+charge of Venice. By that time, Charlemagne was seeking name of the commercial center surrounding the oldest to consolidate his power in Northern Italy by chipping bridge across Venice’s Grand can al. away at are as like, oh, let’s say Venice, that were histori- For the next few centuries, Venice continued to cally subject to the rule of the Eastern Roman Empire. grow, becoming the do minant maritime power on the the n, when his position had become even less tenable, Adriatic Sea. The Giovanni took advantage of the
+the do ge invited Charlemagne’s son, King Pepin, to send opportunities afforded to the m by the ir location, the ir an army up from Ravenna to occupy Venice. position and the ir wraithly benefactors and reestab Overthrowing the inept do ge, the communities of lished the mselves as the wealthy heirs to the legacy
+Venice set aside the ir differences and for med a com- the Jovians had left behind. It was at this time that mon defense. At the southern end of the Venetian we came to the attention of the Cappadocian clan of lagoon, the communities of Chioggia and Palestrina Kindred. Many of the ir members were obsessed with fell quickly to the advance of Pepin’s army in the spring death, and several led nihilistic heresies, fed from the
+of 810, followed soon after by Grado and Jesolo at the dead or maintained elaborate (for the time) laboratories northern end of the lagoon. the n, how ever, Pepin was where they pondered the mysteries of life and death. stymied by the city’s watery defenses. The Giovanni Some also made the ir have ns in the monasteries of were one of the patriot families responsible for having Europe and Northern Africa. the ir interest in death
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 21 === was different from that of the Giovanni, how ever. While cient’s chief toadies, Japheth and Constancia, who had the Cappadocians may have been contemplative in both argued against bringing the Giovanni into the nature, the ir powers over the dead were rudimentary Cappadocian fold. and not at all spiritual. It was almost the opposite of Fuck the m all. they’re dead now. the Giovanni — while we venerated the souls of the This was n’t just an Embrace of pomp and cirdead, the Cappadocians could manipulate corpses and cumstance, though. This was the moment that the
+foster deadly disease. Cappadocians do omed the mselves and the exact
+Our ability with nigrimancy intrigued the se Kin- moment Augustus Giovanni made a deal with the dred, especially the ir founder, if the old tales are to be Devil himself. believed. Although the Cappadocians were well versed By different tellings of the story, the leader of the in than atology and had developed a necromantic power Cappadocians had long before been driven mad with the giving the m mastery over physical death, they new little weight of undeath, or had achieved an almost saintly state
+about what happened to the souls of those who die. It of transcendence. Me, I believe that he was bug-fuckingwas the ir elder’s hope that the Giovanni might reveal nuts, which was probably why Japheth and Constancia the se lost Roman secrets to the m — which I guess, in opposed him. they could see that Augustus’ heart was a way, we did. black as sin and as greedy as the merchant families that t B had been his ancestors from a millennium ago. Somewhere
+he irth oF before the Giovanni became part of the fold, a cabal of
+C G the se Cappadocians, the elder included, got the idea in lan iovanni the ir head that they could atone for the Curse of Caine
+In 1005, the elder of the Cappadocian clan himself by ridding the world of its cause. No, they did n’t want to
+Embraced Augustus Giovanni, the n and for ever after destroy the race of Kindred. Well, maybe some did, but the patriarch of the Giovanni family, in the depths of that’s beside the point. No, the se lunatics decided that the Cappadocian temple at Mount Erciyes in Turkey. removing the cause of undeath was also the next step in the re to witness the event were a couple of the An- the ir own undead evolution. they wanted to diablerize God. Clanbook: Giovanni
+
+=== PAGE 22 ===
+I’m not making this up. Go through the library of become undead. So, as you might guess, they can dyany Giovanni who has any knowledge at all of the prin- coated the who le thing. Eternal life! Power untold! ciples of necromancy and you’ll find the works of some Eternity free from disease and decrepitude! The who le of the se Cappadocians on the ir shelves. Read the m, and line of bullshit you hear from neonates who have n’t it’s frighteningly simple — the se motherfuckers though yet come to grips with what they are and sweet-talkers that by killing God, they could become gods. Remember looking to Embrace the ir girlfriends. Of course, they
+all that shit I was talking about before? About the Bible did n’t mention the dependency on blood, the fact that and the Cainite myth being metaphors? And about how Augustus and his brood would never again be able to stupid fucking Kindred take it all literally? Well, the see the sun, or, oh, the simple caveat that you have
+Cappadocians were no better than the ir peers. For all to die to become a Cappadocian. the time they spent in monastic study and at the feet To his credit, though, Augustus was not a man of the philosophers of the ages, they were too damn who went of f half-cocked. You do n’t become patriarch stupid to figure out that when the ir scrolls of than atol- of a merchant family by being a moron. Augustus had ogy mentioned “mastery of life and death,” they were spoken with Kindred before — he had even entertained
+talking about power over the spiriti. “Life beyond life” of fers from the Ventrue and a Germanic Toreador to was n’t the same eternal life promised by the Word; the do precisely what the Cappadocians were trying to
+“other world” was n’t Heaven or Hell and neither was convince him to do. But Augustus, damn his soul, “the home of the spirit.” In the ir search for answers as knew what to look for in a potential sire. His driving to what the state of death actually was, they unearthed goals in the arrangement were power and… well, opa few primitive and florid necromantic rituals. In the ir portunity. Augustus did n’t for ever want to be tied into own vast sophistication and wisdom, they thought the prestation games of the Ventrue and Toreador, and that the primitive sorcerers who wrote the rituals they he certainly did n’t want to be brought into the night
+found could n’t possibly be so advanced as to use artistic with weak blood, even if he did n’t fully understand language. If I told you I was “rich beyond you r wildest the concept of generation at the time. He knew about dreams,” do you really think I’d mean literally that I had the do wnside of becoming Kindred and was will ing to more money than you r mind could possibly comprehend? accept it so long as he found a little room to maneu Well, that’s what the se Cappadocians thought, and I ver after the Embrace. The Cappadocians, deluded, guess that’s why they were all screwed in the head. they preoccupied and not the least bit worldly, gave him
+thought they found the Big Answer and it was now just everything the Ventrue and Toreador could n’t — the a matter of Asking the Right Question. power of a Methuselah and the chance to parlay that
+In a way, it’s pretty tragic. I’m demeaning the m, power, how ever treacherously, into a big fucking but that’s only because cruelty so easily becomes humor promotion for himself and his bloodline. to our kind. In the same amount of time it took the m The heads of the Giovanni family debated it for to do om the ir own futures they resigned the mselves probably the better part of a year. Remember, though for ever to failure. Even if we did n’t come along and that this was the beginning of the 11th century. It
+do the world the favor of taking the m of f the face of was the end of the Dark Ages and the beginning of the Earth, they would have for ever been plaguing the the Age of Faith. Once they looked past the initial world with the ir skewed understanding. Just imagine shock of horror at kicking around the idea of becomif you grew up thinking “blue” was “red,” how fucked ing vampires until the end of time, the family’s elders up would you be? Okay, now apply that to the funda- saw not hing wrong with creating a pact with the
+mental perception of you r life or unlife instead of you r creatures of the night. In the modern nights, if you wardrobe or car-choice color. Sad. Maybe I’m missing gathered you r family around you and said, “Wife, son; a vital part of how this could reveal the Cappadocians’ I’ve been thinking it over, and we should probably true natures as the saintly instead of the deranged, but become blood-sucking predators of the night in or der that’s what makes me believe so strongly that they were to maximize the return on the family investments,”
+out of the ir minds. they’d run over to the neighbor’s house so they could
+To get back to the is sue at hand, the Cappadocians get a third signature on the for m to have you comwanted to Embrace the Giovanni to learn the ir secrets mitted to a mental hospital. the n, though, in less of nigrimancy. The Giovanni, of course, wanted to get cynical times, taking this Devil’s deal was the height something out of the deal the mselves. of pragmatism. Death magic had long been practiced
+And that was where we got fucked. by the family in the for m of ancestor worship — this
+I said that the Cappadocians were crazy, but I new development certainly could n’t hurt. In fact, the did n’t say they were stupid. they figured that no one elders reasoned, it might well bring the Giovanni closer in the ir right mind would jump at the “chance” to to the ir ancestor-spirits. Dis Pater and the lares familiares
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 23 === approved, having the same sense of value that many of the Giovanni patresfamilias did. they planned some logistics — obviously, not everyone in the family would
+be Embraced, because apparently that was for bidden, and the Giovanni brood would be so new to the who le thing that they would have to bide the ir time and learn the nature of the ir undead existences. Besides, Kindred apparently could not create mortal is sue, and the family
+needed to continue to grow. One fell swoop: fate sealed. At the Erciyes mountain temple, Augustus let the Cappadocians do the deed. The who le affair was n’t with out its petty betrayals, though. As I said before, Constancia and Japheth did n’t agree with the ir elder’s decision. As the elder
+Cappadocian bled into a vessel and instructed his progeny to pass that blood through the exsanguinated Augustus, Constancia and Japheth kept a bit of that vitae in or der to hold a bit of power over the other two Kindred. The blood provided a sorcerous
+connection to the elder as well as Augustus once they turned him. In the modern nights, this shit do esn’t work anymore, and I can only guess why. Upon the Embrace, you have to receive blood directly from the sire. You can’t just carry around a sealed container
+of blood and pour it into a dead guy’s mouth to create insta-Kindred. But perhaps it was the fact that mysticism had n’t vanished completely from the world at that point, or the elder Cappadocian’s blood was a t
+not her heory
+The Giovanni’s painful Kiss is sometimes known as the Curse of Lamia, to certain learned or conspiratorial Kindred. During the Giovanni purge of the Cappadocian clan, Augustus himself
+diablerized the leader of a cult of Cappadocians known as Lamia. Lamia’s powers reportedly included the ability to foster disease, to cough for th a cloud of mephitic vapor, and to transform her
+Kiss into an agonizing bite. According to one account of the purge, Lamia used the last of her mystic powers to curse Augustus as he committed Amaranth upon her, blighting him and his is sue to cause a similar agony when ever they fed. If this is true, it was a grand act of
+defiance. Skeptics, how ever, remain unconvinced. Could this secret cultist have harbored such power to afflict an entire bloodline with her spite? And
+Lamia reportedly fell in the early 18th century, but accounts of the Giovanni’s painful Kiss have existed as far back as the first century after the ir Embrace. As with so many other mysteries of the race of
+Caine, the world may never know. Clanbook: Giovanni
+
+=== PAGE 24 === so potent that the rules did n’t apply. what ever, it worked back the n. Now, when the who le of Kindred society hides from mortals instead of terrifying the m
+at night, and the most puissant “elder” you’re likely to meet in America is nine steps descended from the mythical Caine, this seems either absurd or, to turn my own arguments against me, metaphorical. But it’s not. You see, Japheth and Constancia hid the ir master’s
+blood away. Constancia prepared a clay jar and sealed the vitae with in with beeswax while Japheth spoke a curse over the jar, which is now known as the True
+Vessel. In fact, some Kindred historians speculate that our own clan’s weakness came from that curse, that Japheth wished for the mortals upon who m we
+Giovanni feed to feel the same burning agony he and
+Constancia and the rest of the Cappadocians felt at the ir elder’s decision not only to Embrace us, but to share his own powerful vitae with us. In any event, while the Giovanni did n’t know about it, this True
+Vessel held immense power — power that could be used against us because of its unholy connection to us. It was the blood of betrayal, the vitae that do omed the Cappadocian clan. t p
+he remaSCineS
+Some smartass made up the word “Premascine” as a joke and it stuck. It’s from “pre,” meaning “before,” and “masca,” meaning “bite.” Before the bite. Before
+Augustus put the bite on the Cappadocians. Droll. Anyway, despite the word for the m being sarcastic, quite a few Giovanni Kindred were Embraced before the
+Giovanni were the mselves a clan. Claudius Giovanni, for example, was the childe of Augustus before Augustus claimed his sire’s blood. You’ll no do ubt hear of Ambrogino Giovanni at some point in you r unlife, who, in addition to having the dubious honor of being perhaps the most self-interested fuck in an entire clan of self-interested fucks, has all but gone rogue, putting
+his own desires before the well-being of his fellows. Sure, he’s still welcome at the dinner table, but that’s only because who ever’s hosting him would like some idea of what he’s up to, if only to protect herself from him and maybe divert him toward a rival. A few more
+Giovanni Cappadocians must still be out the re and active, too. Not every Premascine agreed with Augustus’ decision to take the mantle of clan status upon himself, how ever. Just as some Jovians stood on either side of the Iconoclast heresy, so did some Giovanni Cappadocians stand on the other side of Augustus’ blatant bid for supremacy. In the modern nights, they’re only
+whispered about, but you can be certain they’re out the re. not hing kills a Kindred except another Kindred, Chapter one: a Familiar Con Ceit
+
+=== PAGE 25 === and the se venerable monsters had the good sense to of communication open. Why else would a portal to go to ground before the ir personal is sues of dissent the Premascines’ lair have been built in the family’s became fatal for the m. own have n? Some are rumored to have taken refuge in the Rumors abound of other Premascines as well. One
+can als of Venice. they supposedly make the ir ha- of the crazy Mexicans somebody Embraced to foster vens beneath the surface of the water. Granted, I’ve a New World connection many years ago has been never seen one; no one I know has, but two of you r talking about a cult of very old, very hostile Giovanni cuginos, Lupo and Giuseppe, swear that they’re do wn known as the Harbingers of Skulls. Word is that the se
+the re. Personally, I’m more than happy to keep the m “Harbingers” have all been driven mad by vengefulness as rumors. Think about it — they’re at least four cen- or neglect, having or iginally struck out on the ir own turies old, they’re bitter enough to have thought, “It’s with out anyone knowing shit about it. Other rumors better to hang out beneath the water for hundreds of about the Harbingers include you r standard battery of
+years than to see the family anymore,” and what ever Kindred paranoia — that they’ve joined the Sabbat, that they’ve been do ing do wn the re for those hundreds they’re the last of the “old clan” (which I guess is supof years, you just know it can’t be pleasant. The very posed to mean that they’re Cappadocians and the refore idea scares the shit out of me, and I’ve seen shit that bona fide Premascines), that they’re the tools of some would turn you paler than you already are. Now, you Antediluvian (Hello? We know our Antediluvian), or
+know that tonight’s Venice is built on the ruins of old that they’re ghosts given physical for m. what ever the
+Venice, right? That every year, the water table rises case, they’re always angry as fuck. I have n’t heard much just a bit higher in the Old World? Well, that’s where about the m outside of South and Central America. they make the ir have ns, in the submerged old city. If That’s what leads me to believe that they’re a brood you ever have a chance to travel to the Mausoleum, that followed the Kindred to the New World during you might even find a well on one of the higher crypt the Age of Exploration, and subsequently vanished
+floors. Throw a penny or stone in the re, and you’ll hear after losing contact. Still, if that was the case, they’d the plunk of it splashing into the water. See where I’m probably be on better terms with the Pisanob – the headed with this? Somewhere, somebody among the Mexican Giovanni — but that do esn’t seem to hold anziani thinks it’s a good idea to maybe keep the lanes true. I have heard, how ever, that some very powerful
+Clanbook: Giovanni
+
+=== PAGE 26 ===
+Kindred that others claim are Harbingers have been the Levant. Also, a few Giovanni fought on the front active in the Far East and Asia Minor, even moving lines of the conflict itself. Cosimo Abruzzi, a ghoul into Egypt at one point or another. Martino della Pas- who was Embraced on the field of battle, rode to saglia’s sire was reportedly do ne in by one of the “old Jerusalem with Baldwin of Edessa, who was crowned
+clan” or a Harbinger, depending upon who tells you the king. Cosimo (“the Faithful”) turned against Baldwin story, and Ambrogino’s been strange bedfellows with a on that trip, knowing that Baldwin’s coronation would
+Harbinger named Unre. This is another case not unlike make Jerusalem a feudal state instead of Archbishop the aquatic Venetian Premascines. they’re fucking old. Daimbert of Pisa’s vision of Jerusalem as a church they’re scary. they hate you just for being born. Stay state. That’s an important point — regardless of some away from the m. of the financial benefits the Giovanni reaped during
+Sorry. I went of f on a bit of a tangent the re. Still, the Crusades, the ir faith lay with the Church. Obvithis was when the biggest schism in the clan took place, ously, Archbishop Daimbert’s desires did n’t come to right at the family’s Embrace. Back when you could see fruition and the Giovanni lent the ir support to the the blood in Augustus’ eyes. Unlike most other clans’ wrong player, but the re’s no better outcome than failure intra-blood disputes, this one never really threatened to for what becomes a martyred cause. Maybe you r own
+cripple the clan. Few enough of us existed at the time failure (or, as in Cosimo’s case, death by burning) is n’t for this to be a huge ideological divide, and fewer still pragmatic for you, but it serves a great rallying point supported those radical fringes that advocated leaving for those who believe in you r cause. the fold in the wake of the new potential becoming Next, let’s be honest, the Giovanni made tre Kindred of fered us. mendous profit from the Crusades. Armies require t supplies, many of which were also provided by Giovanni
+oward merchants, and also shipped on those same Giovanni t r — vessels that carried Crusaders to the Holy Land. The he enaiSSan Ce
+Giovanni also returned fallen pilgrims to the ir homes… t F for a price… and ferried communications back and in wo or mS for th between the Popes and the field marshals. Even
+the battlefields the mselves of fered financial gain for
+After the Becoming, Giovanni history once again
+Giovanni scavengers: After battles, the blood-soaked grows quiet for a few hundred years. This was a period fields were of ten found littered with severed fingers in which the family was simultaneously conducting
+— the aftermath of those who cut the digits from the two calculated risks. First, not long after the Giovanni dead in or der to more easily remove the rings from became Kindred, the First Crusade occurred at the
+the ir lifeless hands. When the Crusades had run the ir behest of Pope Urban II, followed by a subsequent course by the late 14th century (yes, other Crusades series of other Crusades. This provided numerous opoccurred after that, but by the n the Giovanni had
+portunities for the Giovanni. I can honestly say that already made a place for the mselves), the already with out the healthy do se of good-old-fashioned mortal appreciable Giovanni coffers had swelled to as much
+hatred for his fellow man, the Giovanni would n’t be as 10 to 15 times the ir previous value. That do esn’t what we are tonight. mean as much now, in the modern nights with the ir
+Ostensibly, the Crusades took place to turn back overnight Internet millionaires, but consider the value the tide of heathens, infidels, heretics, satans, Turks the n. If I of fered to increase you r wealth by an or der of
+and other human detritus. Under the banner of “confucking magnitude just because the Palestinians hate verting” the se mongrel elements, war was waged, and the Jews, would you pass up the of fer? furiously at that. Finally, and most important for the time, all
+How did this help the Giovanni? the Giovanni help with the Crusades made for a
+First, despite my modern and apologetic opinion sympathetic all y in Rome and the Vatican. I’m not of the who le affair, the Crusades were a holy war. The going to suggest that we had the Church under our
+Giovanni, always devout in the ir unique fashion, had thumb — realpolitik do esn’t work like that and evolved from the ir Roman religion to the universal besides, the few Lasombra, Ventrue and Toreador
+Catholicism of Western Europe. Say what you want crawling through the clergy would never have alabout the practices we undertake, but we know that lowed that to happen. Rather, the Pope gave his we’re God’s people at the end of the night. This holy
+blessing to the Giovanni family. While our goals war was a chance to prove our righteousness to the were different, they at least coincided on matters world and to God Himself. Much like the Jovians’
+of faith and on the desire to keep the city-states ships brought Roman troops to northern Africa, the free from unilateral feudal rule. When the three
+Giovanni’s ships carried platoons of holy knights to
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 27 === greatest wielders of political power were the rich, or cock-ride dead men, which of course angered the the aristocracy and the Church, you’re do ing pretty spiriti that used to reside in those bodies, making well if you can put two in you r corner. the m easier to compel. t hinGS G row u Gly t he K hazar ’ S d iary
+It was right about this time, at the dawn of the Re- Toward the end of the 17th century, our knowledge naissance, that the Giovanni as the world now knows of the Black Art had the potential to progress even the m emerged. further when Claudius Giovanni, Augustus’ right-hand
+Kindred, turned up references to something known
+I think you know where I’m headed with this. With as the Khazar’s Diary while studying in Belgrade. Acall the money the Crusades brought in, the Giovanni cording to the handful of papers Claudius found, this found the mselves at a level of comfort far beyond may
+diary contained information that would transform our of the other merchant families, and, indeed, many knowledge of nigrimancy from ancestor worship and
+European aristocrats. Rot set in, and quickly. The skull-fucking into something that we could use to change
+Giovanni had the ir every pleasure and whim catered the world globally. to — so, to experience anything new, they had to turn to pastimes the rest of the world found… well, let’s For a long time, the Giovanni had supported the just say that many Giovanni chose to do what most idea that if they could only return to the nights when
+others would n’t dream of do ing. the spiriti could easily affect the world, the ir power would grow. It’s simple logic — the Giovanni are the
+Like many nobles and wealthy families, the only Kindred (well, the only Kindred of consequence)
+Giovanni had long been very selective about who to practice the Black Art, and if the subjects of that art they accepted into the ir family ranks. In many cases, could universally increase in power, so would our own cousins were married to each other to keep the blood
+power increase by extension. This desire to tear do wn from becoming diluted. As the rot spread through the the sudario is known as the search for the Endless Night, family, how ever, “keeping the blood pure” became a where by the dead and the living would share the same
+mere front for what ever sexual taste struck the whim plane of existence or something. I’m not demeaning it; of a given Giovanni. Now, not all Giovanni are init’s just a bit esoteric for me. Believe me, if it was easier cestuous — that would have with ered the family to to for ce an invisible ghost into the conference rooms
+invalids and vegetables long ago. But many Giovanni of investment firms, law partnerships, courtrooms, find the mselves craving the comforts of the ir fellows. senator’s bedchambers and, well, anywhere “insider
+Sisters have borne the ir brother’s children, uncles have information” either occurs or is discussed, we’d be a spawned new lines of the family with the ir nieces, and hell of a lot more influential than we already are. In
+mothers have do ted unhealthfully on the ir little boys. fact, we might not even need to hide from the world
+In fact, putting aside the social impropriety of the who le at all at that point…. fucking mess, most Giovanni afford a perverse status to those who do n’t stray from the family lines. You’ll But again, I’m wandering away from my topic. hear much talk of “single-blooded” Giovanni and the ir Claudius turns this sheaf of not es over to Augustus, supposed superiority over the “do uble-blooded.” In fact, who tells him that he’s seen a copy of this crazy Jew’s that’s why I agreed to sire you — you are the child of diary at the Cappadocian temple in Turkey. The dutiful
+you r mother and her father, and that makes you single- son, Claudius, goes to rifle the temple, which kind of blooded, and thus a “favored” member of the family, coincides with something else that was going on that much to my own esteem. I’ll talk about in a minute. Anyway, Claudius and his
+The tastes of the Giovanni did n’t simply confine recovery party sack the place, taking everything of value the mselves to kissing cousins and the like from the and burning the rest. Some speculation suggests that nights of the Renaissance to now, though. In fact, Claudius torched it out of frustration over not finding the Giovanni had grown so jaded in a few short years the diary. Other Giovanni think Claudius found the
+that almost any ill behavior that you could conceive book, but did n’t want to turn it over to Augustus, so of had some enthusiast with in the family ranks. Shit- he faked the “absence” of the book and burned the eaters, rapists, drug fiends, pedophiles, whack-job temple so no one could go back and find it missing religious cultists, fags, dykes, horse-fuckers, fetishists, later. Still others suspect that Claudius was faithful, murderers, and deviants of all fucking stripes — you found the Khazar’s Diary and presented it to Augustus, want ’em, you got ’em. Even nigrimancy itself under- who kept the who le thing quiet to give him time to
+went its own Renaissance the n, because not only study the thing. were the spirits being dealt with, the necromancers Here’s where things get fucked up. The Capuchin thought it was fun to stick the ir dicks in the corpses shows up at the Mausoleum — he’s one of those periph Clanbook: Giovanni
+
+=== PAGE 28 === eral “other” necromancers that have so little to of fer Oh, really, says Augustus. And what was that? The us… usually. Nobody knows what the Capuchin’s deal temple’s been destroyed, after all, so what could Claudius is. He’s a powerful member of the Capuchin branch of have possibly missed during his search? the Franciscans, and part of the group connecting the The True Vessel, says the wraith. Giovanni to the Church. Whether or not he’s Giovanni, Claudius met his Final Death one night later. I have no idea, but he’s got an of fer. He’ll trade some of
+e t his influence in the Church for training in necromancy. liminatin Gthe hreat
+Augustus takes the deal, seeing an opportunity to go Augustus diablerized the founder of the Cappathrough the Vatican’s enormous vault of confiscated do cian clan in 1444, elevating himself to the Third books and do cuments and maybe get to the bottom of Generation and splitting the Cappadocian clan into this Khazar’s Diary thing and push for ward the quest two distinct entities. On one side were the or iginal for the Endless Night. Cappadocians, who were too fractious, superstitious
+Plumbing the secret Vatican library, Augustus and passive, frankly, to have seen Augustus’ treachery comes across a piece of Japheth Cappadocius’ journal coming or to do anything about it. On the other side that just happens to have a ghost bound to it. That’s of the split was the Giovanni family, which had swelled common practice among necromancers and other to such mortal numbers as to be a significant for ce in
+sorcerers: binding spirits to the ir grimoires in or der to Kindred Society. keep prying eyes from discovering the ir secrets. Well, Nature, of course, abhors the Kindred, and Claudius this puissant guardian wraith is not hing compared to and Ambrogino convinced Augustus that to deal with
+Augustus’ necromantic abilities, so he overpowers the the threat posed by the remaining Cappadocians, thing and for ces it to tell him about anything Japheth something had to be do ne. with in a few short decades kept secret, like, oh, the location of a Khazar’s Diary, after Clan Cappadocian became Clan Giovanni, the or anything like that. other clans had taken to calling the Necromancers
+Sure, the wraith says. Japheth had hidden a powerful “Devil Kindred,” not only for the diablerie of the artifact at the Erciyes temple. Cappadocian founder, but for the ir less-than-savory pastimes. Rather than see the other Kindred unite against the m, the Giovanni agreed to remain for ever
+w i e n? hat Sthe ndleSS i Ght outside of Kindred affairs. Known as the Promise of
+The text of the Khazar’s Diary is rumored to
+1528, this agreement, I think, was an effort on the contain a ritual that will all ow the boundaries part of the Camarilla to shut do wn another Anarch between the physical world and the Underworld
+Revolt before it could happen. By making the Giovanni to be erased. The ritual, according to those with essentially apolitical outsiders, they would is olate the knowledge, requires the souls of 100,000,000 de Venetian family and its undead population from the
+parted individuals to enact. other Kindred. While the Anarch Revolt grew around
+The Giovanni have numerous different plans frustrated fledglings’ resentment of the ir elders, the to gather the se souls. Necromancy is the most
+“Devil Kindred problem” was, as the nascent Camarilla functional, but the Venetians also have the ability portrayed it, a clan war. to plan in the long term — we do n’t gather money
+That’s one of the blackest stains on the so-called just for the comfort of it. Yes, it’s nice to have a honor of the Camarilla — they pretend to be a genteel new Benz and a score of silk suits every season, but
+society, a quiet congregation of monsters too civilized garnering wealth is also practical. Given enough to call the mselves that. If you ever attend one of the ir money and influence, the Giovanni can crash
+parties or salons, and I’m sure you will, you’ll see the m the global economy. As nations crumble under as possessed of a certain Johnsonian wit. the irs is an
+Giovanni-applied embargoes and sanctions, chaos elaborate culture, founded on rules, politeness, civility reigns. Nations starve. Riots rage. War breaks out. and grace. the irs is also a society of snakes. People die. One more soul added to the stockpile
+As it shook out, the Promise of 1528 was not hing each time that happens. short of the Camarilla’s tacit approval of the genocide
+Selfish? Sure — but we’d be stupid to play the of the Cappadocians. they could n’t risk another fac Jyhad for anyone other than ourselves. tion’s for mation, as they were dealing with a you ng and
+Needless to say, 100,000,000 souls is no small for mative sect known as the Sabbat at that time. Also, matter. Still, the Giovanni have for ever to assemble the Giovanni posed threats to power that had been the ir resources…. the traditional do mains of the fucking aristocracy that
+It’s going to be wonderful to have God as for med the backbone of the Camarilla — the Ventrue a neighbor. found the mselves but ting heads with the Giovanni
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 29 === soon after the Renaissance, the Toreador vied with the take place at the touch of a but ton or through a
+Giovanni for patronage of the arts during that time and fiber-optic network. The clan grows in numbers even the Tremere ran into the Giovanni as the family as well as wealth, and since the Age of Industry, spread across Europe and into the ir Vienna stronghold. neonates began to be assets rather than vanities. If someone had to die in or der to preserve the fragile Because no other clan apart from the Tremere has
+Camarilla, the elders of that self-appointed sect would a for mal structure, childer of the se clans tend to be gladly let that someone bleed. luxuries for the ir sires. Ventrue Embrace protégés, And bleed the Cappadocians did. Although it Toreador Embrace who ever’s the “it” childe of the took us the better part of three centuries to do it, we moment. The Nosferatu atone for the ir nastiness by finally managed to destroy every last one of the Cap- picking people uglier than the m to drag into the ir
+padocians. the ir time had passed; they were merely own personal hells. the step that brought the Giovanni to our inevitable The Giovanni, though, Embrace those with the fate, and once that role had been satisfied, we no vision to lead the clan toward the Endless Night. It’s a longer needed the m. Giovanni Kindred and mortals war of ten fought with out guns, as new “soldiers” learned alike raided Cappadocian have ns, drinking deeply of in the most current ways of the world. While we revere
+the ir blood and turning the ir servants out into the our elders, we also understand the Kindred state for streets. From the Middle East to the expanses of the what it is, which is very of ten stasis from the moment
+New World, Cappadocian s crumbled to dust beneath of the Embrace onward. Honestly, consider Augustus the fangs of the thorough Giovanni. Giovanni. The guy was Embraced in the 15th century. Now, of course I’m sure some managed to go to Do you really think he even knows how to work a teleground or hide. When I said “every last one of the phone, much less corner global commodities markets
+Cappadocians,” I mean the ones who would have by using his laptop to do day trading? remained active. No do ubt some went into torpor or That’s what the other clans just do n’t understand: sank into the earth. I’ve even heard persistent rumors Every Giovanni has a role. I’m not going to pretend of “the last Cappadocian!” (who usually turns out to that we’re a family with out our treachery and probbe some unfortunate dink who dies after bringing such lems. In the modern nights, in fact, I sometimes think attention to himself) or broods that had escaped the we resemble a corporation more than a family. Sure, living realm and fled to the Underworld. The end re- we’re related, but we fuck each other over if it do es sult, though, is dick. If they went to the Underworld, us some good. Hell, sometimes we literally fuck each
+what the fuck are they do ing for blood? If they’re in other, if we think it’ll make us feel good or give us an torpor, they’re not a threat. If they’re slumbering in edge over a rival who just happens to be part of the the soil, maybe some archaeologist will dig the m up same branch of the family tree. In the end, though, and expose the m to the sun. While some Cappado- we have a goal, which other clans either never had cians must have escaped the purge, all they did was or lost along the way. postpone the ir fates, not avert the m. Remember when I said we’d win? That’s why. We
+C G not only know we’re playing the game, we’re using its enturie SoF rowth own rules against it. e i
+In the aftermath of the Renaissance, the Giovanni xpan Sion nto had all but paved the ir way to being the most cohesive clan of to face the future. Unlike the other clans, the Giovanni the r amilieS operate not only with a reverence for the elders, but also
+with a merit-based structure. Think of it as functional, Despite the misleading name of our clan, Giovanni planned obsolescence. Here, I’ll show you. Kindred are not all for mer members of the Giovanni
+As the Renaissance drew to a close, the next mortal family. Of course, we’ve got no problem letting important age for the Giovanni was the Age of In- the idiots in the other clans believe that. dustry. (Yes the Reformation was important, mainly In the thousand years we Giovanni have been due to our continued relationship with the Church. Embracing Kindred, we’ve brought a number of
+Still, that period was not one of marked economic other families into the fold — three major families, difference from the Renaissance.) the reafter, the the Dunsirn, the Pisanob and the Milliners, and a modern nights became a time that’s proven even handful of minor ones. Each of the se families posmore lucrative than the Renaissance for us. To- sessed something the clan wanted — and what the night, it’s easy to make money, and to do it quickly. Giovanni want, we take, as you’re no do ubt aware. Meetings with business partners nations away can You’d be surprised how easy it is to convince families
+Clanbook: Giovanni
+
+=== PAGE 30 === to take or ders from you when you can guarantee the m shitloads of cash and “immortality” for the ir best and brightest in return. In the face of that, concerns about
+who’s in charge just seem to fade away. You think that’s hypocritical with what I said before? Sure it is. But hypocrisy is the greatest luxury, and if you can’t dwell in luxury, you may as well make you r have n in a box in an all eyway. A hundred million souls is a lot to gather. Look at
+the se other families as the aid we’ve enlisted to do the dirty work. t d he un Sirn
+The first of the major families the Giovanni coopted was the Dunsirn. It was the early 1700s, and the Giovanni were looking for a ticket to the growing markets of the New World. A clan of
+Scottish bankers who were all rich as Croesus, the
+Dunsirn came to Augustus’ attention because they held controlling interest on a number of shipping ventures destined for the English colonies in North
+America. Not only that but the Dunsirn had been lending money for centuries, and as a result, they had accumulated favors throughout the United
+Kingdom and Ireland. Another less savory bit of information Augustus uncovered about the m was that the Dunsirn were also can nibals. Of course, what may have been a deal breaker for anyone else was seen as a plus by Augustus, who holds a great appreciation for people who know
+how to keep a secret. It seems that, several hundred years before, one of the Dunsirn discovered a taste for human flesh. Understandably shocked, the family banished the can nibal from the estate and disowned him. Not giving a damn, he hied himself to the countryside, found himself a bride and raised his own little family of can nibals. Eventually, the se guys tired of squatting in peat
+bogs and voiced the ir displeasure to the Dunsirn family proper. Of course, by “voiced the ir displeasure,” I mean
+“killed and ate.”
+After disposing of the more genteel side of the family, the se fellows took over the family business and have run it ever since. In that capacity, the Dunsirn serve as one of Clan Giovanni’s chief moneymakers. the se guys invariably chose to tithe the Giovanni
+in money rather than souls, as few of the Dunsirn show an interest in learning Necromancy. Maybe its because they know they would be stuck talking to the ir for mer dinner. Also, for reasons we do n’t understand, the fucking
+Lupines have shown an inordinate amount of interest in the family and have even invaded Dunsirn estates on two occasions we Giovanni are aware of. What the ir
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 31 === problem with the Dunsirn is, we got no idea. But the n, who knows what the fuck those hairy bastardi are going to get bent out of shape about? Fuck ’em. As an aside, you know what’s fucking creepy as all hell? Watching one of the ir mortal is sue eat a sandwich. Once I went to Stirling to roll the ir tithe into
+American commodities and I met one of the ir little haggis-to-be. Little freak did n’t even say hello, just chomped away on that hard roll with mystery meat. It was n’t pleasant, and I did n’t know whether or not to say anything, so I just shut up. t p
+he is anoB
+In the early 16th century, Hernando Cortes set of f on an expedition from the Spanish colony of
+Cuba to investigate tales of a rich Indian empire in
+Mexico. Being opportunists, a few Giovanni went along with Cortes. What they discovered was the
+Aztec Empire and its capital Tenochtitlan and the largest scale and most for malized use of necromancy the Giovanni had ever seen. The Giovanni were suitably impressed. The conquistadors, on the other
+hand, were horrified. So, the Spaniards did the only thing a group of more advanced God-fearing Christians could do when confronted with a culture they could not understand. they slaughtered everyone and stole the ir stuff. Stupid spics. As I said though, the Giovanni who had traveled
+with Cortes were impressed with the necromantic skill evinced by the Aztec priests. With the ir own nigrimancy, the Kindred not iced trouble brewing in the Aztec part of the Underworld. It seems that a
+group of European spiriti had tagged along with Cortes’ expedition too. Pretty soon, the se wraiths were joined by others, and eventually, the se ignorant fucks took to enslaving the wraiths of the Aztecs, who were just
+as ill prepared to defend the mselves as the ir living counterparts had been. the se zealous wraiths were even more thorough than the conquistadors, destroying the souls of thousands upon thousands of native spiriti. Pretty soon, all the killing on both sides of the sudario
+became terrible enough to spark another maelstrom. The Giovanni had dealt with a similar situation a mere two centuries earlier and so were aware of what was happening. The Aztec priests were caught completely flat-footed, how ever. Not wanting to see such talent at necromancy
+destroyed outright, the Giovanni at Tenochtitlan sent word home via spiriti asking permission to Embrace some of the se heathen priests. Augustus and the anziani were intrigued and agreed. So, our boys approached the priests, who referred to the mselves
+as pisanob (which is a Mayan term that translates as something like “ghosts of the dead that walk the
+Clanbook: Giovanni
+
+=== PAGE 32 === p p? o Chtlithe remaSCine
+Given the Pisanob founder’s unwholesome appearance and his predilection for calling for th shambling zombu servants, it is not surprising that rumors of Pochtli being Cappadocian rather than Giovanni began to circulate. how ever, rumors aside, the re is, in fact, strong evidence that Pochtli may indeed be one of the fallen line’s childer. First, none of the surviving Giovanni who followed Cortes’ conquistadors to Tenochtitlan claim to have sired Pochtli, though they readily admit to Embracing other Pisanob. In fact, if family records and Kindred
+memory serve, no fifth-generation Giovanni Kindred even visited the New World during the conquest of the Aztecs. (Given the reliability of travel on the high seas during the 16th century, no elder would deign to make a months-long ocean voyage with out an extremely compelling reason.)
+Second, tales told by other Kindred of Mesoamerica speak of an ancient vampire who dwelt among the
+Aztecs with a brood of his childer and was worshiped as the god of war, Huitzilopochtli. Obviously, the similarities between this Huitzilopochtli and the father of the Pisanob, Pochtli, are pronounced. how ever, the se same Mesoamerican Kindred insist that Huitzilopochtli stalked among the Aztecs as far back as the 12th century, nearly 400 years prior to the first Giovanni setting foot in the New World. And finally, some Giovanni cite the is sue of Pochtli’s corpse-like visage. Like the Giovanni’s Cappadocian predecessors, Pochtli appears to be an ambulatory corpse, with pale, parchment-dry skin stretched tight over
+prominent bones and a hideous face with lidless, sunken eyes, no nose and lips that have receded to expose a maw of sharp fangs. The only “Giovanni” to evince similar features are the Premascines or a suspicious few
+“atavisms of the Blood.”
+As such, quite a lot of circumstantial evidence supports the the or y that Pochtli is a survivor of
+Clan Cappadocian but no concrete proof exists. It’s possible that Pochtli’s sire met Final Death before he could return from the New World or that Pochtli’s sire still exists but is unwilling to take credit for creating a deformed wretch like the head of the Pisanob. It’s possible that Huitzilopochtli is another
+Kindred entirely or that he is merely a myth promulgated by Cainites who, by Giovanni standards, are little better than the savages they sprang from. Also, a number of cases have been do cumented in which Kindred have become physically malformed by the Embrace though the ir clan has no history of such deformity. Cainite vitae is a volatile substance who se effects on mortal physiology can not always be predicted. the refore, it’s possible that Pochtli is not hing more than a Giovanni Kindred with an
+unfortunate countenance, who is being slandered merely because he is different. If the rumor and conjecture are true, though, it raises plenty of questions. Why was Pochtli all owed to survive, rather than destroyed with the rest of the clan? Is he creating more of his kind with in his ancient temple? And are his recent “failures” in dealing with the Harbingers of Skulls indicative of some sinister secret agenda, where he perhaps plans to join with the Lazarenes in the ir efforts to eradicate the Giovanni? what ever the truth, no answers seem for thcoming. And the conjecture continues. earth”), with the ir of fer and were escorted to the ir Giovanni in Venice, the Pisanob in Tenochtitlan. leader, a fellow known as Pochtli. Apparently, this And both used the dark arts of nigrimancy to emproved to be copacetic with the man because Pochtli power the mselves, only to have that power denied
+remains the unattractive head of the Pisanob branch when it was most needed by the effects of a hellish of the Giovanni clan to this night. spirit-storm in the Underworld. I used to wonder why the Giovanni who visited t m he illinerS
+Tenochtitlan were so quick to Embrace the Pisanob. The more I thought about it though, I began to realize the se guys are great. I’ve never met a Giovanni… how much the history of the Aztecs mirrored that hell, I never met a damn Putanesca who could hold of the early Giovanni family. Both were groups of a grudge like Francis Milliner. refugees who were for ced by circumstances beyond It all started in Boston, Massachusetts, at the the ir control to move to a new homeland. Both Columbia Trust Company in the early 20th century. settled in a harsh, watery are a and, through for ce It seems Francis was up for the presidency of the
+of will, helped carve out a mighty city of grandiose company when the current one, P.J. Kennedy (yes, of architecture, crisscrossed by stately can als — the those Kennedys), retired. But lo and behold, nepotism
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 33 === rears its ugly head, and you ng Mr. Milliner is passed tea and, most lucrative of all, opium. More recently, over for promotion in favor of his much you nger as- the della Passaglia have spent the past quarter century sociate, Joe Kennedy. So Francis got screwed. studying the bizarre for ms of Necromancy practiced by
+But our friend Milliner did n’t let it die the re. Our the Kindred of the East. It seems the death paradigm
+Francis had a lot of friends among the old-money works differently the re, and the della Passaglia are our families of New England. He had also made connec- resident experts on Asian than atology. tions among New York’s Italian immigrant population, The Ghiberti we acquired in the early 17th century the most significant being and reas Giovanni, just when it became obvious how much money was just of f the boat from Venice. Using the se connections, waiting to be made in the triangle trade between the
+Milliner began to slowly chip away at the Kennedy United States, West Africa and the West Indies. the ir financial base while the Kennedys the mselves were contact with Africa’s indigenous people (which was busy playing politics. more than just a business arrangement with some of
+Not content merely to destroy the family’s financ- the se guys, if you know what I mean) also afforded the es, Milliner went so far as to buy the Kennedy estate Ghiberti a unique opportunity to study the se peoples’ right out from under the m (they still pay rent the re concept of death, with the ir ideas about four-part to this night, so say the Milliners). By this time, Joe souls and spiritual reincarnation. The Ghiberti even
+Senior was dead, but Milliner continued to take great developed the ir own unique brand of Necromancy, the pleasure in destroying the man’s legacy. Look at the Cenotaph Path, which concerns itself with tracking facts. JFK and Robert Kennedy assassinated. Teddy’s do wn and binding wraiths — not too different from
+Chappaquiddick debacle with Mary Jo Kopechne. what the se guys were do ing to the living in Africa, if
+David Kennedy’s drug overdose. will iam Kennedy you ask me. Smith’s rape case. Michael’s ludicrous skiing mishap. The Putanesca, who se very name translates as “of
+Even JFK Junior’s recent “accidental” plane crash. Of the who re,” are a Sicilian family of low-rent criminals course, the re is absolutely no evidence tying Francis and thugs we acquired in the 1660s to do the family’s
+Milliner or his family to any of the se mishaps, but dirty work. It may be the della Passaglia who import the old man do es have a shelf prominently display- the opium, but you can bet it will be a Putanesca ing six skulls in his study on the Milliner estate, the out on the street dealing smack. Growing out of the last of which was placed the re on July 16, 1999, only Sicilian Mafia, the Putanesca invariably live do wn to
+hours after JFK Junior’s plane was reported overdue the ir goomba stereotype. The average Putanesca also at Martha’s Vineyard. has a temper that’d put a fucking Brujah to shame. Let’s just say Francis’ demeanor, his ability to hate Not the type to for give and for get, the se guys are and hold a grudge, suitably impressed Augustus, and real big on the concept of vendetta. If you’ve got he had the Milliners brought into the fold in the mid- one of the se guys mad at you, it’s not long till the
+’50s. they’ve since proven the ir worth, having been who le damn family is out trying to whack you. the ir instrumental in the recent Giovanni takeover of Boston only redeeming value is that the Putanesca seem to and had facilitated our behind-the-scenes operations for thrive on shit work. I guess that’s why Augustus and decades prior. Like the Scottish Dunsirn, the Milliners the anziani keep the m around. do n’t care much for Necromancy, being more concerned the n the re are the Rosselini. the se guys have
+with the business of making money. been around just about as long as the Giovanni and t m F were quite proficient in necromancy before ever runhe inor amilieS ning into us, perhaps due to the same Roman roots. In our rise to mercantile do minance, first If the Cappadocians had n’t run into us first, its quite through Crusade profiteering and the n with the possible that the Rosselini might have been singled
+explosive growth in trade experienced during the out for the Embrace instead. As it is, we first came
+Renaissance, we Giovanni absorbed several lesser across the se guys toward the end of the Renaissance, merchant families that had tried to “share in” on when a coven of the m made the mistake of pissing our do mains. Rather than simply drive the m into of f Claudius Giovanni while he was in Rome on famthe ground, the Giovanni family brought the se ily business. Claudius tore the souls from the living lesser merchant families into the fold, where they bodies of the Rosselini, agreeing to return the m only continue to make a small but significant contribu- if the ir sorcerers swore an oath of fealty to him and
+tion to Giovanni wealth and prosperity. the Giovanni clan. Given the ir options, the Rosselini
+The absorption of the della Passaglia in the 1400s naturally agreed. Since the n, Kindred of the Rosselini gave us our first inroad to trade in the or ient. We did branch have proven as talented at nigrimancy as the a brisk trade in outdated firearms in exchange for silks, Giovanni proper. how ever, where a Giovanni will do
+Clanbook: Giovanni
+
+=== PAGE 34 === the minimum he needs to compel a spirit to obey, a during the height of Pol Pot’s killing fields. Paying of f
+Rosselini will go over the top to commit an atrocity of ficials of the Khmer Rouge, the della Passaglia were, far out of proportion to what is required to assure a for the first time, afforded the chance to study death wraith’s compliance just because she gets of f on it. As a on such a mass scale. result, Rosselini Necromancers tend to crash and burn It was also during this period that the della Passaglia spectacularly, of ten driving spiriti to become spettri in first met the matriarchs of Southeast Asia’s Golden the process. Courts, the Penangallan, who are apparently the Ca The Giovanni clan also harbors a number of thayans’ answer to the fleshcrafting Tzimisce. Since
+lesser families related to the clan through marriage the n, the se Eastern Kindred have shown an interest to one Giovanni or another. Of the se, Augustus has in acquiring knowledge of Western Kindred from the his eyes on five for possible “acquisition.” the se are della Passaglia in exchange for giving the m free rein to the St. John (a cabal of English Masons), the Roth- collect souls, which considering the number of people
+stein (Jewish-American Kabbalists with ties to Las dying in Cambodia with either unfinished business or
+Vegas), the Li Weng (a family of Chinese geomancers in utter despair was inordinately high and the reby more based in San Francisco’s Chinatown), the Koenig likely to create spiriti or spettri, respectively, seemed a
+(German arms manufacturers and death cultists) and rather sweet deal. the Beryn (a family of Flemish merchants operating from Luxembourg with African influence like that
+S B tran Ge ed FellowS of the Ghiberti). Until recently, the re was a sixth such family, but the Mexico-based Hidalgo recently Due to the recent upheaval in the Shadowran afoul of the Sabbat — the Harbingers of Skulls, lands, the nigrimancy of the modern Giovanni has
+according to the most nefarious rumors — and were suffered to one degree or another among all practiwiped out. tioners in the family. Because the mechanical aspect of this development plays such an important role in h C olidayin am Bodia what the Giovanni have become (particularly over
+Not having had the opportunity to study the system- the past few years), Giovanni history continues in atic slaughter exercised by Hitler and Stalin in Europe, Chapter Two. The clan’s role in the modern nights the Necromancers of the della Passaglia family made a is discussed at greater length the rein. concerted effort to gain access to Cambodia in the 1970s
+Chapter one: a Familiar Con Ceit
+
+=== PAGE 35 ===
+Clanbook: Giovanni
+
+=== PAGE 36 ===
+C t: hapter wo i r t unS in
+F the amily
+Why should a man, who se blood is warm with in, sit like his grandsire cut in alabaster? — will iam Shakespeare, The Merchant of Venice, Act I, Scene I
+Most Kindred sires choose who they Embrace. In ily, though widespread, is tightly knit. Everyone comes the Camarilla, this is of ten a complicated matter of to a family Christmas party, damn it. If you receive an paying dues until one gets permission, the n spending invitation to one of the other reunions — the ones months, years — even decades — picking the perfect they hold every April 4th — you better show up for
+person to drag into eternity. In the Sabbat it can be a fucking sure. lot simpler. “Hey, he looks tough, let’s get him!” But Many of the Giovanni are mostly ignorant, but only those Sabbat who last more than a week or two tend to the truly clueless are completely ignorant. Too many be those who were Embraced after some thought and rumors circulate, even among the backward bumpkins deliberation. In neither case do es either sect foster a who are n’t going to be shown the Horrible Truth in a
+perception of obligation. Neither group feels it owes million years. they may not know, but they suspect. the Embrace to any mortal. So many whispers and overheard remarks and strange
+Among the Giovanni, the criteria are completely goings-on make the rounds that even the dullest needle different. Merit figures into it, but only with in the narrow in the pincushion is eventually going to stitch something confines of family. A mortal may seem tremendously together. they know that some people in the family useful and worthy, but if she’s not one of the accepted get picked, and if you’re picked, you get money. You
+mortal bloodlines, the odds of her becoming a Giovanni attend all the parties, even the secret ones. You always
+Kindred are slight indeed. look good, you always know what’s going on, you always
+This do esn’t mean that every Giovanni cousin have a smug half-smile when you look at the ones who eventually suffers the Curse of Caine, regardless of were n’t picked. merit. Far from it. Most do n’t even rate the Proxy Thus, even the Giovanni (and, to a lesser extent, Kiss, the brutal period of being a ghoul. But the fam- the Milliners, Pisanob and Dunsirn) who do n’t know
+Chapter two: it runs in the Family
+
+=== PAGE 37 === exactly what’s going on know that something is going The ghouls with the Proxy Kiss are, of course, on. Something powerful. Something they want, very well aware that it’s better to receive the Embrace from much, to earn. someone like Diego than someone like Gianmaria
+The Giovanni, the n, are a family of overachiev- (while they may not understand the complexities of ers. But it’s not as simple as just excelling in general. generation, they’re well aware of the political edge that
+See, the ones who have n’t been picked of ten have a being close to an elder gives). Thus, they are constantly hard time knowing who has. If you do n’t know for sure competing to prove the ir loyalty to the family and to who made the cut, it’s hard to suss out why they did. So individual vampires. Remember, the Giovanni are a while one Giovanni concentrates on making the start- driven family, and the Proxy Kiss goes to those who
+ing soccer team, another turns do wn dates so he can stand out of a field of overachievers. The most common practice the violin, and a third is just grade-grubbing way to do this, of course, is to accept a blood bond to an as hard as she possibly can. they’re all gambling that elder. of ten, do ing so is something of a slippery slope: the ir chosen field is the one that earns the m the big The ghoul takes the first drink outside the Proxy Kiss reward. what ever it is. from a different do mitor because it seems like a good
+In actuality, the Giovanni Embrace is just as com- way to ingratiate herself. She’s now partially bound to plicated as the Camarilla one — just in a different way. two vampires, and thus inclined to think well of both
+What is intensely personal and private in the Camarilla of the m. That makes her more likely to trust the m to is of ten decided in a for um of Giovanni elders. Diego give her the second drink, which makes her so very
+Giovanni’s grandchilde (and great-granddaughter) trusting that the third drink only seems like common
+Gianmaria has wanted to bestow an Embrace for some sense. Unless her other do mitor stops her somewhere in time, but it’s not her decision. Diego and other members the middle of this progression, she is likely to become of the low-generation anziani will have a heavy stake completely bound. On the other hand, it’s not unheard of in deciding who and when Gianmaria Embraces. She for someone partially bound to two (or more!) do mitors
+might suggest that one of her mortal children is worthy to become the object of a sort of bidding war between of the Embrace, but Diego might instead have her do the m. of ten, she ends up totally bound to one and the a Milliner or Pisanob. She can propose all she wants: dire enemy of the other. Is it any surprise that deathless
+It’s her childe, after all. But the anziani can dispose, overachievers competing for the affections of the same because when all is said and do ne, it’s the ir blood — ghoul may come to hate each other? two times over. Given the family belief that the blood bond clouds
+In other cases, some rogue may just decide to Em- you r judgement, it ironically turns out that many of brace when he takes the whim. It’s happened before the se bond-addled ghouls never earn the Embrace. — some fuckhead drags his girlfriend into undeath; It’s akin to the old baked goods proverb: Why buy the some fool Embraces a lawyer. It’s better to ask for give- loaf when you can have the slices for free? Why reward ness than permission, right? Not among the Giovanni, someone with the Embrace if she’s perfectly devoted
+friend. At least, not usually. as a ghoul? The elders consider numerous factors when it comes The inevitable bond created by the Proxy Kiss itself to deciding who Embraces who m. First and for emost, is another factor in the elders’ decision. they know that the re’s generation. Higher generation vampires are each neonate may well be bound to his or iginal do mitor, more powerful. the refore, the Giovanni would be the so they try to ensure that Giovanni who are n’t completely strongest clan if they just had elders like Diego do all trustworthy (like, say, Paolo Sardenzo) never have the ir
+the Embracing, right? thralls Embraced. Furthermore, each elder surely wants to make sure that she (or one of her childer) is the one
+In the or y, that’s true. In practice, that was exactly giving the Embrace to the most useful mortal cousins. what the son of a bitch who accidentally founded the
+Of course, the other anziani are all thinking the same clan did with the ancestral Giovanni. As near as anything, and if they can’t get the Embrace they want, one can tell, this Kindred figured, “If the se mortals are they may gang up with other elders to make sure the ir powerful alone, how much more will they be able to do
+rival do esn’t either — the opportunism in the family when augmented with my potent vitae?” The answer do esn’t stop after death, after all. Some very talented to that question was, obviously, that they were able to
+Giovanni ghouls have had the ir Embrace delayed for diablerize him and erase most of his brood. decades — not because nobody wanted the m, but
+So the modern Giovanni are cautious: they know because too many anziani did. Because no lone elder that every neonate finds out about Amaranth sooner can overcome the political coalition of the others, the
+or later, and they do n’t want to make it any easier ghoul sits on the shelf until he’s so devoted to multiple for amoral, uppity you ngsters to start can nibalizing do mitors that he’s no longer a great prize. the ir ancestors. Clanbook: Giovanni
+
+=== PAGE 38 ===
+Once one looks past the political maze of blood most important thing in the world. Thus, a Giovanni bonds and the tactical labyrinth of generation, only is of ten more likely to ask the elder’s permission to the n is a potential neonate evaluated as an individual. Embrace one of the children she had as a mortal (or a
+The criteria applied by the anziani differ from elder to grandchild, or great-grandchild). elder, but of ten include… Gender — Four centuries ago, it was common
+Name — Hey, the Giovanni did n’t end up where knowledge that women were hysterical, inherently they are tonight with out healthy do ses of nepotism. This sinful, weak and good for little more than mopping, means that the less-promising child of a not eworthy cooking and screwing. Of course, it was also common mortal father may enjoy preferential treatment. The knowledge that the Earth was flat. Some of the anziani
+Milliners and American Dunsirn have been known to have overcome the ir now-anachronistic upbringing, call this “the Bush effect.” Or, if they’re on the other but for most those old habits die hard. side of the political fence, the “the John-John effect.” a (e ) nziani lderS
+Talent — Sure, it’s not the only factor, but it’s still an important one. If you earn the Embrace, you do In some ways, the Giovanni anziani are like Kindred because you’re damn good at something. elders all over the world. they’re crafty. they’re pow Nature of talent — On the other hand, if the clan erful. they’re usually bitter and resentful. And they’re decides they need more asskickers, someone who’s placed paranoid the way only something with a “death-optional”
+in Spain’s national Greco-Roman wrestling champion- existence can be. ship may find himself Embraced before a truly brilliant Many of the anziani (as they’re respectfully called) stock investor — who can, after all, continue investing reside in the Venice mansion — the fabled Mausoleum during the day. of the Giovanni. Several of the m have left Venice
+Genealogy — It should n’t be a factor, but some in or der to or ganize Giovanni activities worldwide, elders still harbor a bit of a sentimental streak for the how ever. Accorri Giovanni, who is relatively you ng family. This would be more surprising in a Kindred who for an eighth-generation Kindred, has made his have n was n’t raised from infancy to think the family is the in New York almost since the city’s founding. The d p
+ie Goon rophe Cy
+The “red star.” “Thin bloods.” Myriad signs of the “final nights.”
+To all this, I say: Bah! I’ve seen all this before. Red stars have risen and set — comets in the Middle Ages, the n Communist Russia — even Sputnik had some Kindred scholars gibbering and weeping with fear of the rising Old Ones. Yet no Old Ones rose, no Gehenna, only shamefaced scholars looking crestfallen and relieved at the same time. It’s the same with the thin bloods. I knew a scholar and paranormal anatomist who believed that the Tenth Generation were the “thin bloods” of the prophecies, because after the m it was impossible for Kindred to weaken any further, or some such. Another saw the foundation of the Camarilla as the completion of some line about “the re will be no
+Embracing for the se childer.” Similar rubbish. I disdain prophecy because I have seen thousands of hysterical prophets — mortal, Kindred and other — pointing portentously to the predicted site of disaster, booming out, “Lo! Behold!” in great voices, only to have not hing materialize. Every century had its “Y2K” disappointment, believe me. More, though, I mistrust prophecy because I know that those messages have to come from somewhere, meaning they come from an intelligence. Although intelligence gives many gifts, it also creates its own expectations, its own false images, its own will ful misinterpretations of the naked facts. To put it another way: If I know what’s going to happen, what do es it profit me to share that knowledge? Would
+I not be wiser to prepare and let the future strike my enemies unaware? No, those givers of prophecy show the ir knowledge only because it gains the m something to have the ir predictions believed. Specifically, once they are believed they become part of the intelligent expectations of the hearer, who the n
+(will ing or no) makes the prophecy more likely. Why do you think they’re all so vague? If I tell you, “You will fall do wn this staircase on April 8, 1921,” you will simply stay away from the stairway on that date and I’m proved a false prophet. But if I tell you “You will fall do wn a staircase,” well…. Now, every staircase you walk upon becomes a threat. Perhaps the prophecy festers in you r head so much that you trip just to have it do ne with. Or perhaps it distracts you from the real threat, from me with the blackened stake at the foot of the stairs, and the n when you realize
+the prophecy was false… well, it’s too late for you. Chapter two: it runs in the Family
+
+=== PAGE 39 === not or ious Ambrogino Giovanni travels throughout
+Europe, though if his actions are for his own benefit or that of the clan (or, most probably, some combination of both) no one can say for sure. Diego Giovanni is also known as quite the traveler, checking in on
+Giovanni activities in Africa and the Americas as of ten as once a decade. More of ten, the anziani make the ir will known less directly. In ages past, the ir wraithly servants scoured the globe, spying on the elders’ enemies no less than
+the ir all ies and carrying messages of the elders’ will. In the modern nights, some are finally confident with telephones and televisions for unimportant matters. For is sues of greater urgency or significance, they still prefer a personal messenger. After all, if they understand it correctly, just anybody could tap into the wires of a
+telephone. It is the elders, primarily, who are most interested in tearing do wn the Shroud, or sudario, and bringing on the Endless Night. how ever, the ir eagerness to unify the worlds of life and death is mitigated by the ir
+own innate caution. One do esn’t survive centuries as an object of fear and hatred of other Kindred by being has ty or obvious. Thus, the anziani are slow, but unstoppable, in the ir accumulation of the hundred million dead souls they need to realize the ir ambitions. Or they were. In 1999, they had managed to scrape together almost
+twenty-eight million imprisoned souls — over a quarter of the way to the Endless Night! Better still, over half of those had been harvested in the last hundred years. A booming population made for more remaindered spirits
+even in good times, and two World Wars were definitely not good times. Many of the optimistic anziani were looking for ward to reaching the halfway point with in decades. Given the way technological mayhem was
+becoming more and more refined, it was mostly agreed that when fifty million souls had been claimed, it would be time for the m to cross the sudario physically, crash the world economy, provoke a nuclear war and harvest
+the second half all at once. the n the realm of the dead imploded. The Giovanni are n’t sure who exactly they want to blame for that. Some think it was a cabal of lunatic mortal necromancers who revere or pheus. Others blame a handful of flesh-eating Kindred cultists who fled to the East in the wake of the maelstrom. Still others say it was the spiriti
+the mselves, having gotten the ir shit together enough to do something major for once (even if the overall effect screwed the spiriti more than anyone else). When the spirit-storm hit, it weakened the sudario, but more importantly it blasted through the pillaged souls of the Giovanni. The Giovanni had primarily designed
+the ir enclosures to keep the ir captured wraiths in. they
+Clanbook: Giovanni
+
+=== PAGE 40 === were n’t meant to protect those ghosts from external may serve as an anchor for several (or, the or etically, dangers. But the maelstrom hit the Giovanni’s five do zens) of spirits, just locating and obtaining one could wraithly gulags all over the world (Boston, the Pisanob ensnare a harvest of ghosts that would take a year to temple in Mexico, Cagliari on Sardinia, Marrakech in accumulate in calmer times. Morocco and, of course, Venice) and blasted the m wide Furthermore, the wreckage on the other side of the
+open. Many of the spirits inside were simply destroyed. Shroud means no one’s minding the store. In ages past, A large number in Venice were immediately recaptured the Giovanni had to show some circumspection when as they foolishly stuck around to avenge the mselves on it came to seizing the more powerful spiriti out from the ir captors. The depositories in the Americas had terse Underworld, because you do n’t come to be a powerful advance warning and were able to prepare for the storm spirito the re with out all ies guarding you r back. Now, it’s
+somewhat better than those in Europe and Africa, but every ghost for itself, and that means an or ganized group unavoidable losses still occurred. Worse, many of the of Pisanob or Ghiberti can imprison large numbers of spiriti that escaped have undergone the transformation very strong spirits by working together and targeting to spettri and are determined to punish the Giovanni the m one at a time. clan for the ir captivity. The Necromancers are n’t the only ones taking
+Now, the Giovanni clan is do wn to a fraction of advantage of anarchy in the realms of the dead. The the ir for mer ghostly resources — a tiny ratio of what Underworld or ganization that for bade wraiths from takthey need for the ir ultimate plan. The Necromancers, ing action in the world of the living (such as possessing of course, have staged a great deal of discussion about mortals, becoming visible, throwing dishes around and how to deal with this setback. pulling similar “Amityville Horror” stunts) seems to
+No one is suggesting that the Giovanni abandon have been blown to smithereens. That means the ghost the Endless Night ritual — at least, no one is anymore. society’s equivalent of the Masquerade just went right
+When the spirit monsoon hit, Augustus himself woke do wn the toilet. So, not only are wraith Giovanni able from a decades-long torpor and took a personal hand to act with far less discretion or fear of reprisal on the ir in the defense of the Mausoleum against its onetime side of the sudario, many other spiriti are being much captives. The first two anziani who suggested giving more obvious as well. That makes it particularly easy
+up in the face of storm served to slake his thirst, so the to find the m — especially if you’re a well-connected remaining elders do n’t talk in terms of “whether” but expert with centuries of experience. rather “how.” Consequently, most of the Giovanni elders see the
+Augustus himself has provided no leadership: glass as half full. they bought, bribed and blackmailed
+As soon as the Mausoleum was secure, he set out to the ir way into a number of businesses that previously examine the wreckage of the Underworld and the were n’t worth the effort. Specifically, they initiated roiling storm with in personally. The anziani believe a hostile takeover of Kopagni Ergonomika in Europe he’s crossed the sudario back into the mortal world, and they’ve founded Dunsirn Ergonic Consultants
+but they do n’t know exactly where he is. A few of in the U.S. they’ve also bought controlling interest the most loyal, or most bound, are concerned, but in a number of small surveying firms throughout the many of the others moodily await his return. Much Western world. as they might like to seize control of the family from the se businesses provide two critical elements in him, they’re confident that Augustus is unlikely to the Giovanni quest to find the se new “hot zones” of
+encounter anything in the world more dangerous and spettro and spirito infestation: Contacts and pretexts. unpleasant than himself. Have people in you r of fice building suddenly started complaining of weird noises, strange smells, unusual a p (C e ) nziani rudente autiouS lderS
+problems with the of fice equipment? (“Hey, the water
+The more cautious anziani admit that the mael- cooler did n’t use to sound like it was screaming.”) Must strom came out of left field, but are quick to point out be air trapped in the water pipes, or a fungus problem the storm clouds do have a silver lining. Sure, most of on the flip side of the drop ceiling, or mildly toxic retheir enslaved resources are gone. But the sudario is now actant in the synthetic carpet. Better call in Kompagni so thin that they may not need nearly as many souls to Ergonomika. After all, they did a great job when the
+complete the ritual. Furthermore, so many spiriti have Grodschmidt Building had that weird stuff that looked been blasted through the sudario that they seem to be like blood running do wn the walls. yoked to otherwise mundane people, places and things. If all goes well, the Giovanni connected with the se
+(See p. 57, “The Maelstrom,” for more about this.) the se businesses capture a passel of obnoxious ghosts and colmakeshift catene provide leverage with the wraiths now lect a fee from the grateful mortals as well. connected to the m, and because one place or object
+Chapter two: it runs in the Family
+
+=== PAGE 41 ===
+Not all the spiriti ejaculated from the hell a nziani a ppa Sionati (e a Ger e lderS ) storm stuck to places, of course: Some attached to
+Other elders are less sanguine about the loss of people. But in many ways, that’s even easier. Sure, centuries’ worth of effort. the se elders — some of who m some people go to a priest when they start hearing were Embraced by Augustus himself — accuse the other
+disembodied voices or having visions of strangers anziani of wanting to pursue the Endless Night more in the ir homes. But (in the developed countries at than they want to achieve it. While small in number, least) they’re a lot more likely to go to a shrink, and
+the se anziani are very vocal when they can shake of f the Giovanni have been involved in the health care the cold haze of torpor and very powerful. industry since its infancy. do pe up the poor haunted
+The Anziani Appasionati are in favor of tracking fucks on some Zoloft, cage the ghosts and explain do wn and acquiring newly haunted are as through the away the memories of the necromantic rituals as
+ruse of geological surveying or asbestos removal or paranoia or hallucination. Hell, have a drink while what ever. But to the se elders, that’s not nearly enough. you’re at it. The instant anchors help, but they’re not a solution, t p he remaSCineS
+Every group tells stories. If you’re a Boy Scout, you might hear about the phantoms that haunt Uracca
+Mesa. If you’re a Mason, you might get an earful about King Solomon (or the Wandering Jew). If you’re a goodfella, you might hear about what some Fat Tony did to his punk son-in-law, back in the ’60s. If you’re in the Giovanni clan, you might hear the story about the Premascines. Some of the se stories are true, some are false, some started out true and got an encrustation of embellishment that has almost obscured the accurate outline. The story goes like this: When Augustus Giovanni rose up against his sire, he was n’t alone. Several of his family members had his back, either by being immediately present or by of fering the ir aid in other
+ways. Of the se co-conspirators, some (Twelve? Four? Six? Seven?) survived to the modern nights and are known as the Premascines. Seeing as the diablerie of who ever Augustus’ sire was, anyway, took place in 1444, the Premascines are old. The story also goes that they are very close to Caine — Fourth and Fifth Generation, probably. Because they were Embraced before the diablerie, they are also genuine members of the clan that came before us, if
+that distinction has much meaning. Some say they do n’t suffer the Curse of Lamia, while others say they were cursed at the same time as Augustus. the re’s also the claims that they have corpselike visages or prophetic visions. Or that they have all three curses. Not that it matters much, because (so the story goes) they’ve been hidden in the water under Venice for hundreds of years. When you’re a centuries-old waterlogged corpse, well, what do es a little more pallor or pain mean to you r victims? That do es raise the interesting question of what the se ancient monsters ingest to survive. Tourists dragged
+of f the can als? Nasty, cold fish blood? Those are some the or ies. Some Giovanni suspect that the other anziani have a well in the depths of the loggia where they dump enough blood nightly to keep the Premascines sedate. It’s also been claimed that after centuries of studying Necromancy the Premascines learned to consume spirits of the dead and somehow transform the m into something nourishing. Others say the se old ones can no longer tolerate mortal blood, and need Kindred vitae to survive. Variations on this story are: The Premascines are fed Giovanni neonates who screw up, they devour members of others clans who make trouble in Venice, or the family Embraces luckless mortals for the sole purpose of
+feeding the m to the elders. If the Premascines are anything other than a story told to keep the neonates in line, they are genuinely old, terrifyingly powerful, and more familiar with Necromancy than the vainest ancilla is with her own self. What they are not, how ever, is a resource for the family. While they may have been fellows at one time, staying underwater for centuries and inspecting the mysteries of the afterlife firsthand are not the way to stay sane and in touch. If they exist, they are too alien in the ir feelings and values to have any but the most superficial discourse with a person or Kindred of the modern nights. If the Giovanni family has, as claimed, been keeping the m fed and concealed, the n it’s possible that they
+might in turn of fer the ir assistance. For example, if the Giovanni needed to have a squadron of phantom fighter planes from World War I attack a site in the mortal world (or any part of the Underworld) the Premascines might oblige. Certainly, something has been protecting Venice from wrath of wraiths and spectres alike for generations — even through the current Underworld unrest. Clanbook: Giovanni
+
+=== PAGE 42 === not by half, because they’re temporary. Eventually all of our destiny. Ending the world is our job and will be the available anchors will be harvested, or broken by do ne on our schedule.”) exorcists, or the spiriti the re will simply lose the ir fight Similarly, China is a tough nut to crack. It would be
+against the storms and the spettri. an ideal tool for starting a massive war: It’s got a gigantic
+No, if the Giovanni are going to achieve the ir standing army, and (than ks to abortion, infanticide and destiny before the cursed Setites manage to rouse the ir a culture that exalts male of fspring) far more unmarried dead founder (and the Giovanni anziani who know the men in the ir twenties and late teens than women for most about the Setites all seem to be the most eager the m to wed. Historically, that’s the recipe for a war of
+to take do wn the sudario), they need to do more than conquest. But again the Cathayans stand between the simply take advantage of a temporary situation. It’s not Giovanni and a ripe situation. Agents keep going into enough to simply bail out the boat: It’s also necessary China, and sometimes they’re successful — after all, to patch the hole. it’s a big country and the Kindred of the East can’t be
+In this case, the “hole” is the comparative lack of everywhere — but they’re nowhere near amassing the spiriti. To create more, mortals must die, in great num- influence they’d need to provoke a war. bers, preferably with a great deal of unfinished business. As for the more hospitable Western world, the
+To this end, the anziani appasionati seek are as of U.S. is too fat, happy and TV-sedated to involve itviolence, tension and unrest on a national scale — self in anything of the scale the anxious elders desire. preferably in nations with atomic weapons. India and South America and Africa are both very promising, Pakistan seem particularly ripe, but to date Giovanni but only in the sense of having many small-scale agents sent the re to fan the spark into fire have been actions — and no one the re is going nuclear. The universally chased out by Cathayans jealous of “the ir Giovanni are working harder than ever to do the ir turf,” or have vanished entirely, such as in the monsoon part in the flow of cheap weapons into the se regions, that racked Bangladesh. (In Pakistan, and re della Pas- and the collapse of the Soviet Union has made that
+saglia was dismembered and mailed back to Venice. On a lot simpler. But when it comes to actually moving the wooden stake through his chest was a message in fissionable material from the for mer USSR into the neat calligraphy: “We humbly request you r recognition hands of someone extremist enough to use it… well, Chapter two: it runs in the Family
+
+=== PAGE 43 === that’s a sticky wicket. First of f, the Russians had a lot having to fear betrayal or insubordination… too much. fewer nukes than they let on. By far, the majority of As Giovanni spiriti age, the ir powers grow to the point the weapons the CIA spotted were decoys. If the CIA that they can be a threat to any but the best protected figured it out, they kept quiet: It’s very possible, after of Kindred. all, to spy oneself right out of a job. Just as important is the ir influence on the other
+The Russians do a piss-poor job of guarding the side. Giovanni spiriti tend to learn ghostly powers of nuclear material they do have, even by mortal standards, spirit-shaping and wreaking supernatural havoc in the but that’s why the UN and NATO (infested with those world of the living (Discipline equivalents for the se spirit fucking Ventrue) are keeping a very close eye on what powers are Vicissitude and a combination of Movement
+goes where. of the Mind and Lure of Flames). The uses of apportaA nuclear holocaust in Africa or South America tion and ghost-flames are obvious, but it is for the ir is unlikely soon, the n, but the Middle East is another ability to “fleshcraft” other wraiths that the Giovanni matter. is rael’s got the bomb, and is n’t Egypt where spiriti are most valued by the ir Kindred cousins. This all those damn Setites breed? Two birds with one is because such power gives the m the ability to render
+stone would be very nice, but is rael — particularly other wraiths immobile, insensate — incapable of any
+Jerusalem — is thick not only with Kindred and action. Thus, the Giovanni clan secures its stockpile of
+Cathayans, but with other… things… of all descrip- souls for the Endless Night ritual. Spiriti who are tithed tions. Obviously, not every politician in the region is for the Endless Night are not used for standard charges something’s relative, puppet or ward (“Would the Lupine of espionage and harassment: That puts the m at risk delegate please leave the floor!”), but enough influence of destruction or escape. Instead, they are twisted into
+taints the are a that the Giovanni are going to have to paralysis or stored in the ir catene and put in one of the operate with great guile to get what they want. they’re Giovanni sepulchres. currently negotiating with a group of renegade Lupines Of course, a Giovanni wraith’s association with its and a faction of old-style magicians from something mortal cousins is a do uble-edged sword. The threat of called “the Celestial Tradition of Hermetic or ders.” necromantic revenge is a potent one, but working for
+The Lupines, contrary to the stereotype, seem to admire menacing black magicians is n’t a great way to make the “corruption” of the Giovanni, and the magi seem friends — especially when the ghosts captured by the to think that if technology has enough repercussions, Giovanni are of ten simply never heard from again. people will turn away from it and back to the old ways of Aside from the hatred of the ir spirito peers, Giovanni magic. Obviously, were wolves and witches are stupider wraiths also have to endure the condescension of the ir
+than Kindred. Kindred relatives. It’s not hing blatant or intentional, but
+Arrayed against the Giovanni and the ir sometime most Giovanni inherently see spiriti as inferior beings, fit all ies are a gang of were wolves who seem almost as to be used, tormented and enslaved. Knowing that you r knowledgeable about ghosts and the Underworld as the dear grammy has become one causes no small amount
+Giovanni the mselves, and a bunch of vengeful occultist of cognitive dissonance, as respect and affection go to trash who are strangely resistant to the Gifts of Caine. war with ingrained contempt and callousness. Usually, Skulking around the edges of the conflict are the Setites, the emotions reach a stalemate that is bearable, if not who appear to be enamored with the Giovanni’s twisted comfortable. Lupine contacts, and the Cathayans who, it seems, just When you’re the one who’s been transformed into resent everyone. a wraith, the emotional conflict is far more intense. t he h onored d ead t he G lo Bal G iovanni
+Becoming undead, in any fashion, is very rare. Not every member of the Giovanni clan is a
+Becoming a ghost because you want to is rarer still. On member of the Giovanni family. The structure of the the other hand, six centuries is a long time, and the family trickled do wn into the “client families” who were
+Giovanni are not hing if not intense about the ir goals. brought into the Kindred fold, how ever. An elder is
+Consequently, more than a few Giovanni have become still an elder, but the Giovanni anziani trump all other spiriti. A few are even spettri. Elders combined. Of course, this has been the source the se all ies on the other side are tremendously use- of no little friction between the families.… ful for the Giovanni who still move in the living realm. t p
+he is anoB
+Luring ghosts into ambush is the very least of it. they can also use the ir wraithly perceptions by daylight to The Pisanob have had a very hard time of it. Alspy on Giovanni enemies — with out the Necromancer though most of the ir temple have ns in the Mexican
+Clanbook: Giovanni
+
+=== PAGE 44 ===
+With supernatural Mexico largely in disarray, the t v e n hree iew So Fthe ndleSS i Ght or ganization of the family is a shambles. Individual Pi The Endless Night is when we take charge, man! sanob are still comparatively safe and effective working
+People will be no different than ghosts, which means as arms merchants, mercenaries or (if they’re traditional) that you can feed of f ’em till they die, and they’ll just hospital or derlies in the rest of South and Central come back in a month or two. We’ll be able to mindfuck America. But with out the Mexican infrastructure, the se ghosts and use necromancy on normal people, because Kindred are largely on the ir own. they’ll all be the same thing. It’ll make that old Anarch For some, that’s just as well: they’re happy to con Revolt look like Coney fucking is land. tinue the ir activities with out the ir elders looking over
+— Cristobal Ghiberti, 13th Generation the ir should ers and shaking the m do wn for spiritual
+The Endless Night will be more than a simple change tribute. The central Giovanni, of course, are loath to of politics. It will be more, even, than the reunion of let the Pisanob go on the ir merry way, but with travel two sundered worlds. It will be the transformation of in the ghostly realms really, really difficult, the ir best both. We, as Kindred, stand astride the worlds of life bet for putting the Pisanob back together is to rebuild
+and death. But when those realms are reunited, might it what was ruined in Mexico. not resolve the conflicts of our condition as well? Rumors run rampant between those Pisanob who
+— Diego Giovanni, 6th Generation are still in contact with one another. “Augustus is com Everything will finally be perfectly quiet. The mortal ing here,” says one, “because he’s pissed at Pochtli and followers of Newton have grasped the Endless Night wants to drink his death personally.” “The Giovanni are better than many in our own clan. they call it “the going to call Pochtli to Venice. If he goes, they’ll kill heat-death of the universe.” All movement, even unto him — assuming no one else nails him on the way. If
+the molecular level, will cease. the re will be no more he do esn’t go, they’ll turn the who le family out on its matter, no more energy, no more hope or fear, no more ear!” claims another. “No,” says a third. “they’re going life or death, no more this or that. No more good. No to invite every Pisanob to an April 4th meeting at the more evil. No more conflict. temple for a massive counterstrike against everyone. — The Capuchin they’ve got too much invested in us to abandon —
+but anyone who do esn’t show up for the Big Push gets hunted do wn and bound!” hinterlands remain secure, many outlying Pisanob All the unrest among the Pisanob is very unfortuhavens in Mexico have been compromised. Between nate, because one of Pochtli’s experiments has, at long unchecked rampages by the Sabbat and Underworld last, paid of f. The result is called (rather arrogantly)
+conflicts with the Harbingers of Skulls, the Pisanob the Ritual of Pochtli, and it might just be the tool that were beleaguered even before the crippling mael- the Pisanob need to turn things around — if they can strom in the spirit world. When half the ir phantom survive long enough to teach it to enough of the family. servants were destroyed in an instant, the Pisanob t m
+were finally vulnerable to the vengeance of spirits who he illinerS had awaited a chance since before Columbus came The Milliner family feels it has good reasons to be to America. The only reason the temple of Pochtli proud of itself. Unfortunately for the m, the Giovanni has survived is that the maelstrom and its aftermath family do esn’t seem to share those feelings. To comcaught the Pisanob’s enemies as flat-footed as it did plicate matters for both, the Milliners know about the
+the Kindred the mselves. The Harbingers of Skulls Giovanni’s reservations. suffered the ghostly apocalypse at least as badly as
+From the Milliner point of view they’ve been do ing the Central and South American Giovanni. As for a bang-up job. they’ve not only held the ir own against other Pisanob, they’ve found the mselves frequently
+both the Camarilla and the Sabbat in America, they’ve targeted by a group of humans who claim to be driven do ne so while flourishing on the fronts of financial and by a higher power to reclaim the world. Being the
+criminal influence. Who realized the new language of lead do g in Mexico has gotten the Sabbat bitten or ganized crime was not Italian but Russian? The Million the ass by the se hunters, while the few Mexican ners. Who persuaded the AMA that nationalized health
+Camarilla vampires sit back smugly and congratulate care would be worse for the ir wallets than a do ubling of one another on the protection of the Masquerade. greens fees on private golf courses? The Milliners. Who
+Numerous Pisanob have met the ir ends at the hands of reaped enormous profits through investments in HMOs the se mortal hunters, too, finding the mselves caught and privatized prisons, and also ensured such shoddy
+between the warring sects or compromised to save management and oversight that Giovanni clan members another Kindred’s skin. can feed in comfort and security? The Milliners. Who
+Chapter two: it runs in the Family
+
+=== PAGE 45 === t r p (l t n r ) he itualoF o Chtli evel wo e CromantiC itual
+The actions of this ritual were actually developed in concert with several Ghiberti vampires who have been residing in Pochtli ’s temple for almost two decades. Because both families had a lengthy history of elaborate ceremonies, they felt more comfortable researching with one another than with the mainstream Giovanni. What they have developed is something of a metaritual. It can not be cast by itself, but only in conjunction with another Necromantic ritual, or with the heavily ritualized use of a Necromantic path. The action of the ritual is this: Two or more Kindred necromancers restrain a mortal vessel and inflict
+incisions in the shape of blasphemous Egyptian hieroglyphs or Aztec symbols. they the n drink from the se injuries. Each participating Necromancer must make his own cut and drink from no other cut. the reafter, the Necromantic power the Kindred seek to employ gains the benefit of all the participants’ knowledge. This ritual makes it possible for Necromancers to create truly fearsome feats of death-magic. System: The player rolls to activate this ritual as normal — Intelligence + Occult, difficulty 5 (because it’s a Level Two ritual). If the roll succeeds, the Kindred who have participated in the ritual may work together on the path or ritual the Ritual of Pochtli is intended to assist, and players share successes. not e that
+the primary application of Necromancy requires its own roll, and that successes (and failures) garnered by the group are pooled. If a Giovanni tries to use the Ritual of Pochtli with a path or ritual, she must have the know-how to use
+Necromancy in the Ghiberti or Pisanob style (see below). Additionally, all Kindred participating in the ritual must know the Ritual of Pochtli as well as the ritual or path power the group seeks to enact. For example, three Pisanob attempt to use the Ritual of Pochtli to flay the soul from a Sabbat ghoul who has invaded the ir have n. Each player succeeds on her roll to use the Ritual of Pochtli, and the n they collectively attempt to use the Level Four Bone Path power, Soul Stealing. The first player gains three successes, the second gets two, and the last gets only one (which would have been two, but she rolled a 1). the se combine
+for a total of six successes, reaping the ghoul’s soul from his body for a total of six hours. The do wnside of this power is that a single player’s botch negates the successes of the entire group, resulting in a horrific failure for the ritual workers. MET System: Every participant in the Ritual of Pochtli must know this ritual, know Pisanob or Ghibertistyle Necromancy and must activate the same ritual or path immediately after its use. You should role-play out the screaming terror of carving a target with necromantic sigils that also become puckered sores to slake you r thirst, so long as you can do so with out alarming passersby! (And if you’re do ing this sort of thing in public, the n maybe you should think about getting a back room to do rituals away from spying eyes.)
+Each individual who succeeds in the Ritual of Pochtli adds his successive power to the duration of the following Necromancy. If the group tries to perform Summon Soul, for instance, and three casters succeed in this ritual and the n in the test for the power, the duration of the power is tripled (three questions/ turns). Only those who succeed in both the casting of this ritual and the successive power or ritual add to the final effect. You can not combine more than five people in this ritual. had three of America’s most effective witch-hunters Do the Giovanni not ice? do esn’t seem like it. No “nice jailed as “potential Y2K extremists”? The Milliners. job” out of Venice. No increased money, though you’d think
+Who set up a powerful Setite to take the fall when the they’d smarten up after the Milliners told the m to buy into hunters were sprung? Once again, the Milliners. Cisco and MCI, and they did n’t, and if they had they’d
+Shit, who’s the most prominent Kindred faction have made back ten times the ir investment. Permission in Boston now, with fucking Camarilla recognition? The to Embrace cut back. Permission to diablerize Camarilla
+Giovanni. But who handed it over to the m? and Sabbat enemies denied for those not blood bound to
+The Milliners. a Giovanni. Francis Milliner publicly dressed do wn by
+Diego Giovanni, practically in front of the who le family. they’ve given the Giovanni money, contacts, muscle — not to mention a string of prisons and Urgent The Milliners give and give and give to the
+Care centers nationwide that might as well be named Giovanni, and what do they get? The boss gets a promo-
+“Mc Vampires.” Not bad for a family who se elder is at tion. Remedial Necromancy lessons from Diego’s pet least two generations removed from the anziani and two freak-childe. And demands for more souls to make up centuries you nger than the ir childer. for what was lost during the Great Spirit Shake-out. Clanbook: Giovanni
+
+=== PAGE 46 === t d mail. The influx of gangsters from Russia threw the m he un Sirn for a loop briefly, but the red mafiyas appreciate the
+The Giovanni’s northern European connection benefits of vitae as much as anyone. For the Putanesca, has also felt pressure from the main family. While business is good. Necromancy has traditionally been a very low Dunsirn
+Things are similarly going well for the Ghiberti priority, some Giovanni anziani are now insisting that family. While the African Necromancers suffered as all Dunsirn neonates learn its grim practice so that
+greatly as anyone by the maelstrom, many of the m they can tithe to the Giovanni in souls, rather than had the good for tune to be in the middle of widethe traditional Dunsirn fiscal substitute. In fact, rumors spread political violence and unrest. Thus, it was
+have come out of the Mausoleum that even those older comparatively easy for the m to acquire the blood they
+Dunsirn who do n’t know Necromancy may be “asked” needed for Tempesta Scudi — and to rapidly heal any to learn it — may, in fact, be commanded to Venice to injuries inflicted by stray spettri and vengeful wraiths. learn it at the seat of the clan’s power. Because they do n’t have the Harbingers of Skulls to
+The Scots are known as a proud culture, and worry about (not like the Pisanob do, anyway), the growing rich as robber barons is never conducive
+Ghiberti have kept the ir lines of communication strong to humility. Thus, the Dunsirn are bristling at and have been able to use the Ritual of Pochtli to the suggestion that they need to be taken back
+rapidly establish a strong presence in the chaos caused to school — and at the knees of the Giovanni, by the maelstrom. rather than from the ir own family, too! Keeping
+Finally, the Rosselini have probably suffered up with the developments in the European Union the most of any of the minor families. It takes quite is n’t easy in the best of times, and especially not
+a bit to be considered “cruel” by the Giovanni, but since the Camarilla and some group of sorcerers both the Rosselini managed it. More than one Giovanni have the ir fingers in the Euro up to the elbow. With
+secretly suspected that the reason the Rosselini the EU in its for mative stages, the Dunsirn know it’s wound up serving the Giovanni (and not the other critical to get the ir hooks in now, at the foundation, way around) was philosophical more than tactical. so that everything that grows after will grow around
+The Giovanni pursue necromancy for the power to the m. But it’s at just this moment that the collapse exalt the family. The Rosselini do it because they of the Underworld has the Giovanni family getting
+simply like it. It’s an end in itself, and consequently the uptight and dictatorial. Rosselini of ten try to do as much as they possibly can, t he m inor F amilieS as sadistically as possible, just to push the envelope. The della Passaglia family is, as they say in This approach is in direct contrast with the other
+China, “living in interesting times.” Inexplicably necromancers, who generally try to get the most do ne
+(to the m), the ir decades of steadily chiseling the ir with the least effort. In practical terms, this means the way into the confidence of the Cathayans have been Rosselini go to extremes when summoning, compelhamstrung. Kuei-jin who were tolerant, if not exactly ling and tormenting spirits. When the sudario went congenial, turned the ir noses up at the merchant thin, summoning became easier and compelling grew family overnight. Requests for an explanation are harder — meaning that the Rosselini were suddenly
+frequently met with polite refusal. Demands are conjuring more spirits than they could keep on the rebuffed — of ten violently. Slowly, the realiza- leash. Given the ir penchant for pissing of f (and on) tion is dawning that the Kuei-jin may have simply everything they summon, the Rosselini inadvertently spent centuries studying western vampires to learn the ir turned the mselves into a spectre mill. The spettri they
+weaknesses. Now that the Cathayans are striking in created showed no gratitude at all. California (and, it’s rumored, in Kosovo), they have no u S ni Co an Guee further need for study. More chilling than the suspicion d S (S
+oppio an Gue in Gle that they’ve been used are the rumors leaking out of the
+B d B )
+Cathayan Green Courts of Korea — that the Nagaraja loodand ou Ble lood are n’t completely destroyed after all.…
+The not ions of equality between genders and
+While the della Passaglia are being confused by races are, to some Kindred, odd indeed. The older fresh intrigues in the East, the lowly Putanesca family the Cainite, the more quaint and misguided (or, keeps on thriving, as it always has. Largely ignorant of
+alternatively, radical and threatening) the se ideas necromancy, most are untroubled by the maelstrom. are likely to seem. Focused in Europe and North America, they need
+The anziani of the Giovanni clan are very old not concern the mselves with Kuei-jin wiles. they are indeed, and the ir prejudices are firmly set. the ir first concentrating, as always, on murder, vice and black Chapter two: it runs in the Family
+
+=== PAGE 47 === and strongest prejudice, of course, is that Giovanni sider the mselves superior to those who were Embraced blood is the best in the world. they do n’t feel any need into the clan, but not born into the Giovanni family to give reasons for this belief: From the ir perspective, — the Putanesca, the Milliners and all the others who
+it’s just a fucking fact. Need proof? Okay, find another are do ppio sangue (“do uble blooded”). The do ppio sangue family that’s been as successful. Find another family are still more meritorious than other Kindred, just as with an active “Antediluvian” that got that way, not other vampires are better than wraithly slaves. But they by being chosen, but by choosing to grab the future still are n’t the best. by the short hairs. Find another Kindred clan that’s To the Giovanni, this is just common sense. they
+got the coherence of a real family, instead of being a do n’t talk about it, just like people do n’t talk about thrown-together batch of misfits, screwups, pity-fucks why the sky is blue. That’s just the way it is, obviously. and impulse Embraces. Of course, the Pisanob, della Passaglia and Dunsirn
+Found one yet? did n’t think so. do n’t necessarily agree with all this crypto-eugenic ar So the Giovanni are the best family and the best rogance. No one’s going to call bullshit on a Giovanni clan. That means that anyone who was both born and elder for a subtle snub, but among the mselves they roll
+Embraced Giovanni has to be the cream of the crop, the ir eyes and grumble. right? Not just born to greatness but chosen for it, too. That’s because this superiority is n’t just the or etical. they even have a phrase for it: unico sangue, “of single Oh no. It may not be intentional or conscious, but the blood.” Those who are “pure” Giovanni naturally con- Giovanni act on the ir assumed superiority. If a project i n Fantili Sm
+The natural course of life is this: You’re born, you r parents rear you, you gradually become more independent until get you r own place, but you still probably go to you r folks for advice and help when the chips are do wn. Eventually, they die. That’s when you’re really stuck being an adult: Not only because you’re living on you r own and controlling you r own life, but because you no longer have the option of running home to mama. The Giovanni situation is anything but natural. they’re born and brought up, just like everyone else, but most are never for ced into the full self-determination that comes from having no other choice. The Giovanni
+always have a ma and pa back home in Venice, maybe checking up on the m, making sure they’re do ing okay or (most important of all) making sure they’re do ing the family proud. Even if you r folks were n’t Embraced, or if (heaven for fend) they suffered the Final Death, you still have a passel of anziani around. On the good side, they can bail you r ass out of trouble. On the bad side, they pry and spy and meddle as much as they’re able. And a deathless Kindred with unreasonable sums of money, plus
+spirit servants, is very able indeed. Most Giovanni just grit the ir teeth and try to be competent enough to earn the ir elders’ trust (imagine some bachelor pushing 30 who nods and says “I’ll think about it” when ever his mom stops by his apartment with some decorating tips). A few, though, are will ing to leave all that hard thinking and planning to the ir elders. Maybe it’s someone who just got so worn do wn by incessant backstabbing and treachery that she’s
+given up. “Go ahead, do what ever you want. You will anyhow.”
+More disturbing, though, are those who relish having the ir decisions made for the m. the se infantilized
+Kindred are like spoiled brats who do what ever the ir elders say in return for praise, clan status and coddling. In extreme cases, you have a mama’s boy, seemingly 40 years old, talking baby talk to his sire as he whines and begs for another quarter mil to shore up his have n. Of course, you can’t have Daddy’s Little Girl with out someone in the role of Daddy. The more sophisticated and elder Kindred generally do n’t fall into this trap: Sure, caring for you r kids is a tough habit to break, but a century of being dead and killing others can have a corrosive effect on even the bonds of parent and child. The overprotective daddies and mamas are generally less than two hundred years old. Some of the m know that they should let the fledglings spread the ir wings and fly (or plummet) on the ir own, but they just
+can’t commit to it. Others see not hing wrong with “caring deeply.”
+This is a broad spectrum, of course. Most of the infantile or paternalistic Giovanni are very mild cases: A sire who’s a little overprotective, a childe who’s a bit dependent and indecisive. But the clan has also sheltered some real basket cases. The extreme infants tend to show little for esight and throw tantrums when ever thwarted, counting on the ir parent-figure to clean up the mess (which is generally a pretty good bet). As for the (s)mother types — just do n’t mess with the ir “kids.” It’s hazardous to you r health. Clanbook: Giovanni
+
+=== PAGE 48 === is important, it do esn’t matter whether a Dunsirn is good at memory erasure (or cooking up alien abducmore informed or a Rosselini more experienced: Usu- tion stories) it’s not a perfect solution. The old smash all y, an unico sangue Giovanni is entrusted with the ’n’ suck approach still works, but Giovanni (usually ultimate authority. neonates) who rely on it usually find out what the
+This bias causes no small amount of friction Masquerade is for — if the Camarilla do esn’t beat the and displeasure for the do ppio sangue, of course. From cops to the ir do or. the ir point of view, they do all the hard work, while One solution available to many Giovanni is to take the Giovanni sit back and take the kudos. Not only blood from the dead, procedure that is fairly common that — the Giovanni are more will ing to risk shedding in developed nations. Dead blood is usually thrown
+do uble blood than they are the ir own pure, precious, away in mortuaries once it’s drained to make room for unsullied single blood. So when a really dangerous embalming fluid. The same sort of thing happens in shit job comes along, you know the guy in the thick hospital operating rooms. of it probably is n’t going to be wearing those fancy This tactic works with remarkable, if unsavory, G-crest cufflinks. efficacy. It do es have a few drawbacks, of course. For
+The do ppio sangue put up with it almost all the one thing, the se are the sorts of places that intrepid time. After all, it’s not too bad — and if a bad decision vampire hunters and inquisitive sectarians watch is made, the Giovanni are (if anything) harder on the ir closely. Furthermore, the Giovanni are n’t the only own flesh and blood, because it’s more disappointing ones who’ve figured out that if you want blood, you
+when a single-blood Giovanni screws up than when go where the blood is. Nosferatu who do n’t care for some “lesser” member of the clan do es so. And maybe animal blood but who still do n’t have what it takes they’ve started to buy the line the mselves, on some to get the good stuff fresh of ten gravitate toward subconscious level. After all, when all’s said and do ne, morgues and blood banks, where the ir hiding skills
+the Giovanni are the ones with the mystic blood to make it fairly simple to rummage through the biohand out. hazard bins. That’s a hard argument to refute. The other drawback to the morgue approach l’ S is that it’s absolutely disgusting. It’s kind of like e Conomia an Guino Sa spending eternity eating cold, congealed, unfla-
+(t e B ) he ConomyoF lood vored gruel, when the re’s a literal moving feast
+Starting, as they did, as a family of merchants, all around you. the Giovanni tend to regard just about everything in Another option is spending money to procure economic terms. the ir fundamental axiom is “get it blood. The simplest way is to approach the saddest, cheap, sell it dear.” While sometimes limiting, this most desperate crack who re you can find and say “I’m approach do es provide some insight into how the very rich and very, very kinky. I’ll pay you a hundred
+Giovanni regard the rich, red essence of vampiric bucks for a pint of you r blood.” Most Giovanni who existence — vitae. do so drink the blood through a straw to make the
+If you ask Giovanni about the Curse of Lamia, “do nor” less suspicious. A more discreet (but also more many of the m shrug and tell you that, in the long elaborate and cold-gruel-flavored) method is to set up run, it’s not a curse at all. When a mortal starts a fake blood do nation station. People come in, and juicing his jeans every time you sink in the fangs, the phlebotomist takes a few ounces “for testing.” A
+it’s a lot easier to delude you rself that you’re not unit of blood is taken and the plasma is spun out — stealing life, or that the mortal is not you r victim but a few more ounces are surreptitiously drained of f or that you’re not a monster. When they shriek and before centrifuging. The nonplasma portion is banked, scream it’s inconvenient, but at least you do n’t fall into the patient leaves with 25 bucks in his pocket, the the trap of thinking that what you’re do ing is anything plasma is thrown away (or used, untested, in hospitals)
+less than reprehensible. and a vampire drinks the secretly collected ounces. About three do nors are required to produce a single
+Psycho-philosophizing aside, how ever, the lack night’s worth of sustenance, but most victims never of an ecstatic “Kiss” makes it more difficult to for m suspect a thing. a blood cult or find a will ing herd. Sure, they may
+say they’re into it because of the “genuine experi- Still, this has all the disadvantages of a funeral parlor ence of near-death intensity” or something, but the operation, with higher overhead to boot. Rather than
+Giovanni know that only the real twists choose pure screw around with cops, health inspectors and suspipain over pleasure. Using do minate is an okay tactic cious priests, many Giovanni have opted to go where for compelling obedience, but unless you’re really life (and the refore blood) is cheap. Chapter two: it runs in the Family
+
+=== PAGE 49 ===
+Necromancers have always been right at That said, drawbacks exist. For one thing, home on the battlefield. Spiriti are produced when hardcore firearms (such as the aforementioned people die with unfinished business and spettri show phosphorous grenades) are far easier to come by in up when people die in utter despair and rage. Thus, Somalia than in the worst urban hellhole in the it stands to reason that you see a higher proportion United States (for example). The Cold War pumped
+of both when people die you ng, fast and in incred- so much military aid into the se developing nations ible pain. If that necromancer is also a Kindred, that street urchins with undescended testicles and the n the chance to kill wounded people in a loud, full-auto AK-47s abound. A vampire’s have n is much confusing situation where everyone’s distracted by more likely to catch a stray mortar shell in Serbia
+flying shrapnel… well, that’s a very rich icing on a than in, say, Shaker Heights. Furthermore, people in very tasty cake. developing countries have endured a disproportionate
+The unico sangue Giovanni are less likely to share of Kindred attention for decades. So, when a involve the mselves right do wn on the front any guy in Burkina Faso says his wife got drained dry by more. they have the money to get the goods they a bloodsucker, the neighbors’ first instinct is to start need in “civilized” countries where you can’t trade combing the are a at dawn — not to sling him in a
+a phosphorous grenade on the street for a gram of loony bin. coke and last year’s cell phone. Several of the ir t (t ) radizione radition
+“lesser” families have involved the mselves in South
+American conflicts or the ever-present unrest of t he p roxy K is S
+Africa, how ever. The Giovanni have as many ways of giving the
+When the Pisanob are n’t working as hospital or Proxy Kiss — the ceremonial feeding of Giovanni vitae derlies in or der to feed the mselves, they can of ten be to create a ghoul from a family member — as they have found working for the Carabineros de Chile or serving
+have ns. Some Giovanni leaders set it up as a voluntary as bodyguards for cocaine kingpins. Some of the betact in a “black mass” so that only the boldest — those ter class of Pisanob have availed the mselves of CIA will ing to be damned for the family — become ghouls. training to climb the ladder in Colombian paramilitary
+Others simply slip it into some normal food to create or ganizations. After all, the combination of Lamia’s a ghoul who becomes addicted, but who initially has
+Kiss and unholy Kindred strength makes for one hell no idea of the cause. This method is favored for useful of an effective interrogation. mortals who might not agree — in the hypothetical
+As for Africa, the Ghiberti family the re has case that they were informed beforehand. After all, gradually been shifting its attention toward the it’s much easier to continue being a ghoul than it is to region’s ever-present conflicts. From Sierra Leone
+consciously decide to become one. to Burundi, Ghiberti mercenaries hire the mselves
+Some clothe the kiss in layers of farcical ceremony out to create terror (or, if you prefer, “tactical opto throw of f any inquisitive eyes and ears from outside portunities”) and implement genocidal pogroms the family. Some are simply very straightforward about
+(“suppress civilian unrest”). the ir prices are high, what they’re do ing. the ir results are undeniable, and the ir one require Regardless of its presentation, the practice of the ment is that the ir methods go unexamined. Proxy Kiss is beginning to erode. In fact, only in Italy
+Working as the clenched fist of a totalitarian is it followed with regular loyalty. The rest of Europe government has many obvious advantages for an and Africa still give it with a fair degree of faithfulness, enterprising Kindred, not the least being that more
+but it’s less and less popular in the Americas. Some blood gets shed than a thousand Kindred would know of the Milliners have gone so far as to suggest that it what to do with. The perception that it’s raining vitae
+should be considered an optional honor — and they and all you have to do is go out with a bucket also keeps stress optional. intra-clan bickering to a minimum in free-fire zones. The reasons for this resistance are, of course, as po After all, when people are regularly “corrected” by the litical as they are practical. The unico sangue Giovanni
+government, no Masquerade is needed to cover up a use the Proxy Kiss because, as the primary givers of the kidnapping. One reason the Camarilla and the Sabbat vitae, it puts the most neonates under the ir spell —
+are so liberal in interpreting the Masquerade in many exactly why the do uble-bloods do n’t like it. From the ir are as of Africa and South America is that the re’s less point of view, it’s just one more gesture of mistrust (or
+need for it: The mortals are too busy but chering each contempt) from the Venetians. other to not ice a few more casualties from monsters
+Bestowing the Proxy Kiss is considered almost as who are n’t breathing. great an honor as receiving it, because it means the
+Clanbook: Giovanni
+
+=== PAGE 50 === family and clan trusts the do nor enough to deliver a family member into her power. It has not escaped the not ice of the do uble-bloods that many who are chosen
+to give the Proxy Kiss are unico sangue. Given the family suspicion of blood bonds of any sort, it seems that the Proxy Kiss tradition may soon be observed more in the breach. As the schism between the anziani prudente and the anziani appasionati widens, the Proxy Kiss is more and more likely to be considered
+noncompulsory. After all, the control provided by the bond was to the elders’ advantage only when they were completely united. a 4 pril th
+April 4th — the anniversary of the feast that cemented Augustus’ decision to betray his sire and lead the clan into its own — is still celebrated every year by the Giovanni family. (The anniversary of the actual deed is also celebrated, but only in Venice, and only
+by the anziani in ceremonies of protection. Better safe than sorry, after all.)
+Members of the family throw lavish parties, with mortals and ghouls starting things in the afternoon and
+Kindred joining (of course) after the sun sets. the se parties are n’t for everyone: Only those who know the truth about the Giovanni are invited — or those who are going to find out before the sun rises. April 4th is traditionally when new family
+members are proposed to the local anziani for the
+Proxy Kiss and for the Embrace. Elders may Embrace
+(or or der an Embrace) as they see fit, any time of the year, but on April 4th those with out Embrace privileges are permitted to press suit for the Embrace of a favored mortal or ghoul. The rules for the Proxy Kiss are similarly strict. The Giovanni are actually more
+careful about bestowing the Proxy Kiss on family members (who may be Embraced one night) than they are about creating nonfamily ghouls (who are unlikely to become Kindred). After all, it’s all right to have a mere ghoul nobody befuddled by blood bonds. It’s a more
+serious thing for someone who matters — someone in the family. Once the decisions have been made, the refreshments are brought out — usually at least one live victim for each elder present, along with extras for the newly Embraced (if any). By tradition, the newly
+created Kindred are given the first drinks, until they are sated. the n, individuals who bestow the Proxy
+Kiss drink. the n, any anziani present. Only when those three groups have finished are others all owed access to the victims. But at that point, on April 4th only, even the ghouls of the family are freely permitted to drink
+living blood alongside the ir betters, should they so desire. The ghouls are, how ever, expected to dispose of the bodies afterward. Chapter two: it runs in the Family
+
+=== PAGE 51 === t ithinG
+Some members of the Giovanni clan — childer of ultraconservative sires, or very traditional Italian
+Kindred, for example — are expected to provide a tithe to the ir sires or the main family at least once a year. The nature and amount of this tithe depend on the individual Kindred, but the more authority
+you have, the more you’re expected to pony up “for the good of the family.”
+Tithes may be provided in physical assets, or they are provided in souls. The currency provided is up to the do nor. The Dunsirn generally give money. The Pisanob almost always tithe souls. The
+della Passaglia generally provide a combination. Neonates generally have the ir tithes “waived”
+(meaning, they are paid by the ir sires) until they have enough money or know enough Necromancy to make it worthwhile. Once they know enough to start imprisoning ghosts the mselves, though, a tithe-bound Giovanni Kindred is expected to
+deliver three ghosts per year (or the ir monetary equivalent) to the closest family repository. To be considered “delivered,” of course, the ghost must be properly imprisoned, which requires the fourth rank of Necromancy. The imprisonment must be sufficient to hold the ghost for at least a week (by which
+time Giovanni on the other side of the Shroud will have assured that it’s not going anywhere — see “The
+Honored Dead” on p. 42). Tithing is almost always optional. Most Giovanni are made aware of the practice soon after the ir
+Embrace, but only the harshest sire for ces “such anachronism” upon her childer. The more respected a Giovanni is, the more she’s expected to tithe, of course, should she choose to do so. A neonate who
+tithes a single soul or a thousand do llars might be considered an infant who needs to be watched closely by his sire. A you ng but independent Giovanni may expected to tithe three souls. A Kindred with greater
+authority might be expected to send in five, or seven. As for the anziani, they do n’t really tithe at all: they’re engaged in so much full time ghostnapping that the least of the m routinely cages many times this number of spirits a year. Still, tithing is a practice best observed by those capable of do ing it — too little is
+always too little and may be construed as insulting. After all, a “do nation” of five do llars to the coffers of one of the richest, most prominent and secretive families in the world is hardly anything other than a snub. Much prestige can come from tithing, how ever, and most Giovanni past the ir first quarter century as
+Kindred fulfill the obligation. Clanbook: Giovanni
+
+=== PAGE 52 === do the ir thing. Nude beach during spring break? the re a i p n talian rimer For you get a sudario like lead plate. A strong necromancer
+F -m can thin it out or thicken it artificially, but the re’s a oul outhed good reason for all the black robe/ red can dle/ animal n
+e Croman CerS sacrifice mumbo jumbo that goes on with necromantic
+Anziano: A respectful term for a Giovanni elder. ritual. It sets the mood, you see. Bastardo: Bastard. On the other side of the sudario is the Underworld. That’s the “top” level of this other world. It’s kind of
+Bucaiòlo: Faggot. a murky reflection of our world. When we look into
+Cagóne: Coward the dead lands, that’s the part we see. That’s also the
+Catene: Literally “chains” or fetters. Physical part from which they can look at us. objects or places to which a wraith is metaphysically
+Underneath that, the Underworld has deeper tied. Singular, catena. levels that you can’t look at unless you actually go
+Fata: Changeling. Plural, fate. the re. do n’t think about that too much. If you can’t
+Gnòmo: Idiot. get the re on you r own, you have no business going. A
+Merdóso: A shitty person (literally). pack of fuckwit renegades called the Nagaraja made
+Rovinato: “Broken.” Psychologically abused to the mistake of bringing guests along, and, well, it just the point that resistance is inconceivable. Old-world turned out very damn bad for the m. Giovanni usually refer only to ghosts with this term, Anyhow, that deeper level holds the ancient dead but the you nger generations use it on people and
+— the ones who’ve been around so long that they’ve other Kindred as well. lost all connection to the mortal world. they’re pretty
+Spettro: A deranged ghost, a spectre. Plural, spettri. tough. Spirito: A moderately together ghost, a wraith. That deeper level — it’s called the Tempest — used
+Plural, spiriti. to have some developed are as in it, huge cities of dead
+Sudario: The immaterial barrier between the world souls, all going about the ir business. the se dead cities of the living and the world of the dead; the Shroud. had a common social structure, all the se scheming po Va’ a farti fottere!: Go fuck you rself! (This litical factions, trade guilds, even a fucking train going expression is of ten accompanied by putting you r between cities. But all that shit is gone, by and large. thumb between you r teeth and the n flicking it at The reason all that structure went kablooie is the person.) something called a maelstrom. The Tempest usually felt like the equivalent of a bad storm — winds
+G strong enough to pick you up, blinding rain, black ho St Bu SterS lightning… a bad scene. A maelstrom is a thousand times worse. It’s like having a tornado fighting with
+i F ’ a ’ t uCKin in t a thunderstorm inside a monsoon, only with rains of broken glass instead of water. I’m not entirely clear
+Individuals with even the most rudimentary what started this maelstrom, but if any of the wraithly understanding of what nigrimancy is recognize the cities survived at all, they’re is olated enough that you existence of another world. It wraps around this one do n’t need to worry about the m until the maelstrom like a sheet, or maybe permeates it like a gas, or maybe calms do wn. underlies it the way the sea sits under Venice. This
+A few necromancers suspect the presence of other world is where dead people are. they can see another level underneath the Tempest. Not many out of it and watch you and me (though of ten not
+of us claim to have gone the re — probably less than very clearly). Unless you start practicing the Black a few score, in the six centuries we’ve been around. Art, you’ll never see it at all. Of those explorers, maybe one in 10 came back. Out
+The reason you do n’t see it is an immaterial bar- of those, maybe two came back sane enough to stick rier between here and the re. This barrier, the sudario, to one story when describing what they saw. they inhibits ghosts from influencing the mortal world. It’s both talked about “il dedalo,” which means “maze” not uniform. We’re still not sure exactly how it works, or “labyrinth.” The dedalo may be the body of a huge
+but the sudario definitely thins out when people around creature, or a structure created to keep all of that it are thinking creepy thoughts or if the setting is one death-energy caged, or a trap so that the servants of that inclines people that way. Graveyard at midnight? complete annihilation are stuck fighting one another
+Thin sudario. the re it’s comparatively easy for ghosts to instead of climbing up to the living world. Or it may
+Chapter two: it runs in the Family
+
+=== PAGE 53 === just be where some of the nastiest things in the known this thing you have to do, no matter what… but a lot universe reside because flayed skin and walls of living of the time you do n’t have any power to make it hapshit are the ir preferred décor. pen. I’ll give you an example. Suppose you’re a ghost
+Anyhow, right now the situation in the lands of the who’s come back to, I do n’t know, make sure you r son dead is total chaos. That might seem nice for us, but it’s finds his granddad’s heirloom watch or something. not. But to understand how screwed up the Underworld Some ghosts can’t just say “Yo, son — look under my is, you need to meet the players. mattress, next to all the porn.” Instead, they’re stuck, wanting to act but largely unable. they watch living
+S (w ) piriti raithS people like we watch TV. You can yell at ’em all you
+When someone dies with unfinished business want, but it’s not going to make Ross get back together and is too damn stubborn to lie do wn and say, with Rachel, you dig? “Oh, well,” the result is a spirito. No one becomes a So one thing about ghosts is they’re all on a mission ghost just for funzies: they always, always have some and feel very strongly about it. Remember that fact. compelling obsession strong enough to tie the m to Also remember this one: Ghosts are “sentimental” the mortal world. in the same way that you and me “try to avoid the
+I gotta think being a ghost is potentially the most sun,” got it? All the stories about haunted paintings frustrating existence in a world full of ’em. You have and swords and houses are based on fact. Ghosts are tied to physical, inanimate things (the objects are called catene in Italian, fetters in English). While
+v alentini Sm that thing is safe and sound, the ghost can hide in it to
+During one of the last maelstroms, between the regain strength. If that thing gets fucked, the ghost is two World Wars, a loyal ghoul named Valentina equally fucked. This is do ubly true in a maelstrom, but della Passaglia died protecting her mistress, accord- more about that later. ing to the few Giovanni who privately believe in The third thing you need to know about wraiths
+Valentinist ideas. Publicly, like the rest of the clan, is that they need emotions to survive. It’s like they’re they call her a traitor. they say she was driven insane freezing to death and certain emotions are the only by the Malkavians or owed favors to the Setites or fires that can warm ’em up. they flock to those “fires” was misled by the Lasombra or simply fucked in the way you and I go after the Big Red Sweet. But each
+the head by what ever mind-smashing beings crawl ghost has a specific frequency (or frequencies) that gets the ghettos of the Underworld. Traditionally, any his goat. One guy might be tied to love. You’ll find him discussion of Valentina della Passaglia ends with always hanging around weddings and maternity wards, threats, boasts of what a Kindred would do to her: he has a blast on Valentine’s day and gets pumped up
+“I’d bind her to her own femur and ass-fuck the at the local prom. Another guy might have sorrow as
+Pope with it,” et cetera, et cetera. his bag, so he’s cruising funerals and lurking around
+This is because Valentina della Passaglia oncology wards. returned as a spirito and desperately warned her
+With the se three facts in mind, you should be able family that if they succeeded in calling the Endless to deal with any wraith you encounter. Night, the ir power over spirits would be lost, not
+Among necromancers, we recognize two styles of completed. Valentina insisted that destroying the dealing with the dead. I do n’t mean styles of actually sudario would leave the Giovanni at the mercy of
+do ing the magic: you can probably find a do zen styles the very spirits they’d been using and tormenting for that. I mean you have two ways to deal with ghosts for centuries. once you make contact. This idea was not popular, and it still is n’t. First of f, you can use the soft way. You want a ghost
+how ever, more than one Giovanni vampire to follow somebody for you? Buy him of f. Maybe you privately believes (or fears) that she’s right. No purchase the house he haunts and make sure those kids
+one’s about to openly defy the anziani, but the n in the Mystery Mobile stay far away. Maybe you help again, the Giovanni have never been known for his son find the fucking watch. Maybe he gets of f on
+operating openly. gratitude, so you start leaving hundred do llar tips at
+Valentina’s ghost has n’t been seen around for truck stops so he can warm up easy. decades. Maybe someone caught her and dealt with
+This works pretty well: the re’s a reason ghosts her. Maybe she was destroyed in a maelstrom or by spend so much effort trying to contact the living. It’s one of the Underworld’s other perils. Or maybe
+real convenient for the m to have someone on this side she simply knows what her fate will be if she has of the sudario to get stuff they can’t pick up and talk contact with her family. Clanbook: Giovanni
+
+=== PAGE 54 === to people who can’t hear the m. The danger of this is that if a ghost accomplishes his mission, he stops being a ghost and you no longer have someone to do
+you r dirty work. On the other hand, you can work ghosts like a mean motherfucker. If you have the skills you can simply pound the shit out of the m. (Even though they do n’t have a body to hit or shit to drop. Cool, huh?)
+But even with a minimal knowledge of the old Black
+Magic, you can make you r will felt. Know you r restless pally is attached to his wedding ring? Threaten to melt it do wn for fillings. He wants his son to go to college? do minate the kid into smoking his first jay. Ghosts are just like people when it comes to responding to threats: Most of the time they cave if you handle it right. Just
+do n’t go overboard, or (like people) they snap and come back at you with not much to lose. In fact, since ghosts are all emotion, they may snap sooner rather than later anyway. Also, do n’t for get that they (unlike you) do n’t
+sleep and have all the sunlit day to fuck you over if they decide you crossed the line. The biggest danger of the hardcore approach is that a spirito who suffers too much frustration may transform into a spettro. Every ghost has that potential, and once
+they make the change they are n’t going to give a shit about the kid, the watch, the wedding ring or anything else. All they’re going to care about is putting you r ass paid. So watch it, okay? I find the best approach is a little soft and a little
+hard. do n’t help the m complete the ir higher purpose, but promise you will. Help ’em get hooked on a feeling
+— that usually do esn’t cost you much, but it’s worth an awful lot to the m. Find the ir catene for “safekeeping” but be ambiguous about it. Ideally, the ghost should see you as someone too powerful to challenge, who can do
+a lot for him if you’re happy — and can do a lot more to him if you’re pissed. Treat the m the way you r elders treat you and you’re probably on the right track. S: w S C d y StemS hat piriti an o
+Storytellers and players wishing to use restless spirits in the ir chronicles may use the following equivalent vampire Disciplines to model the powers of ghosts. This is in addition to the standard abilities on p. 282 of Vampire: The Masquerade. All spirits automatically have Heightened Senses. Other common powers are the equivalent of the lower
+levels of the Thaumaturgical path Movement of the
+Mind, Dementation, Vicissitude (only for transforming the mselves or other ghosts, how ever) and Chimerstry, at levels the Storyteller deems appropriate to the particular wraith. Uncommon powers include the Thaumaturgical path
+Lure of Flames and Dementation at Level Three or higher
+Chapter two: it runs in the Family
+
+=== PAGE 55 === are single-minded: the ir ultimate goal is always to
+S pirit S laveS rip things apart, to wear do wn anything that’s been built, to erase, dissolve and for get. Reduce everything
+A Giovanni with the Spirit Slaves Backto the absolute not hing they embody. Yeah, it’s pretty ground (see p. XX) starts play with one or more fucked-up shit. spirits already do ing her bidding. The number of spirits and the ir power depend on how many do ts It’s possible to do the who le pimp slap “I’m you r
+the character has in the Background. daddy now, bitch” routine on a spettro, but do n’t expect
+Each individual spirit costs one do t. Wraiths’ the long-term obedience you can squeeze out of a spirito. skills and attributes are built using the rules for You may think you’ve got one broke to saddle, but if neonate vampires, but with no additional Disci- you do, it’s probably fooling you. they can be clever. plines (except as described below), Backgrounds they can anticipate and innovate — the se are n’t just or freebie points. Each starts with a Passion Pool of the how ling ghost equivalent of a mad-do g Gangrel. 5. Every spirit automatically has Auspex 1 and one they’re even capable of building and creating things do t in another common power. Spending another if they think that in the long run that will help the m
+Background do t on a spirit can give it an uncom- eradicate. You can compel spettri for short times with mon power (or one common power at uncommon Necromancy, but you can’t make the m psychological levels). Spending two do ts on a spirit can give it slaves. I’ve never broken one. The Premascines, maybe rare levels of power. they have. Augustus… probably. But if he has, he ain’t
+Example: Brent chooses to have three do ts in the talking about it. Spirit Slaves Background. That means he could have Understand that spettri have been sucked do wn and three spirits do ing his bidding, each with Auspex 1 and consumed by entities of unimaginable power — things one other common power. Alternatively, he could choose that are n’t human and never were. the se beings… the to have two servants — a weak one and one who also spiriti equivalent of ancient Kindred… never existed in
+possesses an uncommon power. Finally, he could choose a sense you or I would understand. they’re the opposite to have a single servant with a rare power, or with two of existence. The only things they have in common with uncommon powers. “being” are will, intelligence and power. Lots of power. I know, it do esn’t seem to make much sense. Just
+(some spiriti can possess Dementation 3 with out learning believe me, they’re do wn the re in il dedalo, okay? Lots the first two levels). High Auspex is also uncommon. of people do n’t believe in vampires, either. Ghosts can also gain the fourth level of do minate with out having the three previous levels, but this ability is w o ’ B? hi Ch neS etter rare as well. One uncommon power with no Discipline
+equivalent is known as embodiment: It all ows the ghost Many neophyte Necromancers wonder to become physically solid. do ing so costs two points which variety of ghost makes for a better servant: from the Passion pool, and lasts for one scene. The reasonable (but sometimes wishy-was hy)
+The truly rare powers are high level (3+) Lure of spirito or the powerful (but hard to control) spettro? Flames or Movement of the Mind. The answer depends on circumstances. Machiavellian types tend to use both — spettri for thug-work
+S (S ) pettri pe CtreS and spiriti for more delicate tasks. Kindred with out
+Spiriti are basically human souls with unfinished the patience for all that plotting and manipulabusiness. Spettri are something else altogether. they are tion prefer spiriti who can simply be bullied into destruction incarnate — not in the sense of blowing shit obedience. The very few Necromancers who feel up, but in the sense of the fine, dry ash that’s left after sympathy for the dead tend to prefer spiriti as well: everything’s blown up. they’re entropy plus intellect. After all, they’re much better company. they stand for absolute silence, oblivion, the cessation In terms of power, a newly dead spettro is probof all movement everywhere. ably more dangerous than a newly dead spiriti, both
+The difference between spettri and spiriti is n’t to its summoner and to her enemies. A spirito that superficial and philosophical like the Camarilla/ Sab- survives for decades can become powerful indeed, bat thing. they are as different as a caterpillar and a how ever, where as very few spettro seem to last more but terfly. Unfortunately, on the surface it is very, very than five years before being torn apart by the very difficult to tell the m apart. negation they serve. Needless to say, a spirito that’s
+been around for a hundred years is a lot harder to
+Spettri have the ir emotional gas stations like spiriti compel by for ce.… do, but it’s always something negative, destructive — something that tears do wn with out building up. they
+Clanbook: Giovanni
+
+=== PAGE 56 ===
+Spettri have been engulfed and remade by the se influence the mortal world are at +1 difficulty. they ghostly archfiends. they’ve been eaten who le and shat also commonly possess a highly limited for m of Presout changed by embodied nonexistence. Do you really ence. Instead of making the mselves more attractive, think the re’s anything you can do to put a scare in one? how ever, they are only able to make actions that feed
+One other thing you should know about spettri is the ir passions more attractive — they make the mselves that they’re in constant contact with one another. It’s more horrible, albeit compellingly so. like every spettro is hooked up to all the other spettri Otherwise, spettri have the same power profile as on cell phones 24 hours a day. So if one’s in trouble, spiriti, but the Passion Pool for spettri is 7. Due to the ir the others may show up to save his ass… or to fuck rarity, how ever, buying a spettro with the Spirit Slaves
+him in the ass. What, you thought the embodiments background costs an additional point. of entropy cooperate? t r
+Am I saying you should never contact or deal with he is en spettri? Oh, certainly not. they’re the active principle
+The bad news is, the Risen can kick you r ass. The of destruction. We have lots of people we’d like erased. worse news is, the re’s a lot more of ’em around in the they feed of f terror. We terrify by feeding. Between us modern nights than the re use to be. and the m, I see a lot of opportunities for a kind of “you r
+A Risen is halfway between a spettro and a spirito, peanut but ter and my chocolate” synergy, see? Just do n’t and pissed enough to claw right through its coffin. Like for get that with a spettro, it’s always using you as much spiriti, they are goal-or iented. If you’re stupid or unlucky, as you’re using it. you might find you rself standing between one and its
+S: w S C d goal. If you’re really unlucky, you might be its goal. If y StemS hat pettri an o so, nice knowing ya. As creatures of destruction, it’s more common for
+Some of ’em do n’t handle sticking the ir souls back spettri to have powers that duplicate the Thaumaturgy in a rotted brain very well, and those are the stupid, aim Paths Movement of the Mind and Lure of Flames than less, most common type of Risen, like the zombu some
+similar spirito powers. Because spettri are the antithesis
+Necromancers can animate. The rare ones are just as of existence, how ever, it’s harder for the m to operate smart as they were in life. Those are the real trouble boys. in the world of the living: All efforts made by the m to
+Chapter two: it runs in the Family
+
+=== PAGE 57 ===
+Worst of all, standard Necromancy do esn’t work MET Statistics: nine Physical Traits, zero Social on the m nearly as well. The Bone Path has some ef- Traits, four Mental Traits. Brawl, Intimidation x3. Equivafect, but not hing spectacular unless you really know lent of for titude Disciplines Endurance, Mettle, Resilience. what you’re do ing. The standard compulsion shtick Immune to Dementation, do minate and Presence, as well do es not work at all. as Serpentis: Eyes of the Serpent and Auspex: Telepathy. If you’re real nice to Diego, or his buddy Paolo, they Shamblers have a normal health level track but do not might lend you a devil stick or teach you some rituals suffer any penalties due to wounds. that can help a little. But frankly, if you have a problem
+t r rue is en with the walking dead, you need a lot of help. the se are individuals with unshakeable goals —
+S ham Bler of ten complex ones requiring planning and many steps. This is a mostly brainless walking, rotting corpse they are not tolerant of anyone who gets in the ir way. with a one track mind, such as a zombu created through Attributes: Strength 3, Dexterity 3, Stamina 4, Necromancy or a dull-witted ghost animating a dead Charisma 2, Manipulation 2, Appearance 2, Perception body. It’s capable only of fairly simple actions. Since the 3, Intelligence 2, Wits 3 spirit-storm began, shamblers have even been popping Abilities: Academics 1, Alertness 3, Brawl 2, Drive
+up in groups of three to five — and sometimes many, 1, Empathy 2, Intimidation 3, Investigation 2, Melee many more. 2, Stealth 2, Streetwise 1, Subterfuge 3
+Attributes: Strength 3, Dexterity 2, Stamina 6, will power: 5 Passion Pool: 8
+Charisma 0, Manipulation 0, Appearance 0, Perception Equivalent Disciplines: Obfuscate 2, Celerity 2, Po2, Intelligence 1, Wits 1 tence 2, for titude 2. Risen have 10 health levels and can
+Abilities: Brawl 2, Intimidation 5 heal a level of damage per turn by spending a Passion point. will power: 4 Passion Pool: 1, if any they suffer no dice-pool penalties from wounds, unless
+Equivalent Disciplines: for titude 3 those wounds are aggravated, in which case, they begin to not e that mental Disciplines work on only the suffer penalties at the ir fourth health level of damage. In most aware of the se creatures. Most shamblers are other words, assume that in the case of aggravated damage, unaffected by mental Disciplines — or, indeed, any a true Risen has an additional three Bruised health levels. mental coercion — at all. Shamblers do not suffer any MET Statistics: See Oblivion for live-action stats penalties due to wounds. of Risen. u n r
+SinG e Croman Cyonthe is en
+The only Necromantic path that has any effect on the Risen is the Bone Path. Using Tremens all ows the necromancer to inhibit the Risen’s actions: For each success rolled using Tremens, the Risen loses one success of f its next action. Apprentice’s Brooms is more effective, as this power overlays the Risen’s command of its own body with a separate set of impulses. The Risen’s will is primary, but when it’s not consciously directing its limbs, they
+fall back on the necromancer’s or ders. In practical terms, any Risen affected by Apprentice’s Brooms loses one die from every dice pool until the end of the scene. The other Bone Path powers that have any effect on Risen are Soul Stealing and Daemonic Possession. Soul Stealing rips the Risen’s soul from the body and sends the spirit portion back to the Underworld. Risen can resist Soul Stealing like a mortal victim, and they can return if the Kindred is n’t smart enough to destroy the vacated corpse immediately. Daemonic Possession puts another soul in conflict with the body’s possessor — a conflict fought in the body
+that literally tears it apart. The attacking player rolls Intelligence + Occult against a difficulty of 6. For each success rolled, the Risen takes a level of aggravated damage that is soakable if the Risen has the equivalent of for titude. In no event, how ever, can a new soul take control of the Risen’s body. MET Necromancy and Risen: A necromancer can affect Risen with Bone Necromancy only with a successful Social Challenge. Using Tremens causes the Risen to suffer a one-Trait resolution penalty on its next action. Using Apprentice’s Brooms causes the Risen to suffer a one-Trait bidding penalty on its next action (it
+must risk an additional Trait). Soul Stealing functions normally, sending the Risen’s soul back to the Underworld. Daemonic Possession causes one health level of aggravated damage each time it’s successfully invoked against the Risen in question. Clanbook: Giovanni
+
+=== PAGE 58 === t m he ael Strom this time, instead of being a reflection of what happened in the living world. Apparently what happens is, the se
+Up until very recently, the Underworld was predict- spirits are thrown clear out of the Shadowlands and able — at least, it was in its broad outlines. You had the kind of glom on to what ever (or who ever) they hit first spiriti in the Shadowlands, or the ir cities in the depths on this side of the divide. Sometimes a person, place or beyond the Shroud. You had the spettri in the dedalo, thing will find a pack of ghosts attached to itself. the se
+the “sea” of the Underworld, and sometimes screwing are n’t spirits with a connection from life: It’s not like around in the Shadowlands as well. It was pretty stable. French nobles lurking around the guillotine or soldiers
+We had contacts on all the levels, though a lot more in haunting Gettysburg. It’s more like some teeny-bopper the Shadowlands than in the dedalo, natch. Deals were with mall hair wakes up one day and the re’s two ghosts made. Things got do ne. from fuckin’ Namibia attached to her who are going
+Now, all that’s turned to shit. No one seems real to be powerfully screwed if something bad happens to sure what happened. I’ve heard that the spettri had been her. It do esn’t even have to be a person: We bought a massing for an all-out assault on the dead cities since gas station in New Zealand that had at least 20 spiriti the end of World War II. I’ve heard that Bangladeshi suddenly latched onto it. death-o-rama had hardcore mystic repercussions that The ghosts who got blasted back through tend to
+simultaneously crowded the Underworld with fresh be the newly dead, so they’re weak. If you can find one spettri and started the mother of all storms. I’ve even of the se multiple fetters — Veronique calls the m “bufheard that the ghost of a nuke got used on the ghost of fets” — you’re in gravy if you handle it right: It’s you r a city, and that the explosion blew apart pretty much magic ticket to scared, naïve ghosts who’ll do anything to everything the spiriti have been building since time protect it. On the other hand, that “anything” includes
+began. It do esn’t really matter. messing with you if they decide you’re providing more
+What matters is, the End Times are here. If this danger to the ir fetter than you’re preventing. most recent storm is anything like the last two we saw As for actually going through the sudario, that’s
+(one for each World War), it’s gonna be around until easier to do now, but also a who le lot stupider. The lands the end of the world.… of the dead were always pretty damn dangerous, even
+One thing it’s do ne is weaken the sudario, the when things were comparatively calm. Now they’re a barrier between our world and the irs. Sounds great, war zone, and not in the good “lots of dying soldiers to do esn’t it? Should be easier for the ghosties to show feed on” way, but the bad “lots of things can kill you up and do the ir stuff. Should be easier to punch ’em and want to” way. around, too — right? Naturally, the se sudden changes took us by surprise. Well, half right. It’s sure easier to pull the m in. But I personally know of at least five of us who were on the
+it’s a damn sight harder to control the m. I guess that other side when the shit hit the fan. None have come working in our world is usually a real chore for spiriti, back, and I do n’t expect that they will. I know another and the effort of just being here made the m weaker and do zen of us who were taken by surprise when the ir rites easier to control. Now that the sudario is thinner, they started calling more ghosts who were harder to control. can expend more of the ir effort and concentration on That cost us another five good people, and it’s going
+telling us to fuck of f. Or maybe it’s just Darwin in action: to take a while for poor Nicola to get back to normal. The ghosts who can keep it together in a maelstrom It was a who le lot worse for our servants and all ies are the tough bastards who always were harder to deal on the other side. I’d guess that a flat half of the m are with — but who usually stayed away from us. just permanently gone. Of the spiriti we retained, many
+The danger of the storm makes catene more im- of the m transformed into spettri after the trauma, so portant. the ir anchors to the living world are like our they are n’t even trustworthy anymore. On top of all have ns — that’s where spiriti go to rest up after getting that, a lot of our old “associates” on the other side are the ir asses kicked. Naturally, having a shelter like that taking advantage of the weak sudario to even up some
+is crucial when the weather is killing bad. Take hold of a old scores. So watch you r back. spirit’s catene and you’ve got a real threat over its head. One piece of good news (kind of) is that none of
+Destroy it and that ghost’s gonna be hurting. the other Kindred clans seem to have figured out that
+The other weird-ass thing about the maelstrom is our legions of ghost servants got trashed overnight. In that a bunch of spirits have apparently been blasted fact, in some cities where the Shroud got particularly right into our world, will y-nilly, all over the globe. thin, the local Kindred think it’s something we did and
+That did n’t happen before — which kind of supports that we’re more powerful now. As far as I’m concerned, the the or y that the maelstrom started on the other side they can keep thinking that as long as they want. Chapter two: it runs in the Family
+
+=== PAGE 59 ===
+The maelstrom is mostly a crisis, do n’t fool you rself the necromancer immediately. If it can’t reach her, it about that. But it’s also an opportunity. Calling ghosts starts trashing anything it can get its rotting hands on. is easier, even if controlling the m is harder. That just MET System: Make a simple test (win or tie) means you have to be more of a politician and less of each time you invoke Apprentice’s Brooms (retest with a strongman. The Sabbat and Camarilla and the rest Occult or than atology). If you lose (and lose the retest, of the m may think that we just did something huge if any), the created creature is a shambler not under
+that brought all the se new ghosts into the world. If you r compulsion. you play the m right, they’ll fear you and keep away. If
+••• Shambling Hordes you play the m wrong, they’ll fear you and try to burn
+On a botch, the shambling hordes attack the necyou into ash. romancer instead of following or ders. Best of luck. MET System: Make a simple test (win or tie) t he m ael Strom each time you invoke Shambling Hordes (retest with n Occult or than atology). If you lose (and lose the retest, and i Griman Cy if any), the created creature is a shambler not under
+The weakening of the barrier between the realms you r compulsion. of mortals and the dead has powerful implications •••• Soul Stealing for practitioners of Necromancy. Some tasks are Due to the interference of the maelstrom, the easier. Others are more dangerous. Some are both difficulty for the Kindred making the contested at the same time. will power roll rises to 7, while the victim’s difficulty
+Storytellers who wish to incorporate the changes stays at 6. If the victim’s soul is evicted, how ever, its in Necromancy wrought by the maelstrom can use the player must make a will power roll against difficulty following guidelines. On the other hand, it’s also pos- 8 for every hour that it’s exiled from its body. Each sible that individual Storytellers may err on the side failed roll results in a permanent derangement once
+of simplicity and just use the rules in the main book, it returns to its body. If the victim is a player’s charunchanged. That’s fine too. But for those who want acter, the Storyteller may opt to all ow her to spend the m, here are the changes, path by path. a point of permanent will power to avoid acquiring new derangements. t S p he epul Chre ath
+MET System: The target of Soul Stealing gains a
+•• Summon Soul one-Trait resolution bonus against the necromancer, so
+All difficulties for this power decrease by one. On be careful unless you have a surfeit of Social Traits. For a botch, how ever, it’s quite likely that multiple spec- each hour/ scene that a soul is for ced from its body, it tres show up. Even on a simple failure, a spectre may must expend one will power Trait or else it gains one well not ice and make trouble for the character, at the permanent derangement. Once it runs out of normal
+Storyteller’s discretion. Use this last situation sparingly, will power Traits (if it bothers to resist), it loses one how ever, Storytellers, for if every failure attracted the permanent will power Trait (although this event preattention of spectres, few Giovanni would survive to vents acquisition of any derangements). practice the ir Black Arts. t a p
+MET System: You gain a one-Trait resolution bonus he Sh ath on challenges to Summon Soul. If you fail a challenge All Ash Path powers are made with one die with this power, though, and the difficulty is do uble you r fewer in the necromancer’s dice pool. The only current Social Trait total, you can be overbid; if you lose exception is Shroud Mastery. the overbid as well, several spectres show up (“several” MET System: when ever you make a test that
+is defined by the Storyteller’s mood at the time). pierces the Shroud in some way with the first three
+••• Compel Soul levels of the Ash Path (such as trying to spot something
+A player’s dice pool to compel the soul after sum- with Shroudsight or punching some ghost while using moning decreases by one die. Dead Hand), you suffer a one-Trait resolution penalty. MET System: All Compel Soul tests suffer a one- The costs for the powers the mselves remain unchanged. Trait resolution penalty. •••• Ex Nihilo
+The maelstrom’s intensity ebbs and flows. During a t B p he one ath calm period, when other Shadowlands inhabitants suffer
+•• Apprentice’s Brooms moderate damage from the flying debris, a Kindred Ex
+On a botch, the necromancer has accidentally Nihilo takes no damage. But as the maelstrom becomes created a shambler, as described on p. 56. It attacks more powerful, it’s quite likely to deal out a few dice
+Clanbook: Giovanni
+
+=== PAGE 60 === of lethal (or aggravated, at the Storyteller’s discretion) I suppose “Let’s not get caught!” is simple enough damage each scene if the vampire is n’t in a protected that even the Malkavians can follow the bouncing ball. structure (the se little peaks of power happen maybe once If they were n’t such pansies about leaving feedbags alive, or twice each night everywhere). This kind of increase in I might be tempted to go through the hazing process and intensity can climb all the way up the scale to 18 dice of learn the secret handshake (or what ever you do to get in
+lethal damage per scene as the Storyteller dictates the the club). Still, I’m glad I do n’t have to spend my nights intensity of the storm, but that’s rare and only at sites of bending knee to some creaky “prince” who spends his incredible focus. The odds are strongly against that kind time bitching about what shitty ideas democracy and of intensity at the vampire’s location. Still, it can happen. free enterprise are. Welcome to the New Age, Vlad. MET System: Generally, while traveling Ex Nihilo they’ve been going toe to toe with the Sabbat lately, you suffer one level of lethal damage per hour/ scene, which is fine with me. Let the two big yacht clubs fight. unless you win or tie a Simple Test. Every time they go for guts and gats, more do mains go
+up for grabs. The real winner in this conflict is going to t v p he itreouS ath be the independent clan that can make the most gains
+Rolls for the first three powers of the Vitreous Path while the Big Two pound on each other. If it was n’t for
+(Eyes of the Dead, Hour of Death and Soul Judgment) the maelstrom, that would be us, goddamn it. are made at +1 difficulty. The two latter powers (Breath Diego says: of than atos and Soul Feasting) have the ir difficulty As galling as the ir bullying and pretensions lowered by 1. are in the short term, the Camarilla exists for one
+S m (t ) purpose only, and it is reactionary. they exist to pirit anipulation haumatur Gy conceal the existence of our kind, and many you ng
+Powers of this path are unaffected. The demons of
+Giovanni are shocked at how easy it is to quiet the the spirit world seem to be radically different from the
+Camarilla by holding the m to the ir own Masquerade ghosts lingering beyond the Shroud. standards. And ultimately, the Masquerade is a good e B idea — for now. veryone ut
+To placate the Camarilla, it is only necessary to u i S play to the ir preconceptions and to expose those facets
+S S tupid of our operations with which they are familiar. they know that we have a certain facility with the dead. It’s sad, but true. You’d think that with a do zen other they know that we are great financiers. they do not, clans and fuck-only-knows-how-many more bloodlines, at
+how ever, know of our plans for the Endless Night. If least someone in the re would have a clue. No such luck. they knew, they would rise as one and wipe us of f the
+Some of the se other stiffs have a chance of putting the face of the Earth. who le “I’m not dead and parts of it are n’t so bad” thing
+We must concentrate on maintaining the fiction together, but most of the m miss it by a mile. do n’t get me that money is our goal, and Necromancy only our means wrong — I’d love to see the sun again and not worry about
+to that end. they understand avarice. If they think we catching fire every time my daughter lights a cigarette — but are mere moneygrubbers, they will assume that we are
+Caine gave his awful childer a few gifts to ease the ir endas devoted to maintaining the status quo as they are. In less nights of damnation. Since most of the se Licks would that case, they will be content to play the ir silly political rather pity-fuck the mselves for ever, though, and even the
+games against us, they will sneer and smirk when they ones who realize the potential was te it setting each other count coup in some inane, transitory business deal, and on fire and cutting of f the ir sires’ heads, it’s almost moot. they will be taken who lly by surprise when the sudario
+It’s lonely, sitting at the Giovanni table. But it’s a falls and they become our servants. tolerable loneliness. t S t C he aBBat he amarilla
+Accorri says: Accorri says: All I can say is… what the hell? did n’t the se guys do n’t get me wrong: I like the Camarilla guys, in get enough kinky BDSM bullshit when they still had the way that you like the guy who puts gas in you r car
+working penises? and is always trying to talk to you about business oppor Okay, sure, the re’s all that noise about stopping tunities. they’re a little annoying, and they’re unclear
+Antediluvians (who no one’s seen since Abraham on the who le “vampire” concept (“Ooooh, do n’t call was a pup) and about getting in touch with True us that! We’re Kindred!”), but other than that the only
+Vampire Nature and how it’s a real fellowship, blah thing I got against ’em is the ir success. Chapter two: it runs in the Family
+
+=== PAGE 61 === blah blah. If you shut you r ears and check what they useful, reliable zips. A little uptight and humorless, but do, it boils do wn to, one, everyone blood bonds every- what do you expect from a hired gun? one else and two, mortals get the Terminal Puncture. Like the best assassins, they’re more sneaky than
+Oh, and three: Let’s break stuff. I’m cool with number tough: In a straight fight, I figure you r average Brujah two, but I draw the line at adoring everyone I hang biker punk could take one pretty quick. Of course, I’ve around with. If I work with someone, I do n’t wanna never in my life or unlife seen such a thing as a “straight have mandatory affection too. fight” where Kindred are concerned. Hell, I’ve never
+Diego says: seen a “straight fight,” period. In its own way, the Sabbat is as stuffy and conserva- Lately, they’ve been going utterly batshit on anytive as the Camarilla. But where the Camarilla looks one they think they can fuck with. That means you do wn at the teeming masses of humanity and whispers and me in particular, since we do n’t have the strength
+“What if they rise up and crush us?” the Sabbat looks of numbers like the big, bad Camarilla or Sabbat. fearfully up toward the Antediluvian blood gods and they tend to think they can pick lone Giovanni of f whispers “What if they fall upon us?” with out repercussions, which is why we have to keep
+Just as I appreciate the Camarilla’s admirable job of the pressure on the m. If you make you r have n in a keeping the mortals from becoming troublesome, I also town with a Tremere chantry, you can make this a appreciate the Sabbat’s efforts to prevent more Ravnos win-win option by selling the Tremere information unpleasantness. Like the Democrats and Republicans of about the Assamites — if you do n’t decide to do it
+America, the Camarilla and the Sabbat agree on almost the other way around. everything and are the refore constantly casting about You have three advantages over Assamites: You for is sues on which they can contend. Being Kindred, of got money, you got ghosts and you got self-control. course, the most common is sue is simply naked power. The uses of money are obvious. Ghosts are good for
+If one faction absolutely had to triumph, I suppose digging up information, especially daylight information. I would prefer Sabbat hell to Camarilla purgatory. The can nibals are past masters at sneaking around by
+Feeding would be simpler and no do ubt they would night, but in the daytime they got jack shit, so you leave more ghosts about. how ever, I suspect the ir have the edge the re. Finally, keep in mind that the ir
+“New Utopia” of Kindred masters and human slaves drinking problem makes ours look like a walk in the is not feasible in practice. Perhaps thirty or for ty park. If you can interrupt the ir feeding of ten enough thousand Kindred exist worldwide — if that. And (yet another good use for ghosts), you can chuck some the Sabbat expects to enslave billions, who have Camarilla or Sabbat neonate in front of ’em and watch
+recourse to tanks, flame-throwers and (let us not the diablerie fly. Once they’ve do ne that, you can pass for get) the sun? of f the details to either big sect and make the Assamite for tunately, the Camarilla has taken it upon itself the ir problem. to rein in the enthusiasm of the Sabbat. Diego says: On the global level, the Sabbat and ourselves have I’m frankly surprised that the blood curse lasted an unstated policy of mutual disinterest. they have as long as it did. As I predicted, the “management” in
+made the error of ignoring us on the personal stage as Turkey let its higher-generation scalawags of f the leash well, but I see no reason to follow the ir foolish lead. as soon as the curse failed. For all the ir talk of honor and they’re not a very fit tool, but if one reluctantly ad- solidarity, the ir elders are not eager to be surrounded by mits to a low level “pack” that the Setites are trying to childer with an addiction to Amaranth. rouse the ir Antediluvian, the Sabbat can be made to The Assamites dislike us, but actively despise the
+pluck the serpents’ fangs. Naturally, they require little Tremere and of ten (by association) the Ventrue. The prodding to rampage against the Camarilla as well. But Ventrue are useful to us, and the Tremere envy the ir be very careful when it comes to manipulating the m: place: the refore, it is best for us to direct the dislike the ir constant blood sharing makes the m unstable and of the Assamites against the Tremere to protect the
+frenzy-prone, and the ir fetishistic philosophies do little Ventrue (and ourselves) as much as possible. to inspire self-control. I predict great success for the Assamites — in the short term. how ever, the ir structure is not strong a
+SSamiteS enough to contain a number of dangerous, trained
+Accorri says: killers to who m the taste of elder blood is completely
+“To the workman shall go his wages.” That’s out of irresistible. The elders will need to keep the neonates the Bible. Now that I think of it, most Assamites would at ever-increasing distance for the ir own safety, which probably wipe the ir noses with the Bible, if they still will erode the ir already weakened authority. I predict a had snot to blow. Anyhow, the Assamites used to be major crack in the ir façade with in two years. Clanbook: Giovanni
+
+=== PAGE 62 ===
+B ru Jah While the Gangrel are of little use to our clan —
+Accorri says: I suppose they could be used for standard Putanesca
+All pain, no gain. All guts, no brain. scut work — the Camarilla must be feeling weak
+Diego says: and nervous now that one of the ir two violence
+Given the Gangrel defection, the Brujah’s position specialists has scampered of f. If the Brujah ever with in the Camarilla is strengthened considerably. This take the ir feet out of the ir mouths long enough to is just as well: I suspect that Brujah brutishness is just walk away, the Ventrue might have to start do ing what the Camarilla needs to fight of f the Sabbat. the ir own dirty work. What few Brujah realize is that with out the It is the refore desirable to make things easier for the
+structure of the Camarilla, they would have not h- Gangrel, for a time. they must survive long enough to ing to rebel against and would (consequently) have to make things painful for the Camarilla. After that, they start do ing something instead of simply railing against can sink or float on the ir own, but if they are hurt too the ir betters. badly, too quickly, they’ll run back to the ir old masters
+with the ir tails between the ir legs. G an Grel Any aid should (or course) be given with out risk. Accorri says: If possible, they should not know who is helping the m, Just as the Sabbat starts to get uppity, the Gangrel or even that they have been helped. If being obvious is decide to bite the hand that feeds the m. Beautiful. Hey unavoidable, proper care should be taken to make the the re, Kindred-for merly-Known-As-Prince! Wanna recipient feel indebted. hire out some ghosts for recon? I got a two-fer-one
+l a Som Bra special goin’! Accorri says: If I get everything I want for Christmas, the se guys will become “Kindred society’s” new guns for hire. The Lasombra must have really been some While Assamites can be nice for cracking out ham- thing, once upon a time. Actually, they’re still
+merheads holed up in a city have n, it looks to me like something tonight. It’s just that they’re something the Gangrel might be a little better for running do wn largely anachronistic and irrelevant. Back in the problems who decide to quit town. Sort of a “hit man Dark Ages you could get away with the brooding, versus bounty hunter” setup. The sane Assamites you uppity, droit de seigneur routine. But I do n’t care how can still count on would sure be easier to haggle with smart, tough and ruthless you are, no one in the 21st
+if they had serious competition in the ir niche. It’s good century is going to acknowledge a fucking king, espefor the market, you know. cially some whacked-out freak who proclaims himself the dread, dark lord. I do n’t know if that’s real likely though. The
+Assamites, what ever the ir other flaws, are tightly See, the Lasombra (like many strong, capable knit, while the Gangrel as a clan are just a botched people) do n’t know how to lose. they ain’t used to it. version of Tarzan Meets Dracula. On an individual So when they’re going from strength to strength, get level, I’m sure the re are lots of the m who are going out of the ir way, because capitalizing on victory is what to find that unlife outside the Camarilla can be cold they do best. But when they finally do stumble — and
+and lonesome, especially when the Sabbat starts to believe me, when it’s two clans against seven, plus the settle some scores. Those lonesome strangers are go- mortals, they’re going to stumble — that’s the time to ing to be pretty vulnerable and probably more open take ’em for all they’re worth. to dealing with folks from another “outsider clan.” Diego says: It do esn’t hurt that many of the m have never seen a Our Spanish cousins are a superb cautionary real, live hundred do llar bill, either. example. A fine combination of strength and in Diego says: tellect, courage and cunning, they have become
+The Gangrel defection merits a great deal of atten- bogged do wn in the untenable role of “Sabbat coalition. Oh, I do n’t mean that the Gangrel are going to have tion builder” and fighting the ir tedious war against much impact on our plans: I suspect they’re going to suffer slumbering enemies that may or may not exist. This greatly from the attentions of the Lupines, if not mortal is what happens when you try to preserve an old hunters. Other independent clans have hierarchies or situation instead of adapting to a new one. If they
+systems by which they acknowledge the ir elders to gain had turned the ir considerable energies and abilities the strength of unity. (Oh, except for the Ravnos. How toward something worthwhile, they’d be do ne by could I ever for get the Ravnos?) The Gangrel, lacking now. Instead, the future they contemplate is one same, can look for ward to a steady attrition from the ir of unremitting toil and conflict. What a was te of a
+well-or ganized and numerous enemies. perfectly functional eternity. Chapter two: it runs in the Family
+
+=== PAGE 63 === m I also would not mind if they were all extinguished and al Kavian the ir knowledge with the m. Accorri says: Even a stopped watch is right twice a day, but that n oSFeratu
+do esn’t mean I want one hanging on my wrist. The Accorri says: same goes do uble for Malkavians. If I was a shit-stinky lump of fugly, I guess it might
+Diego says: make me feel better to know the deep dirt on everyone
+For thousands of years, we knew the real source of else. Stay on good terms with the se guys — so long as it madness, and now some humorless German has con- do esn’t involve letting ’em in you r have n. Take it from vinced the world that it’s because mama stopped breast me, what ever they’re leaking on you r furniture, it goes feeding too soon. Rubbish. right through the fucking Scotchgard. Madness — and particularly the madness of Malka- Also — when they start in with the “To me, my
+vians — is what happens when a mind is too exposed feral minions!” routine, it’s time to haul some ass. to the breakdown of the world. All the Malkavians can Diego says: advise you about is what is leaking through from the
+Like us, they are for tunate. Like our Lamia’s Kiss, other side. I can tell you the same: It is merely chaos. the ir curse shields the m from the self-deception com The madmen can be surprisingly coherent and adroit mon among the Brujah and Toreador. they know they in the ir actions, but it is ultimately only the rumble of are damned. Unfortunately, anyone else with eyes to thunder with out the lightning’s flash. Against the infinite see or a nose to smell knows it as well. patience of oblivion, they are insignificant. they are also quite inquisitive. If any clan is n going to find out about our ultimate goals, it will
+a Gara Ja probably be the Nosferatu. Futhermore, as they are
+Accorri says: despised by others, they do tend to stick together
+Never heard of it. (no pun intended). Thus, any Nosferatu spy found
+Diego says: skulking about one’s residence can not be summarily
+Dust to dust. I would not mind finding one in or der diablerized and dismissed. That will only bring his to investigate rumors of the ir so-called “Vitreous Path.” fellow outcasts in search. Clanbook: Giovanni
+
+=== PAGE 64 ===
+To protect oneself from Nosferatu spying (or S etiteS from anyone else’s, for that matter), it is advisable
+Accorri says: to perform the most secret rituals only in the secure
+You know what I like to do with the snakes? confines of strongholds such as those in Venice and
+Beat the shit out of ’em. do n’t talk to ’em, do n’t
+Boston. Some spiriti possess the ability to penetrate negotiate with ’em, do n’t screw around scheming
+Nosferatu disguises, but this is far from being a sure thing. against the ir fucked up mortal pawns: Just pound
+Physical precautions are more effective. I am unfamiliar the ir asses do wn. Beat the m into fucking paste. with the last word in technological trapping, but I assure
+Goddamn I hate the se motherfuckers. you a pool of burning oil gives pause to any skulker. Of course, things do n’t always go the way you
+It is also imperative to keep one’s residence free of want. If you can’t just get the drop on one of the se vermin. But the presence of spirits generally frightens shitbags and give him the what-for with a fire ax, you
+of f any creature smart enough to communicate with a may have to apply some strategy. If you can, use our
+Nosferatu. general strategy — have ghosts follow him, suck dry r avnoS any mortals he’s got for all ies (or, more likely, patsies), disrupt his feeding with spirits until he’s weak
+Accorri says: and blood starved, the n go in with the nail-studded
+Aw, something bad happened back East to a bunch of baseball bat. arrogant, nomadic, lying, sticky-fingered Gypsy do uche
+If even that ain’t feasible, you can try to rile up the bags? Boo fuckin’ hoo. Camarilla (“You ain’t gonna believe this, but they’re
+Diego says: violating the precious Masquerade!”) or the Sabbat
+The Ravnos are in trouble, than ks, I believe, to
+(“You ain’t gonna believe this, but they wannawake something gone awry in the ir bloodline. they are up an Antediluvian!”) or the Lupines (“Hey! Look over so few now! We are also experiencing difficulties, the re!”) or the Assamites (“Did you know Set is a Jew? courtesy of this new maelstrom. Unlike the Ravnos, Plus, I’ll give you a quarter.”). do n’t try sending in the
+how ever, our distress is not known far and wide in police, though. All you get is a bunch of do minated, Kindred society. blood-bound cops fucking each other up the ass on meth. I see two possible fates in store for Clan Ravnos. If you absolutely, positively must deal with the se
+One is that the other predators will scent weakness and fuckers… well, just do n’t look ’em in the eye, that’s fall on the m like jackals. The other is that the survivors all I’ll say. will prostitute the mselves for protection to what ever
+Diego says: pimp they can find. The crux of our mutual hostility is a fundamental
+In the first case, it would be wise for Clan Giovanni incompatibility between our goals and the irs. they want to be at the table soon enough to dine well. In the to resurrect some with ered anachronism of a god and
+second case, they are what my Milliner cousins would spend eternity being the first among its slaves. We, on call “motivated sellers,” which is never a strong position the other hand, wish to reconfigure the world so that
+from which to bargain. it is easy for us to be as gods ourselves. I recommend that we of fer the olive branch of
+Our plan is not with out a grandeur, I think, that succor to the remnants of the Ravnos. It should not contrasts well with the essential squalor and masochbe unaccompanied by the thorns of scorn and price, is m of the irs. Nonetheless, despite the differences, in of course: If we’re “nice” for no reason, they’ll surely
+one important way we are more like the Setites than recognize a trick. But if we of fer the m protection at a any other clan: We are similar because we both have high price, I think we can wring more from the m than
+a goal. Not only a goal, but a concrete, transforming those who will not for sake vengeance at any price. goal that can be moved toward resolutely and preserved
+Eventually, the vengeful might become angry enough indefinitely once achieved. Compare this with the goals to be “motivated buyers.” of the Sabbat and the Camarilla: they are both passive
+What can protecting the m cost? they are now and retrograde. they only want to prevent things from too weak to dare of fending us, and any the ft gives us happening. just cause to rob the m in the ir distress. If any of the ir
+But change is inevitable. Conservatives always lose enemies are too strong, well, protection is easier to in the end. Only one master plan for the transformation with draw than to grant. of the world is acceptable, and it is not the Setites’. If you wish to steal from a man or even merely
+The advantage we have is that we know of the ir to cheat him, it is easier to do so if he is at you r table eschatological ambitions, while they hopefully only instead of a world away. Chapter two: it runs in the Family
+
+=== PAGE 65 === suspect ours. We can not afford a direct confronta- the ir mawkishness aside, the Toreador are tion, but it is nonetheless imperative that the ir plans probably our strongest all ies in the Camarilla. the ir be foiled. greed for or dinary pleasure and wealth are a refresh Our struggle with the m must perforce be a subtle ing change from the emotional machinations of the
+one. We must impede and weaken the m with out the m Lasombra, the incoherent political philosophy of perceiving our interference. Given the ir cunning and the Brujah or the rigid, abstract power plays of the the ir inclinations, this is difficult. Tricking a clan of Ventrue. the ir desperation to cling to humanity thieves, liars and pimps is a task akin to bearding a has made the Toreador pleasingly pragmatic about
+lion in its den. other aspects of undead existence. Thus, they can be
+To succeed, we must play to our strengths and of fset negotiated with to much advantage. the irs. Our strengths are money and spirits. Money can t remere be used to ruin the ir have ns or (in the conflict-rich are as
+Accorri says: that both our clans favor) to hire mercenaries. Even the
+I hate every last one of the se goddamn commies, strongest of the Serpents tend to pause when stopping and the only reason I miss food is ’cause I can’t hold rounds from a repeating rifle. one do wn and shit on him. More importantly, the restless dead are largely
+I ain’t crazy about any clan with a “ruling impervious to the Setites’ usual fleshly blandishments. council,” but one that makes everyone lower on how ever, the Serpents are experts at the manipulation the ladder suck dick (or the undead equivalent)
+of human passion. If they perceive the needs of both is just showing how chickenshit they are at heart. spiriti and spettri for emotion, our own tools may be
+Oh, they’re clever and they’ve got some tricks that turned against us. would make Penn and Teller cream the ir jeans…
+A covert war against the most duplicitous of clans but they’re cowards when it comes to actually do is a daunting and dangerous task, but we do have one ing anything. For every Tremere who’s taking care of great advantage. Our founder is already awake. business, the re’s two holed up in a tower somewhere
+t or eador working on the Path of Thumb up My Ass. This do es
+Accorri says: mean the ir “panties,” or what ever the fuck they call the ir witch-houses, are well protected. I’d like to dismiss the lot of ’em as a pack of bucaiòli, but I’ve reluctantly had to admit that they can be pretty The only thing they do better than fuck each other smart sometimes. I’m thinking about the Internet stocks over is make enemies of other clans. The Tzimisce have here. Say what you want about the Toreador, once they a raging hard-on to kill the Tremere 24/ 7/ 365-and-aheard the re was a new way to look at dirty pictures they quarter, and the Assamites are possibly even more pissed
+were on it like do llars on a dirty cop. I put some money of f. If you can’t bargain an Assamite do wn to fucking in when I saw which way the wind was blowing, but pennies when it comes to do ing a hit on a Tremere, the clan elders in Venice just could n’t understand what the n you’re a disgrace to you r stingy, chiseling ancestors. was so great about being able to hook you r calculator to Speaking of chiseling, the other Tremere weakness a telegraph. Damn. But I suppose it was n’t our biggest is they think they’re smarter than everyone else, even missed opportunity in 2000. though most of the se limpos could n’t out-haggle a
+Also, I think that “artistic entrancement” Toronto used car dealer on the sharpest night of the ir bullshit is a put-on. You want to know the ir real unlives. they’re always interested in new magical weakness? It’s that they can still have or gasms, fucked-upness, so they’re happy to make a “fair trade” which means most of ’em are still carrying the ir of thaumaturgical knowledge for necromancy. Heh. I
+brains between the ir legs. know a Pisanob in Cuba who’s sold the first couple of ranks of the Bone Path three times, learning different
+If you’re good looking you can probably entice the m
+Tremere paths every time. with the who le gothick, brooding, dark “all ure of the for bidden necromantic dabbler” shtick. But the Internet By the way, you heard the joke about the Tremere stocks are played out, so what’s the point? who used a tampon as a tea bag? Diego says: Diego says: As with so many of the clans, the great strength of The Tremere want to supplant the Ventrue as the Toreador is also the ir great weakness. That central the foundation of the Camarilla. they are too well
+factor is this: they are the closest among us to being or ganized and responsive for this to be permitted. mortal. Many of the m refuse to realize that human Under Ventrue influence, the Camarilla is conseremotions are only a hazard to undead like us. vative to the point of immobility. That is a good
+Clanbook: Giovanni
+
+=== PAGE 66 === thing. Under Tremere guidance, the Camarilla Ventrue conflicts can not be salved by gestures of peniwould become more focused and direct, and more tence. Hang you r head, act as if you’ve been caught in capable of discerning our true goals. That would an inescapable bind (which may well be true, given be a bad thing. how ever, the admirable tenacity of the ir admitted skill at managing the talents of other
+the Tremere should not be underestimated. Despite clans), unwillingly of fer reparations and move on to the ir reputation as neurasthenic scholars, they have the next step in bringing the Endless Night. Once the survived everything the Tzimisce, Assamites and sudario is do wn, the Ventrue may well be our greatest
+Gangrel have been able to align against the m for Kindred foes, so it is necessary to limit the ir power as centuries. Thus, we should not openly alienate the m, much as possible now. But challenging the ir power lest they succeed at seizing the Camarilla and turn directly only provokes the m to greater stubbornness. vengeful eyes upon us. Remember always that in the ir minds, they are the
+The opportunity in this situation lies in our own nobles and we are the merchants. they are content crisis. For decades, the Tremere have coveted our nec- to humiliate us, where as a Lasombra or Tzimisce they romantic powers, even going so far as to produce the ir would destroy. own, of f-brand “Spirit Thaumaturgy” out of scraps from o t the r rou Blema KerS
+our superior Ash Path. l
+We have always resisted giving away our most upineS powerful secrets. Now that the Shadowlands have sud- Accorri says: denly become so perilous, perhaps it is time for greater Stay the fuck away, period. Teasing the animals is openness with the Tremere. they have clamored so only moderately safer than sunbathing. long: Perhaps we should finally sell the m enough rope Diego says: to hang the mselves. The judicious use of a spirito proxy can lead headt strong Lupines (as if one could find any other kind) into zimiSCe
+a Setite lair or Tremere chantry, but know that they are
+Accorri says: not as naïve about the spirit world as we might hope. Wow. Not only are they saddled with a name no one
+If you attract the attention of vengeful were wolf, you r can pronounce, they all seem do omed to spend eternity best recourse is to flee and wait for it to age away. playing with the mselves. Now that’s damnation. Diego says: m a GeS
+The Tzimisce are experts in a highly arcane field that Accorri says: has no relevance to us, nor to anything else. We politely Okay, lemme tell you about the sorcerers I perstay out of the ir way and expect the same courtesy. sonally knew. they for med a “circle,” about three of the se punks, pale, dressed in black and generally v entrue
+acting like blood do ll wannabes. We made each
+Accorri says: other’s acquaintance through some mutual contacts the se guys put the “anal” in “banal.” Cute, huh? on the other side of the Shroud, and I eventually
+A Toreador told me that one. they’ve got more money got to the point that I was will ing to meet and talk than Croesus and the ir hooks are in every police dewith the m. they wanted, surprise surprise, instrucpartment in the world. Half the EU and large chunks tion about necromancy and the Kindred, and they
+of NATO are either sucking the m of f or being sucked of fered the ir own knowledge in return. So we went on, and either way the Blue Bloods win. back and for th for a while, do ing the horse trader they have all this power, and what are they do ing bit, and I tricked the m all into partial blood bonds, with it? not hing. Literally, they are not actively do ing but they were just a pain in the ass to deal with. anything — oh, unless you include looking for a “scientific they did n’t want to get involved with the other
+explanation” for the undead condition. Instead, they’re clans: they did n’t really give much of a fuck about putting all that effort and energy into prevention. Kindred society at all. they only wanted to know
+That’s what I love about the Ventrue: they spend what we knew about the other side, but every time the ir who le unlives covering ass because they figure I’d tell the m something they’d just kind of shake that we “Kindred” will all hang together if one ass gets the ir heads or act snotty or try to “gently correct caught hanging separately. Keep up the good work, my misperceptions.”
+knuckleheads! the n the maelstrom came along. Now, two of
+Diego says: the m are dead and the third one got himself stuck
+The key to the Ventrue is respect. the ir highest on the other side of the Shroud. Idiot. Sure, they got priority is maintaining the ir delusions of primacy. Few the ir avatarget quintessarial paraclytic what evers, Chapter two: it runs in the Family
+
+=== PAGE 67 === but I guess they did n’t experience two spirit storms it’s starting to shift, or maybe crack apart. If they’re before this, did they? right, that means all the magic tricks we use to stay
+Diego says: out of sight are starting to crap out. the se “hunters”
+My knowledge of the “worldbuilders” is slight, as is are just or dinary schmucks upon who m our hiding the ir effect on the world’s Kindred. From direct experi- Disciplines do n’t work anymore. ence, I would say that an alert magus is a good match In fact, it was probably one of the se bastards for a neonate. the ir comparative physical fragility is who cost us Birmingham. This philandering cracker balanced by the ir versatility. Thus, in any Kindred-on- named Henry Eames cleaned out the local nest of
+mage conflict, surprise is desirable. But I suppose that’s Camarilla pussies, all owing us to move right in. true of any conflict. Unfortunately, he’s still around, still making trouble. If the enchanters have a general flaw, it is Kidnapping his daughter only slowed him do wn — simply this: Like the Tremere, they tend to judge he’s got buddies coming out of the woodwork to the mselves smarter than anyone they meet. Even whack a ghoul here and bruise up a neonate the re. a crafty and powerful wizard is likely to underes- The cops are after him for murdering his wife (long timate the guile needed to survive centuries of story), so it’s only a matter of time before the To Kindred realpolitik. they can be used, but as tools reador or Ventrue get the ir mitts on him, and the n
+of unknown capacities and weaknesses, they are I’ll have to haggle with the m. best used with great caution. Better to simply let What’s bad is, I’ve heard some of the m can just rub time be you r assassin. the ir eyes and shrug of f our “do what I tell you” thing. On the plus side, beating the ir asses into fine gel still
+C han GelinGS works as well as ever. Accorri says: Diego says: what ever. The only fairies I care about are In AD 1000, history not es hysteria, violence and the Toreador. a tremendous resurgence in superstition, eschatology
+Diego says: and the kind of faith that leads people to do stupid
+As with the sorcerers, my encounters with fate and hurtful things. In the year 2000, I recall little have been rare and not particularly satisfactory. the ir in the way of the predicted “millennial terrorism,” claim of another world, “Arcadia,” overlapping our but I wonder if the passion and belief simply found own sounds similar to our own experience with the another outlet. I have felt the for ce of a chanted
+Shadowlands — and yet, we are unable to contact sutra as powerfully as a brandished cross. Who is to this region or confirm its existence. I am content that say that the modern New Age beliefs propagated it is not relevant to our goals. Another supernatural through television and tabloids have not found the ir zone means the re is a possibility, how ever slight, that own for m of true faith? the Endless Night could have substantially unforeseen Regardless of my the or y, the fact remains that
+consequences. some mortals can indeed peer through the Camarilla’s
+I would like very much to acquire such a being for Masquerade as if it were glass. Not only that, they are study. Unfortunately, our preferred method of securing able to perceive ghosts in the Skinlands as well. Thus, souls for interrogation do es not seem to work on faer- it is quite easy to use a compliant spirito to lead the se ies, causing the additional challenge of keeping one crusading zealots to the local Elysium. Either the medimprisoned and alive. dling mortals die or the troublesome Kindred do, and everyone goes home happy. h
+unterS
+Everyone who matters, anyhow. Accorri says: I’d pawn my fangs and drink through a fucking t he o rphiC C ir Cle straw to know where the se little shits came from. Accorri says: Sinners in the hands of an angry God or something, Who? probably. The best the or y I heard came from a Diego says: Tremere who was hanging out with some honest-to where ver did you hear of the or phic Circle? Caine mage shooting the shit about the maelstrom
+You need not concern you rself with the m. and Bangladesh and all the other freaky nonsense
+Like the Nagaraja, the ir time has come and gone. that’s been going do wn. Anyhow, the mages think
+Should you encounter our renegade cousin Antoall the mystic shit in the world is connected somenio and his associates, how ever, do not hesitate to how — I think the Tremere called it a Hermetic inform me immediately. I am eager to express my model or a Platonic ideal or something — and that
+displeasure to him. Clanbook: Giovanni
+
+=== PAGE 68 === n t ew raitS possess. The Spirit Slave Background the n differentiates between mortal confederates and bound souls. The following new Traits may help players and A Giovanni can purchase Spirit Slaves like any other
+Storytellers round out the ir Giovanni characters. As Background, but it is not available to characters always, the se new options are just that — optional — with out Necromancy. and Storytellers may restrict the ir use in chronicles. G n hi Berti e Croman Cy n B
+ew aCKGround
+When brought into the Giovanni fold, the
+S S Ghiberti were already quite familiar with the finer pirit laveS points of African nigrimancy. Those unaccustomed to
+Nunzio felt vaguely idiotic as he gestured with the knife the fourfold souls of abombo (African wraiths) of ten at the stuffed animal. “Goddamn it Betsy,” he yelled, “If have trouble controlling the m — mechanically, an
+you do n’t do what I tell you, I swear I will slit this furry inexperienced Kindred suffers a +2 penalty to the fucker from tail to ears and shit in the stuffing!” difficulty of rolls to use Necromancy on the ghosts
+“Nooo…” wailed the little girl ghost. “That’s Mister of indigenous Africans. for mer slave traders, the
+Fun Bunny! My daddy gave him to me!”
+Ghiberti combined elements of the ir prior profession
+“I do n’t care if he’s Mister Fuck Buddy, unless you and the ir unwholesome sorcery to create a path of watch that old bastard — the guy I showed you, with the
+Necromancy that made the enslavement of Ivory big ears and the beard — the rabbit’s gone, got it? Gone!”
+Kingdom wraiths easier to accomplish. Studying the
+The you ng ghost sobbed, provoking disgust deep strange powers of the ghostly Moriman, the Ghiberti in Nunzio’s stilled heart. Maybe he should have tried learned to trace wraiths and bind the m. not e that
+the other ghost, the one tied to that goddamn weight few (if any) Giovanni who are not members of the belt, of all things… the n Nunzio saw that Betsy was
+Ghiberti family have access to the knowledge of reluctantly nodding. how to compel abombo, much less mastery of the
+“You’ll go?”
+Cenotaph Path. She dipped her head. t C p
+“Good. See? Was that so hard? And after you tell me he enotaph ath what he did, tell you what: We’ll go to Mc do nald’s and you
+Experienced Ghiberti Kindred recognized that can watch some kids, all right?” mystically compelling the dead required an exten-
+“The one with the playground?” sive knowledge of the ghosts to be so commanded. Jesus Christ. “Sure. what ever.” where as many among the family content the mselves
+This Trait represents a hold you have over a with mastery of the occasional wraith and the means ghost, or several ghosts. Usually this hold is in the to affect corpses or the Underworld, more erudite
+for m of catene — either something that the ghost practitioners looked into necromantic means to valued highly in life, or possibly a random object or unearth locations or objects holding strong ties to
+place to which the spirito became attached during the dead. Some such studies became rituals, where as the maelstrom. Regardless, you have a hold over others developed into a discrete path concerned
+the spirit and can bully it by threatening its fetter. primarily with discovering or for ging links between
+Alternatively, you might have information about the the living world and the Shadowlands. spirit’s goals and can control it by aiding or imped Most students of Necromancy attribute the creing it. For more information on what ghosts can do ation of the Cenotaph Path to the eras following the and the ratings of this Background, see the “Spirit
+World Wars. The great numbers of dead and dying
+Slaves” box on p. 54. across the world, especially with displaced soldiers
+• You have a hold on one weak spirito. flung to far corners of the globe, made for a brisk
+•• You have influence over two minor ghosts, or trade in soul-catching. Those Ghiberti who could one of greater power. “sniff out” the recently dead (especially in quantity)
+••• You’re the boss of three lesser ghosts, or fewer managed to augment the ir pursuits with the use of who can do more. Cenotaph Necromancy to find objects or locations
+•••• Four ghosts are under you r sway, or fewer who important to the legions of wraiths. A few older are stronger. members of the Giovanni point out that similar
+••••• You have mastered five weak ghosts, or fewer powers proved useful during the ancient heyday of who are more talented. Mediterranean expansion, in seeking out death cults
+MET System: You can apply this Background in or battlefields during the prime of Rome and Italy. place of the Retainers advantage that Giovanni usually Regardless, the path remains something of a rarity, Chapter two: it runs in the Family
+
+=== PAGE 69 === as it serves primarily to amplify the other powers of chic impression” for purposes of the Sepulchre Path’s an already-skilled Necromancer. powers, so the Kindred may be able to (for example)
+Cenotaph Necromancy seems to function on the immediately command a ghost to exit a person who m principle that a Kindred, already a cadaver, is an un- it possesses. natural bridge between the living and the dead. Through MET System: You simply touch an object or person this principle, the path all ows the Necromancer to and make a Static Mental Challenge with a difficulty of find other, similar linkages. The basic rudiments of the 6 Traits, using Occult Ability for retests. If you succeed, Cenotaph Path function easily enough once the Kindred you immediately realize whether any wraithly powers
+learns to attune himself to the se connections. Advanced have been exerted on the subject during the current mastery of the path usually entails some brief ritual to game session. If the wraith currently possesses the object for ge artificial connections, either through breaking or person touched, you become aware of this and may taboos to draw the Shadowlands closer by focusing un- choose to exercise you r Sepulchre Path powers (if any)
+savory passions or through techniques of authority and as if you knew the wraith’s name. purity designed to command the two disparate worlds
+•• r C evealthe atene together. (See Blood Magic: Secrets of Thaumaturgy for information about Necromancy techniques.) Necromantic compulsions function much more
+effectively when the caster uses an object of signifi-
+• a t d ou ChoF eath can ce to the ghost in question. Such fetters tie the
+Just as a Necromancer may exert mastery over dead to the living lands through the ir remembered the Shadowlands, so too can some ghosts exert importance — a favored recliner for relaxing, a the mselves in the mortal world. where as obvious reviled piece of art foisted of f by hated relatives displays of wraithly power such as bleeding walls or or some object of similarly intense emotion. Many
+disembodied moans certainly won’t be mistaken, Giovanni can detect such catene through the use some ghostly abilities exert subtle effects that are n’t of rituals (see Ritual of the Unearthed Fetter, p. 165 easily recognized. A Necromancer sensitized to the of Vampire: The Masquerade). With this power, residue of the dead, though, can feel whether an though, the Ghiberti can determine a fetter with object has been touched by a ghost or sense the just a few moments of handling. The Kindred simply
+recent passage of a wraith. runs his hands over the object and concentrates on
+System: The Necromancer simply touches a person it. He quickly receives an impression of the item’s or object that he suspects is a victim of ghostly influence. (or person’s) importance to wraiths, if any; should
+The player rolls Perception + Occult (difficulty 6). If the wraith be one known to the Necromancer, he successful, the Necromancer can determine whether immediately recognizes the object as a fetter to that a ghost has exerted any sorts of wraithly power on (or those) wraith(s). Successful identification of the subject, or even crossed nearby, to the duration a connected wraith is not exclusive; that is, if the
+detailed below. Giovanni determines that the object is important
+1 success Last turn; detect use of ghostly powers to a given wraith, he can also determine if the re are other wraiths tied to the item, though he must use
+2 successes Last three turns; detect use of the power again to gain the ir identities. ghostly powers
+Many Necromancers use this power on objects
+3 successes Last hour; detect ghost’s touch and use already identified with A Touch of Death, in or der to of ghostly powers determine whether the ghost is trying to attune a given
+4 successes Last day; detect ghost’s touch and use fetter or simply toying with the world of the living. of ghostly powers
+System: The Necromancer holds and examines
+5 successes Last week; detect nearby passage of the object for at least three turns — if it’s an item, ghost, ghost’s touch and use of this means turning it over in his hands, running his ghostly powers
+fingers along it or otherwise giving it a critical eye; On a failure, the Necromancer receives no imwith a person, this may require a more… invasive… pressions. A botch reveals a misleading answer (an examination. The player the n spends a blood point and object may seem tinged with ghostly power when it’s
+rolls Perception + Occult (difficulty 7). If successful, not, or vice versa). Should the Necromancer succeed the Kindred determines whether the object holds any in detection while touching an object or person that significance to any wraith and, with three or more suca ghost is possessing, he immediately becomes aware
+cesses, the identity of at least one such wraith (which that the ghost is still inside. The impression gained of course all ows the Kindred to use the Sepulchre Path in such a case is sufficient to count as a “strong psy Clanbook: Giovanni
+
+=== PAGE 70 === on that wraith). If the Necromancer already knows any Giovanni into inaction for a full turn as well as costing of the wraiths involved, the ir ties are revealed with him a temporary will power point, as he is overcome the ir identity — so, if the Necromancer already knows by shivers and the sense of overwhelming despair from
+of a wraith well enough to summon and compel it with the Shadowlands. other powers, successful identification of a fetter tells With three or more successes, the Necromancer whether the object is tied to that wraith, in addition can determine whether the Shroud’s strength has been to any other impressions gained. artificially altered in the are a (perhaps through the use
+If a botch is scored, the Ghiberti can never suc- of the Ash Path or certain ghostly powers). cessfully use this power on the item being examined. MET System: Spend a will power Trait and make
+MET System: Spend a Blood Trait and take half a Static Mental Challenge against a Storyteller; the a minute (or three turns, if you are in combat time) Storyteller determines the difficulty. If you succeed, carefully examining you r subject (but do n’t touch you immediately determine the strength of the Shroud. other players — remember the No Touch rule). the n, If you fail, no information is revealed. You may use make a Static Mental Challenge, difficulty 7 Traits, this power only once on any given location in each with Occult Ability for retests. If you succeed, you game session. immediately know whether the object is a Fetter. •••• d K
+eath nell
+If so, you gain an impression of the identity of one wraith to who m it is Fettered, though a Narrator or Not all who die go on to become ghosts — many
+Storyteller decides what name to give. If the object lack the drive to hang on after death or simply have is a Fetter to multiple wraiths, you will receive an no overwhelming needs that compel the m to stick impression as well as the information that “other around. Normally, even Necromancers have no way to wraiths are tied to this item,” and you may exercise sort those who might become ghosts from the masses
+the power again to gain additional different identities who go on to what ever rewards await. Over time, (any identity already known to you is automatically though, a Necromancer can become sensitized to the excluded). pull of death that occurs when a soul escapes from a body only to hover in wait, enslaved by its postmor-
+••• t u G read ponthe rave tem desires. The weight of desperation becomes like
+The extended awareness granted with the Ceno- a tangible tug, and some Necromancers even learn to taph Path all ows the Necromancer to sense the savor this emotion even as they follow the sensation vagaries of the sudario and to find locations where the to find the new ghost. Shadowlands and the living world come close. of ten, Of course, actually discovering the new ghost the Necromancer experiences a chill or shiver when can be problematic. The Kindred may need some
+stepping into an are a where the Underworld lies near means to see through the Shroud or may have to the living one. With practice, the Giovanni can tell send other wraiths to look for the new unfortunate, exactly where such locations are. especially if a large accident or massacre leaves too
+Experienced Necromancers learn that certain many corpses for the Ghiberti to easily discern and locations are susceptible to ghostly influence; the se test names with other compulsions. Furthermore, haunted are as of ten become homes of a sort for wraiths. new ghosts typically enter the afterlife insensate and
+A knowledgeable vampire can thus discover places covered in a sticky plasm that clouds the ir minds; the where the dead are likely to congregate, the better to ghost must be freed from this spirit sludge before she snare the m with other Necromancy powers. can be useful, which again requires the Necromancer
+System: The player simply declares intent to either to reach through the Shroud himself or to send sense the Shroud in an are a and makes a will power a wraithly proxy to do so. roll (difficulty 8). Success reveals the Shroud rating. System: when ever someone dies and becomes a
+The Storyteller informs the player of the rating, while wraith with in a half-mile of the Ghiberti, the Necroin story terms the Giovanni learns that the location mancer automatically senses the demise (though many is highly attuned to the Shadowlands, about average choose to ignore this “always-on” power unless actively
+(not very close to the world of the dead) or far removed seeking someone). This power do es not automatically from the realm of death. Failing use of the power has pinpoint the location of the new wraith or identify it, no adverse affect, though it may be attempted only but the player may spend one will power point and roll once per scene (so the Necromancer must either wait Perception + Occult (difficulty 7) for the Necromancer for a time or move to a different are a before attempting to gain a vague sense of the distance and direction to the
+Tread Upon the Grave once more). A botch stuns the new wraith. With one success, the Kindred may sense a
+Chapter two: it runs in the Family
+
+=== PAGE 71 === vague pull in a general direction; with three successes, against the wraith attuned to it, and the ghost similarly the Necromancer can sense the direction and guess finds exertion of its powers easier upon the subject (so distance to with in a quarter-mile. With five successes, the Giovanni might turn an unwitting ghoul into a
+the Necromancer immediately senses the location of the consort for a wraith familiar with possession…). The new ghost to with in a foot. A failure carries no penalty wraith can sink into the fetter to heal; conversely, if but a botched attempt naturally sends the Necromancer the fetter is destroyed, the wraith is banished to some scurrying of f in the wrong direction. inaccessible region of the Underworld, perhaps never
+The Storyteller may rule that disturbances in to return. the Underworld, intervening magic or other similar A fetter created with Ephemeral Binding lasts for phenomena cloud this sensation, simply to prevent one night per success scored. The expenditure of an overburdening a chronicle with constant ghost-hunting additional point of temporary will power increases and dice rolling. this duration to a week per success, where as spending
+MET System: A Storyteller or Narrator should a permanent point of will power extends the duration inform you when a new wraith comes into existence to a year and a night. with in the play are a (because this event will be rather Botching with this power not only causes failure unusual, and a Storyteller or Narrator should be pres- but also makes the ghost immediately aware of what ent when a character dies, this requirement is n’t too the Necromancer was trying to do. Most ghosts do not
+egregious). You may spend a will power Trait and make take kindly to meddling Kindred trying to make artificial a Static Mental Challenge, difficulty of seven Traits, chains for the m. with Occult Ability as a retest, in or der to determine MET System: You expend a Blood Trait and a the direction to the new wraith. Once you have that will power Trait and make a Social Challenge against information (or fail to gain it), the rest of the job of a targeted wraith (using Occult Ability for retests) —
+location is up to you. either one you can see, or one you already know. If you succeed, the subject of you r power becomes a Fetter to
+••••• e B phemeral indinG the wraith for the duration of the game session; you can
+The most puissant Necromancers learn not only spend a will power Trait at the beginning of each new to sense the ties between living and dead, but to session to keep the item active as a Fetter, or spend a for ge such ties the mselves. The master of Ephemeral permanent will power Trait to make the object a Fetter
+Binding turns an otherwise mundane object or person for a full year of play. into a depository for his own mephitic energy, the p n undying Curse transforming the subject into a sort of is anoB e Croman Cy linkage between living and dead. The Ghiberti smears The roots of Pisanob Necromancy intertwine
+his blood on the item in question, which mystically with the dark practices of the Mesoamerican cultures absorbs the vitae and, in do ing so, becomes a vessel of the Aztecs and, to a lesser degree, the ir predecesto anchor a spirit. sors, the Mayans and the Toltecs. The death magic
+System: The Necromancer must coat an object practiced by this branch of the Giovanni clan is with his blood (a full blood point’s worth); if the inexorably tied to the elaborate ceremony of Aztec subject is a person, the n that individual must ingest religious rites. As a result, the Pisanob have grown the vitae. The player marks of f the blood point, dependent on the ritualistic trappings employed
+spends a point of will power and rolls Manipulation by the ir for ebears. Deprived of the se, the Pisanob
++ Occult (difficulty 8). If successful, the item tempo- Necromancer finds using the Black Art much more rarily becomes a fetter to one wraith. If the Kindred difficult, if not impossible, to perform. In game terms, already knows the name of the wraith or has a strong the player of such a character suffers a difficulty psychic impression, the n the object can become a increase of +2 when attempting Necromancy rolls, fetter at any range, even to a ghost who normally though this may be overcome for a scene at the cost do es not come near the living world (so long as the of one will power point. ghost still exists). Otherwise, the Ghiberti must be As inexorably tied to ritual as the Pisanob are, able to see or sense the ghost (with Shroudsight or it’s not surprising that they’ve developed a number
+other such means). of necromantic rituals to which individuals with in
+A fetter artificially created in this fashion functions the family have access and guard preciously. Of for all necromantic and ghostly purposes as a normal the following, only the Ritual of Pochtli is widely fetter: It can be detected with other necromantic practiced by Kindred outside the Pisanob branch powers, the Giovanni gains a bonus to Necromancy of the Giovanni. Clanbook: Giovanni
+
+=== PAGE 72 === r S m To perform the ritual, the Necromancer grasps itualo Fthe mo KinG irror
+(l evel o ne r itual ) an obsidian mirror that has had its edge sharpened so that it cuts into the flesh of who ever takes hold
+Named for the chief Aztec god Tezcatlipoca, this of it. As the vitae flows onto the mirror’s surface, ritual all ows the Necromancer to use an obsidian it all ows the mirror’s reflective power to bridge the mirror to see as ghosts do. By gazing into the mirror’s
+worlds of the living and the dead, much as it all ows ebony depths, the Pisanob may discover an object’s the Necromancer herself to do. If the Kindred wishes flaws, assess the general health of mortals or even read
+Lifesight, she calls upon the power of Tonatiuh, He a being’s aura. Who Goes for th Shining. If she wishes Deathsight, At the start of the ritual, the Kindred decides she calls upon Mictlantéotl, Aztec god of the Unwhich of the ritual’s two aspects she will use — she derworld. The player the n rolls to activate the ritual
+may not use both at the same time. With Lifesight, as normal (Intelligence + Occult, difficulty 4). If the Necromancer may read auras as if she had the successful, the Necromancer may view the world as level two Auspex power, Aura Perception. Deatha wraith do es via the reflective surface of the mirsight, on the other hand, grants the Necromancer
+ror for a scene. On a botch, the vampire may well the ability to see wraiths and the Shadowlands. It invoke the ire of the deities upon who m she calls, also shows the stain of oblivion on the living, which with disastrous results. a knowledgeable Necromancer may use to diagnose
+MET System: As described above, a successful and study illnesses, damage or disabilities from which
+Static Mental Challenge, difficulty of four Traits a target may suffer with a successful Perception +
+(modified by the strength of the Shroud if some sort of
+Medicine roll (difficulty 4 to 8, depending on the
+Necromancy has altered that), all ows the Necromancer ailment’s nature). At the Storyteller’s discretion, the to use a mirror as a focus to see the Underworld. The
+Kindred may make a similar study of an inanimate vampire can see with Deathsight, using a Mental Chalobject’s flaw and how to repair the m, if that object lenge with Medicine Ability to determine someone’s has a strong link to either life- or death-energies
+state of health (and health levels) and performing
+(such as a murderer’s knife or a window box used to a similar scan on objects using Crafts, or Lifesight, grow healing herbs). gaining the ability to see auras with a Static Mental
+Chapter two: it runs in the Family
+
+=== PAGE 73 ===
+Challenge as described for the Aura Perception Disci- r x t itualoF ipe oteC pline. not e that the player must have an item card (l evel F our r itual ) representing the appropriate mirror used for this ritual, In times past, Aztec priests would flay the skin from
+and further that only reflections in the mirror reveal a victim and wear it as a sacrifice to Xipe Totec, god of the se characteristics. suffering and renewal. In a similar vein, the Giovanni r p (l t r ) of the Pisanob branch of the clan may skin the ir prey
+itualoF o Chtli evel wo itual alive, but for a more pragmatic reason — to steal that
+See p. 44. person’s identity. d ivine S i Gn (l evel t hree r itual ) To perform the ritual, the Kindred removes his victim’s top layer of skin with an obsidian dagger, tak With this ritual, the Pisanob Necromancer may ing care to damage the skin as little as possible in the use the principles of Aztec astrology to divine a perprocess. The victim must survive the process (though
+son’s day sign. Used upon the living, this information she may well die of blood loss shortly after the ritual all ows the Necromancer to divine the target’s future if not seen to properly). He the n drains the victim’s
+actions. In the dead, this knowledge for ges a more blood into a large ceremonial golden bowl. the re the intimate connection with the target, making it easier blood is mixed with octli, amaranth and other ingredito cast other necromantic effects on her. ents. When imbibed by the Necromancer, this mixture
+Upon learning a person’s birth date, the Picauses him to sweat a glistening sheen of blood (equal sanob’s player may roll to activate this ritual in to one blood point). The Kindred the n do ns the skin or der to cross-reference it with the Tonalamatl, the
+of his victim, which on a successful roll absorbs the
+Book of Destinies, and the reby learn that person’s
+Kindred vitae and begins to heal, for ming a second day sign. If successful, the Kindred may use this to skin over the Pisanob’s own. Naturally, the victim predict the target’s next course of action, all owneeds to be of similar stature — otherwise, the features
+ing him to deal with it accordingly. The effect on become distorted and the disguise is rendered useless. wraiths is quite different. As they have already died, This power also has no effect on Kindred or Lupines. the Tonalamatl can of fer no insight into the spirits’
+Under normal visual scrutiny, the ruse is flawless. destinies, which have already run the ir course. In Of course, it imparts none of the victim’s knowledge or stead, the ritual imparts upon the Necromancer so mannerisms (and do es not hing to mask the Kindred’s intimate an understanding of the wraith in question
+own undead nature). It, the refore, works best for situthat it acts as a connection to the ghost, making ations in which contact with friends and family may it easier to invoke other Necromancy effects on be minimized. To preserve the skin’s condition, the
+that spirit. For story purposes, it’s equivalent to
+Kindred must bathe it in a blood point’s worth of vitae holding one of that wraith’s fetters (see Ritual of nightly. When the Pisanob removes the skin (which the Unearthed Fetter on p. 165 of Vampire: The
+causes one level of unsoakable lethal damage to the
+Masquerade for details). user and must be do ne with the same knife used to flay
+MET System: You make a Static Mental Chalthe victim in the first place), it is ruined in the process. lenge (difficulty of the target’s Mental Traits) as you
+Needless to say, conducting this ritual will almost reference the subject’s name in the Book of Destinies. certainly require Humanity checks for characters of
+(Acquiring a copy of the Tonalamatl may require the suitable moral stature. use of Occult Influence, and you may need special
+Linguistics Abilities if it’s not translated.) If you suc- MET System: You remove the skin from a vicceed in casting this ritual against a living or undead tim (as a game action only, of course) — this means individual, you gain one free retest in you r next chal- that you must have you r living victim restrained or lenge against that individual. If you cast this ritual incapacitated, and you must have a skinning tool and against a wraith, you act as if you hold a Fetter of appropriate time, meaning that the ritual is probably
+the wraith for you r next use of another Necromancy best cast out-of-play. You must make a successful power on it. You must have the individual’s birth Static Mental Challenge (difficulty of seven Traits, date, whether acquired in game or through research retesting with Occult) to enact the ritual properly with and Influence (such as Bureaucracy Influence). This the flayed skin, or else it won’t heal correctly. As with ritual’s effects do n’t stack; you can’t use it multiple the Mask of a Thousand Faces Discipline, you should
+times on someone to gain multiple retests. Instead, wear a name tag to indicate you r change of identity. you can only recast it once you’ve used up the retest If you feel sufficiently clever, you can trust the player or Fetter substitute. of the character who se skin you’ve stolen to play you r
+Clanbook: Giovanni
+
+=== PAGE 74 === character pretending to be the or iginal victim, though this is recommended only if you implicitly trust the roleplaying skills of you r victim. Remember that use of this ritual requires the expenditure of a Blood Trait, plus an additional Blood
+Trait each night (which is important for games that run over the course of several nights). r t (l F r ) itualoF eyolia evel ive itual
+Long ago, Mayan astrologers for etold that the end of the world would occur shortly after the end of a thousand-year period. The recent return of the Ravnos
+Antediluvian has re-enforced in Pochtli a belief that the Mayans were right. He believes that the for etold end of the world is, in fact, the inevitable Gehenna. In an effort to survive the end of the age, Pochtli and his lieutenants developed a means of tearing out the
+hearts of Kindred and preserving with in the m the heart’s blood, or teyolia, of the Kindred so sacrificed. When Gehenna comes, Pochtli intends to of fer the hearts of his victims to the terrible blood gods in an effort to have the m spare himself and his undead family. This terrible rite is unknown to Pisanob Kindred
+beyond Pochtli and his most trusted lieutenants. If any Giovanni from apart from the Pisanob get wind of this practice, it’s entirely possible the entire Pisanob branch of the clan would be extinguished. To perform this ritual, the Necromancer must
+for ce a captured vampire to the summit of the Temple of Pochtli. the re, lying face-up on the temple’s altar, the Kindred to be sacrificed has her limbs held by four camozotz ghouls. The Necromancer the n cuts open the victim’s chest with an obsidian dagger, reaches
+inside and tears out the heart, visiting Final Death upon the sacrifice. The heart is the n preserved in a specially prepared vessel, referred to as a chac mool. No roll is required. The process is successful unless interrupted. It is possible to diablerize the sacrificed Kindred
+at a later date by drinking the heart’s blood, with all the practice’s concomitant benefits and drawbacks. It’s also possible that the elder Pisanob might use the power inherent in the hearts to fuel even more potent necromantic castings… such as the strange but persistent rumors of South American Kindred claiming to
+be one person but looking who lly like another. Typically a player’s character won’t know this ritual. The rite is best used as a specifically gruesome end to a character in story terms — a heart stolen by this rite is unlikely to ever return to play (since
+Pochtli and company need the hearts for other things) and so essentially it’s just a nasty, nasty way to finish of f a character. Chapter two: it runs in the Family
+
+=== PAGE 75 ===
+MET System: Because this ritual requires no chal- If you somehow devour a chunk from a still-living lenge, all you have to do (only!) is take you r victim to victim — perhaps a severed limb, with out knowledge the Temple of Pochtli — the unique one in Mexico — so of the victim’s eventual fate — you learn only that the probably outside of you r game’s usual locale, thus taking subject is not a ghost. you out of play for a while (clever Storytellers will use
+t h G (l t r ) he and oF lory evel wo itual this travel as an opportunity for another story, with the difficulties of smuggling vampires across international The Hand of Glory is a mummified hand used by
+borders…). Cunning vampires may trick the ir prospec- the Giovanni to anesthetize a home’s residents and, tive prey into “visiting” the temple with promises of the reby, all ow the Necromancer free rein to do what aid, power, wealth or what not, though of course only he will in the residence. It was or iginally developed by a grisly death awaits. thieves dabbling in the Dark Art, and was adapted by the Giovanni for similar nefarious purposes. n n r
+ew e CromantiC itualS
+The creation of the Hand of Glory is a gruesome ritual dating back hundreds of years. The Necromancer m m (l o r ) ine Stradi or te evel ne itual
+wraps the severed hand of a condemned murderer in
+The Necromancer obtains a piece of a dead body a shroud, draws it tight to squeeze out any remaining and simmers it in a pot with half a quart of vampiric blood and preserves the hand in an earthenware jar vitae. To this stew, the Necromancer adds rosemary with salt, saltpeter and long peppers. After a for tnight, (for remembrance), basil (the funerary herb) and salt the Giovanni removes the hand and dries it in an oven
+(the alchemic principle of clarification). After bringing with vervain and fern. At the end of this process, if the concoction to a full boil, the Necromancer eats it. the roll to activate the ritual garners any successes, the
+If the ritual is successful, the caster can learn creation is viable. whether (or if) an individual became a spirito or To use the Hand of Glory, the vampire first coats spettro after death. Unfortunately, this information can the fingertips of the mummified hand with a flammable be learned only about the person from who se body the substance derived from the fat of a hanged man and
+“stew meat” was taken. sets the fingers alight. The Necromancer the n recites
+If the roll to activate this ritual is successful, the the phrase, “Let all those who are asleep be asleep, character discovers whether the subject of the grisly and let those who are awake be awake.” All mortals rite became a wraith or spectre after death, or if indeed with in a household who are affected fall into a deep she became either. sleep and can not be roused (the hand has no effect
+The blood component is spent progressively through on supernatural creatures or hunters of the Hunter: the ritual: If the Necromancer takes the blood from The Reckoning ilk). For each unaffected occupant of another Kindred, she do esn’t become partially bound a home, one finger of the hand will refuse to light. Of from drinking it, nor do es she add a point to her blood course, botches may result in all of the fingers being lit pool. Similarly, if she uses her own blood, her pool but no one in the home being asleep. The hand may
+decreases by a point but do es not increase when she be extinguished at any time by the Necromancer who consumes the soup. created it. Anyone else wishing to do use the hand must
+Necromantic vampires with out the Eat Food merit use milk to do so. not hing else works. Once made, (see p. 296 of Vampire: The Masquerade) can’t keep the Hand of Glory may be reused indefinitely. Effects the soup do wn, but can still use the ritual and gain the last for one scene. information. MET System: Basic Ritual. A Hand of Glory
+MET System: Basic Ritual. You must first obtain serves as an excellent opportunity to play up some a chunk from a dead body (remember that very old creepy props, so long as you’re not in a public place. vampires usually crumble to ash and do n’t leave suit- System-wise, creation of the hand requires that the able pieces). Boil this up in a stew, taking the usual character secure the appropriate materials (probably ritual casting time, the n devour it. (Need we mention through the use of Health and Legal Influence) and
+that this is all representative, and we are n’t actually the n succeed in a Static Mental Challenge, difficulty advocating real can nibalism?) The soup must use two of seven Traits. Of course, the invasion of a mortal pints of vampiric blood — about two Blood Points’ home is n’t a common scene in live-action games, but worth. If you succeed in the ritual, you learn whether one never knows…. Storytellers might set up an opthe individual you’ve just physically devoured became portunity to use a Hand of Glory to invade a vampire’s
+a ghost after death. have n, for instance, with the power of the hand putting all mortals present to sleep. Clanbook: Giovanni
+
+=== PAGE 76 ===
+Be sure not to use the Hand of Glory just to make reading, it’s more like trying to overhear a low-voiced all you r players of mortals sit out the game, though! conversation in the next room. With a Perception
+This ritual may be best used as a do wntime action, al- + Occult roll, the Necromancer can glean a very lowing a Necromancer to sneak into a specific mortal vague impression of what the are a spettri are up to. household (or even to determine whether a given Botching this roll may well earn the Necromancer a have n has any supernatural occupants). new derangement (at the Storyteller’s discretion), as listening in on the evil dead is not a habit conducive
+o ’u m
+CChiod omo or to to mental health. (l t r ) evel wo itual
+This ritual has some major drawbacks, the first
+To cast this ritual, the Necromancer needs an being that its proper result is hideously ugly. Unless eye from a corpse who se absent soul became a spirito the vampire wears sunglasses or finds some other
+or a spettro. The eye is ritually prepared in a process way to conceal her eye, her Appearance is reduced involving incense, the new moon and a period of by one do t. midnight chanting. The chanting climaxes when the
+Also, dead or rotted tissue is not the best for
+Necromancer removes one of her own eyes and replaces normal perception. Any mundane visual Percepit with the one from the corpse (fresher is better). tion rolls are at +1 difficulty (possibly more if the
+Kindred healing takes over at that point, sealing the corpse had bad eyesight in life). On the other hand, eye with in the socket. this very blurring of fers some protection against
+If the ritual succeeds, the Necromancer perma do minate and Eyes of the Serpent: the se Discinently gains the Shroudsight ability (see p. 164 of plines are used against the dead-eyed Necromancer
+Vampire: The Masquerade). This ability is always at +1 difficulty. active and do es not require a roll. Most importantly, how ever, the spirito or spettro
+Furthermore, if it was a spettro corpse, the vampire who se body was desecrated knows it, and very likely can hear the vague murmuring of any spettri in the hates it. The ghost can find the Necromancer possessing
+are a. This ability is n’t very precise; rather than mind his eye anywhere, and all wraithly powers used against
+Chapter two: it runs in the Family
+
+=== PAGE 77 === the Necromancer by that particular ghost or spectre Once it cools, the thin lead coating is inscribed with are at –1 difficulty. various runes. MET System: Basic Ritual. You pluck out you r The Necromancer the n uses this metal-shod bone own (character’s) eye and replace it with the eye of a to beat its do nor to death while repeating a droning
+corpse who se soul has become a ghost. If you succeed Greek chant. in the ritual challenge, you can permanently see into With a successful roll, this ritual produces a the Shadowlands at will. If the ghost was a spectre, bastone diabolico or “devil stick.” The stick can be you can also make a Mental Challenge against any activated by anyone who holds it and expends a spectre that you can see to discern its next action, point of will power. Activation lasts for a scene, and
+though this requires an action on you r part and if during that time any ghost, spirito or spettro hit with you lose you gain a Derangement for the remainder the devil stick loses a point from its Passion Pool (if of the session. (Pick one at random; a Dementation you’re using the rules from Wraith: The Oblivion, deck is good for this.) wraiths lose a point of Pathos and spectres lose a point
+Undergoing this ritual causes you to permanently of Angst). In addition to its normal effects, this club lose one Social Trait and lowers you r Social Trait do es an additional die of damage when used against maximum by one. You also suffer all the drawbacks the walking dead (not vampires), and such damage of the Bad Sight Flaw. how ever, you gain a one-Trait is aggravated. resolution bonus against do minate and Serpentis: Eyes of Unfortunately for the Necromancer, ghosts can
+the Serpent (and other powers that require eye contact). sense that the bastone diabolico is bad news, even if
+The ghost who se eye you’ve stolen can automati- they do n’t know exactly what the thing do es. they cally locate you and gains a one-Trait resolution bonus tend to stay away from anybody carrying one, which against you with all of its Arcanoi. means that all rolls for such a character to use powers that summon or attract spirits occur at +1 difficulty. t S (l t r )
+empe Sta Cudo evel hree itual
+The Giovanni clan stores many of the se cudgels
+Unlike most rituals, Tempesta Scudo can be cast in the ir Venice vaults, and are actually more likely speedily. The Necromancer performs a short and awk- to lend one out to a neonate than to teach the ward dance that ends with her biting through her own ritual (after all, kidnapping somebody, mangling lip and spitting the blood in a circle around her. All him and killing him was a lot easier to get away
+spirits’ actions with in the circle of blood are made at with a few hundred years ago). Most older devil
++2 difficulty. All Risen with in the circle have a penalty sticks are made from tibias (for individuals who to the ir actions of +1 difficulty. prefer a thinner, faster club) or femurs (for the
+To cast this ritual successfully, the Necromancer type who like a big bludgeon with a knot on the must spend one combat turn performing the dance. At end). Modern Necromancers are just as likely to the end of the turn, she makes a Dexterity + Performance use the patella to create a ghost-punishing weapon roll against difficulty 7 (if do ne outside of combat, the far easier to conceal. difficulty is only 6). During the next combat turn, she MET System: Intermediate Ritual. Generally, bites through her own lips (taking a level of bashing you’ll use a hapless mortal for this ritual; its casting
+damage) and spits (spending one blood point). the n kills the subject (since you beat him to death, you the normal ritual roll is made to see whether the power bastardo). Anyone can use the resulting devil stick by takes effect. expending a Trait of will power. For the remainder
+MET System: Intermediate Ritual. Despite its of that scene, the stick causes aggravated damage level, this ritual takes only one turn to cast. Expend to zombies and other animate dead, causes an extra one Blood Trait and take one level of bashing damage. health level of damage to such beings and drains one
+You can delineate a circle three paces in radius around Pathos from any wraith struck or one Angst from a you. Any ghost that enters the circle suffers a two-Trait spectre. how ever, so long as you have a devil-stick in resolution penalty on all challenges; Risen suffer a one- you r possession (or in the same room!), you suffer a
+Trait penalty. You may use Performance as the retest one-Trait penalty on resolution of all tests to summon
+Ability for this ritual. and compel ghosts with any power. B d (l F r ) A devil-stick uses the same Traits and bonuses as a club. a Stone ia Boli Co evel our itual
+Casting this ritual is a bit tricky because it requires e Silio (l evel F ive r itual ) the removal of a leg bone from a living person. The Like Tempesta Scudo, Esilio is a quick and dirty ritual. do nor must survive the removal (at least for a little The Necromancer simply speaks five syllables. while). The bone is the n submerged in molten lead. Clanbook: Giovanni
+
+=== PAGE 78 ===
+No one can identify the casting language (at least, n ew m eritS and F lawS no Giovanni is telling if he has). According to the
+Merits and Flaws are not appropriate to every ritual’s oblique history, this power of Necromancy chronicle. See the Appendix of Vampire: The Mascame from the bloodline that preceded the Giovanni, querade for more information on using Merits and Flaws and that the language is what God gave humankind
+in you r stories. before the confusion of Babel. The legend further states that while the particular meaning of the words C r on San GuineouS e Si Stan Ce is lost, they are what Caine’s father said to him while (1- pt. S upernatural m erit )
+exiling him to Nod. you r character can not be blood bound by anyone
+Regardless of the truth of the matter, the Words who shares his mortal bloodline. That is, if you were of Exile are not spoken lightly. When the ritual born into the Giovanni family, you can not be bound is cast successfully, it opens a hole with in reality by anyone else who was born a Giovanni, though you itself — a rip between the lands of the living and can still be bound by Pisanob of the Giovanni clan, the darkest depths of the Underworld. This tear is or by Kindred of any other clan. Similarly, a Dunsirn
+invisible to normal vision, but to Shroudsight it with Consanguineous Resistance could not be bound looks like a pitch black vortex opening with in the by others who were born into the mortal Dunsirn famvampire’s own body (the very few unfortunate enough ily, but could be bound by a Milliner of the Giovanni to look into the gap with high levels of Auspex are clan (for instance). generally unwilling or unable to discuss what they
+Incidentally, the Giovanni are extremely suspicious beheld with in). Any wraith — spirito or spettro — of anyone known to manifest this quirk. Although this clutched to the Kindred’s chest is instantly torn to
+blood-borne aberration has n’t been do cumented, a few shreds. Grabbing a ghost in this fashion requires a savvy Giovanni have a rough and superstitious idea of
+Clinch or Tackle maneuver. As usual with destroyed what it is and do es. It’s generally associated with being a spirits, they do n’t come back for at least a month, rebellious you ng smartass who needs to be put do wn (this if ever. A spirito destroyed in this fashion tends to
+is not as unfair as it sounds; by the time a bond resistance return as a spettro, if it returns at all. is really obvious, it’s probably because a punishment is n’t
+The Necromancer may clutch and destroy a number working). A character who is discovered to have this of spirits equal to the number of successes she rolled. trait probably earns her sire’s hostility at the very least. After that, the vortex closes. It closes at the end of
+MET System: As described above, you can not be the scene if it has n’t already. bound by anyone from you r own mortal patrilineage. Of course, using one’s body as a portal between This is most useful if other Giovanni of you r family are our world and what a reasonably intelligent person in play, of course, and can cause all manner of storyline might call Hell is neither simple nor healthy. For complications if you’re found out. starters, it costs a blood point and a point of will p K
+power (which do es not give an automatic success roxy is Sed
+(4-. S m ) pt upernatural erit on the ritual roll). More importantly, each success rolled inflicts a level of unsoakable lethal damage Before the Embrace, you received the traditional
+on the Necromancer. Most importantly, every use Giovanni Proxy Kiss. This means you have one free of Esilio permanently reduces the Necromancer’s do t of Potence, and the other members of you r clan
+Humanity by one point. tend to be comfortable that you were Embraced in
+MET System: Advanced Ritual. Use of Esilio “the proper Giovanni fashion.” On the do wnside, you takes one turn. You must expend one will power Trait are partially blood bound to someone — probably and one Blood Trait. Any wraith you successfully someone other than you r sire. Given the way the grapple is instantly dispersed and sent screaming anziani like to balance things out, you may well have
+straight to Hell, to return no sooner than a month been Embraced by someone who dislikes or disagrees later (and possibly never). You may maintain the with you r do mitor. portal so long as you sacrifice one health level You may take this Merit a second time (for a total
+(considered lethal damage that can not be resisted) of 8 points) to gain a free do t of for titude, indicating a for each turn that you keep it open, including the very long service as a ghoul. If you do this, it means that first turn. You lose one Morality Trait when you you’re: (a) partially bound to three Kindred, (b) oneinvoke this ritual (even the Path of Death and the third bound to one and two-thirds bound to another, Soul finds it reprehensible, seeing as it destroys the or (c) fully bound to the Kindred who Embraced you, souls of the dead). who will probably be in deep shit with the elders — if she is n’t an elder herself. Chapter two: it runs in the Family
+
+=== PAGE 79 ===
+MET System: You begin play with a partial blood you suffer a one-Trait resolution penalty on Social bond to one other Giovanni Kindred (if an appropriate Challenges, because you have an unwholesome or one is n’t in play, the Storyteller should work with you flawed physical appearance. For three Traits, you suffer to come up with one). You gain the Basic Potence level this penalty and also a one-Trait resolution penalty on
+Prowess in addition to you r other Disciplines, and you Physical Challenges due to congenital health defects. can learn the first Intermediate level with you r starting For five Traits, you suffer from an effect equivalent to
+Discipline levels. If you spend eight Free Traits for this one other Flaw chosen by the Storyteller in addition
+Merit, you come into play with partial bonds to two to the previous hindrances; maybe you’re also Lame, Giovanni Kindred or a full bond to one, and you also or you have an extra Derangement. gain the Basic for titude Discipline Endurance. S w had ow al Ker
+S an Guine i n Con Gruity (6- pt. S upernatural F law )
+(5-. p m ) pt hy Si Cal erit The Giovanni clan is by its nature inexorably
+Giovanni with this atavism are few and far tied to the realm beyond the sudario. Giovanni sufbetween — fewer than a do zen reported instances fering from this Flaw are so tied to the Shadowlands have occurred since the clan rose from the ashes of that even in the lands of the living they are for ced the clan that preceded the m. Kindred possessing it to interact with the world of the dead on a nightly do not bear the Curse of Lamia; the ir Kiss causes no basis. To shadow walkers, objects in the Underworld
+more damage than the blood loss itself. the se vam- are as real as anything to be found in the physical pires acquire a peculiar pallor upon the ir Embrace, world. Such vampires find that the ghosts of walls how ever — they look like corpses, and no amount may impede the ir flight, ghostly objects may strike of blood ingestion can flush the ir features (as other the m, and wraiths’ powers work as if the Kindred
+vampires are able to do). Giovanni with this Merit were on the far side of the Shroud. This Flaw is are afforded wide berth, as the Giovanni tend to be similar to the Ash Path power Dead Hand except quite superstitious about it. that Shadow Walker is always on and it in no way
+MET System: You have a peculiar cadaverous ap- all ows the character possessing it to perceive bepearance that gives you a one-Trait resolution penalty yond the Shroud — see p. 164 of Vampire: The on all Social Challenges relying on Appearance-related Masquerade for details. Traits. You should use special make-up to represent The Storyteller may determine that certain this: blue around the cheeks and lips, black under the Shadowlands topography interferes with you. Unless eyes and a general white around the rest of the face is a you have a Merit or power to do so, you can’t see
+good start. how ever, you do not suffer from the normal into the Shadowlands, so you have to be careful in
+Giovanni disadvantage. feeling you r way about — essentially a blind man subject to the Underworld landscape. You may be i (1-. 5-. F ) n Bred pt to pt law
+restricted by immaterial walls or environmental ef Inbreeding, a common occurrence among the fects at a Storyteller’s discretion. More importantly, incestuous Giovanni clan, can take many for ms, wraiths can affect you directly — a wraith attackand this Flaw is best discussed with the Storyteller ing you inflicts damage with out any special means before a player takes it for her character. The In- on his part. Conversely, you can affect things in bred Flaw covers all manner of physical, mental the Shadowlands with you r physical body, though and emotional defects. A one-point Inbreeding is chances are that you do so blindly. you r possessions
+something simple and unobtrusive, such as eyes and weapons do not have this special facility, so it’s too close together or an underbite. A three-point possible for you to swing a sword that passes through
+Inbreeding is more severe: a congenital health a ghostly wall, only to have you r hand stopped by condition (for mortals) or a crippling physical the wall, or to have a gun that can’t shoot ghosts deformity. Five-point Inbreedings are grossly where as the ir relic guns can put holes in you. Obdisabling or emotionally crippling — everything viously, this Flaw is appropriate only for a game in from uselessly atrophied legs to a permanent De- which interaction with wraiths is fairly common or
+rangement, decided on mutually by the player and a Storyteller wants to pay above-average attention
+Storyteller. Inbred conditions may or may not be to the Underworld. immediately discernible, though the ir point cost MET System: You are fully subject to the Shadshould be relative to the ir magnitude. owlands and the ghosts the re. Ghostly architecture
+MET System: The flaws of an Inbred Giovanni blocks you and wraithly attacks can injure you. You must be worked out with a Storyteller. For one Trait, can’t actually see the Underworld with out the use of
+Clanbook: Giovanni
+
+=== PAGE 80 === other powers, but you can be impeded by it. When some inconvenience, causing one of you r actions to and whether this occurs is a matter for Storyteller fail automatically. This failure might be as simple as discretion, but it can be quite a hindrance if you’re “You can’t flee because you run into a wall” or perhaps, trying to, say, attend a meeting and a ghostly wall bars “you r attempt to do minate the mortal fails because a
+entry to the room, or if you need to flee an enemy ghost suddenly shrieks and begins firing a gun at you.” while ghosts also lash out at you. Typically, a Narrator For the one challenge, you fail automatically, retests should take an opportunity once per game to manifest and overbids not with standing. Chapter two: it runs in the Family
+
+=== PAGE 81 ===
+Clanbook: Giovanni
+
+=== PAGE 82 ===
+C t: hapter hree
+S hareholderS and
+C h harnel ou SeS
+One should judge a man mainly from his depravities. Virtues can be faked. Depravities are real. — Klaus Kinski
+At once revered and reviled, the Giovanni have a grace It is almost invariably so with the Giovanni. Whether and a sickness unrivalled by any other clan. What leads the m to tied to Catholic guilt, centuries of ancestor worship, mistheir greatest achievements is the same desire that leads the m placed shame or carnal desire, a Giovanni must earn her to the ir most vulgar indulgence. Is it the case with all great men right to excess. and women? do es every saint hide a secret sin? And if he do es, Let us, the n, see who and how. do es the vilest of sinners harbor with in him the light of genius? Chapter three: shareholders and Charnel houses
+
+=== PAGE 83 ===
+S -B p in Gle lood rodi Gy
+Quote: You won’t understand, and I’ve got better things to do than explain, for fuck’s sake. Prelude: Avoiding death altogether takes a lot more than NAME: NATURE:Conniver GENERATION: 11th
+PLAYER: DEMEANOR: Bravo have N: luck. You have to be lucky and smart enough to be chosen. That CHRONICLE: CLAN: Giovanni CONCEPT: Single Blood (cid:13) means you have to be worthy. Almost no one is worthy. ATTRIBUTES Prodigy
+PHYSICAL SOCIAL MENTAL
+You are worthy. S D t e r x en te g r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _O O C M h a a n r i i p sm ul a a _ ti _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O _ _ O O _ _ O_ O_ _O O_ _O O P In e t r e c l e l p ig t e io n n c _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ O O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+You’re smarter than any living person you’ve ever met, ABILITIES and you’ve always known it. Sure, sometimes the fumble- TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O fucking dumbasses got the better of you due to the caprices of Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O circumstance or physical development. Sure, they made you r do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O life pretty goddamn uncomfortable, but that’s the ir nature. Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Stupidity always hates intelligence. Blindness always envies Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O sight. Part of the ir souls can almost reach for a light that Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O would for the m be a blinding revelation and which is for you
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES just common thought. they can sense you r illumination, but _A_l_li_e_s_______________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO N__e_c_r_o_m__a_n_c_y_________O_O_O__OO if those stunted perceptions were ever all owed to rise to the _M_e_n_t_o_r______________O_O_O__OO ____________________O_O_O__OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO level of consciousness, the despair would be so intense that _ _ R_ _ e_ _ t_ _ a_ _ in_ _ e_ _ r_ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O they’d probably swallow the ir own tongues to die on the spot, ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO hoping for oblivion the who le time. they can’t let the mselves MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised understand you: To do so would be to utterly condemn the m- __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 selves. Easier to torment. __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2
+__________________________ Crippled -5
+Only you r fam- __________________________ Incapacitated ily — they’re almost as _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ illuminated as you — __________________________ understands the truth. they’ve finally seen that the only sensible action is to remove you from the drab and stifling world of
+“life” with its schools and its malls and its WWF Smackdown, to unlock the do or s of immortality and give you an eternity to comprehend the third way between being and not hingness. You’re learning fast and are only going to speed up as you go. Woe to anyone in you r way. Concept: You’re shockingly arrogant and almost smart enough to
+make it stick. You’ve been fascinated by death and disdainful of life for as long as you’ve been conscious. Frankly, giving up life and the pretense of humanity has been the best thing that ever happened to you. Roleplaying Hints: Necromancy matters. The Giovanni family
+(and, to a lesser extent, the clan) matters. Money is just a means to an end and you can’t be bothered with it. In fact, if it’s not Necromancy, it’s not worth a moment of you r supremely enlightened thought. If you do n’t understand something, it must be because it’s not worth understanding. You’re somewhat surprised that people dislike you, but you really do n’t give a fuck about the m anyway. Equipment: Black ritual robes, or what ever other clothes
+the servants hand you. PCS phone, laptop computer, strangle cord, PDA, a chauffeur and a procurer to take care of the ugly details of existence. Clanbook: Giovanni
+
+=== PAGE 84 ===
+Chapter three: shareholders and Charnel houses
+
+___E_____t__i_____q_____ue_____t_____t_____e_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E_____m_______p_____a__t___h_____y____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __C_____o_____m_____p_____u___t__e_____r_______________
+S_______u___b_____t_____e_____r_____f_____ug_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___ __E_____t__i___q_____u_____e__t___t_____e_______________
+S_______u___b_____t_____e_____r_____f_____ug_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____s__________
+O__________c___c__u_____l_____t___________________________________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____s__________
+S_______t___r_____e_____e_____t_____w_____is_____e____________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT
+__ TT ___ SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____ WWWWW __________
+SSSSS ____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____ WWWWW __________
+SSSSS
+____________________
+___ __P_____at_____i_____en_____t_________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___P__a_____t_____ie_____n_____t_________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___K__n_____o_____wl_____ed_____g_____e__a___b_____le_____ x_____
+
+____________________________________________________________
+_____S_____u_____m_____m_____o_____n_____
+__S________o_____ul_____, _____C_____o__m________p_____e_____l
+S__________o__u___l_____)_______________
+___K__n_____o_____w_____le_____d_____g_____e_____ab_____l_____e
+____________________________________________________________
+_____ P_____o_____te_____n_____c_____e_____
+(_____P_____r_____o_____w_____e_____s__s___,_____
+M__________ig_____h_____t_____)____________________
+___ __I_____nt_____u_____i__t___i_____ve_____
+_____x__ ___2_____
+____________________________________________________________
+_____ N_____e_____cr_____o_____m_____an_____c_____y
+(_____S_____e_____pu_____lc_____h_____r___e__
+P_____a_____th_____
+—__________ I__n___s_____ig_____ht
+___C____r___e_____a_____t_____iv_____e____________________
+____________________________________________________________
+_____M_____e_____s_____m_____ir_____i_____sm__________, F_____o_____r_____g_____e_____t_____fu_____l_____
+M_____i_____n_____d_____)__________
+___D_______is_____c_____e_____rn_____i_____n___g____________
+____________________________________________________________
+_____ D_____o_____m_____i_____na_____t_____e_____
+(_____C_____om__________m_____a_____n_____d_____)___________________________________
+___A_______tt_____e_____n_____t_____iv_____e_____ x_____ 2_____
+R_______e___f_____l_____e___c__t_____i_____ve_____ x_____
+_____2__________
+_____ D_____o_____m_____i_____na_____t_____e_____
+(_____C_____om__________m_____a_____n_____d_____, ___________________________________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___P__e_____r_____s_____u_____as_____i_____ve_____
+_____x_____
+
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E_______m_____p_____a__t___h_____e_____t_____ic__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___I__n_____g_____ra_____t_____ia_____t_____in_____g__
+___x_____
+
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___B_______eg_____u_____i_____lin_____g_____ x_____ 2__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C____h___a_____r_____m_____i_____n_____g_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___A_______ll_____ur_____i_____ng_________________________
+E_____x_____p_____r_____e_____s_____s___i__v_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____T_____o_____u_____g_____h_________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____ T_____i_____re_____l_____e_____ss____________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____S_____t_____e_____a_____d__y_______________________
+____________________________________________________________
+_____ R _____e
+_____s
+_____ou
+_____r _____c _____e _____s __ ___x
+_____ 3 ____________________________________________________________
+_____Q_____u_____i_____c__k____________________________
+____________________________________________________________
+_____, M __________e
+_____nt
+_____o _____r _____ x _____ 1 _____† _____
+__________ R
+_____e _____s __o ___u _____r _____c
+_____e
+_____s
+___ __x
+_____ 2 _____
+_____A_____g_____il_____e______________________________
+____________________________________________________________
+_____M_____e_____n_____t_____or_____ x_____ _____2__________
+____________________________________________________________
+_____D_____e_____x_____t_____e_____ro_____u_____s__________
+____________________________________________________________
+_____ I_____n_____fl_____u_____e_____nc_____e_____
+(_____H_____e a_____l_____th_____
+___x____ ___1)___________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____G_____e__n___e_____r_____a_____ti_____on_____ x_____
+_____2 ____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____G_____e_____n__e___r_____a_____t_____io_____n_____ x_____
+1 ____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____A_____ll_____ie_____s_____ x_____ 2____________________
+__R________et_____a_____in_____e_____r_____s_____ x_____ 2_______________
+_____A_____ll_____ie_____s_____ x_____ 1____________________
+____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__________yg_____id_____or_____P d_____o_____olB_____ e_____lg_____niS_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_____e_____c_____ar_____b_____m_____E
+_____de_____ir_____r_____uH_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________h_____t_____11_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________h_____t_____21_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+______________________________________r__e_____vi_____nn_____o__C___EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________r__e_____vi_____nn_____o__C___EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________ov_____a_____rB__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________d_____li_____hC__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 85 === h e urried m Bra Ce
+Quote: I just wish someone had told me how much easier feeding is when you kill the m first. Prelude: You still have n’t recovered. NAME: NATURE:Conniver GENERATION: 12th
+PLAYER: DEMEANOR: Child have N: Before it all started, life was good. Sure, you r parents CHRONICLE: CLAN: Giovanni CONCEPT: Hurried Embrace
+ATTRIBUTES sent you of f to a private school with no boys, and the PHYSICAL SOCIAL MENTAL snotty, stuck-up bitches the re made fun of you for being S D t e r x en te g r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _O O C M h a a n r i i p sm ul a a _ ti _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O _ _ O O _ _ O_ O_ _O O_ _O O P In e t r e c l e l p ig t e io n n c _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ O O
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+“new money,” and when you came home you r parents never
+ABILITIES let you go out unaccompanied because it “was n’t safe.” But TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O you had cute clothes, lots of money (new or old, money is Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O money) and servants who had to put up with any shit you do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O decided to dish at the m. Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O the n the world went mad. Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+It was El Día de Los Muertos — “the Day of the Dead.” At
+ADVANTAGES first you thought it was an earthquake, when the dishes started BACKGROUNDS DISCIPLINES VIRTUES breaking and everything started flying around. But earthquakes _ _ A G _ _e l_ _ l n i_ _ e e _ _ s r _ _a _ _t _ _i _ _o _ _n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O D P _ _o _ _ o t _ _ m e _ _ i n _ _ n_ _c a_ _e t_ _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Conscience/ConvictionOOOOO
+_M_e_n_t_o_r______________O_O_O__OO ____________________O_O_O__OO do n’t make walls bleed, do n’t make sounds like how ling voices. _R_e_s_o_u_r_c_e_s___________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO
+Uncle Hugo told you that the Pisanob rule the dead, but you’d ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO never actually seen the dead until that night. the n you watched the ir translucent for ms fling you r MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised brother do wn the stairs; chase you r _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO H In u ju rt red - - 1 1 cook away with a burning, airborne _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 tablecloth; hoist you r father into __________________________ Incapacitated the air and tear at his clothes…. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________
+You ran the n, but the roots in __________________________ the garden became hands, pulling you to the ground. The spirit that you saw next looked no more substantial than cigarette smoke, but the hammer it drove
+between you r eyes was completely solid. The next thing you knew was hunger. You were drinking from the corpses of you r servants even before you realized what you were do ing. Uncle Hugo was standing above you, frowning. “Dulce,” he said, “I wanted you r initiation to be a beautiful thing, not this rushed and ugly mess. Still, better this than for you r Pisanob soul to fall into the
+hands of those spirits.”
+You’re nervous, and you miss you r parents, but you’re also looking for ward to you r lessons. You can think of a few things you’d like to do to the spirits who attacked you r home. Not to mention those hair-pulling bitches at school.…
+Concept: You were a spoiled, immature 16-year-old girl who had n’t grown up and who now never will. You’ll never kiss you r first boy with living lips, you’ll never really understand making love, you’ll never have that final growth spurt. But you’ll also never miss what you never experienced. Roleplaying Hints: Everyone over 30 is either really stupid or really scary. You put up a tough front, but do n’t for get that underneath you’re a you ng girl who watched her family die and saw that hammer coming straight at
+her head. Just when everyone has dismissed you as a bubblegum-brained twit, you can come through with a perception that’s surprisingly accurate and unspoiled. Equipment: Clothes from BCBG and Betsey Johnson, Vespa scooter, Victoria Ash CDs. Clanbook: Giovanni
+
+=== PAGE 86 ===
+B m itter atron
+Quote: Oh, do n’t worry about me at all. I’ll just sit here in the dark and knit you a fucking sweater, you ungrateful little who re! Prelude: You were raised in the Mausoleum, at the very NAME: NATURE:Autocrat GENERATION: 9th
+PLAYER: DEMEANOR: Curmudgeon have N: heart of the Giovanni family. Although you r family tried to keep CHRONICLE: CLAN: Giovanni CONCEPT: Bitter Matron you as insulated as possible, the re are limits even to immortals’
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL powers of concealment — especially when they have so much Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O to hide. By the time you were 12, you knew about vampires. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES
+By the time you were 14, you not only knew the facts about
+TALENTS SKILLS KNOWLEDGES ghouls, you eagerly awaited the honor of the Proxy Kiss you rself. Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+You kept waiting. “Maybe next year,” you were told. “In a do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O few years, when you reach you r full growth.” the n, “Perhaps Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O after you have a child or two.” As you aged, the ir excuses became Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O more elaborate — they praised you r clear thinking (unmuddied Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O by blood bonds and vitae addiction), they spoke of the places ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES where a 40-year old woman was acceptable but a you nger woman _A_l_li_e_s_______________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_C_o_n_t_a_c_t_s____________O_O_O__OO N__e_c_r_o_m__a_n_c_y_________O_O_O__OO would excite comment. _G_e_n_e_r_a_t_i_o_n__________O_O_O__OO P_o_t_e_n__c_e_____________O_O_O__OO
+_M_e_n_t_o_r______________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+You became a ghoul at the humiliating age of 55 than ks to _ _ R R _ _ e e _ _ s t _ _a o_ _i u n _ _ r e _ _ c r _ _ e s _ _ s_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O you r own son. You ought to be partially bound to at least a do zen
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO vampires because of you r desperate efforts to stave of f further MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised age. Now, at last, they’ve __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 given you you r due. At __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 last, you’ve received the _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ C In r c ip ap p a le c d itated -5
+Embrace and can be _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ considered an equal by __________________________ the other Powers That
+Be in the clan. Except that everyone in Venice knows that anybody Embraced so old must be unimportant, fit only to admiringly obey the or ders of the superiors who have her bound. they do n’t suspect that you hate the m as much as you love the m. But when you asked permission to go to America — “the Land of the Free,” after all — to watch
+over those rebellious do uble-bloods, they might have begun to suspect you to be one old do g with a few new tricks, after all. Concept: The family is everything to you, and if they’d only appreciate all you have to of fer you could be a lot more to it. You just want the respect due to you as Kindred and a Giovanni. You’ve paid you r dues a hundred
+times over, and you’ll be do ubly damned if you’re going to let anyone beneath you have an easier time of it. Roleplaying Hints: Be respectful yet pushy to the authorities immediately over you. Be fawning and admiring toward the real elders — the ones even you rarely saw in the Mausoleum, and who the refore never asked you to do anything demeaning or humiliating. Be emotionally
+ruthless to you r inferiors. Equipment: Liz Claiborne dresses from a year or two ago, sensible shoes, a Coach purse with a Sig-Sauer P-230 handgun inside. Also, a nice stout aluminum can e. Chapter three: shareholders and Charnel houses
+
+=== PAGE 87 ===
+Clanbook: Giovanni
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________C_____ur_____m_____ud_____g_____e___o__n_______________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________R_____og_____u_____e______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____A_____ut_____oc_____r_____at___________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____Lo_____n_____er_____________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____9_____th________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____3t_____h___________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____io_____v_____an_____n_____i____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____io_____v_____an_____n_____i____________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____B_____it__t___e_____r
+___M_______at_____ro_____n_______________
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____D_____ip_____lom_____a_____t
+_____Pr_____ov_____o___c__a_____te_____ur
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+_________________________1
+__x___
+_____ro_____t_____n_____e_____M_____, ____________________4__
+___x_____ s_____e_____il_____lA_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+____________________1
+_____x
+_____s_____ei_____ll_____A_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________3_____ x_____ s_____e_____c_____r___u__o_____s_____e_____R
+_____2_____
+__x___ _____st_____c_____a_____t_____no_____C_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+_____1_____ x_____ s_____t_____c_____a___t__n_____o_____C_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+_______________1_____ x_____ s_____r_____e_____n_____ia_____t_____e_____R
+4_____ x_____
+___n__o_____i__t___a_____r_____en_____e_____G_____
+____________________________________________________________
+2_____ x_____
+_____su_____o_____ic_____a_____n_____e_____T_____
+______________________________)_____1
+_____x _____e_____c_____n_____an i_____F_____(
+_____e_____cn_____e_____u_____lf_____n_____I_____
+____________________________________________________________
+_______________g_____n_____i_____ru_____d_____n_____E_____
+___________________________________)__1___ x_____ _____h_____tl_____a e _____H_____(
+_____e_____c___n__e_____u_____l___f__n_____I_____
+____________________________________________________________
+__________________t__n_____e_____il_____is_____e_____R_____
+____________________________________________________________
+
+_____x_____ s_____e_____c_____ru_____o_____s_____e_____R
+_____
+____________________________________________________________
+_______________l_____u___f__e_____c_____a_____r_____G__
+___
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+__________________________________________________
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+______________________________y_____r_____iW__________
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+____________________gn_____i_____t___a__d_____m__________it_____n_____I
+2_____ x_____ g_____n_____id_____n_____a_____m_____m_____o_____C
+____________________________________________________________
+__________________________________________________
+__________2_____ x_____
+_____e___v__i_____s_____au_____s_____r_____e_____P
+__________2_____ x_____
+_____gn_____i_____r___u__l_____lA_____
+____________________________________________________________
+__________________________________________________
+____________________
+_____e___v__i_____s_____au_____s_____r_____e_____P
+_____2_____ x_____ _____d___e__i_____f_____in_____g_____iD_____
+____________________________________________________________
+__________________________________________________
+_______________2
+_____x__
+___e_____v_____it_____c_____u_____d__e___S_____
+_____c_____i_____ta_____m_____s_____i_____ra_____h_____C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________ci_____t_____am__________o__l___p_____iD_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+____________________t_____n_____eu_____q_____o_____lE_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+_____________________________________)___d_____n_____a_____m_____m_____o_____C_____(_____ e_____t_____a___n__i_____m_____o_____D_____
+____________________________________________________________
+_____2
+_____x_____ e_____v_____it_____n_____e_____tt_____A_____
+_____)m________s__i_____ri_____m_____s_____e_____M_____,_____dn_____a_____m_____m_____o_____C_____(
+_____e_____ta_____n_____im_____o_____D_____
+____________________2_____
+_____x
+_____d_____w_____e_____r___h__S_____
+______________________________t_____r_____e_____lA_____
+)_____th_____g_____is_____nI_____
+—_____ h_____t_____a___P__ e_____r_____hc_____lu_____p_____e___S__(_____ y_____cn_____a_____m_____or_____c_____eN_____
+____________________________________________________________ e_____l_____b__a___e_____g_____d_____e___l__w_____o_____n__K___
+__________________________________________________)__s___s_____e_____w_____o_____r_____P_____( e_____c_____n_____e_____t_____o__P___
+____________________________________________________________
+______________________________re_____v_____e_____lC_____
+__________________________________________________)_____ss_____e_____w_____o_____r_____P_____(
+_____e_____c_____n_____e___t__o_____P_____
+____________________________________________________________
+_______________2
+_____x_____ t_____n_____e_____it_____a_____P
+________________________________________________________________________________________________________________________
+____________________________________________________________
+____________________e_____v_____it_____a_____er_____C_____
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+__________________________________________________
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+_________________________g_____ni_____n_____n_____uC_____
+______________________
+SS _ S __ SSWWW __ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&&
+_____
+SS S SS _____ TTTTT
+_____ IIIII
+___ RR __ RRR _____ EEEEE _____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&&
+_____
+SS S SS
+_____ TTTTT
+_____ IIIII ___ RR __ RRR
+_____ EEEEE
+_____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+______________________________________t__l_____u_____cc_____O_____
+_______________e_____t_____t_____e___u__q_____i_____tE_____
+____________________________________________________________
+__________________________________________________
+___________________________________s_____c_____it_____il_____o_____P
+__________s_____c_____im__________e_____d_____ac_____A_____
+____________________________________________________________
+__________________________________________________
+_______________
+__e___g_____u_____f_____r_____e_____tb_____u_____S_____
+__________n_____o_____is_____s_____e_____r_____px_____E_____
+____________________________________________________________
+__________________________________________________
+_______________
+_____e_____gu_____f_____r_____e_____t_____b_____uS_____
+__________n_____o_____is_____s_____e_____r_____px_____E_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____n_____o_____it_____a_____d_____im_______i___t_____n___I__
+____________________________________________________________
+__________________________________________________
+____________________________________________________________ n_____o_____i_____ta_____g_____it_____s_____e_____v_____n___I__
+
+=== PAGE 88 === d p iplomat rovo Cateur
+Quote: “Necro-incestuous Mafiosi?” Really? And do you believe everything you r sire tells you? Prelude: Whether you were getting a biscotti from Aunt NAME: NATURE:Loner GENERATION: 13th
+PLAYER: DEMEANOR: Rogue have N: Gina before dinner or getting Cousin Angelo to put lotion on CHRONICLE: CLAN: Giovanni CONCEPT: Diplomat you r back, you r most powerful weapon has always been you r smile. ATTRIBUTES Provocateur
+PHYSICAL SOCIAL MENTAL
+People are fun: they can do a lot of nice things for you. It’s S D t e r x en te g r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _O O C M h a a n r i i p sm ul a a _ ti _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O _ _ O O _ _ O_ O_ _O O_ _O O P In e t r e c l e l p ig t e io n n c _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ O O particularly nice if you can get the irs before you have to give
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES the m you rs, but haggling runs in the family and you suspect you TALENTS SKILLS KNOWLEDGES got a do uble do se of it. A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+You received the Proxy Kiss from Angelo when you were 20. do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+(He always had a soft spot for you when he was alive. Or maybe it Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O could be better described as a hard spot. Anyway, he recognized Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O talent.) As his ghoul servant in Barcelona, some vampires from Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O other clans tried to lure you away. Sure, they had the power to
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES make you want to please the m, but they never seemed to realize _A_l_li_e_s_______________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_C_o_n_t_a_c_t_s____________O_O_O__OO P_o_t_e_n__c_e_____________O_O_O__OO that you also wanted to please you rself. _R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO
+Angelo met a bad end; oh, well. You were instrumental in ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO directing the vendetta against his assassins — but more, you were essential in making sure that the MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised most important Kindred _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO H In u ju rt red - - 1 1 in Barcelona felt that _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 the clan’s killers __________________________ Incapacitated were do ing the _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ outsiders a __________________________ favor by
+“enforcing the Masquerade.” Smoothing things over earned you you r recent Embrace, and you’re now in good with both you r family and those charming innocents in the Camarilla. You were n’t really given a choice about you r Embrace, and the re’s a lot of things you miss about life. You miss biscotti and sunbathing, not
+to mention sex. But in a lot of ways it’s easier to sleep with someone for the family’s sake now that you do n’t really feel anything… now that you’re dead. Concept: You’re naturally charming, cute and a good listener. If you’d been born into another family, you’d probably have grown up to be a great sales associate, or even a talk show host. As it is, you’re playing “impartial third party” to the Camarilla on behalf
+of you r elders. Roleplaying Hints: Be nice to people in ways that do n’t cost anything. Be disarmingly honest with the people who are suspicious of you: Even if it do esn’t bring the m around, it impresses anyone watching. You’re used to getting you r way because people naturally want to please you. If thwarted, pout but do n’t make a big deal of it: You’ll always
+have tomorrow night. Equipment: Versolato evening gowns, PCS phone, automatic pistol, BMW 330 convertible, roofies
+Chapter three: shareholders and Charnel houses
+
+=== PAGE 89 === d B un Sirn ully
+Quote: Go lick you r mother’s piss-flaps, you stupid cunt! Prelude: You never had to stand on the do le, but that did n’t mean you were pampered. No, quite the contrary; you r family NAME: NATURE:Conformist GENERATION: 10th
+PLAYER: DEMEANOR: Bravo have N: life was one that could have benefited from a few of its members CHRONICLE: CLAN: Giovanni CONCEPT: Dunsirn Bully
+ATTRIBUTES having to stand in line to collect financial aid. It would have
+PHYSICAL SOCIAL MENTAL given the m less time to lock you in the refrigerator or stomp Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O you toothless in celebration of an Aberdeen victory. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES
+Still, you took you r licks like a growing boy should and TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O ultimately inherited all of the perks that came with the Dunsirn Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O family name, including money and respect. Frankly, it was about do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O time for you to contribute a little hooliganism of you r own. You Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O bought into the underbelly of the family business and found a Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O place beside the same cousins who had “contributed” to you r Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O toughening-up into the man you had become. Shortly the reafter, ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES you became something else altogether.… _A_l_li_e_s_______________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_C_o_n_t_a_c_t_s____________O_O_O__OO P_o_t_e_n__c_e_____________O_O_O__OO
+You work for one of the of f-the-books branches of the _ _ G R _ _e e_ _s n_ _o e_ _u r_ _r a_ _c t_ _e i_ _ o s _ _ n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O__OO
+Dunsirn family. While you r white-shirted aunts and uncles ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO may be owed a million debts, it’s up to lads like you to go collect the m. You’re one of the Gents of MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised
+Grampian, a respected rowdy and __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 one of the terrors of the Whiskey _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5
+Trail. So long as everyone knows __________________________ Incapacitated it, you’re on top of you r game. _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________
+Concept: You have a re- __________________________ markably bright disposition for a Kindred — the do ur mood that so many of you r elders seem to labor under has no hold on you. It’s not because you’re some thick-witted mooncalf, though. You’re just glad finally to be
+dealing out the drubbings instead of taking the m. Roleplaying Hints: As rough-and-tumble as you’ve become, old habits die hard. You’ll never be an alpha do g. You’re better of f do ing what you’re told and you know it. If someone smarts of f to you, pummel the m, but if they’re actually brave enough to stand up to you… uh, it’s probably because they’re tough enough to back it up. Better to stand do wn and not have you r teeth kicked in again. And if anyone thinks that makes you a coward, well… they probably did n’t have it as rough as
+you did when they were you nger. they do n’t know. Equipment: Track suit, burlap bag with do or knobs, wad of cash
+Clanbook: Giovanni
+
+=== PAGE 90 ===
+Chapter three: shareholders and Charnel houses
+
+___F____i___r_____e_____ar_____m_____s____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___L__a_____w________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___ __D_____r_____iv_____e______________________________
+M__________e_____le_____e_____
+___________________________________
+__________________________________________________
+____________________________________________________________
+___F____i___n_____a_____nc_____e_________________________
+S_______u___b_____t_____e_____r_____f_____ug_____e____________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____l______________________________
+_____In_____t_____i___m_______id_____a_____t_____io_____n_______________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____s__________
+_____ P_____o__l___it_____i_____cs___________________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___S_______h_____re_____w_____d_____
+___x__
+_____2_____ _____
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___ __P_____at_____i_____en_____t_____ x_____
+2_______________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___D_______e_____te_____r_____m_____i_____n_____ed__________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___O_______b_____s_____er_____v_____a_____n_____t
+_____x_____
+
+____________________________________________________________
+_____F_____o_____rt_____i_____t__u___d_____e_____
+_____(E_____n_____d_____u_____r_____a_____n_____ce_____)___________________________________
+___ __C_____u_____nn_____i_____n___g______________________
+____________________________________________________________
+_____Po_____t_____e_____n_____c_____e__
+___(P_____r_____o_____w_____e_____s_____s,_____
+M__________ig_____h_____t_____, V_____i_____g_____o_____r)
+___K__n_____o_____wl_____ed_____g_____e__a___b_____le_____ x_____
+
+____________________________________________________________
+_____ M_____e_____s_____m_____i_____ri_____s_____m_____, _____F___o__r_____g_____e_____t_____f_____u___l__
+M__________in_____d_____)__________
+___A_______le_____r_____t______________________________
+____________________________________________________________
+_____ D_____o_____m_____i_____na_____t_____e_____
+(_____C_____om__________m_____a_____n_____d_____)___________________________________
+___D_______e_____d___i__c_____a_____te_____d_______________
+____________________________________________________________
+_____ D_____o_____m_____i_____na_____t_____e_____
+(_____C_____om__________m_____a_____n_____d_____,___________________________________
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___Q_______u_____ic_____k______________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___G_______e___n__i_____a_____l_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___T_______ou_____g_____h_____ x_____
+__2__________________
+V_____i_____g_____o_____ro_____u_____s______________________________
+__________________________________________________
+____________________________________________________________
+___D_______ig_____n_____if_____i___e__d____________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___B_______ra_____w_____n_____y_________________________
+_____R_____o__b___u_____s_____t_____ x_____
+2_________________________
+__________________________________________________
+____________________________________________________________
+___C____h___a_____r_____m_____i_____n_____g_______________
+_____I__n___g_____r_____a_____t_____ia_____t_____in_____g_____ x_____
+2_____
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+_____W__________ir_____y______________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+__________________________________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____ G_____r_____a_____c_____e_____fu_____l_______________
+____________________________________________________________
+_____I_____n_____f___l__u_____e_____n__c___e_____
+(_____H_____e a_____l_____th_____
+_____x_____ 1_____)______________________________
+_____T_____i__r___e_____l_____es_____s____________________
+____________________________________________________________
+_____ R_____e_____s_____ou_____r_____c_____e_____s___
+__x_____ 4 ____________________________________________________________
+_____E_____n_____d_____u_____ri_____n_____g_______________
+____________________________________________________________
+_____ G_____e_____n_____e_____r_____a__t___i_____o_____n
+_____x
+3 ____________________________________________________________
+_____S_____t_____a_____lw_____a_____r_____t_____ x_____ 2_____
+____________________________________________________________
+_____I_____n__f___l_____ue_____n_____c_____e
+___(__F_____in_____a n _____c__e___ x_____
+__1___,___ __Po_____l_____it_____ic_____a__l___ x_____
+1_____)
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____C_____o_____n_____ta_____c_____t_____s_____ x_____ 2_____
+____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____G_____e_____n_____e_____ra_____t_____io_____n_____ x_____ 2 ____________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____A_____l_____lie_____s_____ x_____ __2__________________
+___ __R_____e_____so_____u_____r_____c_____e_____s
+_____x_____
+2__________
+_____C_____o_____n_____ta_____c_____t_____s_____ x_____ 2_____ ____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________y___l__lu_____B
+_____nr_____is_____n_____uD_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+____________________pm_____a_____C_____ e_____d
+__e___d_____iA_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+___________________________________h_____t_____31_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________h_____t_____11_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+______________________________t_____si___m__r_____o_____fn_____o__C___EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________tn_____av_____iV_____ n_____oB_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________ov_____a_____rB__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+__________t_____si_____la_____no_____it_____id_____a_____rT__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 91 === a -d -C ide e amp
+Quote: We do have one option — do n’t tell anyone I of fered you this deal, now; it’s our little secret — that will let you come out of this smelling like a rose. It won’t be easy or legal, but it will be effec- NAME: NATURE:Bonvivant GENERATION: 11th
+PLAYER: DEMEANOR: Traditionalist have N: tive. I’m going to need to call on you for a favor at some point, too. CHRONICLE: CLAN: Giovanni CONCEPT: Aide de Camp
+ATTRIBUTES
+Prelude: How the hell can anyone in the family not know
+PHYSICAL SOCIAL MENTAL that the who le genealogy is riddled with vampires? Even if they Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O do n’t see the situation for what it really is, even the children
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES have to know that something’s not quite right. the n again, it’s TALENTS SKILLS KNOWLEDGES what the Giovanni are brought up knowing… nature versus A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O nurture and all that. do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Luckily for you, you were clever enough to catch on quite Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O early. You took the Proxy Kiss at 16 and were Embraced at the Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O ripe old age of 20 after turning in you r… uncle?… when he Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O came to you and asked if you wanted in on a gun deal he was
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES working out with some Sabbat slobs in New York. Of course, _C_o_n_t_a_c_t_s____________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO F__o_r_t_it_u_d_e____________O_O_O__OO you took over for him after the anziani had the ir way with him, _R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+_S_t_a_t_u_s______________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO but nobody knows that. At least, you hope no one knows. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO you r strong sense of what was right for the family earned you the accolades of many ancillae and elders — you were one MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised of the up-and-comers. Having been Embraced so you ng, you __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 still had a sense for what the “profitable you th demographic” _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 wanted. You pushed meth and E just before they became huge __________________________ Incapacitated
+— so you made valuable inroads on the drug end. Pushing _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ put you in contact with the local gangs, who could always use __________________________ guns and drugs of the ir own. You had quite literally become the
+Giovanni wunderkind, making money with the Midas touch. That’s why it’s so strange that you r elders have asked you to be the clan’s liaison to the Camarilla. What a fucking dead-end position! Overnight you went from one to watch to last night’s news. It could n’t
+have been anything you did — the who le “reassignment” stinks of somebody’s vendetta, somewhere. When you find out who it is, you’ll make the m pay for squandering the se past few years of eternity. Concept: Status came quickly for you and vanished almost as rapidly. you r silver tongue and savvy are assets in you r new role as the prince’s envoy. In the end, though, you’ve learned all too well how do wnright mercenary this
+“Kindred” thing is. Now you r loyalty is to you rself, and you’ll play for the Camarilla or the Giovanni (or the Sabbat, should you run into the m again)… who ever’s worth the most comfort is who you’ll stick with. Roleplaying Hints: You’re playing a ridiculously dangerous game and you know it — once either side
+knows that you’re not even worth the meager trust they’ve placed in you, it’ll all be over. It’s a shame that you’re such a burnout at an early age. You had much to of fer the family. But fuck the m — they had the ir chance. Until they or someone else catches you in the middle
+of this week’s do uble-cross, you’ll live the high unlife. Equipment: Zegna wardrobe, new Mercedes on short-term lease, manila envelope full of incriminating snapshots, aluminum baseball bat
+Clanbook: Giovanni
+
+=== PAGE 92 === p G r is anoB rave oBBer
+Quote: Here’s 100 do llars American. Come back in an hour and do n’t tell anyone I was here. NAME: NATURE:Deviant GENERATION: 9th Prelude: Four days a week you stole you r food, but somePLAYER: DEMEANOR: Survivor have N: CHRONICLE: CLAN: Giovanni CONCEPT: Pisanob Grave times only three, like when the church had a holiday meal. You
+ATTRIBUTES Robber
+PHYSICAL SOCIAL MENTAL clothes were what ever someone left hanging on the clothesline. S D t e r x en te g r t i h ty _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ _O O_ _O O_ _ _ O O _O O C M h a a n r i i p sm ul a a _ ti _ o _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O _ _ O O _ _ O_ O_ _O O_ _O O P In e t r e c l e l p ig t e io n n c _ e_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ _O O_ O O Once you were old enough to drink — 12 — cerveza came
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO either from behind one of the tourists’ bars or from the hotels
+ABILITIES
+TALENTS SKILLS KNOWLEDGES while the help tried to carry in the deliveries. You had no future
+A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O beyond being another urchin in the sprawling hell of one of
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O the largest cities on Earth. Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O That’s when you met you r new patroun. He took you of f
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O the street, gave you clean clothes, fed you. All he wanted in
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O return was some help procuring “specimens.” He’d even help you
+ADVANTAGES learn his new “Black Science.” For a brief time, you struggled
+BACKGROUNDS DISCIPLINES VIRTUES
+_C_o_n_t_a_c_t_s____________O_O_O__OO N__e_c_r_o_m__a_n_c_y_________O_O_O__OO Conscience/ConvictionOOOOO with the scope of you r new duties — stealing bodies was n’t
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO P_o_t_e_n__c_e_____________O_O_O__OO
+_ _ M R _ _e e_ _s n_ _o t_ _u o_ _r r_ _c _ _e _ _s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O_ O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O Self-Control/Instinct__O__O_O_OO something a God-fearing boy should do. In the end, though, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ O O _ _ O O _ _ O O _ _ _ _ O O O O you decided that God did n’t know what things were like outside
+____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO of Heaven. You did what you had to, and if it meant you would
+MERITS/FLAWS HUMANITY/PATH HEALTH be Damned, so be it. __________________________ __________________________ Bruised
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOOOOOOOOO H In u ju rt red - - 1 1 Nobody gets a break. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2 That’s how the Cainite
+__________________________ Crippled -5
+__________________________ Incapacitated world works, especially here
+_ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE in Mexico City, with all
+__________________________
+__________________________ the se blood-glutted Sabbat running around, breaking legs and biting of f heads. It was n’t any different for you when you were mortal, and things have n’t changed since you died. Concept: You are learning the Pisanob’s new faith every night with the help of you r sire. What you are do ing is undeniably evil, but sometimes God needs evil to make the good worthwhile. Anyway, the sire
+says too much introspection is n’t good for a boy in you r position. You can’t quite tell, but you think he’s being condescending. After all, he seems to spend a great deal of time thinking and writing and reading. He’s probably just being stingy. Either that or he thinks you’re too stupid to do what he do es. Until you figure it out, you do what the sire
+says, bringing him the bodies and leaving those girls in the pile alone. Roleplaying Hints: You know that being Damned means more than just running around and digging up the dead, but the sire is n’t showing you. He has been good to you, but you know that the other vampiros do n’t do what you do. The sire says they’re all wicked and
+going to Hell, but they say all Cainites are already going to Hell, anyway. would n’t it be better to do what you wanted instead of fetching dead people when the sire told you to? It’s a little scary to think about, but it might be worth the risk. Equipment: Secondhand blazer and khakis, shovel, rosary
+Chapter three: shareholders and Charnel houses
+
+=== PAGE 93 ===
+Clanbook: Giovanni
+
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________S_____ur_____v_____iv__o___r_________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+DDDDDEEEEEMMMMMEEEEEAAAAANNNNNOOOOORRRRR__________R_____eb_____e_____l______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____D_____ev_____ia_____nt________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+NNNNNAAAAATTTTTUUUUURRRRREEEEE_____D_____ev_____ia_____nt________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+WWWWWIIIIILLLLLLLLLLPPPPPOOOOOWWWWWEEEEERRRRR
+AAAAAGGGGGEEEEE___________________________________________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____9_____th________________________________________
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+GGGGGEEEEENNNNNEEEEERRRRRAAAAATTTTTIIIIIOOOOONNNNN_____1_____1t_____h___________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____io_____v_____an_____n_____i____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCLLLLLAAAAANNNNN_________________________G_____io_____v_____an_____n_____i____________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+BBBBBLLLLLOOOOOOOOOODDDDD
+CCCCCHHHHHRRRRROOOOONNNNNIIIIICCCCCLLLLLEEEEE_______________________________________________________
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____Pi_____sa_____n_____ob_____
+G_____r_____av_____e_____
+R_____ob_____ber
+CCCCCHHHHHAAAAARRRRRAAAAACCCCCTTTTTEEEEERRRRR_____D_____eg_____e_____ne_____r_____at_____e____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+CCCCCOOOOOUUUUURRRRRAAAAAGGGGGEEEEE
+NNNNNAAAAAMMMMMEEEEE______________________________________________________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+SSSSSEEEEELLLLLFFFFF-----CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLL/////IIIIINNNNNSSSSSTTTTTIIIIINNNNNCCCCCTTTTT
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+CCCCCOOOOONNNNNSSSSSCCCCCIIIIIEEEEENNNNNCCCCCEEEEE/////CCCCCOOOOONNNNNVVVVVIIIIICCCCCTTTTTIIIIIOOOOONNNNN
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+SSSSSDDDDDNNNNNUUUUUOOOOORRRRRGGGGGKKKKKCCCCCAAAAABBBBB
+YYYYYTTTTTIIIIINNNNNAAAAAMMMMMUUUUUHHHHH/////HHHHHTTTTTAAAAAPPPPP
+____________________1
+___x__
+_____r__e___n_____i_____a__t___e_____R_____
+_____3_____ x_____ s_____t_____c_____a___t__n_____o_____C_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+__________5_____ x_____ s_____e_____c_____r_____u_____os_____e_____R_____
+____________________1
+_____x___
+__e_____m_____a_____F_____
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+____________________________________________________________
+4_____
+_____x _____no_____i__t___a_____r_____en_____e_____G_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________4___
+_____x
+_____s_____r__e___n_____i_____a__t___e_____R_____
+2_____ x_____ n_____o_____it_____a_____r___e__n_____e_____G_____
+LLLLLAAAAACCCCCIIIIISSSSSYYYYYHHHHHPPPPP
+____________________________________________________________
+__________2_____ x_____ r_____o_____t_____n_____e__M________
+________________________________________k_____c_____iu_____Q_____
+__________2_____ x_____
+_____yn_____w_____a_____r_____B_____
+____________________________________________________________
+____________________4
+_____x_____ d_____r_____e_____H_____
+_____________________________________________y_____ri_____W_____
+______________________________e_____l__i___g_____A_____
+____________________________________________________________
+_____2
+_____x _____s_____ec_____r_____u_____os_____e_____R_____
+___________________________________t_____s_____u_____b_____o_____R
+__________s_____u_____o___r__e_____t_____x_____e_____D_____
+)_____1
+_____x t_____lu_____c_____cO_____
+_____,2_____ x _____y__t___e_____ic_____o
+S _____h_____gi_____H_____( e_____c___n__e_____u_____lf_____nI_____
+____________________________________________________________
+_____2_____ x_____ g_____n_____i_____ru_____d_____n_____E_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+___________________________________d_____e_____g_____g_____u_____R
+_______________c___i__t_____e_____gr_____e_____n_____E_____
+SSSSSEEEEECCCCCNNNNNEEEEEUUUUULLLLLFFFFFNNNNNIIIII
+____________________________________________________________
+_________________________h_____g_____u_____o_____T_____
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+LLLLLAAAAAIIIIICCCCCOOOOOSSSSS
+____________________________________________________________
+__________________________________________________
+_____2__
+___x_____ g_____n_____it_____a_____it_____a_____r_____g_____nI_____
+____________________g_____n__i___li_____u_____g__e___B_____
+____________________________________________________________
+__________________________________________________
+_______________2_____ x_____
+_____ci_____t_____e___n__g_____a_____M_____
+2_____ x_____ c_____i_____ta_____m_____s_____ir_____a_____h___C__
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________la_____i_____ne_____G_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_________________g___n_____i_____m_____r_____a__h___C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+______________________________y_____t__t___i_____W_____
+____________________________________________________________
+__________________________________________________
+_______________________________________________________2_____ x _____ g_____n_____it_____a_____it_____a_____r_____gn_____I_____
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+SSSSSEEEEENNNNNIIIIILLLLLPPPPPIIIIICCCCCSSSSSIIIIIDDDDD
+LLLLLAAAAATTTTTNNNNNEEEEEMMMMM
+)_____th_____g_____is_____nI_____—_____ h_____t_____a__P___ e_____r_____hc_____lu_____p_____eS_____(___
+__y__c___n_____am_______o___r_____ce_____N_____
+____________________________________________________________
+______________________________t_____r_____e_____lA_____
+_____)m_____s_____ir_____i_____m_____s_____eM________
+__, d_____n_____a_____m_____m_____o_____C_____(
+_____et_____a_____n_____im_____o_____D_____
+____________________________________________________________
+_______________gn_____i_____n___r__e_____c_____s_____iD_____
+____________________)_____t_____h_____g_____iM_____
+_____, s_____s_____e_____w_____o_____r_____P(_____ e_____c_____n_____e_____to_____P_____
+____________________________________________________________
+2_____
+_____x
+_____e_____v_____it_____n_____et_____t_____A_____
+)__t___h_____g_____is__n___I_____
+—_____ h_____t_____aP_____ e_____r_____hc_____lu_____p_____eS_____(_____ y_____cn_____a__m________or_____ce_____N_____
+____________________________________________________________ e_____l_____b__a___e_____g_____d_____e___l__w_____o_____n__K___
+________________________________________________________________________________________________________________________
+____________________________________________________________
+__________d_____e_____n_____il_____p_____ic_____s_____iD_____
+________________________________________________________________________________________________________________________
+____________________________________________________________
+_________________________d_____w_____e_____rh_____S_____
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+_________________________tn_____a_____li_____g_____iV_____
+__________________________________________________________________________________________________________________________________
+____________________________________________________________
+__________________________________________________
+______________________
+SS _ S __ SSWWW
+__ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&&
+_____
+SS S SS
+_____ TTTTT
+_____ IIIII ___ RR __ RRR
+_____ EEEEE _____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+______________________
+SS _ S __ SSWWW __ WW ________
+AAAAA _____ LLLLL _____ FFFFF _____
+_____ &&&&&
+_____
+SS S SS _____ TTTTT
+_____ IIIII
+___ RR __ RRR _____ EEEEE _____ MMMMM
+_________________________
+SSSSSEEEEEIIIIITTTTTIIIIILLLLLIIIIIBBBBBAAAAA
+____________________________________________________________
+__________________________________________________
+___________________________________h___t__l_____a_____et_____S_____
+______________________________l_____w_____a_____rB_____
+____________________________________________________________
+__________________________________________________
+_______________________________________________w________aL_____
+__________s_____c_____im__________e_____d_____ac_____A_____
+____________________________________________________________
+__________________________________________________
+____________________ e_____s_____iw_____t_____e_____e_____r_____tS_____
+____________________e_____ni_____c_____id_____e_____M_____
+____________________________________________________________
+__________________________________________________
+_______________
+__e___g_____u_____f_____r_____e_____tb_____u_____S_____
+_______________r_____e_____tu_____p_____m_____o_____C_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_________________________t_____l_____uc_____c_____O_____
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_______________e_____t_____te_____u_____q_____it_____E_____
+
+=== PAGE 94 === t d he e Generate
+Quote: Yes, I’m quite aware that you’re the prince. I was wondering how long it would be before you introduced you rself. Prelude: In you r experience, people respect that which NAME: NATURE:Deviant GENERATION: 11th
+PLAYER: DEMEANOR: Rebel have N: they could never consider the mselves do ing. The poor respect CHRONICLE: CLAN: Giovanni CONCEPT: Degenerate
+ATTRIBUTES the rich, the rich respect the famous, the famous respect the
+PHYSICAL SOCIAL MENTAL powerful. Only the most exceptional command wealth, fame Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O and power at once. As you were born into that caste, you had
+Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES to try even harder to distinguish you rself. After all, what good TALENTS SKILLS KNOWLEDGES was being rich, famous and influential if all you r peers were, too? A A l t e h r l t e n t e ic s s s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _ _ _O O_ _O O _O O A Cr n a i f m ts a _ l _ K __ e _ n _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _O O_ _O O_ _ _ O O _O O A Co ca m d p e u m te ic r s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _O O_ _ _ O O _ _ O O _ _ _O O_ _O O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O
+To that end, you turned to taboo. In the game of social do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O one-upmanship, you set a far bolder standard than any of you r Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O compatriots. Let the m have the ir who res and the ir designers Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O drugs behind the ir respectable façades. Once you r parents had Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O
+“gone,” you for ced you r sister to bear you r daughter — and the n
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES for ced you r daughter to bear you a son. Such delectable debase- _F_a_m_e________________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_G_e_n_e_r_a_t_i_o_n__________O_O_O__OO N__e_c_r_o_m__a_n_c_y_________O_O_O__OO ment! Such ostentatious delight! It set you r veins on fire like _H_e_r_d________________O_O_O__OO ____________________O_O_O__OO
+_I_n_f_lu_e_n_c_e____________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO the cocaine you shot into you r member just to say you did it! _R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+_R_e_t_a_in_e_r_s____________O_O_O__OO ____________________O_O_O__OO
+_S_t_a_t_u_s______________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+Eventually, though, you r acquaintances grew disgusted and eschewed you r company or followed in you r MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised tracks and died trying to keep up. __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1
+Looking back upon you r life, you _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 see that you have accomplished __________________________ Incapacitated little in the way of lasting _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ import beyond spending you r __________________________ family’s lucre. Now that you’re dead — oh, fuck it. You may
+change some night, but it won’t be tonight. Driver! On to the senator’s party! Concept: You have difficulty distinguishing between positive and negative attention. In fact, in you r
+mind, little differentiation exists between the two. Disgust is the same as envy; shock the same as appreciation. Somewhere deep inside, the rational part of you realizes that you are rapidly sinking into you r own hell; you slowly cease to exist
+as a person, becoming instead the mere sum of you r misbehavior. Is that the ultimate fame? Or the ultimate failure? Roleplaying Hints: You are the star, and if you’re not, you will upstage him. Unlife is a competition for finite glamour, and no one remembers
+the loser. Be careful with this character: do n’t let the character’s immaturity overshadow his role in the chronicle. He exists ultimately at the whim of others, and his inclusion in a story should not be used
+as an excuse for a player with similar needs for attention to hoard the chronicle’s spotlight. Equipment: Yes
+Chapter three: shareholders and Charnel houses
+
+=== PAGE 95 ===
+F w idu Ciary izard
+Quote: We can buy out that annoying Toreador’s lien for a dime and write of f the bad debt as tax credit. It’s beautiful — we’ll make money before we own the place even a single night. NAME: NATURE:Conniver GENERATION: 9th
+PLAYER: DEMEANOR: Visionary have N: Prelude: You know how you r relatives spend money. The CHRONICLE: CLAN: Giovanni CONCEPT: Fiduciary Wizard problem is, that money’s gotta come from somewhere. The
+ATTRIBUTES
+PHYSICAL SOCIAL MENTAL
+Giovanni had always looked after its own, and when you became Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O old enough, you wanted to do you r part to pay it back. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+ABILITIES
+You began the journey into unlife with the Proxy Kiss, as TALENTS SKILLS KNOWLEDGES
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O normal. with in a few years, you r creative accounting and ability Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O to see opportunity in crisis earned you some significant atten- do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O tion from the anziani and the ir broods. The Giovanni Kindred Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O watched, wide-eyed, as you bought banks, rolled the ir assets into Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O other banks, and the n parlayed those investments into phantom Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O principal seats on the ir boards of directors. Hundreds of years of
+ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES old-fashioned investment built a strong foundation upon which _A_l_li_e_s_______________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_C_o_n_t_a_c_t_s____________O_O_O__OO ____________________O_O_O__OO you could stage you r lucrative New Economy gambles. All it _G_e_n_e_r_a_t_i_o_n__________O_O_O__OO ____________________O_O_O__OO
+_H_e_r_d________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO took was budella and a little luck. _I_n_f_lu_e_n_c_e____________O_O_O__OO ____________________O_O_O__OO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO
+_S_t_a_t_u_s______________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO
+The payoff was n’t quite what you had anticipated. Indeed, the Embrace was much more like MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised punishment than a reward, all of its __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 pomp not with standing. You view _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ OOO W O IL O LPO O W O ER OOO W Ma o u u l n ed ded - - 2 2
+__________________________ Crippled -5 what it has given you, how ever, __________________________ Incapacitated as all-new assets you can bring _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ to bear while practicing the art __________________________ of the deal. Kindred society is very much like an investor’s
+club — the se people can’t work day jobs and have to be around for ever. Knowing that, you can take the ir money and use it to make a bit for you rself and the family, and, if you’re smart, pay you rself more than you r “clients.”
+Concept: You love the thrill of making a deal. Other people and Kindred help you fulfill you r purpose. When you meet the m, you take the ir assets and turn the m into profit. Roleplaying Hints: You’re no car salesman; you have grace and style. of fer advice will ingly, but let you r success speak louder than you r words. Introduce you rself to
+everyone, as you can never have too many contacts or be a part of too many networks. Should the unthinkable happen — a contract goes belly up or money vanishes overnight — look for the opportunity left in its wake rather than stammering out apologies. Equipment: Valentino wardrobe, new Bentley, reservations at Fauchon, Wall Street Journal, Fast Company
+Clanbook: Giovanni
+
+=== PAGE 96 ===
+Chapter three: shareholders and Charnel houses
+
+___F____i___n_____a_____nc_____e_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___F____i___n_____a_____nc_____e_________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___C____o___m__________pu_____t_____e_____r_______________
+S_______u___b_____t_____e_____r_____f_____ug_____e____________________
+__________________________________________________
+____________________________________________________________
+___C____o___m__________pu_____t_____e_____r_______________
+S_______u___b_____t_____e_____r_____f_____ug_____e_____
+_______________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____s__________
+_____In_____v_____e_____s_____t_____ig_____a_____ti_____o_____n__________
+__________________________________________________
+____________________________________________________________
+___A_______c___a__d_____e_____m_____i_____c_____s__________
+_____La_____w__________________________________________________
+__________________________________________________
+____________________________________________________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________ EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___
+SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____
+AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+AAAAABBBBBIIIIILLLLLIIIIITTTTTIIIIIEEEEESSSSS
+____________________
+MMM __ MM ________
+EEEEE _______ RR _ R __ RR _____ IIIIITTT __ TT ___ SSSSS __ _ __ &&&&& __________
+FFFFF _____ LLLLL _____ AAAAA _____
+WWWWW __________
+SSSSS
+____________________
+___P__a_____t_____ie_____n_____t_________________________
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___K__n_____o_____w_____le_____d_____g_____ea_____b_____le_____
+____________________________________________________________
+__________________________________________________________________________________________________________________________________
+___O_______b_____se_____r_____v_____a___n__t_____ x_____ 2_____
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___D_______e_____d_____ic_____a_____te_____d_______________
+____________________________________________________________
+________________________________________________________________________________________________________________________
+___K__n_____o_____wl_____ed_____g_____ea_____b_____le_____ x_____ 2
+____________________________________________________________
+_____M_____e_____s_____m_____e_____r_____i___s__m__________, F__________o__r___g_____e_____t_____f_____u_____l
+_____M_____i_____n_____d_____)
+___C____u___n_____n_____in_____g_____ x_____
+___2____________
+____________________________________________________________
+_____ F_____o_____rg_____e_____t_____f_____u_____l
+M__________in_____d_____)_______________________________________________________
+___I__n_____s_____ig_____h_____t_____f_____u_____l__________
+_____V_____ig_____il_____a_____n_____t______________________________
+_____ D_____o_____m_____i_____n_____a_____te_____
+_____(C_____o_____m__________m_____a_____n_____d_____, ______________________________
+___A_______le_____r_____t_____ x_____
+2____________________
+R_____a_____t_____io_____n_____a_____l______________________________
+_____ D_____o_____m_____in_____a_____t_____e__
+___(C_____o_____m_____m_______a___n_____d_____, _____M_____e_____s_____m_____ir_____i_____sm_____
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+MMMMMEEEEENNNNNTTTTTAAAAALLLLL
+DDDDDIIIIISSSSSCCCCCIIIIIPPPPPLLLLLIIIIINNNNNEEEEESSSSS
+___E_____x____p___r_____e_____s_____s_____iv_____e__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___P__e_____r_____s_____u_____as_____i_____ve_____
+_____x_____ 2
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___E_____l__o_____q_____u__e___n_____t____________________
+P_____e_____r_____s_____u_____as_____i_____ve_________________________
+__________________________________________________
+____________________________________________________________
+___E____x___p_____r_____e_____s___s__i_____ve_____ x_____ _____2
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+___D_______ip_____lo_____m________a__t_____i_____c__________
+_____G_____e_____ni_____a_____l___________________________________
+__________________________________________________
+____________________________________________________________
+___D_______ip_____lo_____m________a__t_____i_____c__________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+SSSSSOOOOOCCCCCIIIIIAAAAALLLLL
+__________________________________________________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____R_____o_____b_____u_____st_________________________
+____________________________________________________________
+IIIIINNNNNFFFFFLLLLLUUUUUEEEEENNNNNCCCCCEEEEESSSSS
+_____W__________ir_____y_____ x_____
+2____________________
+____________________________________________________________
+_____H_____e_____r_____d_____ x_____ 1____________________
+___ __R_____e_____s_____o_____u___r__c_____e_____s_____ x_____
+_____4_____
+_____Q_____u_____i_____c__k___
+_____x___ __2_______________
+____________________________________________________________
+__________________________________________________
+____________________________________________________________
+_____T_____i__r___e_____l_____es_____s____________________
+____________________________________________________________
+_____G_____e_____n___e__r_____a_____ti_____o_____n
+___x__ _____4
+___U_______n_____d_____e_____r_____w_____o_____r__l___d_____ x_____
+_____1)
+_____S_____t_____a_____lw_____a_____r_____t_______________
+V_____i_____g_____o_____ro_____u_____s______________________________
+_____R_____e_____so_____u_____r_____c_____e_____s
+_____x_____ 1 ____________________________________________________________
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____C_____o_____n_____ta_____c_____t_____s_____ x_____ 2_____
+___ __(F_____i_____n_____a_____n_____c_____e_____ x_____
+3_____,_____
+_____
+PPPPPHHHHHYYYYYSSSSSIIIIICCCCCAAAAALLLLL
+_____I_____nf_____l_____u___e__n_____c_____e_____
+(_____F_____in a_____n_____c_____e_____ x_____ 1_____)______________________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____A_____l_____lie_____s_____ x_____ __3__________________
+___ __I_____n_____f__l___u_____e_____n_____c_____e____________________
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_____G_____e_____n_____er_____a_____t_____io_____n_____ x_____ 4 ____________________________________________________________
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+PPPPPAAAAATTTTTHHHHH/////HHHHHUUUUUMMMMMAAAAANNNNNIIIIITTTTTYYYYY
+BBBBBAAAAACCCCCKKKKKGGGGGRRRRROOOOOUUUUUNNNNNDDDDDSSSSS
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+NNNNNOOOOOIIIIITTTTTCCCCCIIIIIVVVVVNNNNNOOOOOCCCCC/////EEEEECCCCCNNNNNEEEEEIIIIICCCCCSSSSSNNNNNOOOOOCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+TTTTTCCCCCNNNNNIIIIITTTTTSSSSSNNNNNIIIII/////LLLLLOOOOORRRRRTTTTTNNNNNOOOOOCCCCC-----FFFFFLLLLLEEEEESSSSS
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+______________________________________________________________________EEEEEMMMMMAAAAANNNNN
+EEEEEGGGGGAAAAARRRRRUUUUUOOOOOCCCCC
+_____d_____r_____az_____iW_______
+___y__r___a_____ic_____ud_____iF_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+___________________________________e_____ru_____li_____aF_____RRRRREEEEETTTTTCCCCCAAAAARRRRRAAAAAHHHHHCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+_______________________________________________________EEEEELLLLLCCCCCIIIIINNNNNOOOOORRRRRHHHHHCCCCC
+DDDDDOOOOOOOOOOLLLLLBBBBB
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________in_____n_____av_____o_____iG_________________________NNNNNAAAAALLLLLCCCCC
+________________________________________h_____t9_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+________________________________________h_____t9_____NNNNNOOOOOIIIIITTTTTAAAAARRRRREEEEENNNNNEEEEEGGGGG
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+___________________________________________________________________________EEEEEGGGGGAAAAA
+RRRRREEEEEWWWWWOOOOOPPPPPLLLLLLLLLLIIIIIWWWWW
+______________________________________r__e_____vi_____nn_____o__C___EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+________________________________________ro_____vi_____vr_____uS_____EEEEERRRRRUUUUUTTTTTAAAAANNNNN
+(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)(cid:31)
+_________________________y__r___a_____no_____is_____iV__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+____________________ro_____ti_____te_____p_____m_____oC__________RRRRROOOOONNNNNAAAAAEEEEEMMMMMEEEEEDDDDD
+(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)(cid:30)
+
+=== PAGE 97 ===
+F ailure
+Quote: I used to be a big shot like you, kid. Now I’m shoveling shit in Palermo. Let that be a lesson to you: Never let the m see you lose. NAME: NATURE:Survivor GENERATION: 9th
+PLAYER: DEMEANOR: Competitor have N: Prelude: It all happened so quickly: The invitation to CHRONICLE: CLAN: Giovanni CONCEPT: Failure dinner, the Proxy Kiss, the Embrace, the have n on the Riviera. ATTRIBUTES
+PHYSICAL SOCIAL MENTAL the n you had one bad month, and everything went to shit. Strength____________O__O_O_O_O Charisma_____________O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Unions in the States. Textiles from the East tripled in cost. Stamina_____________O_O_O__OO Appearance__________O_O__O_O_O Wits________________O_O_O_OO
+Even the fucking freight company you used went under. A
+ABILITIES
+TALENTS SKILLS KNOWLEDGES
+27-percent profit margin vanished almost immediately under Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O a seven-figure debt. Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge_______________O_O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O__O_O_O_O
+Needless to say, the anziani were n’t impressed. None of the m Expression___________O_O__O_OO Melee_______________O_O_O__O_O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O would back you r next play. Nobody wanted a once-successful Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O neonate who se greatest legacy was the number of partners he’d Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O__O_O_O_O dragged into his own cluster fuck. Even you r mother turned you ADVANTAGES
+BACKGROUNDS DISCIPLINES VIRTUES out of her have n once it became a social burden to have you _G_e_n_e_r_a_t_i_o_n__________O_O_O__OO D__o_m_i_n_a_t_e____________O_O_O__OO Conscience/ConvictionOOOOO
+_R_e_s_o_u_r_c_e_s___________O_O_O__OO ____________________O_O_O__OO lingering around the villa. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__O_O ____________________O_O_O__OO Self-Control/Instinct__O__O_O_OO
+You decided to start over. ____________________O_O_O__OO ____________________O_O_O__OO
+____________________O_O_O__OO ____________________O_O_O__OO
+Not like it was a choice, ____________________O_O_O__OO ____________________O_O_O__OO Courage____________OOOOO really. A second cousin MERITS/FLAWS HUMANITY/PATH HEALTH
+__________________________ __________________________ Bruised of fered to put you up as __________________________ OOOOOOOOOO Hurt -1
+__________________________ Injured -1 long as you managed the __________________________ will POWER Wounded -2
+__________________________ OOOOOOOOOO Mauled -2 house for him. Swal- __________________________ Crippled -5
+__________________________ Incapacitated lowing you r pride, you _ ___ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ __ _ ___ _ BLOOD POOL EXPERIENCE
+__________________________ accepted. It’s going to be __________________________ a long, hard journey back into favor, but it’s not as if you do n’t have for ever. Concept: Grin and fucking bear it. You do what you’re told, but you
+keep you r eyes open for any chance to get out of you r cousin’s house. You have to temper you r enthusiasm with good judgment. After all, it’s better to burst back onto the scene than to nickel-and-dime you r way up the ladder. In the end, you’re probably do omed to failure, but hope remains alive even if you have n’t. Roleplaying Hints: You’ve learned the value of humility and hard
+work, so you are n’t afraid to get you r hands dirty. Take duty upon you r should ers, but only if the payoff is immediate and obvious. Some say you’re you r own worst enemy, but they’ve got silver spoons in the ir mouths. Measure twice, cut once. The seven habits of highly successful people are.…
+Equipment: Country estate work clothes, beaten pickup, garden implements
+Clanbook: Giovanni
+
+=== PAGE 98 ===
+C S u Gini di an Gue Paolo’s reward for his extraordinary service was the
+Embrace. In the years between 1866 and 1914, he brokered p S many fruitful deals between his own clan and other Kindred aolo ardenzo
+(particularly Gangrel and Nosferatu who found the mselves
+Background: Paolo Sardenzo almost had it all, but bein need of money). He also showed that his aptitude for tween family politics, vengeful ghosts and two World Wars, Necromancy was as great as his aptitude for politics. In fact, he managed to lose most of it. he mixed the two by spearheading one of the first or ganized
+Paolo used to be a seductively charming you ng man attempts at sharing scholarship with the Tremere. with a knack for saying the right thing and an interest
+Paolo Sardenzo really came into his own during World in the diabolical arts. A Giovanni on his mother’s side, War I, how ever. Awed and delighted by the efficiency of the clan gave him the Proxy Kiss in 1821 and Embraced modern warfare, Paolo believed that the means to achieving
+him in 1867. the Endless Night was at hand. He was an aggressive and
+Sardenzo the ghoul was a diplomat, using his conneccharismatic harvester of shades, and his courage and success tions with the Carbonari insurgents to tilt the balance of gained him many followers, until a shell landed a little too power between the Camarilla and the Sabbat as the factions
+close to his daytime hiding place and exposed him to the struggled for influence on the Italian peninsula. He and his sun. He survived by burrowing deeper into the ground, but do mitor Diego had the ir eyes on mortal politics more than
+the sunlight scorched his left arm and the left side of his
+Kindred ones, how ever. While the two great sects were using face — scars he bears to this night. kine politics as a means toward Kindred ends, the Giovanni
+Nonetheless, Paolo continued to agitate for a gamble on were do ing just the opposite — using Kindred struggles to the Endless Night ceremony, telling himself that the followshape kine politics to the ir liking. ers who had left him were shallow weaklings. That was when
+The Giovanni — especially those who se memories went
+Valentina della Passaglia returned from beyond the Shroud back to the nights of the do ges and the merchant princes — to spout dire warnings that the Endless Night would be the were Venetian patriots, and in the 1820s they were sick of
+ultimate loss for the Giovanni, not the ir ultimate triumph. In being occupied by Austria. Furthermore, as merchants they the long run, her the or y was rejected, but it did a great deal to wanted a constitution that protected individual rights from
+blunt enthusiasm for Paolo’s effort toward do ing it right now. abuses by kings and nobles. It took a while, but by 1861 all of
+Worse, how ever, was the Bloody Legion. That was the
+Italy was united — except Venice and Rome. The Austrian name of a group of war-dead wraiths led by Gaston Belladotti. Ventrue were eager to keep Venice under Austrian rule, but
+Belladotti was the one who did the math and declared that
+Paolo and Diego all ied the mselves with a Prussian Ventrue although one Giovanni necromancer might be a match for faction. The Giovanni gave the Prussians sub rosa aid, first five ghosts, the re was no way he’d be a match for 50. Eventuagainst the Austrian Ventrue and the n (when the Prussian
+all y, the Fourth Great Maelstrom and the wraiths’ own Great
+Ventrue had solidified the ir roles among Camarilla leader War put an end to the Bloody Legion, but not before they ship) against the Lasombra- and Toreador-infested France and the ir leader had dealt Sardenzo and his faction a series of Napoleon III. of defeats — humiliating defeats to a Giovanni, for who m
+ghosts are but tools and minions. Sardenzo fell out of favor with the family after the First
+World War, and he found that his “all ies” in the Camarilla were far less receptive to a hideous family outcast than they were to a charmer with money and secrets. He skulked around
+Europe for years, searching for the ghost of Gaston Belladotti and confounding the efforts of a group of ghost-hunters, but he did n’t really come to his clan’s not ice again until World War II. When the mechanized terror of the Second World War gripped the continent, Sardenzo was back in his element. He
+began stridently insisting that here was another opportunity to bring in the Endless Night, but the Giovanni were n’t nearly as interested this time. Fed up, Sardenzo and his few loyal followers made a fateful choice to disobey the ir elders
+and head of f toward eastern Germany on the ir own, hoping to personally harvest the souls lost during the upcoming
+Russian campaign. Things ended poorly. Sardenzo was caught, staked and dragged back to Venice. His companions were all slaughtered. Chapter three: shareholders and Charnel houses
+
+=== PAGE 99 ===
+When the war ended and another uproar in the Underworld Knowledges: Academics 3, Computer 2, Finance 3, Invesbegan, the Giovanni removed the stake in his heart, only to tigation 2, Linguistics 4 (English, French, German, Greek, subject him completely to his mentor Diego’s blood bond. Hebrew, Latin, Spanish, Sumerian), Occult 4, Politics 3
+The family knew that, what ever his flaws, Paolo was an expert Disciplines: do minate 1, Necromancy 5 (Sepulchre Path on the dead realms and could be very useful. But once his 5, Ash Path 3 ), Thaumaturgy 4 (Path of Blood 4, Spirit usefulness was finished, the stake went back in and he was Manipulation 1), Obfuscate 1, Potence 1, Protean 3 left to gather dust. Rituals: Minestra di Morte, Occhio d’Uomo Morto, Tempesta
+Sardenzo’s captors removed his stake in 1985. Three Scudo, Esilio decades had softened Diego’s anger, and he was will ing to Backgrounds: Resources 2, all ies 2, Contacts 3, Generation give his brightest student another chance — as long as Paolo 5, Status 1, Spirit Slaves 5 kept his nose clean and scrupulously pursued the family’s
+Virtues: Conscience 1, Self-Control 3, Courage 5 interests. Privately, he also figured that the sweeping changes
+Morality: Humanity 4 in technology and society would keep Paolo dependent and will power: 6 needy, at least for a little while. not es: Paolo Sardenzo is completely blood bound to
+By 2000, Paolo had more than caught up with the mod Diego Giovanni. He has also taken draughts of blood from ern age. He became fascinated with computers soon after his
+Diego’s closest confidante, his grandchilde (and onetime awakening, and it was his advice that convinced Diego to mortal great-granddaughter) Gianmaria Giovanni. make some modest, conservative investments in technology. Paolo has performed the Occhio d’Uomo Morto ritual
+Sardenzo is still tightly bound by his mentor’s blood, but on himself, and he has succeeded in binding the vengeful
+Diego finds it harder and harder to resist relying on someone
+“do nor” somewhere at the bottom of the Mediterranean so obviously intelligent and resourceful — especially since
+Sea. He has also created a combination Discipline from the the start of the new death-storm.… fourth level of Thaumaturgy’s Path of Blood and the third
+Image: Paolo started out as a very handsome man in the level of Protean. If Paolo is sunk in soil that is literally soaked continental mold — tall, dark, charming. But the left half of with blood, he can absorb that blood into himself — even if
+his face is hideously scarred, to the extent that it makes him he’s in torpor. Of course, blood-soaked ground is n’t terribly look like a casualty of the wars he plied for profit. Further, common… except in wartime or at the sites of atrocities.… he has removed his left eye and replaced it with a corpse’s
+eye, which has festered in its new housing. Those who have i Sa Bel G iovanni seen his left hand not e that it’s similarly afflicted. He affects Background: It would seem that is abel’s tale mirrors the well-made, if somewhat old-fashioned, business suits. Giovanni family history with unpleasant accuracy. From an
+Roleplaying Hints: Although you were once discreet early age, is abel found herself immersed in the loathsome and graceful, years of spite and failure have worn those subculture of the clan. Even as a mortal, is abel learned the qualities do wn to a brusque frankness. Indeed, you are of ten hideous secrets of her family — and even took to the m in described as honest, if a bit for thright, and while that may some cases. As her morality rotted, her power rose, and by
+be more than a bit incorrect, it do es make people will ing to the time she had borne her brother’s child, she had earned overlook you r… flaws. You do not oppress company with you r the attention of the Kindred elders of the Giovanni. physical grotesqueries, but rather ignore the m — only the In her early 20s, is abel became a ghoul and tasted the rudest of conversationalists would draw attention to a man’s power that the vitae of the Damned provided. Such times were misfortune. And no one need know that such grotesquerie not particularly enlightened, how ever, especially in rural Italy
+was elective…. and with regard to women. As such, it took over two decades
+Sire: Giovanni del Georgio (deceased, presumed diablerized) for is abel to convince her do mitor that she was ready for the
+Nature: Visionary Embrace. Indeed, among the Giovanni such things are n’t of ten
+Demeanor: Survivor petitioned by would-be childer, but rather decided by approving elders. not ing is abel’s skill with the Black Art as well as
+Generation: 8th her knack at diplomacy, the anziani elders all owed one of the
+Embrace: 1867
+Giovanni Kindred to bring is abel into damnation. Apparent Age: late 20s
+Since her Embrace, is abel has been a mouthpiece for the
+Physical: Strength 3, Dexterity 3, Stamina 3 clan, and again reflects the air of mystery and suspicion with
+Social: Charisma 4, Manipulation 3, Appearance 0 which outsiders view the Necromancers. Rumors and exagger Mental: Perception 4, Intelligence 5, Wits 4 ated depravities travel in her wake — it is said that she can feed
+Talents: Alertness 3, Athletics 2, Brawl 2, do dge 4, Intimi- only from the severed heads of her vessels, that she has sexual dation 3, Leadership 4, Subterfuge 3 relations with those from who m she feeds, that she keeps a host
+Skills: Animal Ken 2, Drive 1, Etiquette 3, Firearms 3, Melee of captured ghosts bound to her own dead heart and that her
+2, Stealth 2, Survival 3 bite carries the Black Plague or a more modern medical scourge. Clanbook: Giovanni
+
+=== PAGE 100 ===
+Demeanor: Gallant
+Generation: 9th
+Embrace: 1714
+Apparent Age: mid-30s
+Physical: Strength 2, Dexterity 3, Stamina 4
+Social: Charisma 4, Manipulation 4, Appearance 4
+Mental: Perception 4, Intelligence 3, Wits 4
+Talents: Alertness 1, Brawl 1, do dge 1, Empathy 4, Grace
+4, Intimidation 3, Leadership 2, Subterfuge 3
+Skills: Crafts 2, Drive 1, Etiquette 4, Firearms 2, Performance
+2, Security 1, Stealth 2, Survival 1
+Knowledges: Academics 3, Computer 1, Finance 2, Investigation 4, Law 2, Linguistics (Arabic, Dutch, French, English, German, Portuguese, Russian, Spanish) 4, Medicine 1, Occult 4, Politics 4
+Disciplines: Auspex 1, do minate 4, for titude 2, Necromancy
+4, Obfuscate 1, Potence 3, Presence 2
+Necromantic Paths: Sepulchre Path 4, Ash Path 3, Bone Path 2
+Backgrounds: all ies 4, Clan Prestige 3, Contacts 4, Herd
+Amid the se tales, is abel simply smiles and goes about (only at the loggia) 2, Influence 1, Mentor 2, Resources 4, her business. In many cases, such a reputation serves her Retainers 1, Status 3 well, as diplomacy comes more easily to those already feared. Virtues: Conscience 1, Self-Control 4, Courage 4 is abel now answers directly to a group of elders, working
+Morality: Humanity 5 as a liaison between Giovanni and the outside world. It is will power: 7 a than kless role, to be sure, and one fraught with peril, but
+e r is abel’s strong will and sense of duty to the family keep milio oSSelini the Giovanni interests close to her heart. She maintains Emilio Rosselini was a mean, homely and distasteful — a comfortable unlife, even in the se modern nights, and but moderately clever — crook. He might have amounted to
+considers her various tasks and treaties to be a part of what something in life if he’d had more ambition, but Emilio was helps her make that possible. mainly into sexual sadism. Unfortunately for him, he was liv Image: is abel possesses a continental beauty that is as ing before the Internet opened people’s minds about bondage. much a result of her carriage and demeanor as it is the power His contemporary, the Marquis de Sade, spent most of his of physical beauty. She exudes grace; she walks with the je adult life imprisoned and syphilitic due to the same hobbies na sais qoui of a movie star or head of state. Her hair changes that Emilio practiced. Unlike de Sade, how ever, Emilio was
+between chocolate brown and a lustrous, dusky black with protected by his family and by the Giovanni Kindred, who the seasons, and her eyes are large and brown. is abel prefers found it quite useful to have someone else abduct and dispose loose clothing that leaves more to the imagination than of the ir sustenance. What Rosselini did to people before they tight-fitting garments. When she is present, the environment got bled dry was of little concern to his masters. seems to push her to the for e, as if she stands at center stage. Although the primitive constables of Emilio’s era could n’t
+Roleplaying Hints: You are calm and collected in you r catch him (or did n’t care to, as his victims were n’t important dealings, except when it’s obvious that you’re not in control. people), the same was not true of Frantz Dupage. Emilio had
+In those cases, you become a bit edgier and conniving — snatched, brutalized and the n buried Louisa Dupage, Frantz’s and it shows. By and large, you find Kindred untrustworthy, sister. Frantz stalked, captured, tortured and killed Emilio products of selfish desires and hubris. You recognize the se with a precision and ruthlessness worthy of any Kindred (or, traits in you rself, too, and you r greatest fear is being unable indeed, of Emilio himself). That should have been the end to rationalize what you’ve become with the world that con- of it, but Emilio’s Giovanni masters were upset at the loss of
+tinues to evolve around you. You also find relating to fellow a useful servant, and they vented the ir displeasure on Frantz. Kindred sometimes jarring — in the Old World, you are still they were n’t do ne with Emilio either. an ancilla, while most New World Kindred regard you as a Emilio had made a pact to return as a wraith, and so veritable elder. he did. At first he feared that, with out a body, he would be
+Clan: Giovanni unable to pursue the pleasures he’d known in life. It turned
+Sire: for tunato out that as a creature of emotion, he was far more fulfilled than he had been as a creature of flesh. Nature: Architect
+Chapter three: shareholders and Charnel houses
+
+=== PAGE 101 ===
+Emilio thrives best on a particular combination of at- advantage. That’s one reason that Claudia’s do mitor, Guiltraction and repulsion. He can restore himself with a bitter laume Giovanni, never gave her the Embrace. On top of all married couple who stay together because that’s all they know, the usual reasons for having a ghoul servant, Claudia could or with a you ng lover who suspects his girlfriend is unfaith- also drive the truck through the rain for est all day while ful — but who can’t be sure. Of course, he’s not always so Guillaume slept in his specially prepared capsule (he never, choosy. Because he was a beaten-do wn thug in life, he also ever called it a “coffin”). thrives on the fear spawned when others are afraid of him. Claudia and Guillaume were a good team. She adored
+In the modern nights, Emilio finds purpose as a ghostly him (of course — she might even have liked him with out the taskmaster and warden. He keeps other ghosts in line and blood bond) and he truly appreciated her strength, toughness dispatches the m to the ir Kindred masters when duty requires and will ingness to go the extra mile. That’s not to say he told it. It would seem that of all his unpleasant qualities, his sadism her everything, of course. In fact, at the ir last parting, he gave
+has found its greatest use after his death. her only the vaguest intimation about his destination (“France, okay?”), and he has n’t been seen or heard from since. C d, G S laudia un Sirn the rail ee Ker
+Claudia tells herself she is n’t worried. Guillaume was
+Archeology’s underbelly is a dark and dangerous field, resourceful, crafty and not one prone to overconfidence. not to mention just plain weird. The Giovanni have had an
+Instead, she’s concentrating on another quest: The search interest in ancient mortuary wisdom for centuries, and Claudia for the not or ious “Lamp of Constantine.” If the legends are
+Dunsirn is just one of the ir many operatives. true, the lamp can paralyze any Kindred who comes with in
+Kindred might seem to have many advantages in the miles of it, and its unshielded light is as deadly as the sun. It dangerous field of tomb robbery. Bitten by a poisonous spi- also reputedly heals wounds, finds lost treasure and, in the der? Oh, well. Fell do wn a 50-foot pit? Yeah, shit happens. wildest stories, has the power to remove the Curse of Caine. Running away from outraged headhunters? Time for a burst She is n’t buying that last one for a second. of supernatural speed. At the same time that she’s been digging up ancient
+By and large, the undead have it all up on humans legends, Claudia has also been using the most modern technolwhen they have the time to open a site and rifle through ogy she can find to track the movements of her two bitterest it at leisure. Not every dig is a chess match, how ever. rivals — the Toreador ghoul Marcella Pryce and the Tzimisce
+Sometimes, it’s a race, and that’s when the ability to vampire Troy Chervenic. Both of the m seem to be closing in drive all night and dig during the day can be a decisive on Africa, so Claudia has been brushing up on her Swahili. Clanbook: Giovanni
+
+=== PAGE 102 ===
+™ n: n: G: ame ature eneration p: d: h: layer emeanor aven
+C: C: C: hroni Cle lan on Cept a ttri but eS p S m
+hy Si Cal o Cial ental
+Strength____________O__O_O_O_O Charisma____________O_O_O__O_O Perception___________O_O_O__OO
+Dexterity____________O_O_O__OO Manipulation_________O_O_O_O_O Intelligence__________O_O_O__O_O
+Stamina_____________O_O_O__OO Appearance__________O_O_O__O_O Wits________________O_O_O_OO a
+BilitieS t S K alentS KillS nowled GeS
+Alertness____________O_O__O_O_O Animal Ken__________O_O_O_O_O Academics___________O_O_O__O_O
+Athletics____________O_O__O_OO Crafts_______________O_O_O__OO Computer___________O__O_O_O_O
+Brawl_______________O_O__O_OO Drive_______________O_O__O_OO Finance_____________O_O__O_O_O do dge______________O__O_O_O_O Etiquette____________O_O__O_O_O Investigation_________O_O_O__O_O
+Empathy_____________O_O_O_O_O Firearms_____________O_O_O__OO Law________________O_O__O_O_O
+Expression___________O_O__O_OO Melee_______________O_O_O_O__O Linguistics___________O_O_O__O_O
+Intimidation_________O__O_O_O_O Performance_________O__O_O_O__O Medicine____________O_O_O__O_O
+Leadership___________O_O__O_O_O Security_____________O_O__O_O_O Occult______________O_O__O_O_O
+Streetwise___________O__O_O_O_O Stealth______________O_O_O__O_O Politics______________O_O_O_O__O
+Subterfuge___________O_O__O_O_O Survival_____________O_O_O__O_O Science_____________O_O__O_O_O a dvanta GeS
+B d v aCKGroundS is CiplineS irtueS
+____________________O_O_O__OO ____________________O_O_O_O_O Conscience/ConvictionOOOOO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Self-Control/Instinct__O__O_O_OO
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O
+____________________O_O_O__OO ____________________O_O_O_O_O Courage____________OOOOO m /F h /p h eritS lawS umanity ath ealth
+__________________________ __________________________ Bruised
+__________________________ O O O O O O O O O O Hurt -1
+__________________________ Injured -1
+__________________________ w illpower Wounded -2
+__________________________ Mauled -2
+O O O O O O O O O O
+__________________________ Crippled -5
+__________________________ Incapacitated
+__________________________
+B lood p ool w ea KneSS
+__________________________
+__________________________ the ir kiss causes pain
+__________________________ instead of pleasure
+
+=== PAGE 103 ===
+™ o t the r raitS
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O
+____________________O_O_O_O__O ____________________O_O_O_O__O ____________________O_O_O_O__O r e itualS xperien Ce n ame l evel t otal: _______________________________
+________________________________________ t S:________________________ otal pent
+________________________________________
+Spent on: ________________________________________
+________________________________________
+________________________________________
+_________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________ d eran GementS
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+B B / v lood ondS in Culi
+B ound to r atinG B ound to r atinG
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+________________________________________ ________________________________________
+C om Bat a weapon dama Ge ran Ge rate Clip Con Ceal rmor
+
+=== PAGE 104 ===
+™ e B xpanded aCKGround a llieS m entor
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+________________C_o__n_t_a_C__t_S__________________________________r__e_S_o_u__r_C_e_S_______________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________ F__a_m_e_ ____________________________________ r__e_t_a_i_n_e_r_S________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+__________________h__e_r_d______________________________________ _S_t_a__t_u_S_ ________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_______________ _i_____________________________________________o_______________________ n Fluen Ce the r
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ p oSSeSSionS
+______________________________________________________________________________________
+G (C ) e (o ) ear arried quipment wned
+__________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________ F________ G________________________________________ v________________________ eedinG roundS ehi CleS
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+______________________________________h______________________________________________ avenS
+______ l__ o
+__ a
+_ t
+_ i
+_ o
+_ n
+_ ________________________________d__ e
+_ r
+_ i
+_ p
+_ t
+_ i
+_ o
+_ n
+_________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+_____________________________________________________________________________________
+
+=== PAGE 105 ===
+™ h is tory p
+relude
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________
+____________________________________________________________________________________ a ppearan Ce
+____________________________________________________________________________________
+____________________________________________________________________________________ a Ge _______________________________________________________________________________ apparent a Ge ______________________________________________________________________ date oF Birth ________________________________________________________________________
+RIP________________________________________________________________________________ hair ______________________________________________________________________________ eyeS ______________________________________________________________________________ ra Ce ______________________________________________________________________________
+nationality __________________________________________________________________________ hei Ght ___________________________________________________________________________________ wei Ght ___________________________________________________________________________________
+Sex __________________________________________________________________________________ v is ualS
+C oterie C hart C hara Cter S Ket Ch
+
+=== PAGE 106 ===
+TM
+BBlloooodd aanndd BBeettrraayyaall
+EEmmbbrraacceedd bbyy aa ccllaann tthhaatt ffeellll dduurriinngg nniigghhttss lloonngg ppaasstt,, tthhee GGiioovvaannnnii hhaavvee aallwwaayyss hhaadd aammbbiittiioonn.. NNooww,, tthheeyy bbrriinngg tthhaatt aammbbiittiioonn ttoo bbeeaarr oonn aa wwoorrlldd tthheeyy wwaanntt ttoo ccllaaiimm ffoorr tthheemmsseellvveess.. WWiitthh vvaasstt wweeaalltthh,, tthhee aabbiilliittyy ttoo ccoommmmaanndd tthhee ssppiirriittss ooff tthhee ddeeaadd,, aanndd aa ssttrriicctt ffaammiilliiaall hhiieerraarrcchhyy,, tthhee
+ggrreeaatteesstt eenneemmyy ttoo ssttaanndd aaggaaiinnsstt CCllaann GGiioovvaannnnii iiss…… iittsseellff.. CCllaannbbooookk:: GGiioovvaannnnii
+IInncclluuddeess:: •• TThhee hhiissttoorryy ooff tthhee GGiioovvaannnnii ccllaann,, ffrroomm iittss oorriiggiinnss aass aa RReennaaiissssaannccee mmeerrcchhaanntt ffaammiillyy ttoo iittss ccuurrrreenntt iinnccaarrnnaattiioonn aass ddeeaatthhlleessss nneeccrroommaanncceerrss
+•• TThhee ccllaann’’ss ssttrraannggee ffaammiilliiaall ssttrruuccttuurree aanndd iittss rreellaatteedd lliinneeaaggeess
+•• NNeeww NNeeccrroommaannccyy rriittuuaallss aanndd pprreevviioouussllyy uunnkknnoowwnn ppoowweerrss
+W W W. W H I T E - W O L F. C O M is BN 1-58846-207-2
+WW2363 $14.95 U.S. PRINTED IN USA
+CLANBOOk:
