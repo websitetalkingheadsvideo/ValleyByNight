@@ -34,7 +34,7 @@ if (!file_exists($header_path)) {
 }
 
 require_once $version_path;
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 // Load Rituals Agent
 require_once __DIR__ . '/src/RitualsAgent.php';
@@ -50,7 +50,7 @@ $stats = [
 ];
 
 try {
-    $agent = new RitualsAgent($conn);
+    $agent = new RitualsAgent(null);
     $rituals = $agent->listRituals(null, null, false, 10000, 0);
     
     $stats['total'] = count($rituals);

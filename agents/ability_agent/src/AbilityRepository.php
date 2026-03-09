@@ -52,23 +52,15 @@ class AbilityRepository
     public function getCanonicalAbility(string $name, ?string $category = null): ?array
     {
         $normalizedName = $this->normalizeName($name);
-        
-        if ($category !== null) {
-            $normalizedCategory = $this->normalizeCategory($category);
-            $query = "SELECT id, name, category, display_order, description, min_level, max_level 
-                      FROM abilities 
-                      WHERE LOWER(TRIM(name)) = ? AND category = ? 
-                      LIMIT 1";
-            $result = db_fetch_one($this->db, $query, 'ss', [$normalizedName, $normalizedCategory]);
-        } else {
-            $query = "SELECT id, name, category, display_order, description, min_level, max_level 
-                      FROM abilities 
-                      WHERE LOWER(TRIM(name)) = ? 
-                      LIMIT 1";
-            $result = db_fetch_one($this->db, $query, 's', [$normalizedName]);
+        $all = $this->getAllCanonicalAbilities($category);
+        foreach ($all as $row) {
+            if ($this->normalizeName($row['name'] ?? '') === $normalizedName) {
+                if ($category === null || $this->normalizeCategory($row['category'] ?? '') === $this->normalizeCategory($category)) {
+                    return $row;
+                }
+            }
         }
-        
-        return $result;
+        return null;
     }
     
     /**
@@ -79,32 +71,36 @@ class AbilityRepository
      */
     public function getAllCanonicalAbilities(?string $category = null): array
     {
+        $this->supabase();
         if ($category !== null) {
             if (isset($this->categoryCache[$category])) {
                 return $this->categoryCache[$category];
             }
-            
             $normalizedCategory = $this->normalizeCategory($category);
-            $query = "SELECT id, name, category, display_order, description, min_level, max_level 
-                      FROM abilities 
-                      WHERE category = ? 
-                      ORDER BY display_order ASC";
-            $result = db_fetch_all($this->db, $query, 's', [$normalizedCategory]);
-            
-            $this->categoryCache[$category] = $result ?? [];
+            $rows = supabase_table_get('abilities', [
+                'select' => 'id,name,category,display_order,description,min_level,max_level',
+                'category' => 'eq.' . $normalizedCategory,
+                'order' => 'display_order.asc'
+            ]);
+            $this->categoryCache[$category] = is_array($rows) ? $rows : [];
             return $this->categoryCache[$category];
         }
-        
-        // Load all abilities once and cache
         if ($this->allAbilitiesCache === null) {
-            $query = "SELECT id, name, category, display_order, description, min_level, max_level 
-                      FROM abilities 
-                      ORDER BY category, display_order ASC";
-            $result = db_fetch_all($this->db, $query);
-            $this->allAbilitiesCache = $result ?? [];
+            $rows = supabase_table_get('abilities', [
+                'select' => 'id,name,category,display_order,description,min_level,max_level',
+                'order' => 'category.asc,display_order.asc'
+            ]);
+            $this->allAbilitiesCache = is_array($rows) ? $rows : [];
         }
-        
         return $this->allAbilitiesCache;
+    }
+
+    protected function supabase(): void {
+        static $loaded = false;
+        if (!$loaded) {
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $loaded = true;
+        }
     }
     
     /**

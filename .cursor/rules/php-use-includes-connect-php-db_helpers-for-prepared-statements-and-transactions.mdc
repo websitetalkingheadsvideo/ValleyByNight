@@ -1,11 +1,11 @@
 ---
-description: Use includes/supabase_client.php for all database access (Supabase only; no MySQL).
+description: Use includes/supabase_client.php for all database access (Supabase only; no legacy SQL layer).
 globs: "**/*.php"
 alwaysApply: false
 ---
 
 - **All database access MUST use `V:\\includes\\supabase_client.php`**
-  - Include [V:\includes\supabase_client.php](mdc:includes/supabase_client.php). Do not use `$conn` or MySQL.
+  - Include [V:\includes\supabase_client.php](mdc:includes/supabase_client.php). Do not use `$conn` or any legacy SQL client.
 
 - **Reads**: Use `supabase_table_get($table, $query)` where `$query` is an array of select, filters, order, limit:
   - `['select' => 'id,name', 'id' => 'eq.123', 'limit' => '1']`

@@ -10,7 +10,7 @@ The Rituals Agent provides access to ritual definitions, character-known rituals
 
 ## Installation
 
-The agent is automatically available when included in the project. It uses the standard database connection from `includes/connect.php`.
+The agent is automatically available when included in the project. It uses the shared Supabase client from `includes/supabase_client.php`.
 
 ## Usage
 

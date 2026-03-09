@@ -18,7 +18,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
 }
 
 try {
-    require_once __DIR__ . '/../../includes/connect.php';
+    require_once __DIR__ . '/../../includes/supabase_client.php';
     require_once __DIR__ . '/src/RitualsAgent.php';
     
     // Clear any output buffer before JSON
@@ -51,7 +51,7 @@ try {
     if (ob_get_level() > 0) {
         ob_clean();
     }
-    $agent = new RitualsAgent($conn);
+    $agent = new RitualsAgent(null);
     
     // Get ritual without rules first (more reliable)
     $ritual = $agent->getRitualById($ritual_id, false);

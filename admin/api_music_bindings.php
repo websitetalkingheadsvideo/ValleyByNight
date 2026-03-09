@@ -20,7 +20,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 
 try {
     $registry_path = __DIR__ . '/../assets/music/music_registry.json';

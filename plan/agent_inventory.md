@@ -25,7 +25,7 @@ This inventory documents all agent folders found in the VbN project, their struc
   - `reports/character/index.php` - Character-specific report viewer
   - `config/index.php` - Configuration interface
 - **Reads:** 
-  - Database: `boons` table (via `includes/connect.php`)
+  - Database: `boons` table (via `includes/supabase_client.php`)
   - Database: `characters` table (for character lookups)
   - Configuration: `config/settings.json`
 - **Writes/Generates:** 
@@ -40,7 +40,7 @@ This inventory documents all agent folders found in the VbN project, their struc
   - Role check: `$_SESSION['role'] !== 'admin'` enforced on all entry points
   - All API endpoints and viewers require admin role
 - **Dependencies (observed):** 
-  - `includes/connect.php` - Database connection
+  - `includes/supabase_client.php` - Shared Supabase client
   - `includes/version.php` - Version constants
   - `includes/header.php` - Page header/template
   - `includes/footer.php` - Page footer
@@ -84,7 +84,7 @@ This inventory documents all agent folders found in the VbN project, their struc
   - Role check: `$_SESSION['role'] !== 'admin'` enforced on all web interfaces
   - MCP server (`server.php`) uses separate `db.php` with hardcoded credentials (security concern)
 - **Dependencies (observed):** 
-  - `includes/connect.php` - Database connection (web interfaces)
+  - `includes/supabase_client.php` - Shared Supabase client (web interfaces)
   - `db.php` - Direct database connection (MCP server, contains hardcoded credentials)
   - `includes/version.php` - Version constants
   - `includes/header.php` - Page header/template
@@ -124,7 +124,7 @@ This inventory documents all agent folders found in the VbN project, their struc
   - Public endpoints: `health`, `public_traditions` (no auth required)
   - All other endpoints require authenticated and verified users
 - **Dependencies (observed):** 
-  - `includes/connect.php` - Database connection
+  - `includes/supabase_client.php` - Shared Supabase client
   - `includes/anthropic_helper.php` - AI API integration
   - `includes/header.php` - Page header/template
   - `includes/footer.php` - Page footer
@@ -237,7 +237,7 @@ This inventory documents all agent folders found in the VbN project, their struc
   - None (class-based, no direct web interface)
   - Authentication would be handled by calling code
 - **Dependencies (observed):** 
-  - `includes/connect.php` or direct `$conn` mysqli object passed to constructor
+  - `includes/supabase_client.php` or the shared Supabase-backed repository layer
   - No other dependencies observed
 - **Risks / Notes:** 
   - Class-based implementation (not a standalone agent interface)

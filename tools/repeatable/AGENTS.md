@@ -1346,7 +1346,7 @@ python tools/repeatable/python/books_tools/scan_books_ocr_report.py
 - `pdf2image` - For ocr-tools/ocr_pdf.py (required for OCR)
 - `PyPDF2` or `pdfplumber` - For pdf-tools/extract_pdf_page.py
 - `requests` - For api-tools
-- (Supabase used via REST in download_envato_images.py; no mysql-connector)
+- (Supabase used via REST in download_envato_images.py; no legacy SQL connector)
 - `Pillow` (PIL) - For api-tools/download_envato_images.py
 
 ---

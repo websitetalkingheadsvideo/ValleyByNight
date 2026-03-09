@@ -1,10 +1,14 @@
 # Version History
 
-## Current Version: 0.9.209
+## Current Version: 0.9.210
 
 **Date:** 2026-03-08  
-**Type:** Patch (MySQL removal, Supabase-only: connect.php stub, admin/agents/tools migrated; mysql2/envato→Supabase; docs and rules)
+**Type:** Patch (git sync: Supabase-only cleanup, legacy script pruning, docs/rules updates, route/runtime fixes)
 
+## Previous Version: 0.9.209
+
+**Date:** 2026-03-08  
+**Type:** Patch (legacy SQL removal, Supabase-only: connect.php stub, admin/agents/tools migrated; envato→Supabase; docs and rules)
 ## Previous Version: 0.9.208
 
 **Date:** 2026-03-08  
@@ -78,62 +82,62 @@
 ## Previous Version: 0.9.190
 
 **Date:** 2026-03-03  
-**Type:** Patch (Git sync: e2e CLI smoke batches, agent test fixes, include paths, mysql.md all [✅])
+**Type:** Patch (Git sync: e2e CLI smoke batches, agent test fixes, include paths, DB migration rule all [✅])
 
 ## Previous Version: 0.9.189
 
 **Date:** 2026-03-03  
-**Type:** Patch (cursor rules: no NPM reports, agent runs npm never user; e2e/admin/mysql/tests tweaks)
+**Type:** Patch (cursor rules: no NPM reports, agent runs npm never user; e2e/admin/database/tests tweaks)
 
 ## Previous Version: 0.9.188
 
 **Date:** 2026-03-03  
-**Type:** Patch (e2e test run: mysql.md [✅] for 68 passed scripts; admin-ui spec timeout/body selector)
+**Type:** Patch (e2e test run: DB migration rule [✅] for 68 passed scripts; admin-ui spec timeout/body selector)
 
 ## Previous Version: 0.9.187
 
 **Date:** 2026-03-03  
-**Type:** Patch (Playwright e2e test plan: auth setup, tier specs, CLI smoke, traceability map; mysql.md test checkboxes → [✅]; admin MySQL cleanup)
+**Type:** Patch (Playwright e2e test plan: auth setup, tier specs, CLI smoke, traceability map; DB migration rule test checkboxes → [✅]; admin legacy SQL cleanup)
 
 ## Previous Version: 0.9.186
 
 **Date:** 2026-03-03  
-**Type:** Patch (database: generate_world_summaries, replace_mage_characters_table MySQL→Supabase; mysql.md)
+**Type:** Patch (database: generate_world_summaries, replace_mage_characters_table legacy SQL→Supabase; DB migration rule)
 
 ## Previous Version: 0.9.185
 
 **Date:** 2026-03-03  
-**Type:** Patch (cursor rules: API input validation, data/mysql.md registration, entry-point error boundary; index; mysql.md; import scripts refactor; git sync)
+**Type:** Patch (cursor rules: API input validation, data migration rule registration, entry-point error boundary; index; DB migration rule; import scripts refactor; git sync)
 
 ## Previous Version: 0.9.182
 
 **Date:** 2026-03-03  
-**Type:** Patch (mysql.md; database: extract_and_update_powers, extract_paths_content, generate_cw_whitford_boons, generate_misfortune_boons; git sync)
+**Type:** Patch (DB migration rule; database: extract_and_update_powers, extract_paths_content, generate_cw_whitford_boons, generate_misfortune_boons; git sync)
 
 ## Previous Version: 0.9.181
 
 **Date:** 2026-03-02  
-**Type:** Patch (MySQL→Supabase: export_npcs, db_cleanup_0863; add_character_rituals_fk SQL-only; create_* SQL-only batch; mysql.md; git sync)
+**Type:** Patch (legacy SQL→Supabase: export_npcs, db_cleanup_0863; add_character_rituals_fk SQL-only; create_* SQL-only batch; DB migration rule; git sync)
 
 ## Previous Version: 0.9.180
 
 **Date:** 2026-03-02  
-**Type:** Patch (MySQL→Supabase: create_mage_characters_table, create_demon_characters_table SQL-only; mysql.md; git sync)
+**Type:** Patch (legacy SQL→Supabase: create_mage_characters_table, create_demon_characters_table SQL-only; DB migration rule; git sync)
 
 ## Previous Version: 0.9.179
 
 **Date:** 2026-03-02  
-**Type:** Patch (MySQL→Supabase: export_character_portraits, sync_character_images, import_rituals_md, create_abilities/derangements SQL-only, import_locations; git sync)
+**Type:** Patch (legacy SQL→Supabase: export_character_portraits, sync_character_images, import_rituals_md, create_abilities/derangements SQL-only, import_locations; git sync)
 
 ## Previous Version: 0.9.177
 
 **Date:** 2026-03-02  
-**Type:** Patch (MySQL→Supabase migration: fix_mage_characters_add_id_user_id, audit_rituals_duplicates/sources, update_paths_completion; git sync)
+**Type:** Patch (legacy SQL→Supabase migration: fix_mage_characters_add_id_user_id, audit_rituals_duplicates/sources, update_paths_completion; git sync)
 
 ## Previous Version: 0.9.175
 
 **Date:** 2026-03-02  
-**Type:** Patch (MySQL→Supabase migration batch: admin equipment, boons, paths, sire/childe, NPC briefing, questionnaire; git sync)
+**Type:** Patch (legacy SQL→Supabase migration batch: admin equipment, boons, paths, sire/childe, NPC briefing, questionnaire; git sync)
 
 ## Previous Version: 0.9.172
 
@@ -218,7 +222,7 @@
 ## Previous Version: 0.9.153
 
 **Date:** 2026-02-23  
-**Type:** Patch (Character images: data/images.md, sync script JSON→MySQL+Supabase, Kerry/Caine JSON + mapping; portrait uploads)
+**Type:** Patch (Character images: data/images.md, sync script JSON→legacy SQL+Supabase, Kerry/Caine JSON + mapping; portrait uploads)
 
 ## Previous Version: 0.9.152
 
@@ -278,12 +282,12 @@
 ## Previous Version: 0.9.137
 
 **Date:** 2026-02-20  
-**Type:** Patch (Traits: Supabase-only generate_character_traits; ignore disciplines; generic traits for chars without abilities; check MySQL traits page; dedupe Jax/Violet in DB; characters_without_traits.json from Supabase)
+**Type:** Patch (Traits: Supabase-only generate_character_traits; ignore disciplines; generic traits for chars without abilities; check legacy traits page; dedupe Jax/Violet in DB; characters_without_traits.json from Supabase)
 
 ## Previous Version: 0.9.135
 
 **Date:** 2026-02-19  
-**Type:** Patch (ST/NPC → NPC fix scripts: MySQL and Supabase; normalize player_name column)
+**Type:** Patch (ST/NPC → NPC fix scripts: legacy SQL and Supabase; normalize player_name column)
 
 ## Previous Version: 0.9.133
 
@@ -308,17 +312,17 @@
 ## Previous Version: 0.9.129
 
 **Date:** 2026-02-16  
-**Type:** Patch (Sect alignment: MySQL source, dropdown only Unknown/Independent/Camarilla/Sabbat; normalize invalid values; fix alignment script)
+**Type:** Patch (Sect alignment: legacy SQL source, dropdown only Unknown/Independent/Camarilla/Sabbat; normalize invalid values; fix alignment script)
 
 ## Previous Version: 0.9.128
 
 **Date:** 2026-02-16  
-**Type:** Patch (Admin tools: sect alignment, compare/export/import characters MySQL↔Supabase; character JSON reference set; repeatable import)
+**Type:** Patch (Admin tools: sect alignment, compare/export/import characters legacy SQL↔Supabase; character JSON reference set; repeatable import)
 
 ## Previous Version: 0.9.127
 
 **Date:** 2026-02-15  
-**Type:** Patch (Admin panel + edit flow: Supabase only; remove MySQL from admin_panel, view/save/load/delete character)
+**Type:** Patch (Admin panel + edit flow: Supabase only; remove legacy SQL from admin_panel, view/save/load/delete character)
 
 ## Previous Version: 0.9.126
 
@@ -1414,8 +1418,8 @@
   - Moved hardcoded database credentials to environment variables (.env file)
   - Secured authentication bypass mechanism (development-only with explicit flags)
   - Removed hardcoded API bypass key from laws_agent API
-  - Converted mysqli_query calls to prepared statements in critical files
-  - Removed unnecessary mysqli_real_escape_string usage with prepared statements
+  - Converted legacy SQL calls to safe parameterized access in critical files
+  - Removed unnecessary legacy escaping calls in parameterized paths
   - Added CSRF protection to login and registration forms
   - Added input validation to map_agent API endpoint
 - **Database Connection Security** - Environment-based credential management
@@ -1478,7 +1482,7 @@
   - Sets DB_HOST, DB_USER, DB_PASS, DB_NAME environment variables permanently
   - Includes instructions for Windows environment variable configuration
 - **Documentation** - Created comprehensive documentation for database access
-  - Query instructions with multiple access methods (phpMyAdmin, MySQL CLI, Workbench)
+  - Query instructions with multiple access methods for the old database tooling
   - Clear explanations of what each query does and when to use it
   - Troubleshooting guidance for database access issues
 

@@ -6,9 +6,7 @@
 
 class BoonValidator
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
     
     /**
@@ -153,53 +151,23 @@ class BoonValidator
     }
     
     /**
-     * Check if character exists in database by name
-     * 
-     * @param string $characterName
-     * @return bool
+     * Check if character exists in database by name (Supabase)
      */
     protected function characterExists(string $characterName): bool
     {
-        $query = "SELECT id FROM characters WHERE character_name = ? LIMIT 1";
-        $stmt = mysqli_prepare($this->db, $query);
-        
-        if (!$stmt) {
-            return false;
-        }
-        
-        mysqli_stmt_bind_param($stmt, "s", $characterName);
-        mysqli_stmt_execute($stmt);
-        $result = mysqli_stmt_get_result($stmt);
-        
-        $exists = mysqli_num_rows($result) > 0;
-        mysqli_stmt_close($stmt);
-        
-        return $exists;
+        require_once __DIR__ . '/../../../includes/supabase_client.php';
+        $rows = supabase_table_get('characters', ['select' => 'id', 'character_name' => 'eq.' . $characterName, 'limit' => '1']);
+        return !empty($rows);
     }
-    
+
     /**
-     * Check if character exists in database by ID
-     * 
-     * @param int $characterId
-     * @return bool
+     * Check if character exists in database by ID (Supabase)
      */
     protected function characterExistsById(int $characterId): bool
     {
-        $query = "SELECT id FROM characters WHERE id = ? LIMIT 1";
-        $stmt = mysqli_prepare($this->db, $query);
-        
-        if (!$stmt) {
-            return false;
-        }
-        
-        mysqli_stmt_bind_param($stmt, "i", $characterId);
-        mysqli_stmt_execute($stmt);
-        $result = mysqli_stmt_get_result($stmt);
-        
-        $exists = mysqli_num_rows($result) > 0;
-        mysqli_stmt_close($stmt);
-        
-        return $exists;
+        require_once __DIR__ . '/../../../includes/supabase_client.php';
+        $rows = supabase_table_get('characters', ['select' => 'id', 'id' => 'eq.' . $characterId, 'limit' => '1']);
+        return !empty($rows);
     }
     
     /**

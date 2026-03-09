@@ -14,19 +14,13 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 $extra_css = ['css/modal.css'];
 include __DIR__ . '/../includes/header.php';
 
 // Get all characters for dropdown
-$characters_query = "SELECT id, character_name FROM characters ORDER BY character_name ASC";
-$characters_result = mysqli_query($conn, $characters_query);
-$characters = [];
-if ($characters_result) {
-    while ($row = mysqli_fetch_assoc($characters_result)) {
-        $characters[] = $row;
-    }
-}
+$characters = supabase_table_get('characters', ['select' => 'id,character_name', 'order' => 'character_name.asc']);
+$characters = is_array($characters) ? $characters : [];
 
 function render_boon_type_badge($type) {
     $colors = [

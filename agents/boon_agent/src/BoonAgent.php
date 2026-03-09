@@ -7,17 +7,14 @@
  * the social economy of prestation.
  * 
  * Integration notes:
- * - Expects a MySQL connection `$conn` created in connect.php (mysqli object).
- * - Uses the `boons` table for boon data.
- * - Uses the `characters` table for character validation.
+ * - Uses Supabase (includes/supabase_client.php). $db param ignored.
+ * - Uses the `boons` and `characters` tables.
  * - Designed to be called from an Agent page in the admin panel.
  */
 
 class BoonAgent
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
     
     /**
@@ -43,32 +40,16 @@ class BoonAgent
     /**
      * BoonAgent constructor.
      * 
-     * If a DB handle is not passed in, this will include connect.php
-     * and expect it to define `$conn` (mysqli).
-     * 
-     * @param mysqli|null $db
+     * $db is ignored; Supabase is used for all queries.
+     *
+     * @param mixed|null $db Ignored
      * @param array|null $config
      * @throws Exception
      */
     public function __construct($db = null, array $config = null)
     {
-        if ($db !== null) {
-            $this->db = $db;
-        } else {
-            // Use project-standard DB connection
-            $connectPath = __DIR__ . '/../../../includes/connect.php';
-            if (!file_exists($connectPath)) {
-                throw new Exception("Database connection file not found: {$connectPath}");
-            }
-            require_once $connectPath;
-            if (!isset($conn)) {
-                throw new Exception('connect.php did not define $conn (mysqli). Check database configuration.');
-            }
-            if (!$conn instanceof mysqli) {
-                throw new Exception('$conn is not a mysqli object. Database connection failed.');
-            }
-            $this->db = $conn;
-        }
+        $this->db = null;
+        require_once __DIR__ . '/../../../includes/supabase_client.php';
         
         // Load configuration
         if ($config !== null) {
@@ -277,56 +258,44 @@ class BoonAgent
     }
     
     /**
-     * Get all boons from database
-     * 
+     * Get all boons from database (Supabase)
+     *
      * @return array All boons
      */
     protected function getAllBoons(): array
     {
-        $query = "SELECT 
-                    b.id as boon_id,
-                    b.creditor_id,
-                    b.debtor_id,
-                    creditor.character_name as giver_name,
-                    debtor.character_name as receiver_name,
-                    b.boon_type,
-                    b.status,
-                    b.description,
-                    b.created_date as date_created,
-                    b.fulfilled_date,
-                    b.due_date,
-                    b.notes,
-                    b.registered_with_harpy,
-                    b.date_registered,
-                    b.harpy_notes
-                  FROM boons b
-                  LEFT JOIN characters creditor ON b.creditor_id = creditor.id
-                  LEFT JOIN characters debtor ON b.debtor_id = debtor.id
-                  ORDER BY b.created_date DESC";
-        
-        $result = mysqli_query($this->db, $query);
-        
-        if (!$result) {
+        require_once __DIR__ . '/../../../includes/supabase_client.php';
+        $rows = supabase_table_get('boons', [
+            'select' => 'id,creditor_id,debtor_id,boon_type,status,description,created_date,fulfilled_date,due_date,notes,registered_with_harpy,date_registered,harpy_notes',
+            'order' => 'created_date.desc'
+        ]);
+        if (empty($rows)) {
             return [];
         }
-        
+        $charIds = [];
+        foreach ($rows as $r) {
+            if (!empty($r['creditor_id'])) $charIds[(int)$r['creditor_id']] = true;
+            if (!empty($r['debtor_id'])) $charIds[(int)$r['debtor_id']] = true;
+        }
+        $charIds = array_keys($charIds);
+        $nameMap = [];
+        if (!empty($charIds)) {
+            $chars = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', $charIds) . ')']);
+            foreach ($chars as $c) {
+                $nameMap[(int)$c['id']] = $c['character_name'] ?? '';
+            }
+        }
+        $statusMap = ['active' => 'Owed', 'fulfilled' => 'Paid', 'cancelled' => 'Broken', 'disputed' => 'Broken'];
         $boons = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            // Map DB status to UI status for compatibility
-            $statusMap = [
-                'active' => 'Owed',
-                'fulfilled' => 'Paid',
-                'cancelled' => 'Broken',
-                'disputed' => 'Broken'
-            ];
-            $row['status'] = $statusMap[strtolower($row['status'])] ?? $row['status'];
-            
-            // Map boon_type to title case
-            $row['boon_type'] = ucfirst(strtolower($row['boon_type']));
-            
+        foreach ($rows as $row) {
+            $row['boon_id'] = $row['id'];
+            $row['giver_name'] = $nameMap[(int)($row['creditor_id'] ?? 0)] ?? '';
+            $row['receiver_name'] = $nameMap[(int)($row['debtor_id'] ?? 0)] ?? '';
+            $row['date_created'] = $row['created_date'] ?? null;
+            $row['status'] = $statusMap[strtolower((string)($row['status'] ?? ''))] ?? $row['status'];
+            $row['boon_type'] = ucfirst(strtolower((string)($row['boon_type'] ?? '')));
             $boons[] = $row;
         }
-        
         return $boons;
     }
     

@@ -30,7 +30,7 @@ These files are not meant to be accessed directly via URL - they're included by 
 ### Critical Files
 
 #### `supabase_client.php` - Database Access (Supabase only)
-**Pattern**: Use for all database access. No MySQL.
+**Pattern**: Use for all database access. Supabase only.
 ```php
 require_once __DIR__ . '/includes/supabase_client.php';
 $rows = supabase_table_get('characters', ['select' => 'id,name', 'id' => 'eq.123']);
@@ -42,7 +42,7 @@ supabase_rest_request('PATCH', '/rest/v1/characters', ['id' => 'eq.123'], ['stat
 - `supabase_table_get($table, $query)` for SELECT
 - `supabase_rest_request($method, $path, $query, $payload, $headers)` for REST
 
-#### `connect.php` - Legacy stub
+#### `connect.php` - Legacy compatibility stub
 - Loads `.env` and `supabase_client.php`; sets `$conn = null`. Do not use `$conn` or `db_*`; they throw. Use Supabase only.
 
 #### `header.php` - Main Header Component
@@ -106,7 +106,7 @@ require_once __DIR__ . '/includes/character_view_modal.php';
 ## Touch Points / Key Files
 
 ### Core Includes
-- **Database**: `connect.php` - **MUST USE** for all DB operations
+- **Database**: `supabase_client.php` - **MUST USE** for all DB operations
 - **Header**: `header.php` - Standard page header
 - **Footer**: `footer.php` - Standard page footer
 - **Admin Header**: `admin_header.php` - Admin navigation
@@ -149,9 +149,9 @@ rg -n "session_start\|_SESSION" includes/
 
 - **Path Calculation**: `header.php` calculates `$path_prefix` - don't hardcode `../`
 - **Session Start**: `header.php` starts session - don't call `session_start()` again
-- **Database Connection**: Always use `includes/connect.php` - don't create new connections
+- **Database Access**: Always use `includes/supabase_client.php` - don't create new connections
 - **.env Priority**: `.env` file takes priority over system environment variables
-- **PHP 8+ Compatibility**: `connect.php` handles PHP 8+ mysqli exception mode
+- **Legacy Stub**: `connect.php` is a compatibility stub only; do not use `$conn` or `db_*`
 - **Include Paths**: Use `__DIR__` for reliable relative paths, not `dirname(__FILE__)`
 
 ## Pre-PR Checks
@@ -160,8 +160,8 @@ rg -n "session_start\|_SESSION" includes/
 # Verify PHP syntax
 find includes/ -name "*.php" -exec php -l {} \;
 
-# Check for direct database connections (should use connect.php)
-rg -n "new mysqli\|mysqli_connect" includes/ | grep -v "connect.php"
+# Check for legacy DB helpers (should be gone from includes)
+rg -n "db_fetch_|db_select|db_execute" includes/
 
 # Verify version constant is defined
 rg -n "define.*LOTN_VERSION" includes/version.php

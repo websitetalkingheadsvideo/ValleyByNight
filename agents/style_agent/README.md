@@ -32,16 +32,20 @@ agents/style_agent/
 
 ## How Agents Can Use This MCP
 
-### 1. Database Discovery
+### 1. Metadata Discovery
 
-Query the `mcp_style_packs` table to discover and load MCP metadata:
+Use the shared Supabase client to discover and load MCP metadata:
 
 ```php
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
-$mcp_query = "SELECT * FROM mcp_style_packs WHERE slug = 'style_agent_mcp' AND enabled = 1";
-$mcp_result = mysqli_query($conn, $mcp_query);
-$mcp = mysqli_fetch_assoc($mcp_result);
+$rows = supabase_table_get('mcp_style_packs', [
+    'select' => 'filesystem_path,version',
+    'slug' => 'eq.style_agent_mcp',
+    'enabled' => 'eq.true',
+    'limit' => '1'
+]);
+$mcp = $rows[0] ?? null;
 
 if ($mcp) {
     $mcp_path = $mcp['filesystem_path'];
@@ -78,9 +82,9 @@ $prompts = file_get_contents($art_bible_path . '/PROMPTS.md');
 // Extract specific prompts for AI art generation
 ```
 
-## Database Integration
+## Metadata Registration
 
-This MCP is registered in the database via the `mcp_style_packs` table:
+This MCP is registered in the project data via the `mcp_style_packs` table:
 
 - **Name**: Style Agent MCP
 - **Slug**: `style_agent_mcp`
@@ -88,7 +92,7 @@ This MCP is registered in the database via the `mcp_style_packs` table:
 - **Filesystem Path**: `agents/style_agent`
 - **Enabled**: TRUE
 
-See `docs/MCP_USAGE.md` in the project root for detailed database integration examples.
+See `docs/MCP_USAGE.md` in the project root for detailed MCP loading examples.
 
 ## When to Use This MCP
 
@@ -113,7 +117,7 @@ The Art Bible enforces these core principles:
 
 - **Current Version**: 1.0.0
 - **Last Updated**: 2025-01-26
-- **Database Table**: `mcp_style_packs`
+- **Registry Table**: `mcp_style_packs`
 - **Maintained By**: VbN Development Team
 
 ## Related Documentation

@@ -1,31 +1,30 @@
 <?php
 /**
  * ReportGenerator
- * Generates various reports for the Boon Agent
+ * Generates various reports for the Boon Agent (Supabase)
  */
 
 class ReportGenerator
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
-    
-    /**
-     * @var array
-     */
+
+    /** @var array */
     protected $config;
-    
-    /**
-     * ReportGenerator constructor.
-     * 
-     * @param mysqli $db
-     * @param array $config
-     */
+
     public function __construct($db, array $config)
     {
         $this->db = $db;
         $this->config = $config;
+    }
+
+    protected function supabase(): void
+    {
+        static $loaded = false;
+        if (!$loaded) {
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $loaded = true;
+        }
     }
     
     /**
@@ -147,39 +146,39 @@ class ReportGenerator
         require_once __DIR__ . '/BoonValidator.php';
         $validator = new BoonValidator($this->db, $this->config);
         
-        // Get all boons and validate
-        $query = "SELECT 
-                    b.id as boon_id,
-                    b.creditor_id,
-                    b.debtor_id,
-                    creditor.character_name as giver_name,
-                    debtor.character_name as receiver_name,
-                    b.boon_type,
-                    b.status,
-                    b.description,
-                    b.created_date as date_created
-                  FROM boons b
-                  LEFT JOIN characters creditor ON b.creditor_id = creditor.id
-                  LEFT JOIN characters debtor ON b.debtor_id = debtor.id
-                  ORDER BY b.created_date DESC";
-        $result = mysqli_query($this->db, $query);
-        
-        $violations = [];
-        $totalBoons = 0;
-        
-        if ($result) {
-            while ($row = mysqli_fetch_assoc($result)) {
-                $totalBoons++;
-                $validation = $validator->validateBoon($row);
-                if (!$validation['valid']) {
-                    $violations[] = [
-                        'boon_id' => $row['boon_id'],
-                        'boon' => $row,
-                        'errors' => $validation['errors']
-                    ];
-                }
+        $this->supabase();
+        $rows = supabase_table_get('boons', [
+            'select' => 'id,creditor_id,debtor_id,boon_type,status,description,created_date',
+            'order' => 'created_date.desc'
+        ]);
+        $charIds = [];
+        foreach ($rows as $r) {
+            if (!empty($r['creditor_id'])) $charIds[(int)$r['creditor_id']] = true;
+            if (!empty($r['debtor_id'])) $charIds[(int)$r['debtor_id']] = true;
+        }
+        $nameMap = [];
+        if (!empty($charIds)) {
+            $chars = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', array_keys($charIds)) . ')']);
+            foreach ($chars as $c) {
+                $nameMap[(int)$c['id']] = $c['character_name'] ?? '';
             }
         }
+        $violations = [];
+        foreach ($rows as $row) {
+            $row['boon_id'] = $row['id'];
+            $row['giver_name'] = $nameMap[(int)($row['creditor_id'] ?? 0)] ?? '';
+            $row['receiver_name'] = $nameMap[(int)($row['debtor_id'] ?? 0)] ?? '';
+            $row['date_created'] = $row['created_date'] ?? null;
+            $validation = $validator->validateBoon($row);
+            if (!$validation['valid']) {
+                $violations[] = [
+                    'boon_id' => $row['boon_id'],
+                    'boon' => $row,
+                    'errors' => $validation['errors']
+                ];
+            }
+        }
+        $totalBoons = count($rows);
         
         $report = [
             'generated_at' => date('Y-m-d H:i:s'),
@@ -255,33 +254,26 @@ class ReportGenerator
      */
     protected function getDailySummary(): array
     {
+        $this->supabase();
         $today = date('Y-m-d');
-        
-        $query = "SELECT 
-                    COUNT(*) as total_boons,
-                    SUM(CASE WHEN status = 'active' THEN 1 ELSE 0 END) as owed_count,
-                    SUM(CASE WHEN status = 'fulfilled' THEN 1 ELSE 0 END) as paid_count,
-                    SUM(CASE WHEN status IN ('disputed', 'cancelled') THEN 1 ELSE 0 END) as broken_count,
-                    SUM(CASE WHEN DATE(created_date) = ? THEN 1 ELSE 0 END) as new_today
-                  FROM boons";
-        
-        $stmt = mysqli_prepare($this->db, $query);
-        if ($stmt) {
-            mysqli_stmt_bind_param($stmt, "s", $today);
-            mysqli_stmt_execute($stmt);
-            $result = mysqli_stmt_get_result($stmt);
-            $summary = mysqli_fetch_assoc($result);
-            mysqli_stmt_close($stmt);
-            
-            // Map called_count to owed_count since they're both 'active' status
-            if ($summary) {
-                $summary['called_count'] = 0; // Could query separately if needed
-            }
-            
-            return $summary ?? [];
+        $rows = supabase_table_get('boons', ['select' => 'status,created_date']);
+        $summary = [
+            'total_boons' => count($rows),
+            'owed_count' => 0,
+            'paid_count' => 0,
+            'broken_count' => 0,
+            'new_today' => 0,
+            'called_count' => 0
+        ];
+        foreach ($rows as $r) {
+            $st = strtolower((string)($r['status'] ?? ''));
+            if ($st === 'active') $summary['owed_count']++;
+            elseif ($st === 'fulfilled') $summary['paid_count']++;
+            elseif (in_array($st, ['disputed', 'cancelled'], true)) $summary['broken_count']++;
+            $cd = isset($r['created_date']) ? substr((string)$r['created_date'], 0, 10) : '';
+            if ($cd === $today) $summary['new_today']++;
         }
-        
-        return [];
+        return $summary;
     }
     
     /**
@@ -291,39 +283,38 @@ class ReportGenerator
      */
     protected function getNewBoonsToday(): array
     {
+        $this->supabase();
         $today = date('Y-m-d');
-        
-        $query = "SELECT 
-                    b.id as boon_id,
-                    creditor.character_name as giver_name,
-                    debtor.character_name as receiver_name,
-                    b.boon_type,
-                    b.status,
-                    b.description,
-                    b.created_date as date_created
-                  FROM boons b
-                  LEFT JOIN characters creditor ON b.creditor_id = creditor.id
-                  LEFT JOIN characters debtor ON b.debtor_id = debtor.id
-                  WHERE DATE(b.created_date) = ?
-                  ORDER BY b.created_date DESC";
-        
-        $stmt = mysqli_prepare($this->db, $query);
-        if (!$stmt) {
-            return [];
-        }
-        
-        mysqli_stmt_bind_param($stmt, "s", $today);
-        mysqli_stmt_execute($stmt);
-        $result = mysqli_stmt_get_result($stmt);
-        
+        $rows = supabase_table_get('boons', [
+            'select' => 'id,creditor_id,debtor_id,boon_type,status,description,created_date',
+            'order' => 'created_date.desc'
+        ]);
         $boons = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            // Map boon_type to title case
-            $row['boon_type'] = ucfirst(strtolower($row['boon_type']));
-            $boons[] = $row;
+        foreach ($rows as $r) {
+            $cd = isset($r['created_date']) ? substr((string)$r['created_date'], 0, 10) : '';
+            if ($cd !== $today) continue;
+            $r['boon_id'] = $r['id'];
+            $r['date_created'] = $r['created_date'];
+            $r['boon_type'] = ucfirst(strtolower((string)($r['boon_type'] ?? '')));
+            $boons[] = $r;
         }
-        mysqli_stmt_close($stmt);
-        
+        $charIds = [];
+        foreach ($boons as $b) {
+            if (!empty($b['creditor_id'])) $charIds[(int)$b['creditor_id']] = true;
+            if (!empty($b['debtor_id'])) $charIds[(int)$b['debtor_id']] = true;
+        }
+        if (!empty($charIds)) {
+            $chars = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', array_keys($charIds)) . ')']);
+            $nameMap = [];
+            foreach ($chars as $c) {
+                $nameMap[(int)$c['id']] = $c['character_name'] ?? '';
+            }
+            foreach ($boons as &$b) {
+                $b['giver_name'] = $nameMap[(int)($b['creditor_id'] ?? 0)] ?? '';
+                $b['receiver_name'] = $nameMap[(int)($b['debtor_id'] ?? 0)] ?? '';
+            }
+            unset($b);
+        }
         return $boons;
     }
     
@@ -347,7 +338,7 @@ class ReportGenerator
     protected function getViolationsToday(): array
     {
         require_once __DIR__ . '/BoonAnalyzer.php';
-        $analyzer = new BoonAnalyzer($this->db, $this->config);
+        $analyzer = new BoonAnalyzer(null, $this->config);
         
         $deadDebts = $analyzer->findDeadDebts();
         $brokenBoons = $analyzer->findBrokenBoons();
@@ -369,63 +360,39 @@ class ReportGenerator
      */
     protected function getBoonsForCharacter(string $characterName, string $role): array
     {
-        // First get character ID
-        $charQuery = "SELECT id FROM characters WHERE character_name = ? LIMIT 1";
-        $charStmt = mysqli_prepare($this->db, $charQuery);
-        if (!$charStmt) {
+        $this->supabase();
+        $chars = supabase_table_get('characters', ['select' => 'id', 'character_name' => 'eq.' . $characterName, 'limit' => '1']);
+        if (empty($chars)) {
             return [];
         }
-        
-        mysqli_stmt_bind_param($charStmt, "s", $characterName);
-        mysqli_stmt_execute($charStmt);
-        $charResult = mysqli_stmt_get_result($charStmt);
-        $charRow = mysqli_fetch_assoc($charResult);
-        mysqli_stmt_close($charStmt);
-        
-        if (!$charRow) {
-            return [];
-        }
-        
-        $characterId = $charRow['id'];
+        $characterId = (int)$chars[0]['id'];
         $idField = $role === 'giver' ? 'creditor_id' : 'debtor_id';
-        
-        $query = "SELECT 
-                    b.id as boon_id,
-                    b.creditor_id,
-                    b.debtor_id,
-                    creditor.character_name as giver_name,
-                    debtor.character_name as receiver_name,
-                    b.boon_type,
-                    b.status,
-                    b.description,
-                    b.created_date as date_created,
-                    b.fulfilled_date,
-                    b.notes,
-                    b.registered_with_harpy,
-                    b.date_registered
-                  FROM boons b
-                  LEFT JOIN characters creditor ON b.creditor_id = creditor.id
-                  LEFT JOIN characters debtor ON b.debtor_id = debtor.id
-                  WHERE b.{$idField} = ?
-                  ORDER BY b.created_date DESC";
-        
-        $stmt = mysqli_prepare($this->db, $query);
-        if (!$stmt) {
-            return [];
+        $rows = supabase_table_get('boons', [
+            'select' => 'id,creditor_id,debtor_id,boon_type,status,description,created_date,fulfilled_date,notes,registered_with_harpy,date_registered',
+            $idField => 'eq.' . $characterId,
+            'order' => 'created_date.desc'
+        ]);
+        $charIds = [];
+        foreach ($rows as $r) {
+            if (!empty($r['creditor_id'])) $charIds[(int)$r['creditor_id']] = true;
+            if (!empty($r['debtor_id'])) $charIds[(int)$r['debtor_id']] = true;
         }
-        
-        mysqli_stmt_bind_param($stmt, "i", $characterId);
-        mysqli_stmt_execute($stmt);
-        $result = mysqli_stmt_get_result($stmt);
-        
+        $nameMap = [];
+        if (!empty($charIds)) {
+            $cs = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', array_keys($charIds)) . ')']);
+            foreach ($cs as $c) {
+                $nameMap[(int)$c['id']] = $c['character_name'] ?? '';
+            }
+        }
         $boons = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            // Map boon_type to title case
-            $row['boon_type'] = ucfirst(strtolower($row['boon_type']));
-            $boons[] = $row;
+        foreach ($rows as $r) {
+            $r['boon_id'] = $r['id'];
+            $r['giver_name'] = $nameMap[(int)($r['creditor_id'] ?? 0)] ?? '';
+            $r['receiver_name'] = $nameMap[(int)($r['debtor_id'] ?? 0)] ?? '';
+            $r['date_created'] = $r['created_date'] ?? null;
+            $r['boon_type'] = ucfirst(strtolower((string)($r['boon_type'] ?? '')));
+            $boons[] = $r;
         }
-        mysqli_stmt_close($stmt);
-        
         return $boons;
     }
     

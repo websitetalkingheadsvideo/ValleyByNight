@@ -6,7 +6,7 @@ Tools for API interaction and data fetching.
 
 ### download_envato_images.py
 
-**Purpose:** Downloads images from Envato Photos for items in the database.
+**Purpose:** Downloads images from Envato Photos for items in the project data store.
 
 **Usage:**
 ```bash
@@ -14,7 +14,7 @@ python tools/repeatable/python/api-tools/download_envato_images.py
 ```
 
 **Features:**
-- Connects to MySQL database
+- Connects to the configured Supabase-backed project data
 - Fetches images from Envato API
 - Downloads and processes images
 - Tracks progress in tracking file
@@ -22,11 +22,10 @@ python tools/repeatable/python/api-tools/download_envato_images.py
 **Dependencies:**
 - Python 3.7+
 - `requests` package
-- `mysql-connector-python` package
 - `PIL` (Pillow) package
-- `.env` file with `ENVATO_API_KEY` and database credentials
+- `.env` file with `ENVATO_API_KEY` and any required project API credentials
 
-**Configuration:** Requires `.env` file with API keys and database credentials
+**Configuration:** Requires `.env` file with API keys and project credentials
 
 ---
 

@@ -3,7 +3,7 @@
 ## Package Identity
 
 **Purpose**: Administrative interface for managing characters, items, locations, positions, and game data  
-**Tech**: PHP with Bootstrap 4, Vanilla JavaScript, MySQL  
+**Tech**: PHP with Bootstrap, Vanilla JavaScript, Supabase REST  
 **Location**: `admin/` directory
 
 ## Setup & Run
@@ -15,7 +15,7 @@
 
 ### Development
 ```bash
-# No special setup - uses root database connection
+# No special setup - uses the project's Supabase environment
 # Ensure .env file is configured (see root AGENTS.md)
 ```
 
@@ -38,7 +38,7 @@
 All API endpoints follow this structure:
 ```php
 <?php
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 require_once __DIR__ . '/../includes/verify_role.php';
 
 // Verify admin role
@@ -57,10 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
     // DELETE logic
 }
 
-// Always use prepared statements
-$stmt = $conn->prepare("SELECT * FROM table WHERE id = ?");
-$stmt->bind_param("i", $id);
-$stmt->execute();
+$rows = supabase_table_get('table', ['select' => '*', 'id' => 'eq.' . $id]);
 ?>
 ```
 
@@ -105,8 +102,8 @@ rg -n "api_" admin/
 # Find admin pages
 rg -n "admin_.*\.php" admin/
 
-# Find database queries in admin
-rg -n "mysqli_query\|->query\|prepare" admin/
+# Find Supabase usage in admin
+rg -n "supabase_table_get|supabase_rest_request" admin/
 
 # Find Bootstrap classes in admin
 rg -n "class=.*btn\|class=.*table\|class=.*modal" admin/
@@ -126,8 +123,8 @@ rg -n "class=.*btn\|class=.*table\|class=.*modal" admin/
 # Verify PHP syntax
 find admin/ -name "*.php" -exec php -l {} \;
 
-# Check for prepared statements (no raw queries)
-rg -n "mysqli_query.*\$" admin/ | grep -v "prepare"
+# Check for legacy DB helpers (should be gone)
+rg -n "db_fetch_|db_select|db_execute" admin/
 
 # Verify all API files have role verification
 rg -n "verify_admin_role\|verify_role" admin/api_*.php

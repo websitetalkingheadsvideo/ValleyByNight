@@ -3,118 +3,92 @@ declare(strict_types=1);
 
 /**
  * DisciplinePowersRepository
- * 
- * Handles database queries for the disciplies_powers table.
- * CRITICAL: Only queries disciplies_powers table.
- * Does NOT handle paths or rituals - those are separate systems.
+ * Handles disciplies_powers table (Supabase).
  */
 
 class DisciplinePowersRepository
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
-    
-    /**
-     * @var array
-     */
+
+    /** @var array */
     protected $config;
-    
-    /**
-     * @param mysqli $db
-     * @param array $config
-     */
+
     public function __construct($db, array $config = [])
     {
         $this->db = $db;
         $this->config = $config;
     }
-    
-    /**
-     * Get all discipline powers for a character
-     * Optionally filtered by discipline name
-     * 
-     * @param int $characterId
-     * @param string|null $disciplineName Optional filter by discipline
-     * @return array Array of power data {discipline_name, power_name, level}
-     */
+
+    protected function supabase(): void
+    {
+        static $loaded = false;
+        if (!$loaded) {
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $loaded = true;
+        }
+    }
+
     public function getCharacterDisciplinePowers(int $characterId, ?string $disciplineName = null): array
     {
+        $this->supabase();
         if ($disciplineName !== null) {
-            $query = "SELECT discipline_name, power_name, level 
-                      FROM disciplies_powers 
-                      WHERE discipline_name = ?
-                      ORDER BY level, power_name";
-            $results = db_fetch_all($this->db, $query, 's', [$disciplineName]);
+            $rows = supabase_table_get('disciplies_powers', [
+                'select' => 'discipline_name,power_name,level',
+                'discipline_name' => 'eq.' . $disciplineName,
+                'order' => 'level.asc,power_name.asc'
+            ]);
         } else {
-            $query = "SELECT discipline_name, power_name, level 
-                      FROM disciplies_powers 
-                      ORDER BY discipline_name, level, power_name";
-            $results = db_fetch_all($this->db, $query);
+            $rows = supabase_table_get('disciplies_powers', [
+                'select' => 'discipline_name,power_name,level',
+                'order' => 'discipline_name.asc,level.asc,power_name.asc'
+            ]);
         }
-        
-        return $results;
+        return is_array($rows) ? $rows : [];
     }
-    
-    /**
-     * Get powers for a specific discipline at a specific level
-     * Used to determine which powers are eligible given discipline dots
-     * 
-     * @param string $disciplineName
-     * @param int $level Discipline level (1-5)
-     * @return array Array of power data {power_name, level}
-     */
+
     public function getPowersByDisciplineAndLevel(string $disciplineName, int $level): array
     {
-        $query = "SELECT DISTINCT power_name, level 
-                  FROM disciplies_powers 
-                  WHERE discipline_name = ? AND level <= ?
-                  ORDER BY level, power_name";
-        
-        return db_fetch_all($this->db, $query, 'si', [$disciplineName, $level]);
+        $this->supabase();
+        $rows = supabase_table_get('disciplies_powers', [
+            'select' => 'power_name,level',
+            'discipline_name' => 'eq.' . $disciplineName,
+            'level' => 'lte.' . $level,
+            'order' => 'level.asc,power_name.asc'
+        ]);
+        $seen = [];
+        $out = [];
+        foreach (is_array($rows) ? $rows : [] as $r) {
+            $key = ($r['power_name'] ?? '') . '-' . ($r['level'] ?? 0);
+            if (isset($seen[$key])) continue;
+            $seen[$key] = true;
+            $out[] = ['power_name' => $r['power_name'] ?? '', 'level' => (int)($r['level'] ?? 0)];
+        }
+        return $out;
     }
-    
-    /**
-     * Check if a power exists for a discipline
-     * 
-     * @param string $disciplineName
-     * @param string $powerName
-     * @return bool
-     */
+
     public function powerExists(string $disciplineName, string $powerName): bool
     {
-        $query = "SELECT 1 
-                  FROM disciplies_powers 
-                  WHERE discipline_name = ? AND power_name = ?
-                  LIMIT 1";
-        
-        $result = db_fetch_one($this->db, $query, 'ss', [$disciplineName, $powerName]);
-        
-        return $result !== null;
+        $this->supabase();
+        $rows = supabase_table_get('disciplies_powers', [
+            'select' => 'id',
+            'discipline_name' => 'eq.' . $disciplineName,
+            'power_name' => 'eq.' . $powerName,
+            'limit' => '1'
+        ]);
+        return !empty($rows);
     }
-    
-    /**
-     * Get the level requirement for a specific power
-     * 
-     * @param string $disciplineName
-     * @param string $powerName
-     * @return int|null Power level requirement (1-5) or null if not found
-     */
+
     public function getPowerLevel(string $disciplineName, string $powerName): ?int
     {
-        $query = "SELECT level 
-                  FROM disciplies_powers 
-                  WHERE discipline_name = ? AND power_name = ?
-                  LIMIT 1";
-        
-        $result = db_fetch_one($this->db, $query, 'ss', [$disciplineName, $powerName]);
-        
-        if ($result === null) {
-            return null;
-        }
-        
-        return (int)$result['level'];
+        $this->supabase();
+        $rows = supabase_table_get('disciplies_powers', [
+            'select' => 'level',
+            'discipline_name' => 'eq.' . $disciplineName,
+            'power_name' => 'eq.' . $powerName,
+            'limit' => '1'
+        ]);
+        $row = $rows[0] ?? null;
+        return $row !== null ? (int)$row['level'] : null;
     }
 }
-

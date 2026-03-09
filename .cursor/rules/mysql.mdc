@@ -1,12 +1,12 @@
 ---
-description: Supabase/Postgres database patterns (MySQL removed from project).
+description: Supabase/Postgres database patterns (legacy SQL removed from project).
 globs: "**/*.sql"
 alwaysApply: false
 ---
 
-# Supabase / Postgres rules (MySQL removed)
+# Supabase / Postgres rules
 
-- This project uses **Supabase (Postgres)** only. No MySQL.
+- This project uses **Supabase (Postgres)** only.
 - Use `includes/supabase_client.php` in PHP: `supabase_table_get()`, `supabase_rest_request()`.
 - Use appropriate types (e.g. UUID for ids, text/varchar, timestamptz).
 - Create indexes for columns used in WHERE, JOIN, ORDER BY.

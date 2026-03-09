@@ -69,8 +69,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             ];
             
             // Get position name
-            $pos_info = db_fetch_one($conn, "SELECT name FROM camarilla_positions WHERE position_id = ?", "s", [$position_id]);
-            $position_lookup_result['position_name'] = $pos_info['name'] ?? 'Unknown Position';
+            $pos_rows = supabase_table_get('camarilla_positions', [
+                'select' => 'name',
+                'position_id' => 'eq.' . $position_id,
+                'limit' => '1'
+            ]);
+            $position_lookup_result['position_name'] = $pos_rows[0]['name'] ?? 'Unknown Position';
         }
     }
     
@@ -84,8 +88,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             ];
             
             // Get character name
-            $char_info = db_fetch_one($conn, "SELECT character_name FROM characters WHERE id = ?", "i", [$character_id]);
-            $character_lookup_result['character_name'] = $char_info['character_name'] ?? 'Unknown Character';
+            $char_rows = supabase_table_get('characters', [
+                'select' => 'character_name',
+                'id' => 'eq.' . (int) $character_id,
+                'limit' => '1'
+            ]);
+            $character_lookup_result['character_name'] = $char_rows[0]['character_name'] ?? 'Unknown Character';
             
             // Separate current vs past positions
             $current = [];
@@ -227,7 +235,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     <?php endif; ?>
                                 <?php endif; ?>
                             <?php else: ?>
-                                <span class="opacity-75">Vacant</span>
+                                <span class="text-light">Vacant</span>
                             <?php endif; ?>
                         </td>
                         <td>
@@ -249,7 +257,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <?php if ($has_holders && !empty($holders[0]['start_night'])): ?>
                                 <?php echo date('Y-m-d', strtotime($holders[0]['start_night'])); ?>
                             <?php else: ?>
-                                <span class="opacity-75">—</span>
+                                <span class="text-light">—</span>
                             <?php endif; ?>
                         </td>
                         <td class="text-center align-top" style="width: 150px;">
@@ -275,7 +283,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <!-- Camarilla Positions Agent Section -->
     <div class="mb-5">
         <h2 class="h4 mb-3">🤖 Ask the Camarilla Positions Agent</h2>
-        <p class="opacity-75 mb-4">Query position holders and historical assignments</p>
+        <p class="text-light mb-4">Query position holders and historical assignments</p>
         
         <div class="row g-3">
             <!-- Position Lookup Form -->
@@ -367,7 +375,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                         </p>
                                     <?php endif; ?>
                                 <?php else: ?>
-                                    <p class="opacity-75">Position is vacant</p>
+                                    <p class="text-light">Position is vacant</p>
                                 <?php endif; ?>
                             </div>
                             
@@ -396,7 +404,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                                 <?php echo htmlspecialchars($hist['character_name']); ?>
                                                             <?php endif; ?>
                                                         <?php else: ?>
-                                                            <span class="opacity-75">Unknown</span>
+                                                            <span class="text-light">Unknown</span>
                                                         <?php endif; ?>
                                                     </td>
                                                     <td><?php echo date('Y-m-d', strtotime($hist['start_night'])); ?></td>
@@ -467,7 +475,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </ul>
                                 </div>
                             <?php else: ?>
-                                <p class="opacity-75">No current positions</p>
+                                <p class="text-light">No current positions</p>
                             <?php endif; ?>
                             
                             <?php if (!empty($character_lookup_result['past_positions'])): ?>

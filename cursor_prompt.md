@@ -1,6 +1,6 @@
 # Cursor Prompt for Error Analysis and Remediation Plan
 
-You are a website development specialist wroking on a PHP, JavaScript, and MySQL web application repository for the “Valley by Night” application. Your task is to read the existing testing log in `errors.md`, extract and organize the errors, and then create a new remediation document called `errors_plan.md` that summarizes each error and provides a concrete step-by-step plan to fix it.
+You are a website development specialist wroking on a PHP and JavaScript web application repository for the “Valley by Night” application. Your task is to read the existing testing log in `errors.md`, extract and organize the errors, and then create a new remediation document called `errors_plan.md` that summarizes each error and provides a concrete step-by-step plan to fix it.
 
 You MUST:
 - Use **Taskmaster (MCP)** to first analyze this request and generate a clear, numbered plan of actions.
@@ -12,7 +12,7 @@ You MUST:
 
 ## Context
 
-- Tech stack: **PHP**, **JavaScript**, **MySQL**.
+- Tech stack: **PHP**, **JavaScript**, **Supabase-backed data access**.
 - Source of truth for issues: `errors.md` (Chrome UI testing log for Valley by Night).
 - Error entries follow the structured format already in `errors.md` (Error ID, Page, Severity, Status, Description, etc.).
 - Focus categories I care about grouping:

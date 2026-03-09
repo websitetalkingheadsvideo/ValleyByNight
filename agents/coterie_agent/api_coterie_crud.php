@@ -1,9 +1,9 @@
 <?php
 /**
  * Coterie CRUD API
- * Handles Create, Read, Update, Delete operations for character coterie associations
+ * Handles Create, Read, Update, Delete operations for character coterie associations (Supabase)
  */
-
+declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
@@ -11,203 +11,137 @@ ini_set('log_errors', 1);
 session_start();
 header('Content-Type: application/json');
 
-// Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 $method = $_SERVER['REQUEST_METHOD'];
+$input = json_decode((string) file_get_contents('php://input'), true);
+$input = is_array($input) ? $input : [];
 
 try {
-    // Handle request body
-    $input = json_decode(file_get_contents('php://input'), true);
-    
     if ($method === 'GET') {
-        // Get all coterie associations
-        // Try with notes column first, fallback to without if column doesn't exist
-        $query = "SELECT 
-                    character_coteries.character_id, 
-                    character_coteries.coterie_name, 
-                    character_coteries.coterie_type, 
-                    character_coteries.role, 
-                    character_coteries.description, 
-                    character_coteries.notes,
-                    characters.character_name, 
-                    characters.clan, 
-                    characters.player_name
-                  FROM character_coteries
-                  LEFT JOIN characters ON character_coteries.character_id = characters.id
-                  ORDER BY character_coteries.coterie_name, characters.character_name";
-        
-        $result = mysqli_query($conn, $query);
-        
-        // If query failed and it's because notes column doesn't exist, try without it
-        if (!$result && strpos(mysqli_error($conn), 'notes') !== false) {
-            $query = "SELECT 
-                        character_coteries.character_id, 
-                        character_coteries.coterie_name, 
-                        character_coteries.coterie_type, 
-                        character_coteries.role, 
-                        character_coteries.description,
-                        characters.character_name, 
-                        characters.clan, 
-                        characters.player_name
-                      FROM character_coteries
-                      LEFT JOIN characters ON character_coteries.character_id = characters.id
-                      ORDER BY character_coteries.coterie_name, characters.character_name";
-            
-            $result = mysqli_query($conn, $query);
-        }
-        
-        if (!$result) {
-            $error = mysqli_error($conn);
-            throw new Exception('Database query failed: ' . $error);
-        }
-        
-        $coteries = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            // Ensure notes field exists even if column doesn't
-            if (!isset($row['notes'])) {
-                $row['notes'] = '';
+        $rows = supabase_table_get('character_coteries', [
+            'select' => 'character_id,coterie_name,coterie_type,role,description,notes',
+            'order' => 'coterie_name.asc'
+        ]);
+        $rows = is_array($rows) ? $rows : [];
+        $charIds = array_unique(array_column($rows, 'character_id'));
+        $charIds = array_filter($charIds);
+        $chars = [];
+        if (!empty($charIds)) {
+            $charList = supabase_table_get('characters', [
+                'select' => 'id,character_name,clan,player_name',
+                'id' => 'in.(' . implode(',', array_map('intval', $charIds)) . ')'
+            ]);
+            foreach (is_array($charList) ? $charList : [] as $c) {
+                $chars[(int) ($c['id'] ?? 0)] = $c;
             }
-            $coteries[] = $row;
         }
-        
-        echo json_encode([
-            'success' => true,
-            'data' => $coteries
-        ], JSON_UNESCAPED_UNICODE);
-        
+        $coteries = [];
+        foreach ($rows as $r) {
+            $cid = (int) ($r['character_id'] ?? 0);
+            $c = $chars[$cid] ?? [];
+            $coteries[] = array_merge($r, [
+                'character_name' => $c['character_name'] ?? '',
+                'clan' => $c['clan'] ?? '',
+                'player_name' => $c['player_name'] ?? '',
+                'notes' => $r['notes'] ?? ''
+            ]);
+        }
+        usort($coteries, function ($a, $b) {
+            $x = strcmp($a['coterie_name'] ?? '', $b['coterie_name'] ?? '');
+            return $x !== 0 ? $x : strcmp($a['character_name'] ?? '', $b['character_name'] ?? '');
+        });
+        echo json_encode(['success' => true, 'data' => $coteries], JSON_UNESCAPED_UNICODE);
+
     } elseif ($method === 'POST') {
-        // Create new coterie association
-        $character_id = intval($input['character_id'] ?? 0);
-        $coterie_name = trim($input['coterie_name'] ?? '');
-        $coterie_type = trim($input['coterie_type'] ?? '');
-        $role = trim($input['role'] ?? '');
-        $description = trim($input['description'] ?? '');
-        $notes = trim($input['notes'] ?? '');
-        
+        $character_id = (int) ($input['character_id'] ?? 0);
+        $coterie_name = trim((string) ($input['coterie_name'] ?? ''));
+        $coterie_type = trim((string) ($input['coterie_type'] ?? ''));
+        $role = trim((string) ($input['role'] ?? ''));
+        $description = trim((string) ($input['description'] ?? ''));
+        $notes = trim((string) ($input['notes'] ?? ''));
+
         if ($character_id <= 0) {
             throw new Exception('Invalid character ID');
         }
-        
-        if (empty($coterie_name)) {
+        if ($coterie_name === '') {
             throw new Exception('Coterie name is required');
         }
-        
-        // Check if notes column exists, use appropriate INSERT
-        $check_notes = mysqli_query($conn, "SHOW COLUMNS FROM character_coteries LIKE 'notes'");
-        $has_notes = ($check_notes && mysqli_num_rows($check_notes) > 0);
-        
-        if ($has_notes) {
-            $query = "INSERT INTO character_coteries (character_id, coterie_name, coterie_type, role, description, notes) 
-                      VALUES (?, ?, ?, ?, ?, ?)";
-            $stmt = mysqli_prepare($conn, $query);
-            mysqli_stmt_bind_param($stmt, 'isssss', $character_id, $coterie_name, $coterie_type, $role, $description, $notes);
-        } else {
-            $query = "INSERT INTO character_coteries (character_id, coterie_name, coterie_type, role, description) 
-                      VALUES (?, ?, ?, ?, ?)";
-            $stmt = mysqli_prepare($conn, $query);
-            mysqli_stmt_bind_param($stmt, 'issss', $character_id, $coterie_name, $coterie_type, $role, $description);
+
+        $payload = [
+            'character_id' => $character_id,
+            'coterie_name' => $coterie_name,
+            'coterie_type' => $coterie_type,
+            'role' => $role,
+            'description' => $description,
+            'notes' => $notes
+        ];
+        $result = supabase_rest_request('POST', '/rest/v1/character_coteries', [], $payload);
+        if ($result['error'] !== null) {
+            throw new Exception('Failed to create coterie association: ' . $result['error']);
         }
-        
-        if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
-                'success' => true,
-                'message' => 'Coterie association created successfully'
-            ], JSON_UNESCAPED_UNICODE);
-        } else {
-            throw new Exception('Failed to create coterie association: ' . mysqli_error($conn));
-        }
-        
+        echo json_encode(['success' => true, 'message' => 'Coterie association created successfully'], JSON_UNESCAPED_UNICODE);
+
     } elseif ($method === 'PUT') {
-        // Update existing coterie association
-        $character_id = intval($input['character_id'] ?? 0);
-        $old_coterie_name = trim($input['old_coterie_name'] ?? '');
-        $coterie_name = trim($input['coterie_name'] ?? '');
-        $coterie_type = trim($input['coterie_type'] ?? '');
-        $role = trim($input['role'] ?? '');
-        $description = trim($input['description'] ?? '');
-        $notes = trim($input['notes'] ?? '');
-        
+        $character_id = (int) ($input['character_id'] ?? 0);
+        $old_coterie_name = trim((string) ($input['old_coterie_name'] ?? ''));
+        $coterie_name = trim((string) ($input['coterie_name'] ?? ''));
+        $coterie_type = trim((string) ($input['coterie_type'] ?? ''));
+        $role = trim((string) ($input['role'] ?? ''));
+        $description = trim((string) ($input['description'] ?? ''));
+        $notes = trim((string) ($input['notes'] ?? ''));
+
         if ($character_id <= 0) {
             throw new Exception('Invalid character ID');
         }
-        
-        if (empty($old_coterie_name)) {
+        if ($old_coterie_name === '') {
             throw new Exception('Old coterie name is required for update');
         }
-        
-        if (empty($coterie_name)) {
+        if ($coterie_name === '') {
             throw new Exception('Coterie name is required');
         }
-        
-        // Check if notes column exists, use appropriate UPDATE
-        $check_notes = mysqli_query($conn, "SHOW COLUMNS FROM character_coteries LIKE 'notes'");
-        $has_notes = ($check_notes && mysqli_num_rows($check_notes) > 0);
-        
-        if ($has_notes) {
-            $query = "UPDATE character_coteries SET 
-                      coterie_name = ?, coterie_type = ?, role = ?, description = ?, notes = ?
-                      WHERE character_id = ? AND coterie_name = ?";
-            $stmt = mysqli_prepare($conn, $query);
-            mysqli_stmt_bind_param($stmt, 'sssssis', $coterie_name, $coterie_type, $role, $description, $notes, $character_id, $old_coterie_name);
-        } else {
-            $query = "UPDATE character_coteries SET 
-                      coterie_name = ?, coterie_type = ?, role = ?, description = ?
-                      WHERE character_id = ? AND coterie_name = ?";
-            $stmt = mysqli_prepare($conn, $query);
-            mysqli_stmt_bind_param($stmt, 'ssssis', $coterie_name, $coterie_type, $role, $description, $character_id, $old_coterie_name);
+
+        $filter = 'character_id=eq.' . $character_id . '&coterie_name=eq.' . rawurlencode($old_coterie_name);
+        $payload = [
+            'coterie_name' => $coterie_name,
+            'coterie_type' => $coterie_type,
+            'role' => $role,
+            'description' => $description,
+            'notes' => $notes
+        ];
+        $result = supabase_rest_request('PATCH', '/rest/v1/character_coteries?' . $filter, [], $payload);
+        if ($result['error'] !== null) {
+            throw new Exception('Failed to update coterie association: ' . $result['error']);
         }
-        
-        if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
-                'success' => true,
-                'message' => 'Coterie association updated successfully'
-            ], JSON_UNESCAPED_UNICODE);
-        } else {
-            throw new Exception('Failed to update coterie association: ' . mysqli_error($conn));
-        }
-        
+        echo json_encode(['success' => true, 'message' => 'Coterie association updated successfully'], JSON_UNESCAPED_UNICODE);
+
     } elseif ($method === 'DELETE') {
-        // Delete coterie association
-        $character_id = intval($input['character_id'] ?? 0);
-        $coterie_name = trim($input['coterie_name'] ?? '');
-        
+        $character_id = (int) ($input['character_id'] ?? 0);
+        $coterie_name = trim((string) ($input['coterie_name'] ?? ''));
+
         if ($character_id <= 0) {
             throw new Exception('Invalid character ID');
         }
-        
-        if (empty($coterie_name)) {
+        if ($coterie_name === '') {
             throw new Exception('Coterie name is required');
         }
-        
-        $query = "DELETE FROM character_coteries WHERE character_id = ? AND coterie_name = ?";
-        $stmt = mysqli_prepare($conn, $query);
-        mysqli_stmt_bind_param($stmt, 'is', $character_id, $coterie_name);
-        
-        if (mysqli_stmt_execute($stmt)) {
-            echo json_encode([
-                'success' => true,
-                'message' => 'Coterie association deleted successfully'
-            ], JSON_UNESCAPED_UNICODE);
-        } else {
-            throw new Exception('Failed to delete coterie association: ' . mysqli_error($conn));
+
+        $filter = 'character_id=eq.' . $character_id . '&coterie_name=eq.' . rawurlencode($coterie_name);
+        $result = supabase_rest_request('DELETE', '/rest/v1/character_coteries?' . $filter);
+        if ($result['error'] !== null) {
+            throw new Exception('Failed to delete coterie association: ' . $result['error']);
         }
-        
+        echo json_encode(['success' => true, 'message' => 'Coterie association deleted successfully'], JSON_UNESCAPED_UNICODE);
+
     } else {
         throw new Exception('Method not allowed');
     }
-    
 } catch (Exception $e) {
     http_response_code(500);
-    echo json_encode([
-        'success' => false,
-        'error' => $e->getMessage()
-    ], JSON_UNESCAPED_UNICODE);
+    echo json_encode(['success' => false, 'error' => $e->getMessage()], JSON_UNESCAPED_UNICODE);
 }
-
-mysqli_close($conn);

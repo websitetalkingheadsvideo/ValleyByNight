@@ -152,7 +152,7 @@ php database/import_characters.php
   - If character is new: Inserts new record
 - Character IDs auto-increment
 - Script handles multiple JSON format variations automatically
-- Database connection info in `includes/connect.php`
+- Shared data access setup in `includes/supabase_client.php`
 - Remote database at `vdb5.pit.pair.com`
 
 ## Supported JSON Format Variations

@@ -3,7 +3,7 @@
 ## Package Identity
 
 **Purpose**: Specialized agent modules for game mechanics (abilities, disciplines, paths, rituals, laws, etc.)  
-**Tech**: PHP modules, some with Node.js MCP servers, MySQL integration  
+**Tech**: PHP modules, some with Node.js MCP servers, Supabase integration  
 **Location**: `agents/` directory with subdirectories per agent
 
 ## Setup & Run
@@ -25,9 +25,8 @@ agents/<agent_name>/
 ### Development
 ```bash
 # No special setup - each agent is self-contained
-# Some agents have Node.js dependencies (e.g., laws_agent)
-cd agents/laws_agent/scripts
-npm install  # If package.json exists
+# Some agents have Node.js dependencies
+# Install only in the specific agent that ships a package.json
 ```
 
 ## Patterns & Conventions
@@ -43,8 +42,8 @@ npm install  # If package.json exists
 **Pattern**:
 ```php
 <?php
-require_once __DIR__ . '/../../includes/connect.php';
-// Display logic using database queries
+require_once __DIR__ . '/../../includes/supabase_client.php';
+// Display logic using Supabase REST queries
 ?>
 ```
 
@@ -78,10 +77,10 @@ $config = json_decode(file_get_contents(__DIR__ . '/config.json'), true);
 ```
 
 ### Database Integration
-Agents use the root database connection:
+Agents use the shared Supabase client:
 ```php
-require_once __DIR__ . '/../../includes/connect.php';
-// $conn available
+require_once __DIR__ . '/../../includes/supabase_client.php';
+// Use supabase_table_get() and supabase_rest_request()
 ```
 
 ## NPC Pressure System
@@ -244,7 +243,7 @@ find agents/ -path "*/tests/*.php"
 - **Path Prefixes**: Agents are 2+ levels deep - use `__DIR__ . '/../../includes/` for root includes
 - **MCP Servers**: Some agents (laws_agent) have Node.js MCP servers - check for `package.json`
 - **Config Loading**: Always load config from `config/config.php`, not directly from JSON
-- **Database Queries**: Use prepared statements via root `$conn` connection
+- **Database Access**: Use `supabase_table_get()` / `supabase_rest_request()` via the shared client
 - **Agent Isolation**: Each agent is self-contained - don't cross-reference agent internals
 
 ## Pre-PR Checks
@@ -253,8 +252,8 @@ find agents/ -path "*/tests/*.php"
 # Verify PHP syntax in all agents
 find agents/ -name "*.php" -exec php -l {} \;
 
-# Check for prepared statements
-rg -n "mysqli_query.*\$" agents/ | grep -v "prepare"
+# Check for legacy DB helpers
+rg -n "db_fetch_|db_select|db_execute" agents/
 
 # Verify config files exist for agents with config/
 find agents/ -type d -name "config" -exec sh -c 'test -f "$1/config.php" || test -f "$1/config.json"' _ {} \;

@@ -34,7 +34,7 @@ if (!file_exists($header_path)) {
 }
 
 require_once $version_path;
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 // Load Ability Agent
 require_once __DIR__ . '/src/AbilityAgent.php';
@@ -50,7 +50,7 @@ $stats = [
 ];
 
 try {
-    $agent = new AbilityAgent($conn);
+    $agent = new AbilityAgent(null);
     $abilities = $agent->getCanonicalAbilities(null);
     
     $stats['total'] = count($abilities);

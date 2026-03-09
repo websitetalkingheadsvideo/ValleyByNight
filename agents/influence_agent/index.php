@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 session_start();
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 if (!isset($_SESSION['user_id'])) {
     header('Location: /login.php');
@@ -18,11 +18,10 @@ $selectedLevel = isset($_GET['level']) ? (int)$_GET['level'] : 0;
 $showAllLevels = isset($_GET['show_all']) && $_GET['show_all'] === '1';
 
 // Fetch all influence types
-$influence_types_query = "SELECT influence_name, description FROM influence_types WHERE is_active = 1 ORDER BY sort_order";
-$influence_types_result = mysqli_query($conn, $influence_types_query);
+$influence_rows = supabase_table_get('influence_types', ['is_active' => 'eq.1', 'order' => 'sort_order.asc', 'select' => 'influence_name,description']);
 $influence_types = [];
-while ($row = mysqli_fetch_assoc($influence_types_result)) {
-    $influence_types[$row['influence_name']] = $row['description'];
+foreach (is_array($influence_rows) ? $influence_rows : [] as $row) {
+    $influence_types[$row['influence_name'] ?? ''] = $row['description'] ?? '';
 }
 
 // Fetch effects if influence and level are selected
@@ -30,49 +29,27 @@ $effects_data = null;
 $all_effects_data = [];
 if ($selectedInfluence) {
     if ($showAllLevels) {
-        // Fetch all levels for the selected influence
-        $all_effects_query = "
-            SELECT ie.level, ie.effects_text, it.description, it.influence_name
-            FROM influence_effects_lookup ie
-            JOIN influence_types it ON ie.influence_name = it.influence_name
-            WHERE ie.influence_name = ?
-            ORDER BY ie.level ASC
-        ";
-        $stmt = mysqli_prepare($conn, $all_effects_query);
-        if ($stmt) {
-            mysqli_stmt_bind_param($stmt, 's', $selectedInfluence);
-            if (mysqli_stmt_execute($stmt)) {
-                $result = mysqli_stmt_get_result($stmt);
-                while ($row = mysqli_fetch_assoc($result)) {
-                    $all_effects_data[] = $row;
-                }
-            } else {
-                error_log("Query execution failed: " . mysqli_stmt_error($stmt));
-            }
-            mysqli_stmt_close($stmt);
-        } else {
-            error_log("Prepare failed: " . mysqli_error($conn));
+        $all_effects_data = supabase_table_get('influence_effects_lookup', [
+            'select' => 'level,effects_text,influence_name',
+            'influence_name' => 'eq.' . $selectedInfluence,
+            'order' => 'level.asc'
+        ]);
+        $all_effects_data = is_array($all_effects_data) ? $all_effects_data : [];
+        $descRow = isset($influence_types[$selectedInfluence]) ? ['description' => $influence_types[$selectedInfluence], 'influence_name' => $selectedInfluence] : [];
+        foreach ($all_effects_data as &$r) {
+            $r['description'] = $descRow['description'] ?? '';
         }
+        unset($r);
     } elseif ($selectedLevel >= 1 && $selectedLevel <= 5) {
-        // Fetch single level
-        $effects_query = "
-            SELECT ie.level, ie.effects_text, it.description, it.influence_name
-            FROM influence_effects_lookup ie
-            JOIN influence_types it ON ie.influence_name = it.influence_name
-            WHERE ie.influence_name = ? AND ie.level = ?
-        ";
-        $stmt = mysqli_prepare($conn, $effects_query);
-        if ($stmt) {
-            mysqli_stmt_bind_param($stmt, 'si', $selectedInfluence, $selectedLevel);
-            if (mysqli_stmt_execute($stmt)) {
-                $result = mysqli_stmt_get_result($stmt);
-                $effects_data = mysqli_fetch_assoc($result);
-            } else {
-                error_log("Query execution failed: " . mysqli_stmt_error($stmt));
-            }
-            mysqli_stmt_close($stmt);
-        } else {
-            error_log("Prepare failed: " . mysqli_error($conn));
+        $effRows = supabase_table_get('influence_effects_lookup', [
+            'select' => 'level,effects_text,influence_name',
+            'influence_name' => 'eq.' . $selectedInfluence,
+            'level' => 'eq.' . $selectedLevel,
+            'limit' => 1
+        ]);
+        $effects_data = (is_array($effRows) && count($effRows) > 0) ? $effRows[0] : null;
+        if ($effects_data && isset($influence_types[$selectedInfluence])) {
+            $effects_data['description'] = $influence_types[$selectedInfluence];
         }
     }
 }
@@ -80,25 +57,15 @@ if ($selectedInfluence) {
 // Fetch all effects for selected influence (for level selector)
 $all_levels = [];
 if ($selectedInfluence) {
-    $levels_query = "
-        SELECT level, effects_text
-        FROM influence_effects_lookup
-        WHERE influence_name = ?
-        ORDER BY level
-    ";
-    $stmt = mysqli_prepare($conn, $levels_query);
-    if ($stmt) {
-        mysqli_stmt_bind_param($stmt, 's', $selectedInfluence);
-        mysqli_stmt_execute($stmt);
-        $result = mysqli_stmt_get_result($stmt);
-        while ($row = mysqli_fetch_assoc($result)) {
-            $all_levels[$row['level']] = $row['effects_text'];
-        }
-        mysqli_stmt_close($stmt);
+    $levelRows = supabase_table_get('influence_effects_lookup', [
+        'select' => 'level,effects_text',
+        'influence_name' => 'eq.' . $selectedInfluence,
+        'order' => 'level.asc'
+    ]);
+    foreach (is_array($levelRows) ? $levelRows : [] as $row) {
+        $all_levels[$row['level'] ?? 0] = $row['effects_text'] ?? '';
     }
 }
-
-mysqli_close($conn);
 
 $extra_css = ['css/global.css'];
 include __DIR__ . '/../../includes/header.php';

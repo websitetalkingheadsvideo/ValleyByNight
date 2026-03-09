@@ -1,6 +1,6 @@
 # Character Summary - VbN World Overview
 
-**Source:** MySQL Database (canonical)
+**Source:** Canonical project data (read-only)
 **Generated:** 2025-12-21
 **Total Characters:** 50
 
@@ -253,10 +253,10 @@ The distribution of generations indicates the power structure and age demographi
 
 ## Sources Cited
 
-- MySQL Database (canonical source)
+- Canonical project data (read-only)
 - `database/export_npcs.php` - Export script
 - `reference/Characters/character.json` - Schema reference
 
 ---
 
-**Note on Data Quality**: All character data is sourced directly from the MySQL database, which is the canonical source of truth. This summary reflects the current state of NPCs in the database.
+**Note on Data Quality**: All character data is sourced directly from the canonical project data store. This summary reflects the current state of NPCs in the dataset.

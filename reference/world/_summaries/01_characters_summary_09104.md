@@ -8,7 +8,7 @@ db_readonly: true
 ---
 # Character Summary - VbN World Overview
 
-**Source:** MySQL Database (canonical, read-only)
+**Source:** Canonical project data (read-only)
 **Generated:** 2026-02-07
 
 ---

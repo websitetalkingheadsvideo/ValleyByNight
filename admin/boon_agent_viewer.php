@@ -21,7 +21,7 @@ $isAjax = isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_
 
 // If AJAX request, handle it and return JSON without loading the full page
 if ($isAjax && $action) {
-    require_once __DIR__ . '/../includes/connect.php';
+    require_once __DIR__ . '/../includes/supabase_client.php';
     require_once __DIR__ . '/../agents/boon_agent/src/BoonAgent.php';
     
     $boonAgent = null;
@@ -31,10 +31,10 @@ if ($isAjax && $action) {
         $config_file = __DIR__ . '/../agents/boon_agent/config/settings.json';
         $config = [];
         if (file_exists($config_file)) {
-            $config = json_decode(file_get_contents($config_file), true);
+            $config = json_decode(file_get_contents($config_file), true) ?? [];
         }
         
-        $boonAgent = new BoonAgent($conn, $config);
+        $boonAgent = new BoonAgent(null, $config);
         
         if ($boonAgent) {
             switch ($action) {
@@ -66,7 +66,7 @@ if ($isAjax && $action) {
                     $actionResult = $boonAgent->generateEconomyReport();
                     break;
                 case 'get_relationships':
-                    $actionResult = getBoonRelationshipsData($conn);
+                    $actionResult = getBoonRelationshipsData();
                     break;
             }
         }
@@ -81,85 +81,66 @@ if ($isAjax && $action) {
 }
 
 /**
- * Get boon relationships data for graph visualization
+ * Get boon relationships data for graph visualization (Supabase)
  */
-function getBoonRelationshipsData($conn) {
-    // Fetch all boons with character information
-    $query = "SELECT 
-                b.id as boon_id,
-                b.creditor_id,
-                b.debtor_id,
-                creditor.character_name as creditor_name,
-                debtor.character_name as debtor_name,
-                b.boon_type,
-                b.status,
-                b.description
-              FROM boons b
-              LEFT JOIN characters creditor ON b.creditor_id = creditor.id
-              LEFT JOIN characters debtor ON b.debtor_id = debtor.id
-              WHERE b.status != 'fulfilled' AND b.status != 'cancelled'
-              ORDER BY b.created_date DESC";
-    
-    $result = mysqli_query($conn, $query);
-    
-    if (!$result) {
-        return ['success' => false, 'error' => mysqli_error($conn)];
+function getBoonRelationshipsData(): array {
+    $boons = supabase_table_get('boons', [
+        'select' => 'id,creditor_id,debtor_id,boon_type,status,description',
+        'status' => 'neq.fulfilled',
+        'order' => 'created_date.desc'
+    ]);
+    $boons = is_array($boons) ? $boons : [];
+    $boons = array_filter($boons, function ($b) {
+        $s = strtolower((string) ($b['status'] ?? ''));
+        return $s !== 'cancelled' && $s !== 'fulfilled';
+    });
+
+    $charIds = [];
+    foreach ($boons as $b) {
+        if (!empty($b['creditor_id'])) {
+            $charIds[(int) $b['creditor_id']] = true;
+        }
+        if (!empty($b['debtor_id'])) {
+            $charIds[(int) $b['debtor_id']] = true;
+        }
     }
-    
+    $charIds = array_keys($charIds);
+    $nameMap = [];
+    if (!empty($charIds)) {
+        $chars = supabase_table_get('characters', ['select' => 'id,character_name', 'id' => 'in.(' . implode(',', $charIds) . ')']);
+        foreach (is_array($chars) ? $chars : [] as $c) {
+            $nameMap[(int) ($c['id'] ?? 0)] = $c['character_name'] ?? 'Unknown';
+        }
+    }
+
     $nodes = [];
     $edges = [];
     $characterMap = [];
-    
-    while ($row = mysqli_fetch_assoc($result)) {
-        // Add creditor node if not exists
-        if (!isset($characterMap[$row['creditor_id']])) {
-            $characterMap[$row['creditor_id']] = [
-                'id' => $row['creditor_id'],
-                'label' => $row['creditor_name'] ?? 'Unknown',
-                'name' => $row['creditor_name'] ?? 'Unknown'
-            ];
+    foreach ($boons as $row) {
+        $creditorId = (int) ($row['creditor_id'] ?? 0);
+        $debtorId = (int) ($row['debtor_id'] ?? 0);
+        $creditorName = $nameMap[$creditorId] ?? 'Unknown';
+        $debtorName = $nameMap[$debtorId] ?? 'Unknown';
+        if (!isset($characterMap[$creditorId])) {
+            $characterMap[$creditorId] = ['id' => $creditorId, 'label' => $creditorName, 'name' => $creditorName];
         }
-        
-        // Add debtor node if not exists
-        if (!isset($characterMap[$row['debtor_id']])) {
-            $characterMap[$row['debtor_id']] = [
-                'id' => $row['debtor_id'],
-                'label' => $row['debtor_name'] ?? 'Unknown',
-                'name' => $row['debtor_name'] ?? 'Unknown'
-            ];
+        if (!isset($characterMap[$debtorId])) {
+            $characterMap[$debtorId] = ['id' => $debtorId, 'label' => $debtorName, 'name' => $debtorName];
         }
-        
-        // Add edge (relationship)
-        $edgeColor = getBoonTypeColor($row['boon_type']);
-        $edgeTitle = sprintf(
-            '%s → %s: %s (%s)',
-            htmlspecialchars($row['creditor_name'] ?? 'Unknown'),
-            htmlspecialchars($row['debtor_name'] ?? 'Unknown'),
-            htmlspecialchars($row['boon_type']),
-            htmlspecialchars($row['status'])
-        );
-        
         $edges[] = [
-            'from' => $row['creditor_id'],
-            'to' => $row['debtor_id'],
-            'label' => ucfirst($row['boon_type']),
-            'title' => $edgeTitle,
-            'color' => ['color' => $edgeColor],
-            'width' => getBoonTypeWidth($row['boon_type']),
-            'boon_id' => $row['boon_id'],
-            'boon_type' => $row['boon_type'],
-            'status' => $row['status']
+            'from' => $creditorId,
+            'to' => $debtorId,
+            'label' => ucfirst((string) ($row['boon_type'] ?? '')),
+            'title' => $creditorName . ' → ' . $debtorName . ': ' . ($row['boon_type'] ?? '') . ' (' . ($row['status'] ?? '') . ')',
+            'color' => ['color' => getBoonTypeColor($row['boon_type'] ?? '')],
+            'width' => getBoonTypeWidth($row['boon_type'] ?? ''),
+            'boon_id' => $row['id'] ?? null,
+            'boon_type' => $row['boon_type'] ?? '',
+            'status' => $row['status'] ?? ''
         ];
     }
-    
-    // Convert map to array
     $nodes = array_values($characterMap);
-    
-    return [
-        'success' => true,
-        'nodes' => $nodes,
-        'edges' => $edges
-    ];
+    return ['success' => true, 'nodes' => $nodes, 'edges' => $edges];
 }
 
 function getBoonTypeColor($type) {
@@ -183,7 +164,7 @@ function getBoonTypeWidth($type) {
 }
 
 // Normal page load - include header and continue
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 include __DIR__ . '/../includes/header.php';
 
 // Load Boon Agent
@@ -193,14 +174,12 @@ $boonAgent = null;
 $error = null;
 
 try {
-    // Pass the database connection and load config
     $config_file = __DIR__ . '/../agents/boon_agent/config/settings.json';
     $config = [];
     if (file_exists($config_file)) {
-        $config = json_decode(file_get_contents($config_file), true);
+        $config = json_decode(file_get_contents($config_file), true) ?? [];
     }
-    
-    $boonAgent = new BoonAgent($conn, $config);
+    $boonAgent = new BoonAgent(null, $config);
 } catch (Exception $e) {
     $error = $e->getMessage();
 }
@@ -345,15 +324,19 @@ $extra_css = ['css/admin-agents.css'];
             <div class="card-body">
                 <h3 class="card-title text-light mb-3">Quick Statistics</h3>
                 <?php
-                $statsQuery = "SELECT 
-                    COUNT(*) as total,
-                    SUM(CASE WHEN status = 'active' THEN 1 ELSE 0 END) as owed,
-                    0 as called,
-                    SUM(CASE WHEN status = 'fulfilled' THEN 1 ELSE 0 END) as paid,
-                    SUM(CASE WHEN status IN ('disputed', 'cancelled') THEN 1 ELSE 0 END) as broken
-                FROM boons";
-                $statsResult = mysqli_query($conn, $statsQuery);
-                $stats = mysqli_fetch_assoc($statsResult);
+                $boonsAll = supabase_table_get('boons', ['select' => 'id,status']);
+                $boonsAll = is_array($boonsAll) ? $boonsAll : [];
+                $stats = ['total' => count($boonsAll), 'owed' => 0, 'called' => 0, 'paid' => 0, 'broken' => 0];
+                foreach ($boonsAll as $b) {
+                    $s = strtolower((string) ($b['status'] ?? ''));
+                    if ($s === 'active') {
+                        $stats['owed']++;
+                    } elseif ($s === 'fulfilled') {
+                        $stats['paid']++;
+                    } elseif ($s === 'disputed' || $s === 'cancelled') {
+                        $stats['broken']++;
+                    }
+                }
                 ?>
                 <div class="row g-3">
                     <div class="col-6 col-md-3">

@@ -4,7 +4,7 @@
 
 **Repository Type**: Single PHP web application (not monorepo)  
 **Primary Tech Stack**: PHP 7.4+, Supabase (Postgres), Bootstrap 5.3.2, Vanilla JavaScript  
-**Database**: Supabase only (no MySQL). Use `includes/supabase_client.php` for all database access.  
+**Database**: Supabase only. Use `includes/supabase_client.php` for all database access.  
 **Domain (app base URL)**: `http://192.168.0.155` — use this for all agent/docs links (e.g. Laws Agent import: http://192.168.0.155/agents/laws_agent/import_books.php)  
 **Sub-packages**: Specialized agent modules in `agents/` directory, each with its own AGENTS.md
 
@@ -61,8 +61,8 @@ find . -name "*.php" -not -path "./node_modules/*" -not -path "./venv/*" -exec p
 
 ### Security & Secrets
 - **Never commit `.env` files** - contains database credentials
-- Database password stored in `.env` file (takes priority over system env vars)
-- Use prepared statements for all database queries (via `includes/connect.php`)
+- Supabase credentials are stored in `.env` (takes priority over system env vars)
+- Use `supabase_table_get()` and `supabase_rest_request()` for all database access
 - Session management via PHP sessions (started in `includes/header.php`)
 
 ## JIT Index (what to open, not what to paste)
@@ -91,8 +91,8 @@ rg -n "function functionName" js/
 # Find API endpoints (api_*.php files)
 rg -n "api_" admin/ agents/
 
-# Find database queries
-rg -n "mysqli_query\|->query\|prepare" --type php
+# Find Supabase access
+rg -n "supabase_table_get|supabase_rest_request" --type php
 
 # Find Bootstrap usage
 rg -n "class=.*btn\|class=.*card\|class=.*modal" --type php
@@ -121,7 +121,7 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // Includes
-require_once __DIR__ . '/includes/connect.php';
+require_once __DIR__ . '/includes/supabase_client.php';
 require_once __DIR__ . '/includes/header.php';
 
 // Page logic here
@@ -139,11 +139,11 @@ $segment_count = substr_count(trim($script_dir, '/'), '/') + 1;
 $path_prefix = str_repeat('../', $segment_count);
 ```
 
-### Database Connection
-Always use `includes/connect.php`:
+### Database Access
+Always use `includes/supabase_client.php`:
 ```php
-require_once __DIR__ . '/includes/connect.php';
-// $conn is available after include
+require_once __DIR__ . '/includes/supabase_client.php';
+// Use supabase_table_get() or supabase_rest_request()
 ```
 
 ## Definition of Done

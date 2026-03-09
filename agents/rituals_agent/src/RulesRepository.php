@@ -3,168 +3,108 @@ declare(strict_types=1);
 
 /**
  * RulesRepository
- * 
- * Handles queries to the Rules database (rulebooks/rulebook_pages tables).
- * Provides methods to fetch global and tradition-specific ritual rules.
+ * Handles queries to rulebooks/rulebook_pages (Supabase).
+ * Returns [] if tables unavailable - no MySQL full-text search equivalent.
  */
 
 class RulesRepository
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
-    
-    /**
-     * @var array
-     */
+
+    /** @var array */
     protected $config;
-    
-    /**
-     * @param mysqli $db
-     * @param array $config
-     */
+
     public function __construct($db, array $config = [])
     {
         $this->db = $db;
         $this->config = $config;
     }
-    
-    /**
-     * Get global ritual rules
-     * 
-     * Searches for general ritual rules that apply to all ritual types.
-     * 
-     * @param int $limit Maximum number of results
-     * @return array Array of rule excerpts with metadata
-     */
+
+    protected function supabase(): void
+    {
+        static $loaded = false;
+        if (!$loaded) {
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $loaded = true;
+        }
+    }
+
     public function getGlobalRitualRules(int $limit = 10): array
     {
-        // Search for general ritual rules (not tradition-specific)
-        $query = "ritual casting learning components ingredients";
-        
-        $sql = <<<SQL
-            SELECT
-                r.id AS rulebook_id,
-                r.title AS book_title,
-                r.category,
-                r.system_type,
-                rp.page_number,
-                rp.page_text,
-                MATCH(rp.page_text) AGAINST(? IN NATURAL LANGUAGE MODE) AS relevance
-            FROM rulebook_pages rp
-            JOIN rulebooks r ON rp.rulebook_id = r.id
-            WHERE MATCH(rp.page_text) AGAINST(? IN NATURAL LANGUAGE MODE)
-              AND (
-                  rp.page_text LIKE '%ritual%' 
-                  OR rp.page_text LIKE '%rituals%'
-                  OR rp.page_text LIKE '%casting%'
-                  OR rp.page_text LIKE '%learning ritual%'
-                  OR rp.page_text LIKE '%ritual component%'
-                  OR rp.page_text LIKE '%ritual ingredient%'
-              )
-              AND (
-                  rp.page_text NOT LIKE '%thaumaturgy%'
-                  AND rp.page_text NOT LIKE '%necromancy%'
-                  AND rp.page_text NOT LIKE '%assamite%'
-              )
-            ORDER BY relevance DESC
-            LIMIT ?
-        SQL;
-        
-        $result = db_select($this->db, $sql, 'ssi', [$query, $query, $limit]);
-        
-        if ($result === false) {
+        try {
+            $this->supabase();
+            $rows = supabase_table_get('rulebook_pages', [
+                'select' => 'rulebook_id,page_number,page_text',
+                'page_text' => 'ilike.%ritual%',
+                'limit' => (string)$limit
+            ]);
+        } catch (Throwable $e) {
             return [];
         }
-        
+        if (empty($rows)) return [];
+        $rbIds = array_unique(array_filter(array_column($rows, 'rulebook_id')));
+        $rulebooks = [];
+        if (!empty($rbIds)) {
+            $rbs = supabase_table_get('rulebooks', ['select' => 'id,title,category,system_type', 'id' => 'in.(' . implode(',', array_map('intval', $rbIds)) . ')']);
+            foreach ($rbs as $r) {
+                $rulebooks[(int)$r['id']] = $r;
+            }
+        }
         $rules = [];
-        while ($row = mysqli_fetch_assoc($result)) {
+        foreach ($rows as $r) {
+            $rb = $rulebooks[(int)($r['rulebook_id'] ?? 0)] ?? null;
             $rules[] = [
-                'rulebook_id' => (int)$row['rulebook_id'],
-                'book_title' => $row['book_title'],
-                'category' => $row['category'],
-                'system_type' => $row['system_type'],
-                'page_number' => (int)$row['page_number'],
-                'page_text' => $row['page_text'],
-                'excerpt' => $this->extractExcerpt($row['page_text'], 300),
-                'relevance' => (float)($row['relevance'] ?? 0)
+                'rulebook_id' => (int)($r['rulebook_id'] ?? 0),
+                'book_title' => $rb['title'] ?? '',
+                'category' => $rb['category'] ?? null,
+                'system_type' => $rb['system_type'] ?? null,
+                'page_number' => (int)($r['page_number'] ?? 0),
+                'page_text' => $r['page_text'] ?? '',
+                'excerpt' => $this->extractExcerpt($r['page_text'] ?? '', 300),
+                'relevance' => 0.0
             ];
         }
-        
         return $rules;
     }
-    
-    /**
-     * Get tradition-specific ritual rules
-     * 
-     * Searches for rules specific to a ritual tradition (e.g., Thaumaturgy, Necromancy).
-     * 
-     * @param string $tradition Tradition name (e.g., "Thaumaturgy", "Necromancy", "Assamite")
-     * @param int $limit Maximum number of results
-     * @return array Array of rule excerpts with metadata
-     */
+
     public function getTraditionRules(string $tradition, int $limit = 10): array
     {
-        // Build search query for tradition-specific rules
-        $traditionLower = strtolower($tradition);
-        $query = "{$traditionLower} ritual rituals casting learning";
-        
-        $sql = <<<SQL
-            SELECT
-                r.id AS rulebook_id,
-                r.title AS book_title,
-                r.category,
-                r.system_type,
-                rp.page_number,
-                rp.page_text,
-                MATCH(rp.page_text) AGAINST(? IN NATURAL LANGUAGE MODE) AS relevance
-            FROM rulebook_pages rp
-            JOIN rulebooks r ON rp.rulebook_id = r.id
-            WHERE MATCH(rp.page_text) AGAINST(? IN NATURAL LANGUAGE MODE)
-              AND (
-                  rp.page_text LIKE ? 
-                  OR rp.page_text LIKE ?
-              )
-              AND (
-                  rp.page_text LIKE '%ritual%' 
-                  OR rp.page_text LIKE '%rituals%'
-                  OR rp.page_text LIKE '%casting%'
-              )
-            ORDER BY relevance DESC
-            LIMIT ?
-        SQL;
-        
-        $traditionPattern1 = "%{$traditionLower}%";
-        $traditionPattern2 = "%{$tradition}%";
-        
-        $result = db_select($this->db, $sql, 'ssssi', [
-            $query, 
-            $query, 
-            $traditionPattern1, 
-            $traditionPattern2, 
-            $limit
-        ]);
-        
-        if ($result === false) {
+        try {
+            $this->supabase();
+            $pat = '%' . addcslashes($tradition, '%_\\') . '%';
+            $rows = supabase_table_get('rulebook_pages', [
+                'select' => 'rulebook_id,page_number,page_text',
+                'page_text' => 'ilike.' . $pat,
+                'limit' => (string)$limit
+            ]);
+        } catch (Throwable $e) {
             return [];
         }
-        
+        if (empty($rows)) return [];
+        $rbIds = array_unique(array_filter(array_column($rows, 'rulebook_id')));
+        $rulebooks = [];
+        if (!empty($rbIds)) {
+            $rbs = supabase_table_get('rulebooks', ['select' => 'id,title,category,system_type', 'id' => 'in.(' . implode(',', array_map('intval', $rbIds)) . ')']);
+            foreach ($rbs as $r) {
+                $rulebooks[(int)$r['id']] = $r;
+            }
+        }
         $rules = [];
-        while ($row = mysqli_fetch_assoc($result)) {
+        foreach ($rows as $r) {
+            $rb = $rulebooks[(int)($r['rulebook_id'] ?? 0)] ?? null;
             $rules[] = [
-                'rulebook_id' => (int)$row['rulebook_id'],
-                'book_title' => $row['book_title'],
-                'category' => $row['category'],
-                'system_type' => $row['system_type'],
-                'page_number' => (int)$row['page_number'],
-                'page_text' => $row['page_text'],
-                'excerpt' => $this->extractExcerpt($row['page_text'], 300),
-                'relevance' => (float)($row['relevance'] ?? 0),
+                'rulebook_id' => (int)($r['rulebook_id'] ?? 0),
+                'book_title' => $rb['title'] ?? '',
+                'category' => $rb['category'] ?? null,
+                'system_type' => $rb['system_type'] ?? null,
+                'page_number' => (int)($r['page_number'] ?? 0),
+                'page_text' => $r['page_text'] ?? '',
+                'excerpt' => $this->extractExcerpt($r['page_text'] ?? '', 300),
+                'relevance' => 0.0,
                 'tradition' => $tradition
             ];
         }
-        
         return $rules;
     }
     

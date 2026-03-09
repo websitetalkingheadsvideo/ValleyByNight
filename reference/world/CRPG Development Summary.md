@@ -16,7 +16,7 @@ To create a faithful, narrative-driven Computer RPG based on the "Laws of the Ni
 Inspired by *Vampire: The Masquerade - Bloodlines*, character creation will begin with a detailed questionnaire. This questionnaire presents the player with modern social and ethical dilemmas. Based on their answers, the game will recommend a Camarilla clan and explain why that clan fits their personality and playstyle, serving as an engaging introduction to the clans.
 
 **Technical Approach:**
-*   **Technologies:** HTML5, CSS3, and native JavaScript (ES6+) for the frontend, with a component-based design. MySQL and PHP (potentially with a framework like Laravel) are considered for a backend to enable features like cloud saves and, ambitiously, a potential "Live Storyteller Mode" in the distant future. An Electron wrapper is also a possibility for desktop distribution.
+*   **Technologies:** HTML5, CSS3, and native JavaScript (ES6+) for the frontend, with a PHP backend and Supabase-backed data access to enable features like cloud saves and, ambitiously, a potential "Live Storyteller Mode" in the distant future. An Electron wrapper is also a possibility for desktop distribution.
 *   **Data Management:** JSON files will be used for dialogue trees, quest data, and game world information, allowing for flexibility and easier content creation.
 *   **Initial Deployment:** The project will likely start as a web-based game, potentially evolving into a desktop application.
 

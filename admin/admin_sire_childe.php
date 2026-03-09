@@ -13,8 +13,54 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 include __DIR__ . '/../includes/header.php';
+
+// Fetch all characters for stats, table, and dropdowns
+$all_chars = supabase_table_get('characters', ['select' => 'id,character_name,clan,generation,sire,player_name', 'order' => 'character_name.asc']);
+$all_chars = is_array($all_chars) ? $all_chars : [];
+
+$name_to_id = [];
+foreach ($all_chars as $c) {
+    $name_to_id[$c['character_name'] ?? ''] = (int) ($c['id'] ?? 0);
+}
+
+// Stats
+$total_vampires = count($all_chars);
+$with_sire = 0;
+$without_sire = 0;
+foreach ($all_chars as $c) {
+    $s = trim((string) ($c['sire'] ?? ''));
+    if ($s !== '') {
+        $with_sire++;
+    } else {
+        $without_sire++;
+    }
+}
+$childer_count = 0;
+foreach ($all_chars as $c) {
+    $sire_name = trim((string) ($c['sire'] ?? ''));
+    if ($sire_name !== '' && isset($name_to_id[$sire_name])) {
+        $childer_count++;
+    }
+}
+$stats = ['total_vampires' => $total_vampires, 'with_sire' => $with_sire, 'without_sire' => $without_sire, 'childer_count' => $childer_count];
+
+// Childe counts and names per character
+$childe_counts = [];
+$childe_names = [];
+foreach ($all_chars as $c) {
+    $name = $c['character_name'] ?? '';
+    $childe_counts[$name] = 0;
+    $childe_names[$name] = [];
+}
+foreach ($all_chars as $c) {
+    $sire_name = trim((string) ($c['sire'] ?? ''));
+    if ($sire_name !== '' && isset($childe_counts[$sire_name])) {
+        $childe_counts[$sire_name]++;
+        $childe_names[$sire_name][] = $c['character_name'] ?? '';
+    }
+}
 ?>
 
 <link rel="stylesheet" href="../css/admin_sire_childe.css">
@@ -55,20 +101,6 @@ include __DIR__ . '/../includes/header.php';
     <!-- Relationship Statistics -->
     <div class="row g-3 mb-4">
         <?php
-        // Get relationship statistics
-        $stats_query = "SELECT 
-            COUNT(*) as total_vampires,
-            COUNT(CASE WHEN sire IS NOT NULL AND sire != '' THEN 1 END) as with_sire,
-            COUNT(CASE WHEN sire IS NULL OR sire = '' THEN 1 END) as without_sire,
-            (SELECT COUNT(*) FROM characters c1 WHERE c1.sire IN (SELECT character_name FROM characters c2 WHERE c1.sire = c2.character_name)) as childer_count
-            FROM characters";
-        $stats_result = mysqli_query($conn, $stats_query);
-        
-        if ($stats_result) {
-            $stats = mysqli_fetch_assoc($stats_result);
-        } else {
-            $stats = ['total_vampires' => 0, 'with_sire' => 0, 'without_sire' => 0, 'childer_count' => 0];
-        }
         ?>
         <div class="col-6 col-md-3">
             <div class="card bg-dark border-danger">
@@ -147,20 +179,16 @@ include __DIR__ . '/../includes/header.php';
             </thead>
             <tbody>
                 <?php
-                $relationship_query = "SELECT c.*, 
-                    (SELECT COUNT(*) FROM characters c2 WHERE c2.sire = c.character_name) as childe_count,
-                    (SELECT GROUP_CONCAT(c2.character_name SEPARATOR ', ') FROM characters c2 WHERE c2.sire = c.character_name) as childe_names,
-                    (SELECT COUNT(*) FROM characters c3 WHERE c3.character_name = c.sire) as sire_exists
-                    FROM characters c 
-                    ORDER BY c.character_name";
-                $relationship_result = mysqli_query($conn, $relationship_query);
-                
-                if (!$relationship_result) {
-                    echo "<tr><td colspan='7'>Query Error: " . mysqli_error($conn) . "</td></tr>";
-                } elseif (mysqli_num_rows($relationship_result) > 0) {
-                    while ($char = mysqli_fetch_assoc($relationship_result)) {
-                        $is_npc = ($char['player_name'] === 'NPC');
-                        $has_sire = !empty($char['sire']);
+                if (count($all_chars) > 0) {
+                    foreach ($all_chars as $char) {
+                        $char['childe_count'] = $childe_counts[$char['character_name'] ?? ''] ?? 0;
+                        $char['childe_names'] = implode(', ', $childe_names[$char['character_name'] ?? ''] ?? []);
+                        $char['sire_exists'] = 0;
+                        if (!empty(trim((string) ($char['sire'] ?? '')))) {
+                            $char['sire_exists'] = isset($name_to_id[trim($char['sire'])]) ? 1 : 0;
+                        }
+                        $is_npc = (($char['player_name'] ?? '') === 'NPC');
+                        $has_sire = !empty(trim((string) ($char['sire'] ?? '')));
                         $has_childer = $char['childe_count'] > 0;
                         $sire_exists = $has_sire && ($char['sire_exists'] > 0);
                 ?>
@@ -218,7 +246,7 @@ include __DIR__ . '/../includes/header.php';
                             </div>
                         </td>
                     </tr>
-                <?php 
+                <?php
                     }
                 } else {
                     echo "<tr><td colspan='7' class='empty-state'>No characters found.</td></tr>";
@@ -247,15 +275,9 @@ include __DIR__ . '/../includes/header.php';
                         <label for="characterSelect" class="form-label text-light">Vampire:</label>
                         <select id="characterSelect" name="character_name" class="form-select bg-dark text-light border-danger" required>
                             <option value="">Select a vampire...</option>
-                            <?php
-                            $char_query = "SELECT id, character_name FROM characters ORDER BY character_name";
-                            $char_result = mysqli_query($conn, $char_query);
-                            if ($char_result) {
-                                while ($char = mysqli_fetch_assoc($char_result)) {
-                                    echo "<option value='{$char['id']}'>{$char['character_name']}</option>";
-                                }
-                            }
-                            ?>
+                            <?php foreach ($all_chars as $char): ?>
+                                <option value="<?php echo (int) ($char['id'] ?? 0); ?>"><?php echo htmlspecialchars($char['character_name'] ?? ''); ?></option>
+                            <?php endforeach; ?>
                         </select>
                         <div class="invalid-feedback">Please select a vampire.</div>
                     </div>
@@ -264,15 +286,9 @@ include __DIR__ . '/../includes/header.php';
                         <label for="sireSelect" class="form-label text-light">Sire:</label>
                         <select id="sireSelect" name="sire" class="form-select bg-dark text-light border-danger">
                             <option value="">No sire (Sireless)</option>
-                            <?php
-                            $sire_query = "SELECT id, character_name FROM characters ORDER BY character_name";
-                            $sire_result = mysqli_query($conn, $sire_query);
-                            if ($sire_result) {
-                                while ($sire = mysqli_fetch_assoc($sire_result)) {
-                                    echo "<option value='{$sire['character_name']}'>{$sire['character_name']}</option>";
-                                }
-                            }
-                            ?>
+                            <?php foreach ($all_chars as $sire): ?>
+                                <option value="<?php echo htmlspecialchars($sire['character_name'] ?? ''); ?>"><?php echo htmlspecialchars($sire['character_name'] ?? ''); ?></option>
+                            <?php endforeach; ?>
                         </select>
                     </div>
                     

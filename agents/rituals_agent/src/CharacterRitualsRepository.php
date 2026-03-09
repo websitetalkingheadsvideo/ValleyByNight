@@ -3,92 +3,108 @@ declare(strict_types=1);
 
 /**
  * CharacterRitualsRepository
- * 
- * Handles read-only database queries for character-known rituals.
- * Joins character_rituals with rituals_master to return full ritual definitions.
+ * Handles read-only database queries for character-known rituals (Supabase).
  */
 
 class CharacterRitualsRepository
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
-    
-    /**
-     * @var array
-     */
+
+    /** @var array */
     protected $config;
-    
-    /**
-     * @param mysqli $db
-     * @param array $config
-     */
+
     public function __construct($db, array $config = [])
     {
         $this->db = $db;
         $this->config = $config;
     }
-    
-    /**
-     * Get all rituals known by a character
-     * 
-     * Supports both ritual_id FK lookup (preferred) and fallback to 
-     * (ritual_name, ritual_type, level) matching for rows without FK.
-     * 
-     * @param int $characterId
-     * @return array Array of ritual data with character-specific fields (notes, is_custom)
-     */
+
+    protected function supabase(): void
+    {
+        static $loaded = false;
+        if (!$loaded) {
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $loaded = true;
+        }
+    }
+
     public function getKnownRitualsForCharacter(int $characterId): array
     {
-        // Prefer FK join when ritual_id is available, fallback to legacy matching
-        $query = "SELECT rm.id, rm.name, rm.type, rm.level, rm.description, rm.system_text, 
-                         rm.requirements, rm.ingredients, rm.source, rm.created_at,
-                         cr.ritual_name, cr.ritual_type, cr.level AS character_level,
-                         cr.is_custom, cr.description AS character_notes,
-                         cr.ritual_id
-                  FROM character_rituals cr
-                  LEFT JOIN rituals_master rm ON (
-                      cr.ritual_id = rm.id 
-                      OR (cr.ritual_id IS NULL AND rm.name = cr.ritual_name 
-                          AND rm.type = cr.ritual_type 
-                          AND rm.level = cr.level)
-                  )
-                  WHERE cr.character_id = ?
-                  ORDER BY rm.type, rm.level, rm.name";
-        
-        $result = db_select($this->db, $query, 'i', [$characterId]);
-        
-        if ($result === false) {
+        $this->supabase();
+        $crs = supabase_table_get('character_rituals', [
+            'select' => 'ritual_id,ritual_name,ritual_type,level,is_custom,description',
+            'character_id' => 'eq.' . $characterId
+        ]);
+        if (empty($crs)) {
             return [];
         }
-        
+        $ritualIds = [];
+        $byNameTypeLevel = [];
+        foreach ($crs as $cr) {
+            $rid = $cr['ritual_id'] ?? null;
+            if ($rid !== null && $rid !== '') {
+                $ritualIds[(int)$rid] = true;
+            } else {
+                $key = ($cr['ritual_name'] ?? '') . '|' . ($cr['ritual_type'] ?? '') . '|' . ($cr['level'] ?? '');
+                $byNameTypeLevel[$key] = $cr;
+            }
+        }
+        $ritualIds = array_keys($ritualIds);
+        $ritualMap = [];
+        if (!empty($ritualIds)) {
+            $rms = supabase_table_get('rituals_master', [
+                'select' => 'id,name,type,level,description,system_text,requirements,ingredients,source,created_at',
+                'id' => 'in.(' . implode(',', $ritualIds) . ')'
+            ]);
+            foreach ($rms as $rm) {
+                $ritualMap[(int)$rm['id']] = $rm;
+            }
+        }
+        $allRituals = supabase_table_get('rituals_master', [
+            'select' => 'id,name,type,level,description,system_text,requirements,ingredients,source,created_at'
+        ]);
+        $byNTL = [];
+        foreach ($allRituals as $rm) {
+            $key = ($rm['name'] ?? '') . '|' . ($rm['type'] ?? '') . '|' . ($rm['level'] ?? '');
+            $byNTL[$key] = $rm;
+        }
         $rituals = [];
-        while ($row = mysqli_fetch_assoc($result)) {
-            // If no match found in rituals_master, create a minimal ritual object
-            if ($row['id'] === null) {
+        foreach ($crs as $cr) {
+            $ritual = null;
+            $rid = $cr['ritual_id'] ?? null;
+            if ($rid !== null && $rid !== '') {
+                $ritual = $ritualMap[(int)$rid] ?? null;
+            }
+            if ($ritual === null) {
+                $key = ($cr['ritual_name'] ?? '') . '|' . ($cr['ritual_type'] ?? '') . '|' . ($cr['level'] ?? '');
+                $ritual = $byNTL[$key] ?? null;
+            }
+            if ($ritual === null) {
                 $rituals[] = [
                     'id' => null,
-                    'name' => $row['ritual_name'] ?? '',
-                    'type' => $row['ritual_type'] ?? '',
-                    'level' => $row['character_level'] ?? null,
-                    'description' => $row['character_notes'] ?? '',
+                    'name' => $cr['ritual_name'] ?? '',
+                    'type' => $cr['ritual_type'] ?? '',
+                    'level' => $cr['level'] ?? null,
+                    'description' => $cr['description'] ?? '',
                     'system_text' => null,
                     'requirements' => null,
                     'ingredients' => null,
                     'source' => null,
                     'created_at' => null,
-                    'is_custom' => (bool)($row['is_custom'] ?? false)
+                    'is_custom' => (bool)($cr['is_custom'] ?? false)
                 ];
             } else {
-                // Full ritual match - add character-specific fields
-                $ritual = $row;
-                $ritual['is_custom'] = (bool)($row['is_custom'] ?? false);
-                unset($ritual['character_notes']); // Remove duplicate description field
+                $ritual['is_custom'] = (bool)($cr['is_custom'] ?? false);
                 $rituals[] = $ritual;
             }
         }
-        
+        usort($rituals, static function ($a, $b) {
+            $t = strcmp($a['type'] ?? '', $b['type'] ?? '');
+            if ($t !== 0) return $t;
+            $l = ((int)($a['level'] ?? 0)) <=> ((int)($b['level'] ?? 0));
+            return $l !== 0 ? $l : strcmp($a['name'] ?? '', $b['name'] ?? '');
+        });
         return $rituals;
     }
 }

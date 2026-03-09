@@ -17,21 +17,7 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
-// Include database connection
-if (!file_exists(__DIR__ . '/../../includes/connect.php')) {
-    header('Content-Type: application/json');
-    echo json_encode(['success' => false, 'error' => 'Database connection file not found'], JSON_PRETTY_PRINT);
-    exit;
-}
-
-require_once __DIR__ . '/../../includes/connect.php';
-
-// Check if database connection exists
-if (!isset($conn) || !$conn) {
-    header('Content-Type: application/json');
-    echo json_encode(['success' => false, 'error' => 'Database connection failed: ' . (isset($conn) ? mysqli_connect_error() : 'Connection not established')], JSON_PRETTY_PRINT);
-    exit;
-}
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 // Include registry I/O functions for path constant
 if (!file_exists(__DIR__ . '/music_registry_io.php')) {
@@ -141,25 +127,20 @@ function format_tags_string(array $tags): string {
  * Fixes rows where source column contains JSON instead of type string.
  * Guarded to only run once per script execution.
  * 
- * @param mysqli $conn Database connection
  * @return array Statistics: repaired, errors
  */
-function repair_bad_source_rows(mysqli $conn): array {
+function repair_bad_source_rows(): array {
     $stats = [
         'repaired' => 0,
         'errors' => []
     ];
-    
-    // Find rows where source begins with '{' (indicating JSON was stored)
-    $find_bad_query = "SELECT id, source, metadata FROM music_assets WHERE source LIKE '{%'";
-    $result = mysqli_query($conn, $find_bad_query);
-    
-    if ($result === false) {
-        $stats['errors'][] = "Error finding bad rows: " . mysqli_error($conn);
-        return $stats;
-    }
-    
-    while ($row = mysqli_fetch_assoc($result)) {
+
+    $rows = supabase_table_get('music_assets', [
+        'select' => 'id,source,metadata',
+        'source' => 'like.{%'
+    ]);
+
+    foreach ($rows as $row) {
         $asset_id = $row['id'];
         $bad_source = $row['source'];
         $existing_metadata = $row['metadata'];
@@ -188,20 +169,20 @@ function repair_bad_source_rows(mysqli $conn): array {
             $new_metadata_json = json_encode($metadata_decoded, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
             
             // Update the row
-            $update_query = "UPDATE music_assets 
-                            SET source = ?, 
-                                metadata = ?,
-                                updated_at = NOW() 
-                            WHERE id = ?";
-            
-            $update_result = db_execute($conn, $update_query, 'sss', [
-                $correct_source,
-                $new_metadata_json,
-                $asset_id
-            ]);
-            
-            if ($update_result === false) {
-                $stats['errors'][] = "Failed to repair asset {$asset_id}: " . mysqli_error($conn);
+            $update_result = supabase_rest_request(
+                'PATCH',
+                '/rest/v1/music_assets',
+                ['id' => 'eq.' . $asset_id],
+                [
+                    'source' => $correct_source,
+                    'metadata' => $new_metadata_json,
+                    'updated_at' => date('Y-m-d H:i:s')
+                ],
+                ['Prefer: return=minimal']
+            );
+
+            if ($update_result['error'] !== null) {
+                $stats['errors'][] = "Failed to repair asset {$asset_id}: " . $update_result['error'];
             } else {
                 $stats['repaired']++;
             }
@@ -211,20 +192,16 @@ function repair_bad_source_rows(mysqli $conn): array {
             // Don't add to errors array since it's not a failure, just a note
         }
     }
-    
-    mysqli_free_result($result);
-    
     return $stats;
 }
 
 /**
  * Main import function
  * 
- * @param mysqli $conn Database connection
  * @param string $registry_path Path to music_registry.json
  * @return array Statistics: inserted, updated, skipped, errors
  */
-function import_music_assets(mysqli $conn, string $registry_path): array {
+function import_music_assets(string $registry_path): array {
     $stats = [
         'inserted' => 0,
         'updated' => 0,
@@ -281,37 +258,33 @@ function import_music_assets(mysqli $conn, string $registry_path): array {
         $metadata_json = json_encode($asset, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
         
         // Check if asset already exists
-        $check_query = "SELECT id, title, source, status, file_count, tags, metadata, updated_at 
-                        FROM music_assets 
-                        WHERE id = ?";
-        $existing = db_select($conn, $check_query, 's', [$id]);
-        
-        if ($existing === false) {
-            $stats['errors'][] = "Error checking for existing asset {$asset_id}: " . mysqli_error($conn);
-            $stats['skipped']++;
-            continue;
-        }
-        
-        $existing_row = mysqli_fetch_assoc($existing);
+        $existing_rows = supabase_table_get('music_assets', [
+            'select' => 'id,title,source,status,file_count,tags,metadata,updated_at',
+            'id' => 'eq.' . $id,
+            'limit' => '1'
+        ]);
+        $existing_row = $existing_rows[0] ?? null;
         
         if ($existing_row === null) {
             // Insert new asset
-            $insert_query = "INSERT INTO music_assets 
-                            (id, title, source, status, file_count, tags, metadata, created_at, updated_at) 
-                            VALUES (?, ?, ?, ?, ?, ?, ?, NOW(), NOW())";
-            
-            $result = db_execute($conn, $insert_query, 'sssiiss', [
-                $id,
-                $title,
-                $source,
-                $status,
-                $file_count,
-                $tags,
-                $metadata_json
-            ]);
-            
-            if ($result === false) {
-                $stats['errors'][] = "Failed to insert asset {$asset_id}: " . mysqli_error($conn);
+            $result = supabase_rest_request(
+                'POST',
+                '/rest/v1/music_assets',
+                [],
+                [
+                    'id' => $id,
+                    'title' => $title,
+                    'source' => $source,
+                    'status' => $status,
+                    'file_count' => $file_count,
+                    'tags' => $tags,
+                    'metadata' => $metadata_json
+                ],
+                ['Prefer: return=representation']
+            );
+
+            if ($result['error'] !== null) {
+                $stats['errors'][] = "Failed to insert asset {$asset_id}: " . $result['error'];
                 $stats['skipped']++;
             } else {
                 $stats['inserted']++;
@@ -343,28 +316,24 @@ function import_music_assets(mysqli $conn, string $registry_path): array {
             
             if ($has_changes) {
                 // Update existing asset
-                $update_query = "UPDATE music_assets 
-                                SET title = ?, 
-                                    source = ?, 
-                                    status = ?, 
-                                    file_count = ?, 
-                                    tags = ?, 
-                                    metadata = ?, 
-                                    updated_at = NOW() 
-                                WHERE id = ?";
-                
-                $result = db_execute($conn, $update_query, 'sssiiss', [
-                    $title,
-                    $source,
-                    $status,
-                    $file_count,
-                    $tags,
-                    $metadata_json,
-                    $id
-                ]);
-                
-                if ($result === false) {
-                    $stats['errors'][] = "Failed to update asset {$asset_id}: " . mysqli_error($conn);
+                $result = supabase_rest_request(
+                    'PATCH',
+                    '/rest/v1/music_assets',
+                    ['id' => 'eq.' . $id],
+                    [
+                        'title' => $title,
+                        'source' => $source,
+                        'status' => $status,
+                        'file_count' => $file_count,
+                        'tags' => $tags,
+                        'metadata' => $metadata_json,
+                        'updated_at' => date('Y-m-d H:i:s')
+                    ],
+                    ['Prefer: return=minimal']
+                );
+
+                if ($result['error'] !== null) {
+                    $stats['errors'][] = "Failed to update asset {$asset_id}: " . $result['error'];
                     $stats['skipped']++;
                 } else {
                     $stats['updated']++;
@@ -385,10 +354,10 @@ header('Content-Type: application/json');
 try {
     // Step 1: Repair existing bad rows (one-time migration)
     // This fixes rows where source contains JSON instead of type string
-    $repair_stats = repair_bad_source_rows($conn);
+    $repair_stats = repair_bad_source_rows();
     
     // Step 2: Import/update assets from JSON
-    $import_stats = import_music_assets($conn, $registry_path);
+    $import_stats = import_music_assets($registry_path);
 } catch (Exception $e) {
     echo json_encode([
         'success' => false,

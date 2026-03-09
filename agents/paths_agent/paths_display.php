@@ -34,7 +34,7 @@ if (!file_exists($header_path)) {
 }
 
 require_once $version_path;
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 // Load Paths Agent
 require_once __DIR__ . '/src/PathsAgent.php';
@@ -50,7 +50,7 @@ $stats = [
 ];
 
 try {
-    $agent = new PathsAgent($conn);
+    $agent = new PathsAgent(null);
     $result = $agent->listPathsByType(null, 10000, 0);
     $paths = $result['paths'] ?? [];
     

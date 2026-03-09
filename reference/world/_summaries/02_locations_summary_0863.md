@@ -8,7 +8,7 @@ db_readonly: true
 ---
 # Location Summary - VbN World Overview
 
-**Source:** MySQL Database (canonical, read-only)
+**Source:** Canonical project data (read-only)
 **Generated:** 2025-12-21
 
 ---

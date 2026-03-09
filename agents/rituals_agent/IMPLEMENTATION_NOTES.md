@@ -122,7 +122,7 @@ echo "Found " . count($rituals) . " Thaumaturgy rituals\n";
 
 ## Dependencies
 
-- `includes/connect.php` - Database connection and helper functions
+- `includes/supabase_client.php` - Shared Supabase client and helper functions
 - `rulebooks` and `rulebook_pages` tables - For rules queries
 - `rituals_master` table - For ritual definitions
 - `character_rituals` table - For character-known rituals

@@ -30,6 +30,6 @@ $dry_run = ($is_cli && in_array('--dry-run', $argv, true))
   - All write operations must be guarded by `if (!$dry_run) { ... }`.
   - If transactions are used, begin/commit only when not in dry-run (example in `update_paths_completion.php` lines 60-63).
 
-- **DB writes MUST use prepared statements or shared helpers**
-  - Use `db_execute` / `db_transaction` from `V:\includes\connect.php` when possible.
-  - If direct `mysqli_*` prepared statements are required, the query must still be parameterized (no string interpolation).
+- **DB writes MUST use the shared Supabase client or approved helpers**
+  - Prefer `supabase_rest_request()` and related shared abstractions.
+  - If a tool still uses a transitional helper, the write path must remain fully parameterized and explicit.

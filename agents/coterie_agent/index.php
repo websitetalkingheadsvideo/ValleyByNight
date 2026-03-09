@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 
 function h(?string $s): string { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
 
@@ -28,21 +28,17 @@ $selectedCoterieId = isset($_GET['coterie_id']) ? (int)$_GET['coterie_id'] : 0;
 $newCoterieName = isset($_GET['new_coterie_name']) ? trim((string)$_GET['new_coterie_name']) : '';
 $newCoterieChronicle = isset($_GET['new_coterie_chronicle']) ? trim((string)$_GET['new_coterie_chronicle']) : '';
 if ($newCoterieName !== '') {
-  $newStatus = 'active';
-  $insertStmt = $conn->prepare("INSERT INTO coteries (name, chronicle, status) VALUES (?, ?, ?)");
-  if ($insertStmt) {
-    $insertStmt->bind_param("sss", $newCoterieName, $newCoterieChronicle, $newStatus);
-    if ($insertStmt->execute()) {
-      $newCoterieId = $insertStmt->insert_id;
-      $insertStmt->close();
-      header("Location: ?" . buildQueryString(['coterie_id' => $newCoterieId, 'new_coterie_name' => null, 'new_coterie_chronicle' => null]));
-      exit;
-    } else {
-      error_log("Failed to create coterie: " . $insertStmt->error);
-      $insertStmt->close();
-    }
-  } else {
-    error_log("Failed to prepare insert statement: " . $conn->error);
+  $res = supabase_rest_request('POST', '/rest/v1/coteries', [], [
+    'name' => $newCoterieName,
+    'chronicle' => $newCoterieChronicle,
+    'status' => 'active'
+  ], ['Prefer: return=representation']);
+  if ($res['error'] === null && is_array($res['data']) && isset($res['data'][0]['id'])) {
+    header("Location: ?" . buildQueryString(['coterie_id' => $res['data'][0]['id'], 'new_coterie_name' => null, 'new_coterie_chronicle' => null]));
+    exit;
+  }
+  if ($res['error'] !== null) {
+    error_log("Failed to create coterie: " . $res['error']);
   }
 }
 
@@ -51,25 +47,22 @@ if ($newCoterieName !== '') {
 ------------------------------ */
 $addCharacterId = isset($_GET['add_character']) ? (int)$_GET['add_character'] : 0;
 if ($addCharacterId > 0 && $selectedCoterieId > 0) {
-  // Check if character is already in coterie
-  $checkStmt = $conn->prepare("SELECT id FROM coterie_members WHERE coterie_id = ? AND character_id = ?");
-  if ($checkStmt) {
-    $checkStmt->bind_param("ii", $selectedCoterieId, $addCharacterId);
-    $checkStmt->execute();
-    $checkRes = $checkStmt->get_result();
-    if ($checkRes->num_rows === 0) {
-      // Add character to coterie
-      $insertStmt = $conn->prepare("INSERT INTO coterie_members (coterie_id, character_id, role) VALUES (?, ?, 'Member')");
-      if ($insertStmt) {
-        $insertStmt->bind_param("ii", $selectedCoterieId, $addCharacterId);
-        $insertStmt->execute();
-        $insertStmt->close();
-        // Redirect to remove the add_character parameter
-        header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'add_character' => null]));
-        exit;
-      }
+  $existing = supabase_table_get('coterie_members', [
+    'select' => 'id',
+    'coterie_id' => 'eq.' . $selectedCoterieId,
+    'character_id' => 'eq.' . $addCharacterId,
+    'limit' => '1'
+  ]);
+  if (empty($existing)) {
+    $res = supabase_rest_request('POST', '/rest/v1/coterie_members', [], [
+      'coterie_id' => $selectedCoterieId,
+      'character_id' => $addCharacterId,
+      'role' => 'Member'
+    ], ['Prefer: return=minimal']);
+    if ($res['error'] === null) {
+      header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'add_character' => null]));
+      exit;
     }
-    $checkStmt->close();
   }
 }
 
@@ -79,18 +72,16 @@ if ($addCharacterId > 0 && $selectedCoterieId > 0) {
 $updateRoleCharacterId = isset($_GET['update_role_character_id']) ? (int)$_GET['update_role_character_id'] : 0;
 $newRole = isset($_GET['new_role']) ? trim((string)$_GET['new_role']) : '';
 if ($updateRoleCharacterId > 0 && $selectedCoterieId > 0 && $newRole !== '') {
-  $updateStmt = $conn->prepare("UPDATE coterie_members SET role = ? WHERE coterie_id = ? AND character_id = ?");
-  if ($updateStmt) {
-    $updateStmt->bind_param("sii", $newRole, $selectedCoterieId, $updateRoleCharacterId);
-    if ($updateStmt->execute()) {
-      $updateStmt->close();
-      $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_role_character_id' => null, 'new_role' => null, 't' => time()]);
-      header("Location: " . $redirectUrl);
-      exit;
-    } else {
-      error_log("Failed to update role: " . $updateStmt->error);
-      $updateStmt->close();
-    }
+  $res = supabase_rest_request('PATCH', '/rest/v1/coterie_members', [
+    'coterie_id' => 'eq.' . $selectedCoterieId,
+    'character_id' => 'eq.' . $updateRoleCharacterId
+  ], ['role' => $newRole], ['Prefer: return=minimal']);
+  if ($res['error'] === null) {
+    header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_role_character_id' => null, 'new_role' => null, 't' => time()]));
+    exit;
+  }
+  if ($res['error'] !== null) {
+    error_log("Failed to update role: " . $res['error']);
   }
 }
 
@@ -99,35 +90,13 @@ if ($updateRoleCharacterId > 0 && $selectedCoterieId > 0 && $newRole !== '') {
 ------------------------------ */
 $updateFocus = isset($_GET['update_focus']) ? trim((string)$_GET['update_focus']) : '';
 if ($updateFocus !== '' && $selectedCoterieId > 0) {
-  // First, check if description column exists
-  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'description'");
-  if ($checkColumn && $checkColumn->num_rows === 0) {
-    // Column doesn't exist, add it
-    if (!$conn->query("ALTER TABLE coteries ADD COLUMN description TEXT")) {
-      error_log("Failed to add description column: " . $conn->error);
-    }
+  $res = supabase_rest_request('PATCH', '/rest/v1/coteries', ['id' => 'eq.' . $selectedCoterieId], ['description' => $updateFocus], ['Prefer: return=minimal']);
+  if ($res['error'] === null) {
+    header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_focus' => null, 't' => time()]));
+    exit;
   }
-  
-  // Now update the description
-  $updateFocusStmt = $conn->prepare("UPDATE coteries SET description = ? WHERE id = ?");
-  if ($updateFocusStmt) {
-    $updateFocusStmt->bind_param("si", $updateFocus, $selectedCoterieId);
-    if ($updateFocusStmt->execute()) {
-      $affectedRows = $updateFocusStmt->affected_rows;
-      $updateFocusStmt->close();
-      if ($affectedRows > 0) {
-        $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_focus' => null, 't' => time()]);
-        header("Location: " . $redirectUrl);
-        exit;
-      } else {
-        error_log("No rows affected when updating focus for coterie {$selectedCoterieId}");
-      }
-    } else {
-      error_log("Failed to update focus: " . $updateFocusStmt->error);
-      $updateFocusStmt->close();
-    }
-  } else {
-    error_log("Failed to prepare update focus statement: " . $conn->error);
+  if ($res['error'] !== null) {
+    error_log("Failed to update focus: " . $res['error']);
   }
 }
 
@@ -136,35 +105,13 @@ if ($updateFocus !== '' && $selectedCoterieId > 0) {
 ------------------------------ */
 $updateHistory = isset($_GET['update_history']) ? trim((string)$_GET['update_history']) : '';
 if ($updateHistory !== '' && $selectedCoterieId > 0) {
-  // First, check if history column exists
-  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'history'");
-  if ($checkColumn && $checkColumn->num_rows === 0) {
-    // Column doesn't exist, add it
-    if (!$conn->query("ALTER TABLE coteries ADD COLUMN history TEXT")) {
-      error_log("Failed to add history column: " . $conn->error);
-    }
+  $res = supabase_rest_request('PATCH', '/rest/v1/coteries', ['id' => 'eq.' . $selectedCoterieId], ['history' => $updateHistory], ['Prefer: return=minimal']);
+  if ($res['error'] === null) {
+    header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_history' => null, 't' => time()]));
+    exit;
   }
-  
-  // Now update the history
-  $updateHistoryStmt = $conn->prepare("UPDATE coteries SET history = ? WHERE id = ?");
-  if ($updateHistoryStmt) {
-    $updateHistoryStmt->bind_param("si", $updateHistory, $selectedCoterieId);
-    if ($updateHistoryStmt->execute()) {
-      $affectedRows = $updateHistoryStmt->affected_rows;
-      $updateHistoryStmt->close();
-      if ($affectedRows > 0) {
-        $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_history' => null, 't' => time()]);
-        header("Location: " . $redirectUrl);
-        exit;
-      } else {
-        error_log("No rows affected when updating history for coterie {$selectedCoterieId}");
-      }
-    } else {
-      error_log("Failed to update history: " . $updateHistoryStmt->error);
-      $updateHistoryStmt->close();
-    }
-  } else {
-    error_log("Failed to prepare update history statement: " . $conn->error);
+  if ($res['error'] !== null) {
+    error_log("Failed to update history: " . $res['error']);
   }
 }
 
@@ -173,35 +120,13 @@ if ($updateHistory !== '' && $selectedCoterieId > 0) {
 ------------------------------ */
 $updateReason = isset($_GET['update_reason']) ? trim((string)$_GET['update_reason']) : '';
 if ($updateReason !== '' && $selectedCoterieId > 0) {
-  // First, check if reason column exists
-  $checkColumn = $conn->query("SHOW COLUMNS FROM coteries LIKE 'reason'");
-  if ($checkColumn && $checkColumn->num_rows === 0) {
-    // Column doesn't exist, add it
-    if (!$conn->query("ALTER TABLE coteries ADD COLUMN reason TEXT")) {
-      error_log("Failed to add reason column: " . $conn->error);
-    }
+  $res = supabase_rest_request('PATCH', '/rest/v1/coteries', ['id' => 'eq.' . $selectedCoterieId], ['reason' => $updateReason], ['Prefer: return=minimal']);
+  if ($res['error'] === null) {
+    header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_reason' => null, 't' => time()]));
+    exit;
   }
-  
-  // Now update the reason
-  $updateReasonStmt = $conn->prepare("UPDATE coteries SET reason = ? WHERE id = ?");
-  if ($updateReasonStmt) {
-    $updateReasonStmt->bind_param("si", $updateReason, $selectedCoterieId);
-    if ($updateReasonStmt->execute()) {
-      $affectedRows = $updateReasonStmt->affected_rows;
-      $updateReasonStmt->close();
-      if ($affectedRows > 0) {
-        $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'update_reason' => null, 't' => time()]);
-        header("Location: " . $redirectUrl);
-        exit;
-      } else {
-        error_log("No rows affected when updating reason for coterie {$selectedCoterieId}");
-      }
-    } else {
-      error_log("Failed to update reason: " . $updateReasonStmt->error);
-      $updateReasonStmt->close();
-    }
-  } else {
-    error_log("Failed to prepare update reason statement: " . $conn->error);
+  if ($res['error'] !== null) {
+    error_log("Failed to update reason: " . $res['error']);
   }
 }
 
@@ -210,40 +135,26 @@ if ($updateReason !== '' && $selectedCoterieId > 0) {
 ------------------------------ */
 $removeCharacterId = isset($_GET['remove_character']) ? (int)$_GET['remove_character'] : 0;
 if ($removeCharacterId > 0 && $selectedCoterieId > 0) {
-  // Verify the member exists before deleting
-  $verifyStmt = $conn->prepare("SELECT id FROM coterie_members WHERE coterie_id = ? AND character_id = ?");
-  if ($verifyStmt) {
-    $verifyStmt->bind_param("ii", $selectedCoterieId, $removeCharacterId);
-    $verifyStmt->execute();
-    $verifyRes = $verifyStmt->get_result();
-    if ($verifyRes->num_rows > 0) {
-      $verifyStmt->close();
-      // Remove character from coterie
-      $deleteStmt = $conn->prepare("DELETE FROM coterie_members WHERE coterie_id = ? AND character_id = ?");
-      if ($deleteStmt) {
-        $deleteStmt->bind_param("ii", $selectedCoterieId, $removeCharacterId);
-        if ($deleteStmt->execute()) {
-          $affectedRows = $deleteStmt->affected_rows;
-          $deleteStmt->close();
-          if ($affectedRows > 0) {
-            // Redirect to remove the remove_character parameter with cache busting
-            $redirectUrl = "?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'remove_character' => null, 't' => time()]);
-            header("Location: " . $redirectUrl);
-            exit;
-          } else {
-            error_log("No rows affected when removing character {$removeCharacterId} from coterie {$selectedCoterieId}");
-          }
-        } else {
-          error_log("Failed to remove character from coterie: " . $deleteStmt->error);
-          $deleteStmt->close();
-        }
-      } else {
-        error_log("Failed to prepare delete statement: " . $conn->error);
-      }
-    } else {
-      error_log("Character {$removeCharacterId} not found in coterie {$selectedCoterieId}");
-      $verifyStmt->close();
+  $verify = supabase_table_get('coterie_members', [
+    'select' => 'id',
+    'coterie_id' => 'eq.' . $selectedCoterieId,
+    'character_id' => 'eq.' . $removeCharacterId,
+    'limit' => '1'
+  ]);
+  if (!empty($verify)) {
+    $res = supabase_rest_request('DELETE', '/rest/v1/coterie_members', [
+      'coterie_id' => 'eq.' . $selectedCoterieId,
+      'character_id' => 'eq.' . $removeCharacterId
+    ], null, ['Prefer: return=minimal']);
+    if ($res['error'] === null) {
+      header("Location: ?" . buildQueryString(['coterie_id' => $selectedCoterieId, 'remove_character' => null, 't' => time()]));
+      exit;
     }
+    if ($res['error'] !== null) {
+      error_log("Failed to remove character from coterie: " . $res['error']);
+    }
+  } else {
+    error_log("Character {$removeCharacterId} not found in coterie {$selectedCoterieId}");
   }
 }
 
@@ -255,59 +166,39 @@ include __DIR__ . '/../../includes/header.php';
    Chronicles dropdown
 ------------------------------ */
 $chronicles = [];
-$res = $conn->query("SELECT DISTINCT chronicle FROM characters WHERE chronicle IS NOT NULL AND chronicle <> '' ORDER BY chronicle");
-if ($res) while ($row = $res->fetch_assoc()) $chronicles[] = (string)$row['chronicle'];
+$charRows = supabase_table_get('characters', ['select' => 'chronicle', 'chronicle' => 'not.is.null', 'order' => 'chronicle.asc']);
+$chronicles = array_values(array_unique(array_filter(array_map(static fn($r) => trim((string)($r['chronicle'] ?? '')), is_array($charRows) ? $charRows : []))));
+sort($chronicles);
 
 /* -----------------------------
    Coterie list query
 ------------------------------ */
 $coteries = [];
 $coterieListError = '';
-
-$sql = "
-  SELECT
-    c.id,
-    c.name AS coterie_name,
-    c.chronicle,
-    c.status,
-    COUNT(cm.id) AS members_total
-  FROM coteries c
-  LEFT JOIN coterie_members cm ON cm.coterie_id = c.id
-";
-
-$where = [];
-$types = '';
-$params = [];
-
+$cotQuery = ['select' => 'id,name,chronicle,status', 'order' => 'name.asc'];
 if ($chronicle !== '') {
-  $where[] = "c.chronicle = ?";
-  $types .= 's';
-  $params[] = $chronicle;
+  $cotQuery['chronicle'] = 'eq.' . $chronicle;
 }
-
 if ($activeOnly === 1) {
-  $where[] = "c.status = 'active'";
+  $cotQuery['status'] = 'eq.active';
 }
-
 if ($search !== '') {
-  $where[] = "(c.name LIKE ?)";
-  $types .= 's';
-  $params[] = '%' . $search . '%';
+  $cotQuery['name'] = 'ilike.%' . addcslashes($search, '%_\\') . '%';
 }
-
-if ($where) $sql .= " WHERE " . implode(" AND ", $where);
-
-$sql .= " GROUP BY c.id, c.name, c.chronicle, c.status ORDER BY c.name ASC";
-
-$stmt = $conn->prepare($sql);
-if (!$stmt) {
-  $coterieListError = "Query prepare failed: " . $conn->error;
-} else {
-  if ($types !== '') $stmt->bind_param($types, ...$params);
-  $stmt->execute();
-  $res = $stmt->get_result();
-  while ($row = $res->fetch_assoc()) $coteries[] = $row;
-  $stmt->close();
+$cotRows = supabase_table_get('coteries', $cotQuery);
+$coterieIds = array_column(is_array($cotRows) ? $cotRows : [], 'id');
+$memberCounts = [];
+if (!empty($coterieIds)) {
+  $cms = supabase_table_get('coterie_members', ['select' => 'coterie_id']);
+  foreach (is_array($cms) ? $cms : [] as $cm) {
+    $cid = (int)($cm['coterie_id'] ?? 0);
+    $memberCounts[$cid] = ($memberCounts[$cid] ?? 0) + 1;
+  }
+}
+foreach (is_array($cotRows) ? $cotRows : [] as $r) {
+  $r['coterie_name'] = $r['name'] ?? '';
+  $r['members_total'] = $memberCounts[(int)($r['id'] ?? 0)] ?? 0;
+  $coteries[] = $r;
 }
 
 /* -----------------------------
@@ -320,118 +211,60 @@ $rosterError = '';
 $availableCharacters = [];
 
 if ($selectedCoterieId > 0) {
-  // Check which columns exist
-  $hasDescriptionColumn = false;
-  $hasHistoryColumn = false;
-  $hasReasonColumn = false;
-  
-  $checkDesc = $conn->query("SHOW COLUMNS FROM coteries LIKE 'description'");
-  if ($checkDesc && $checkDesc->num_rows > 0) {
-    $hasDescriptionColumn = true;
-  }
-  
-  $checkHistory = $conn->query("SHOW COLUMNS FROM coteries LIKE 'history'");
-  if ($checkHistory && $checkHistory->num_rows > 0) {
-    $hasHistoryColumn = true;
-  }
-  
-  $checkReason = $conn->query("SHOW COLUMNS FROM coteries LIKE 'reason'");
-  if ($checkReason && $checkReason->num_rows > 0) {
-    $hasReasonColumn = true;
-  }
-  
-  // Build SELECT query based on available columns
-  $selectFields = ['id', 'name AS coterie_name', 'chronicle', 'status'];
-  if ($hasDescriptionColumn) {
-    $selectFields[] = 'description';
-  }
-  if ($hasHistoryColumn) {
-    $selectFields[] = 'history';
-  }
-  if ($hasReasonColumn) {
-    $selectFields[] = 'reason';
-  }
-  
-  $sql = "SELECT " . implode(', ', $selectFields) . " FROM coteries WHERE id = ? LIMIT 1";
-  $stmt = $conn->prepare($sql);
-  
-  if (!$stmt) {
-    $rosterError = "Query prepare failed: " . $conn->error;
-  } else {
-    $stmt->bind_param("i", $selectedCoterieId);
-    $stmt->execute();
-    $res = $stmt->get_result();
-    $selected = $res->fetch_assoc() ?: null;
-    $stmt->close();
-    
-    // Ensure all fields exist in array
-    if ($selected) {
-      $selected['description'] = (string)($selected['description'] ?? '');
-      $selected['history'] = (string)($selected['history'] ?? '');
-      $selected['reason'] = (string)($selected['reason'] ?? '');
-    }
-  }
-
+  $selRows = supabase_table_get('coteries', [
+    'select' => 'id,name,chronicle,status,description,history,reason',
+    'id' => 'eq.' . $selectedCoterieId,
+    'limit' => '1'
+  ]);
+  $selected = $selRows[0] ?? null;
   if ($selected) {
-    $sql = "
-      SELECT
-        cm.id AS member_id,
-        cm.role,
-        ch.id AS character_id,
-        ch.character_name,
-        ch.clan,
-        ch.player_name,
-        ch.status AS character_status
-      FROM coterie_members cm
-      JOIN characters ch ON ch.id = cm.character_id
-      WHERE cm.coterie_id = ?
-      ORDER BY
-        CASE
-          WHEN cm.role LIKE '%Leader%' THEN 0
-          WHEN cm.role LIKE '%2nd%' THEN 1
-          ELSE 2
-        END,
-        ch.character_name ASC
-    ";
-
-    $stmt = $conn->prepare($sql);
-    if (!$stmt) {
-      $rosterError = "Query prepare failed: " . $conn->error;
-    } else {
-      $stmt->bind_param("i", $selectedCoterieId);
-      $stmt->execute();
-      $res = $stmt->get_result();
-      while ($row = $res->fetch_assoc()) $roster[] = $row;
-      $stmt->close();
-    }
-
-    // Get all characters NOT in this coterie for the dropdown
-    $existingCharacterIds = array_map(function($m) { return (int)($m['character_id'] ?? 0); }, $roster);
-    
-    if (count($existingCharacterIds) > 0) {
-      $charSql = "SELECT id, character_name, clan, player_name, status 
-                  FROM characters 
-                  WHERE id NOT IN (" . str_repeat('?,', count($existingCharacterIds) - 1) . "?) 
-                  ORDER BY character_name ASC";
-      $charStmt = $conn->prepare($charSql);
-      if ($charStmt) {
-        $types = str_repeat('i', count($existingCharacterIds));
-        $charStmt->bind_param($types, ...$existingCharacterIds);
-        $charStmt->execute();
-        $charRes = $charStmt->get_result();
-        while ($row = $charRes->fetch_assoc()) $availableCharacters[] = $row;
-        $charStmt->close();
-      }
-    } else {
-      // No existing members, so all characters are available
-      $charSql = "SELECT id, character_name, clan, player_name, status 
-                  FROM characters 
-                  ORDER BY character_name ASC";
-      $charRes = $conn->query($charSql);
-      if ($charRes) {
-        while ($row = $charRes->fetch_assoc()) $availableCharacters[] = $row;
+    $selected['coterie_name'] = $selected['name'] ?? '';
+    $selected['description'] = (string)($selected['description'] ?? '');
+    $selected['history'] = (string)($selected['history'] ?? '');
+    $selected['reason'] = (string)($selected['reason'] ?? '');
+  }
+  if ($selected) {
+    $cms = supabase_table_get('coterie_members', [
+      'select' => 'id,role,character_id',
+      'coterie_id' => 'eq.' . $selectedCoterieId
+    ]);
+    $charIds = array_filter(array_unique(array_column(is_array($cms) ? $cms : [], 'character_id')));
+    $charMap = [];
+    if (!empty($charIds)) {
+      $chars = supabase_table_get('characters', [
+        'select' => 'id,character_name,clan,player_name,status',
+        'id' => 'in.(' . implode(',', array_map('intval', $charIds)) . ')'
+      ]);
+      foreach (is_array($chars) ? $chars : [] as $ch) {
+        $charMap[(int)($ch['id'] ?? 0)] = $ch;
       }
     }
+    $roster = [];
+    foreach (is_array($cms) ? $cms : [] as $cm) {
+      $cid = (int)($cm['character_id'] ?? 0);
+      $ch = $charMap[$cid] ?? null;
+      $roster[] = [
+        'member_id' => $cm['id'] ?? null,
+        'role' => $cm['role'] ?? '',
+        'character_id' => $cid,
+        'character_name' => $ch['character_name'] ?? '',
+        'clan' => $ch['clan'] ?? '',
+        'player_name' => $ch['player_name'] ?? '',
+        'character_status' => $ch['status'] ?? ''
+      ];
+    }
+    usort($roster, static function ($a, $b) {
+      $oa = (stripos($a['role'] ?? '', 'Leader') !== false) ? 0 : ((stripos($a['role'] ?? '', '2nd') !== false) ? 1 : 2);
+      $ob = (stripos($b['role'] ?? '', 'Leader') !== false) ? 0 : ((stripos($b['role'] ?? '', '2nd') !== false) ? 1 : 2);
+      if ($oa !== $ob) return $oa <=> $ob;
+      return strcasecmp($a['character_name'] ?? '', $b['character_name'] ?? '');
+    });
+    $existingCharacterIds = array_column($roster, 'character_id');
+    $charQuery = ['select' => 'id,character_name,clan,player_name,status', 'order' => 'character_name.asc'];
+    if (!empty($existingCharacterIds)) {
+      $charQuery['id'] = 'not.in.(' . implode(',', array_map('intval', $existingCharacterIds)) . ')';
+    }
+    $availableCharacters = is_array($ac = supabase_table_get('characters', $charQuery)) ? $ac : [];
   }
 }
 

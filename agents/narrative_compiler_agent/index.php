@@ -12,7 +12,8 @@ if (!isset($_SESSION['user_id'])) {
     exit;
 }
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
+$conn = null;
 
 // Helper function for HTML escaping
 function h(?string $s): string {

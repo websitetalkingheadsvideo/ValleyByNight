@@ -9,8 +9,8 @@
  * structure you designed for VbN.
  *
  * Integration notes:
- * - Expects a MySQL connection `$conn` created in connect.php (mysqli object).
- * - Uses a `character_heard_rumors` table to avoid repeating rumors.
+ * - Uses Supabase (includes/supabase_client.php). $db param ignored.
+ * - Uses rumors and character_heard_rumors tables.
  * - Designed to be called from an Agent page in the admin panel.
  *
  * Assumed table structures (adjust as needed):
@@ -48,32 +48,13 @@
 
 class RumorAgent
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
 
-    /**
-     * RumorAgent constructor.
-     *
-     * If a DB handle is not passed in, this will include connect.php
-     * and expect it to define `$conn` (mysqli).
-     *
-     * @param mysqli|null $db
-     * @throws Exception
-     */
     public function __construct($db = null)
     {
-        if ($db !== null) {
-            $this->db = $db;
-        } else {
-            // Use project-standard DB connection
-            require_once __DIR__ . '/../../connect.php';
-            if (!isset($conn)) {
-                throw new Exception('connect.php did not define $conn (mysqli).');
-            }
-            $this->db = $conn;
-        }
+        $this->db = null;
+        require_once __DIR__ . '/../../includes/supabase_client.php';
     }
 
     /**
@@ -124,27 +105,11 @@ class RumorAgent
      */
     protected function getHeardRumorIds(int $characterId): array
     {
-        $ids = [];
-
-        $sql  = "SELECT rumor_id FROM character_heard_rumors WHERE character_id = ?";
-        $stmt = $this->db->prepare($sql);
-
-        if ($stmt === false) {
-            // Fail silently; just means we won't filter
-            return $ids;
-        }
-
-        $stmt->bind_param('i', $characterId);
-        $stmt->execute();
-        $stmt->bind_result($rid);
-
-        while ($stmt->fetch()) {
-            $ids[] = (int) $rid;
-        }
-
-        $stmt->close();
-
-        return $ids;
+        $rows = supabase_table_get('character_heard_rumors', [
+            'select' => 'rumor_id',
+            'character_id' => 'eq.' . $characterId
+        ]);
+        return array_map(static fn($r) => (int)($r['rumor_id'] ?? 0), is_array($rows) ? $rows : []);
     }
 
     /**
@@ -156,50 +121,16 @@ class RumorAgent
      */
     protected function loadCandidateRumors(array $excludeIds = []): array
     {
-        $conditions = [];
-        $sql        = "SELECT
-                            id,
-                            title,
-                            rumor_text,
-                            truth_rating,
-                            source_type,
-                            clan_tags,
-                            location_tags,
-                            connects_to_plot_ids,
-                            danger_rating,
-                            spread_likelihood,
-                            visibility,
-                            nighttime_trigger_flags,
-                            storyteller_notes
-                       FROM rumors";
-
-        // Exclude GM-only rumors
-        $conditions[] = "(visibility IS NULL OR visibility <> 'gm-only')";
-
-        // Exclude already heard
+        $query = [
+            'select' => 'id,title,rumor_text,truth_rating,source_type,clan_tags,location_tags,connects_to_plot_ids,danger_rating,spread_likelihood,visibility,nighttime_trigger_flags,storyteller_notes',
+            'or' => '(visibility.is.null,visibility.neq.gm-only)'
+        ];
         if (!empty($excludeIds)) {
-            $safeIds    = array_map('intval', $excludeIds);
-            $conditions[] = "id NOT IN (" . implode(',', $safeIds) . ")";
+            $safeIds = array_map('intval', $excludeIds);
+            $query['id'] = 'not.in.(' . implode(',', $safeIds) . ')';
         }
-
-        if (!empty($conditions)) {
-            $sql .= " WHERE " . implode(' AND ', $conditions);
-        }
-
-        $result = $this->db->query($sql);
-
-        if (!$result) {
-            return [];
-        }
-
-        $rows = [];
-        while ($row = $result->fetch_assoc()) {
-            $rows[] = $row;
-        }
-
-        $result->free();
-
-        return $rows;
+        $rows = supabase_table_get('rumors', $query);
+        return is_array($rows) ? $rows : [];
     }
 
     /**
@@ -410,27 +341,16 @@ class RumorAgent
         if (empty($rumors)) {
             return;
         }
-
         $now = date('Y-m-d H:i:s');
-
-        $sql  = "INSERT INTO character_heard_rumors (character_id, rumor_id, heard_on)
-                 VALUES (?, ?, ?)";
-        $stmt = $this->db->prepare($sql);
-
-        if ($stmt === false) {
-            return;
-        }
-
         foreach ($rumors as $row) {
-            if (!isset($row['id'])) {
-                continue;
-            }
-            $rid = (int) $row['id'];
-            $stmt->bind_param('iis', $characterId, $rid, $now);
-            $stmt->execute();
+            if (!isset($row['id'])) continue;
+            $rid = (int)$row['id'];
+            supabase_rest_request('POST', '/rest/v1/character_heard_rumors', [], [
+                'character_id' => $characterId,
+                'rumor_id' => $rid,
+                'heard_on' => $now
+            ], ['Prefer: return=minimal']);
         }
-
-        $stmt->close();
     }
 
     /**

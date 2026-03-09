@@ -14,7 +14,7 @@ The system integrates multiple specialized agents for rules validation, characte
 - **Paths Agent**: Handles path powers, challenge resolution, and Laws Agent integration for Thaumaturgy and Necromancy
 - **Laws/Rules Agent**: Central authoritative rules brain that other agents query for rule text, validation, and context
 - **Map Agent**: Spatial/location logic for world navigation and location-based interactions
-- **Character Agent**: Automated pipeline processing characters from MySQL database and generating structured reports
+- **Character Agent**: Automated pipeline processing characters from the shared project data store and generating structured reports
 
 ## Data Management Systems
 - **Influence System**: Grapevine-style influence tracking with character_influences table (influence_type, level 0-5), UI for viewing/editing, and Grapevine XML importer
@@ -470,7 +470,7 @@ The system integrates multiple specialized agents for rules validation, characte
 - Character creation form partially implemented
 
 ### Integration Points
-- MySQL database via includes/connect.php
+- Supabase-backed project data via the shared client
 - MCP servers for Flux Studio, Style Agent
 - Envato Elements for music assets
 - Grapevine XML for influence import

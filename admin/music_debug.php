@@ -15,17 +15,15 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-require_once __DIR__ . '/../includes/connect.php';
+require_once __DIR__ . '/../includes/supabase_client.php';
 include __DIR__ . '/../includes/header.php';
 
 // Get sample NPCs and locations for testing
-$sample_npcs = db_fetch_all($conn, 
-    "SELECT id, character_name, clan FROM characters WHERE player_name = 'NPC' ORDER BY character_name LIMIT 10"
-);
+$sample_npcs = supabase_table_get('characters', ['select' => 'id,character_name,clan', 'player_name' => 'eq.NPC', 'order' => 'character_name.asc', 'limit' => 10]);
+$sample_npcs = is_array($sample_npcs) ? $sample_npcs : [];
 
-$sample_locations = db_fetch_all($conn, 
-    "SELECT id, name, type FROM locations ORDER BY name LIMIT 10"
-);
+$sample_locations = supabase_table_get('locations', ['select' => 'id,name,type', 'order' => 'name.asc', 'limit' => 10]);
+$sample_locations = is_array($sample_locations) ? $sample_locations : [];
 ?>
 
 <div class="container-fluid py-4 px-3 px-md-4">

@@ -19,7 +19,7 @@ G:\VbN\.cursor\rules\full-urls.mdc
 G:\VbN\.cursor\rules\git-conventions.mdc
 G:\VbN\.cursor\rules\hosting.mdc
 G:\VbN\.cursor\rules\javascript_organization.mdc
-G:\VbN\.cursor\rules\mysql.mdc
+G:\VbN\.cursor\rules\database-patterns.mdc
 G:\VbN\.cursor\rules\self_improve.mdc
 G:\VbN\.cursor\rules\taskmaster\_notes\dwsync.xml
 G:\VbN\.cursor\rules\taskmaster\dev_workflow.mdc
@@ -5043,7 +5043,7 @@ G:\VbN\.taskmaster\_notes\dwsync.xml
 G:\VbN\.taskmaster\config.json
 G:\VbN\.taskmaster\docs\_notes\dwsync.xml
 G:\VbN\.taskmaster\docs\character-description-tab-prd.txt
-G:\VbN\.taskmaster\docs\mysql-compliance-prd.txt
+G:\VbN\.taskmaster\docs\database-compliance-prd.txt
 G:\VbN\.taskmaster\docs\prd.txt
 G:\VbN\.taskmaster\docs\trait-sync-system-prd.txt
 G:\VbN\.taskmaster\state.json

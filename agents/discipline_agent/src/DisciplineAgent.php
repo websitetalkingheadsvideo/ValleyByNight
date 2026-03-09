@@ -18,9 +18,8 @@ declare(strict_types=1);
  * - Power eligibility validation
  * 
  * Integration notes:
- * - Expects a MySQL connection `$conn` created in connect.php (mysqli object).
- * - Uses the `character_disciplines` table for discipline data.
- * - Uses the `character_discipline_powers` table for power data.
+ * - Uses Supabase (includes/supabase_client.php). $db param ignored.
+ * - Uses character_disciplines, disciplies_powers, characters.
  * - Designed to be called from character creation/update workflows or via API.
  */
 
@@ -31,9 +30,7 @@ require_once __DIR__ . '/DisciplineValidator.php';
 
 class DisciplineAgent
 {
-    /**
-     * @var mysqli
-     */
+    /** @var mixed Legacy; ignored. Uses Supabase. */
     protected $db;
     
     /**
@@ -64,32 +61,16 @@ class DisciplineAgent
     /**
      * DisciplineAgent constructor.
      * 
-     * If a DB handle is not passed in, this will include connect.php
-     * and expect it to define `$conn` (mysqli).
+     * Loads the Supabase client when no legacy DB handle is passed in.
      * 
-     * @param mysqli|null $db
+     * @param mixed|null $db
      * @param array|null $config
      * @throws Exception
      */
     public function __construct($db = null, array $config = null)
     {
-        if ($db !== null) {
-            $this->db = $db;
-        } else {
-            // Use project-standard DB connection
-            $connectPath = __DIR__ . '/../../../includes/connect.php';
-            if (!file_exists($connectPath)) {
-                throw new Exception("Database connection file not found: {$connectPath}");
-            }
-            require_once $connectPath;
-            if (!isset($conn)) {
-                throw new Exception('connect.php did not define $conn (mysqli). Check database configuration.');
-            }
-            if (!$conn instanceof mysqli) {
-                throw new Exception('$conn is not a mysqli object. Database connection failed.');
-            }
-            $this->db = $conn;
-        }
+        $this->db = null;
+        require_once __DIR__ . '/../../../includes/supabase_client.php';
         
         // Load configuration
         if ($config !== null) {

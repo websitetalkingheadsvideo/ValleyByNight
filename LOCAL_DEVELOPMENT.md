@@ -6,7 +6,7 @@ This guide explains how to run the Valley by Night (VbN) project locally for dev
 
 - **PHP 7.4+** (PHP 8.x recommended)
 - **Apache web server** (via XAMPP or similar)
-- **Database access credentials** for the remote database at `vdb5.pit.pair.com`
+- **Supabase access credentials** for the shared remote project database
 - **Git** (for cloning the repository)
 
 ## Quick Start
@@ -19,9 +19,10 @@ This guide explains how to run the Valley by Night (VbN) project locally for dev
 
 2. **Configure environment variables**
    - Copy `.env.example` to `.env`
-   - Edit `.env` and set your database password:
+   - Edit `.env` and set your Supabase credentials:
      ```
-     DB_PASSWORD=your_actual_password_here
+     SUPABASE_URL=your_supabase_url_here
+     SUPABASE_KEY=your_supabase_key_here
      ```
 
 3. **Configure your web server**
@@ -77,17 +78,18 @@ Configure Apache to serve the project from its current location (`G:\VbN`):
 
 ## Environment Variables
 
-The application uses environment variables for database configuration. These can be set in two ways:
+The application uses environment variables for Supabase configuration. These can be set in two ways:
 
 ### Method 1: .env File (Recommended for Development)
 
 1. Copy `.env.example` to `.env`
-2. Edit `.env` and set your database password:
+2. Edit `.env` and set your Supabase credentials:
    ```
-   DB_PASSWORD=your_actual_password_here
+   SUPABASE_URL=your_supabase_url_here
+   SUPABASE_KEY=your_supabase_key_here
    ```
 
-The `.env` file is automatically loaded by `includes/connect.php` and takes priority over system environment variables.
+The `.env` file is automatically loaded by the shared environment loader and takes priority over system environment variables.
 
 ### Method 2: System Environment Variables
 
@@ -95,22 +97,18 @@ Set these in your Windows environment:
 
 ```powershell
 # PowerShell (Run as Administrator)
-[System.Environment]::SetEnvironmentVariable('DB_HOST', 'vdb5.pit.pair.com', 'User')
-[System.Environment]::SetEnvironmentVariable('DB_USER', 'working_64', 'User')
-[System.Environment]::SetEnvironmentVariable('DB_PASSWORD', 'your_password', 'User')
-[System.Environment]::SetEnvironmentVariable('DB_NAME', 'working_vbn', 'User')
+[System.Environment]::SetEnvironmentVariable('SUPABASE_URL', 'https://your-project.supabase.co', 'User')
+[System.Environment]::SetEnvironmentVariable('SUPABASE_KEY', 'your_supabase_key', 'User')
 ```
 
 **Note:** You may need to restart your terminal/IDE and Apache after setting environment variables.
 
-## Database Connection
+## Database Access
 
-- **Host**: `vdb5.pit.pair.com` (remote Pair Networks database)
-- **Database**: `working_vbn`
-- **User**: `working_64`
-- **Password**: Set via `.env` file or environment variable
+- **Backend**: Shared Supabase project
+- **Credentials**: Set via `.env` file or environment variables
 
-The application connects to the remote production database. **Do not create a local database** - the project is designed to use the remote database only.
+The application connects to the shared remote project data. Do not create a separate local database for this app.
 
 ## Verification Steps
 
@@ -137,8 +135,8 @@ The application connects to the remote production database. **Do not create a lo
 
 **Solution**:
 1. Ensure `.env` file exists in project root
-2. Verify `DB_PASSWORD` is set in `.env`
-3. Check that `.env` file has correct format: `DB_PASSWORD=your_password` (no spaces around `=`)
+2. Verify `SUPABASE_URL` and `SUPABASE_KEY` are set in `.env`
+3. Check that `.env` uses valid `KEY=value` lines with no spaces around `=`
 4. Restart Apache after creating/modifying `.env`
 
 ### Port Already in Use
@@ -181,7 +179,7 @@ The application connects to the remote production database. **Do not create a lo
 ## Development Notes
 
 - **Localhost URLs**: This setup uses `localhost` for local development only. Production code should never reference localhost.
-- **Database**: Uses remote database - no local MySQL setup required.
+- **Data backend**: Uses the shared remote Supabase project - no local database setup required.
 - **Hot Reload**: PHP files are executed on each request, so changes take effect immediately after saving. Refresh your browser to see changes.
 - **Error Reporting**: Check Apache error logs and PHP error logs for debugging information.
 
@@ -193,7 +191,7 @@ G:\VbN\
 ├── .env.example            # Template for .env (committed to git)
 ├── index.php               # Main entry point
 ├── includes/
-│   ├── connect.php         # Database connection (loads .env)
+│   ├── load_env.php        # Environment loader
 │   └── ...
 ├── admin/                  # Admin panel
 ├── css/                    # Stylesheets

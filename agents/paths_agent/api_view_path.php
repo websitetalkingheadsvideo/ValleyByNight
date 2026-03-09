@@ -40,11 +40,11 @@ if ($pathId <= 0) {
     exit();
 }
 
-require_once __DIR__ . '/../../includes/connect.php';
+require_once __DIR__ . '/../../includes/supabase_client.php';
 require_once __DIR__ . '/src/PathsAgent.php';
 
 try {
-    $agent = new PathsAgent($conn);
+    $agent = new PathsAgent(null);
     
     // Get path details
     $result = $agent->listPathsByType(null, 10000, 0);

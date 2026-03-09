@@ -9,7 +9,7 @@ declare(strict_types=1);
  * and integration with the character import workflow.
  * 
  * Integration notes:
- * - Expects a MySQL connection `$conn` created in connect.php (mysqli object).
+ * - Uses Supabase via `includes/supabase_client.php`. The legacy DB handle is ignored.
  * - Uses the `abilities` table for canonical ability definitions.
  * - Designed to be called from character import workflow or via API.
  */
@@ -21,7 +21,7 @@ require_once __DIR__ . '/AbilityMapper.php';
 class AbilityAgent
 {
     /**
-     * @var mysqli
+     * @var mixed
      */
     protected $db;
     
@@ -48,10 +48,9 @@ class AbilityAgent
     /**
      * AbilityAgent constructor.
      * 
-     * If a DB handle is not passed in, this will include connect.php
-     * and expect it to define `$conn` (mysqli).
+     * Loads the Supabase client when no legacy DB handle is passed in.
      * 
-     * @param mysqli|null $db
+     * @param mixed|null $db
      * @param array|null $config
      * @throws Exception
      */
@@ -60,19 +59,8 @@ class AbilityAgent
         if ($db !== null) {
             $this->db = $db;
         } else {
-            // Use project-standard DB connection
-            $connectPath = __DIR__ . '/../../../includes/connect.php';
-            if (!file_exists($connectPath)) {
-                throw new Exception("Database connection file not found: {$connectPath}");
-            }
-            require_once $connectPath;
-            if (!isset($conn)) {
-                throw new Exception('connect.php did not define $conn (mysqli). Check database configuration.');
-            }
-            if (!$conn instanceof mysqli) {
-                throw new Exception('$conn is not a mysqli object. Database connection failed.');
-            }
-            $this->db = $conn;
+            require_once __DIR__ . '/../../../includes/supabase_client.php';
+            $this->db = null;
         }
         
         // Load configuration

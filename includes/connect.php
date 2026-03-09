@@ -2,30 +2,14 @@
 /**
  * Legacy database include - MySQL removed.
  * This project uses Supabase only. Use includes/supabase_client.php for all database access.
- * This file loads .env and Supabase client; $conn is null. Any code using $conn or db_* must be migrated to Supabase.
+ * This file loads env and Supabase client; $conn is null. Any code using $conn or db_* must be migrated to Supabase.
  */
 declare(strict_types=1);
 
 error_reporting(2);
 
-$envFile = dirname(__DIR__) . '/.env';
-if (is_file($envFile) && is_readable($envFile)) {
-    $lines = file($envFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    if ($lines !== false) {
-        foreach ($lines as $line) {
-            $trimmed = trim($line);
-            if ($trimmed === '' || strpos($trimmed, '#') === 0 || strpos($trimmed, '=') === false) {
-                continue;
-            }
-            [$key, $value] = explode('=', $trimmed, 2);
-            $key = trim($key);
-            $value = trim($value, " \t\n\r\0\x0B\"'");
-            if ($key !== '') {
-                putenv($key . '=' . $value);
-            }
-        }
-    }
-}
+require_once __DIR__ . '/load_env.php';
+load_project_env();
 
 require_once __DIR__ . '/supabase_client.php';
 
