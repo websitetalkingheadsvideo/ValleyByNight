@@ -542,6 +542,52 @@ class LawsAgentMCPServer {
 }
 
 if (require.main === module) {
+    const args = process.argv.slice(2);
+    if (args[0] === '--query') {
+        let input = '';
+        process.stdin.setEncoding('utf8');
+        process.stdin.on('data', (chunk) => {
+            input += chunk;
+        });
+        process.stdin.on('end', async () => {
+            try {
+                const payload = input.trim() ? JSON.parse(input) : {};
+                const question = String(payload.question || '').trim();
+                if (!question) {
+                    process.stdout.write(
+                        JSON.stringify({
+                            success: false,
+                            error: 'Question is required',
+                            question: '',
+                        }) + '\n'
+                    );
+                    process.exit(1);
+                    return;
+                }
+                const result = await askLawsAgent(
+                    question,
+                    payload.category || null,
+                    payload.system || null
+                );
+                process.stdout.write(JSON.stringify(result) + '\n');
+            } catch (err) {
+                let question = '';
+                try {
+                    const p = input.trim() ? JSON.parse(input) : {};
+                    question = p.question || '';
+                } catch (_) {}
+                process.stdout.write(
+                    JSON.stringify({
+                        success: false,
+                        error: err.message || 'Unknown error',
+                        question,
+                    }) + '\n'
+                );
+                process.exit(1);
+            }
+        });
+        return;
+    }
     const server = new LawsAgentMCPServer();
     server.run().catch((error) => {
         console.error('Fatal error:', error);

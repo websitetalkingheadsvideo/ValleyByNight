@@ -40,20 +40,20 @@ $agents = [
         ]
     ],
     [
-        "name" => "Laws Agent",
-        "slug" => "laws_agent",
-        "description" => "Ask canon questions across the MET library, surface rule citations, and validate mechanics before pushing updates.",
+        "name" => "Laws Agent v3",
+        "slug" => "laws_agent_v3",
+        "description" => "Ask VTM/MET rules questions via Laws-agent-v3 AI search (Cloudflare AI Search + Anthropic). Supports follow-up questions.",
         "data_access" => [
-            "/agents/laws_agent/index.php",
-            "/agents/laws_agent/knowledge-base/"
+            "/agents/laws_agent_v3/index.php",
+            "/agents/laws_agent_v3/api_query.php"
         ],
         "purpose" => "Provide storytellers with lore, mechanics, and citation support on demand.",
         "status" => "Active",
-        "last_event" => "Responded to Camarilla tradition query moments ago.",
+        "last_event" => "Ready for rules questions.",
         "actions" => [
             [
-                "label" => "Launch Laws Agent",
-                "url" => "/agents/laws_agent/"
+                "label" => "Launch Laws Agent v3",
+                "url" => "../agents/laws_agent_v3/"
             ]
         ]
     ],
