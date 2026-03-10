@@ -2,8 +2,8 @@
 /**
  * Laws Agent v3 - VTM/MET Rules Q&A Interface
  *
- * Users ask legal/rules questions and receive AI-generated answers
- * from the Laws-agent-v3 system (Cloudflare AI Search + Workers AI).
+ * Users ask legal/rules questions and receive AI-generated answers from the same
+ * process as MCP ai_search: Cloudflare AI Search (AutoRAG) rag_id "laws-agent", query = question.
  * Supports "Ask for More Information" follow-up with conversation context.
  */
 

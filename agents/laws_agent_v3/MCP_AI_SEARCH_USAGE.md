@@ -30,5 +30,5 @@ MCP tool descriptors live under the workspace `mcps` folder. For this server:
 
 ## Related
 
-- Laws Agent v3 also uses Cloudflare AI Search via PHP in `api_query.php` (REST API) when `CF_AUTORAG_NAME` is set in `.env`.
+- **Laws Agent v3 (same process):** The web UI and **POST** `api_query.php` use this exact process (rag_id `laws-agent`, query = user question). They call the same Cloudflare `ai-search` endpoint; API returns answer plus sources. Env: `CLOUDFLARE_API_TOKEN` or `CLOUDFLARE_EMAIL` + `CLOUDFLARE_API_KEY`; `CF_ACCOUNT_ID` (required for PHP); optional `LAWS_AGENT_RAG_NAME` or `CF_AUTORAG_NAME` (default `laws-agent`). Token must have **AI Search - Read** (or use “Copy API Token” from the AI Search page in the dashboard).
 - README: [agents/laws_agent_v3/README.md](README.md).

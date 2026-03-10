@@ -4,8 +4,9 @@ declare(strict_types=1);
 /**
  * Laws Agent v3 - API Query Endpoint
  *
- * Accepts POST question and optional follow-up context.
- * Uses Cloudflare AI Search (AutoRAG) ai-search endpoint only: same as MCP, returns generated answer + sources. No Workers AI, no extra token.
+ * Same process as MCP_AI_SEARCH_USAGE.md: Cloudflare AI Search (AutoRAG) with rag_id "laws-agent"
+ * and query = user question. Accepts POST question and optional follow-up context.
+ * Uses ai-search endpoint only (no Workers AI). Returns generated answer + sources.
  */
 
 ob_start();
@@ -58,14 +59,16 @@ try {
 
 if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['debug'])) {
     ob_end_clean();
-    $cfAccount = getenv('CF_ACCOUNT_ID');
-    $cfRag = getenv('CF_AUTORAG_NAME');
-    $cfToken = getenv('CLOUDFLARE_API_TOKEN');
+    $cf6th = getenv('CF_Fucking_6th_API');
+    $tokenApi = getenv('CLOUDFLARE_API_TOKEN');
+    $email = getenv('CLOUDFLARE_EMAIL');
+    $apiKey = getenv('CLOUDFLARE_API_KEY');
     echo json_encode([
         'debug'                 => true,
-        'CF_ACCOUNT_ID'         => $cfAccount ? 'set' : 'missing',
-        'CF_AUTORAG_NAME'       => $cfRag ? 'set' : 'missing',
-        'CLOUDFLARE_API_TOKEN'  => $cfToken ? 'set' : 'missing',
+        'CF_Fucking_6th_API'     => $cf6th ? 'set' : 'missing',
+        'CLOUDFLARE_API_TOKEN'  => $tokenApi ? 'set' : 'missing',
+        'CLOUDFLARE_EMAIL'      => $email ? 'set' : 'missing',
+        'CLOUDFLARE_API_KEY'    => $apiKey ? 'set' : 'missing',
     ], JSON_PRETTY_PRINT);
     exit;
 }
@@ -98,59 +101,155 @@ if ($previousQuestion !== '' && $previousAnswer !== '') {
     $question = "Previous question: {$previousQuestion}\n\nPrevious answer: {$previousAnswer}\n\nFollow-up: {$question}";
 }
 
-$accountId = getenv('CF_ACCOUNT_ID');
-$ragName = getenv('CF_AUTORAG_NAME');
-$cfToken = getenv('CLOUDFLARE_API_TOKEN');
-
-if ($accountId !== false && $accountId !== '') {
-    $accountId = trim((string) $accountId);
-} else {
-    $accountId = '';
+$tokenAiSearch = getenv('CF_Fucking_6th_API');
+$token = getenv('CLOUDFLARE_API_TOKEN');
+$email = getenv('CLOUDFLARE_EMAIL');
+$apiKey = getenv('CLOUDFLARE_API_KEY');
+$auth = null;
+$authAlt = null;
+if ($token !== false && trim((string) $token) !== '') {
+    $auth = ['type' => 'token', 'token' => trim((string) $token)];
 }
-if ($ragName !== false && $ragName !== '') {
-    $ragName = trim((string) $ragName);
-} else {
-    $ragName = '';
+if ($email !== false && $apiKey !== false && trim((string) $email) !== '' && trim((string) $apiKey) !== '') {
+    $keyAuth = ['type' => 'key', 'email' => trim((string) $email), 'key' => trim((string) $apiKey)];
+    if ($auth === null) {
+        $auth = $keyAuth;
+    } else {
+        $authAlt = $keyAuth;
+    }
 }
-if ($cfToken === false || $cfToken === '') {
+if ($auth === null) {
     ob_end_clean();
     http_response_code(500);
-    echo json_encode(['success' => false, 'error' => 'CLOUDFLARE_API_TOKEN is required in .env']);
+    echo json_encode(['success' => false, 'error' => 'Set CLOUDFLARE_API_TOKEN (or CLOUDFLARE_EMAIL + CLOUDFLARE_API_KEY) in .env']);
     exit;
 }
-$cfToken = trim((string) $cfToken);
-$resolveError = '';
+// Use CF_Fucking_6th_API for ai-search when set; else CLOUDFLARE_API_TOKEN / email+key.
+$authForSearch = ($tokenAiSearch !== false && trim((string) $tokenAiSearch) !== '')
+    ? ['type' => 'token', 'token' => trim((string) $tokenAiSearch)]
+    : $auth;
+
+$accountIdEnv = getenv('CF_ACCOUNT_ID');
+$accountId = ($accountIdEnv !== false && trim((string) $accountIdEnv) !== '') ? trim((string) $accountIdEnv) : '';
 if ($accountId === '') {
-    $resolved = laws_agent_resolve_account_id($cfToken, $resolveError);
-    if ($resolved === '') {
+    $resolveError = '';
+    $accountId = laws_agent_resolve_account_id($auth, $resolveError);
+    if ($accountId === '') {
         ob_end_clean();
         http_response_code(500);
-        $msg = 'Set CF_ACCOUNT_ID in .env. Get it: https://dash.cloudflare.com → right sidebar "Account ID" (or copy the hex from any dashboard URL after /).';
+        $msg = 'Set CF_ACCOUNT_ID in .env (dashboard URL or sidebar). Token has no Account read.';
         if ($resolveError !== '') {
-            $msg .= ' Token lookup failed: ' . $resolveError;
+            $msg .= ' ' . $resolveError;
         }
         echo json_encode(['success' => false, 'error' => $msg]);
         exit;
     }
-    $accountId = $resolved;
 }
+$ragName = getenv('LAWS_AGENT_RAG_NAME');
+if ($ragName === false || trim((string) $ragName) === '') {
+    $ragName = getenv('CF_AUTORAG_NAME');
+}
+$ragName = ($ragName !== false && trim((string) $ragName) !== '') ? trim((string) $ragName) : 'laws-agent';
 
-if ($ragName === '') {
-    ob_end_clean();
-    http_response_code(500);
-    echo json_encode(['success' => false, 'error' => 'CF_AUTORAG_NAME is required in .env (e.g. your AI Search / laws-agent RAG name).']);
-    exit;
+/**
+ * Cloudflare API auth headers (same as admin/cloudflare_set_ssl_flexible.php).
+ */
+function laws_agent_cf_headers(array $auth): array {
+    if ($auth['type'] === 'token') {
+        return ['Authorization: Bearer ' . $auth['token'], 'Content-Type: application/json'];
+    }
+    return ['X-Auth-Email: ' . $auth['email'], 'X-Auth-Key: ' . $auth['key'], 'Content-Type: application/json'];
 }
 
 /**
- * Resolve account ID from token (GET /accounts). Returns [id, ''] or ['', error].
+ * Call Cloudflare AI Search via MCP (same as Cursor): POST to autorag.mcp.cloudflare.com with tools/call.
+ * Returns ['answer' => string, 'sources' => []] (MCP returns no sources).
  */
-function laws_agent_resolve_account_id(string $token, ?string &$outError): string {
+function laws_agent_ai_search_via_mcp(string $question, string $ragName, array $auth): array {
+    $token = $auth['type'] === 'token' ? $auth['token'] : null;
+    if ($token === null || $token === '') {
+        throw new RuntimeException('MCP AI Search requires Bearer token (CF_Fucking_6th_API).');
+    }
+    $url = 'https://autorag.mcp.cloudflare.com/mcp';
+    $body = [
+        'jsonrpc' => '2.0',
+        'id'      => '1',
+        'method'  => 'tools/call',
+        'params'  => [
+            'name'      => 'ai_search',
+            'arguments' => [
+                'rag_id' => $ragName,
+                'query'  => $question,
+            ],
+        ],
+    ];
+    $payload = json_encode($body);
+    $headers = [
+        'Authorization: Bearer ' . $token,
+        'Content-Type: application/json',
+        'Accept: application/json, text/event-stream',
+    ];
+    $ch = curl_init($url);
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_POST           => true,
+        CURLOPT_POSTFIELDS     => $payload,
+        CURLOPT_HTTPHEADER     => $headers,
+        CURLOPT_TIMEOUT        => 60,
+    ]);
+    $response = curl_exec($ch);
+    $httpCode = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    $err = curl_error($ch);
+    curl_close($ch);
+    if ($err !== '') {
+        throw new RuntimeException('Cloudflare MCP AI Search failed: ' . $err);
+    }
+    if ($response === false) {
+        throw new RuntimeException('Cloudflare MCP AI Search failed: no response');
+    }
+    if ($httpCode !== 200 && $httpCode !== 201) {
+        throw new RuntimeException('Cloudflare MCP AI Search failed: HTTP ' . $httpCode . '. Response: ' . mb_substr((string) $response, 0, 500));
+    }
+    $data = json_decode($response, true);
+    if (!is_array($data)) {
+        throw new RuntimeException('Cloudflare MCP AI Search failed: invalid JSON. Response: ' . mb_substr((string) $response, 0, 500));
+    }
+    if (isset($data['error'])) {
+        $code = isset($data['error']['code']) ? (int) $data['error']['code'] : 0;
+        $msg = isset($data['error']['message']) ? $data['error']['message'] : json_encode($data['error']);
+        throw new RuntimeException('Cloudflare MCP AI Search failed: ' . $code . ' ' . $msg);
+    }
+    $result = $data['result'] ?? null;
+    if ($result === null) {
+        throw new RuntimeException('Cloudflare MCP AI Search failed: no result in response. HTTP ' . $httpCode . '. Response: ' . mb_substr((string) $response, 0, 500));
+    }
+    $answer = '';
+    if (is_string($result)) {
+        $answer = trim($result);
+    } elseif (is_array($result)) {
+        $content = $result['content'] ?? [];
+        foreach (is_array($content) ? $content : [] as $block) {
+            if (is_array($block) && isset($block['type'], $block['text']) && $block['type'] === 'text') {
+                $answer .= $block['text'];
+            }
+        }
+        $answer = trim($answer);
+        if ($answer === '' && isset($result['response'])) {
+            $answer = trim((string) $result['response']);
+        }
+    }
+    return ['answer' => $answer, 'sources' => []];
+}
+
+/**
+ * Resolve account ID (GET /accounts). Returns [id, ''] or ['', error].
+ */
+function laws_agent_resolve_account_id(array $auth, ?string &$outError): string {
     $outError = '';
     $ch = curl_init('https://api.cloudflare.com/client/v4/accounts?per_page=1');
     curl_setopt_array($ch, [
         CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_HTTPHEADER     => ['Authorization: Bearer ' . $token, 'Content-Type: application/json'],
+        CURLOPT_HTTPHEADER     => laws_agent_cf_headers($auth),
         CURLOPT_TIMEOUT       => 10,
     ]);
     $response = curl_exec($ch);
@@ -189,7 +288,7 @@ function laws_agent_resolve_account_id(string $token, ?string &$outError): strin
  * Cloudflare AI Search (AutoRAG) ai-search endpoint: search + generated answer in one call (same as MCP).
  * Returns ['answer' => string, 'sources' => array of {book, page, category, system, excerpt, relevance}].
  */
-function laws_agent_ai_search(string $question, string $accountId, string $ragName, string $token, int $limit = 10): array {
+function laws_agent_ai_search(string $question, string $accountId, string $ragName, array $auth, int $limit = 10): array {
     $url = 'https://api.cloudflare.com/client/v4/accounts/' . rawurlencode($accountId) . '/autorag/rags/' . rawurlencode($ragName) . '/ai-search';
     $body = [
         'query'             => $question,
@@ -198,15 +297,13 @@ function laws_agent_ai_search(string $question, string $accountId, string $ragNa
         'ranking_options'    => ['score_threshold' => 0.1],
     ];
     $payload = json_encode($body);
+    $headers = laws_agent_cf_headers($auth);
     $ch = curl_init($url);
     curl_setopt_array($ch, [
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_POST           => true,
         CURLOPT_POSTFIELDS     => $payload,
-        CURLOPT_HTTPHEADER     => [
-            'Content-Type: application/json',
-            'Authorization: Bearer ' . $token,
-        ],
+        CURLOPT_HTTPHEADER     => $headers,
         CURLOPT_TIMEOUT        => 60,
     ]);
     $response = curl_exec($ch);
@@ -221,7 +318,21 @@ function laws_agent_ai_search(string $question, string $accountId, string $ragNa
     }
     $data = json_decode($response, true);
     if (!$data || empty($data['success']) || !isset($data['result'])) {
-        $msg = isset($data['errors'][0]['message']) ? $data['errors'][0]['message'] : ('HTTP ' . $httpCode);
+        $msg = 'HTTP ' . $httpCode;
+        if (is_array($data) && !empty($data['errors'])) {
+            $parts = [];
+            foreach ($data['errors'] as $e) {
+                $code = isset($e['code']) ? (int) $e['code'] : 0;
+                $m = isset($e['message']) ? $e['message'] : json_encode($e);
+                $parts[] = ($code ? "[{$code}] " : '') . $m;
+            }
+            $msg .= '. ' . implode('; ', $parts);
+        } elseif ($response !== false && $response !== '') {
+            $msg .= '. Response: ' . mb_substr((string) $response, 0, 500);
+        }
+        if ($httpCode === 401) {
+            $msg .= '. Set CF_Fucking_6th_API in .env to the token from AI Search (Copy API Token).';
+        }
         throw new RuntimeException('Cloudflare AI Search failed: ' . $msg);
     }
     $result = $data['result'];
@@ -254,121 +365,10 @@ function laws_agent_ai_search(string $question, string $accountId, string $ragNa
     return ['answer' => $answer, 'sources' => array_slice($rows, 0, $limit)];
 }
 
-/**
- * Build context string from search results for the LLM.
- */
-function laws_agent_build_context(array $results): string {
-    if (count($results) === 0) {
-        return 'No relevant rulebook content found.';
-    }
-    $out = "Context from VTM/MET rulebooks:\n\n";
-    foreach ($results as $i => $r) {
-        $excerpt = mb_strlen($r['page_text']) > 800 ? mb_substr($r['page_text'], 0, 800) . '...' : $r['page_text'];
-        $out .= sprintf(
-            "[Source %d] %s (Page %d, Category: %s, System: %s):\n%s\n\n",
-            $i + 1,
-            $r['book_title'],
-            $r['page_number'],
-            $r['category'],
-            $r['system_type'],
-            $excerpt
-        );
-    }
-    return $out;
-}
-
-/**
- * Cloudflare Workers AI - run LLM (messages: system + user).
- */
-function laws_agent_cloudflare_llm(string $question, string $context, string $accountId, string $token, string $model): array {
-    $systemPrompt = "You are a helpful assistant answering questions about Vampire: The Masquerade and Mind's Eye Theatre rules. Baseline edition is Laws of the Night Revised. Do not reference V5 or the Second Inquisition. Answer based on the provided context from official rulebooks. Always cite your sources by including [Book Name, Page X] citations in your response.
-
-IMPORTANT: When asked about \"Camarilla traditions\" or \"the Traditions,\" you should always mention the Six Traditions that govern vampire society:
-1. The Masquerade - Conceal vampiric nature from mortals at all times
-2. Domain - A Prince (or rightful lord) holds the city; respect granted rights
-3. Progeny - Do not Embrace without the Prince's explicit leave
-4. Accounting - A sire is responsible for a childe until formal Release
-5. Hospitality - Present yourself to the Prince upon entering a city
-6. Destruction - Only the Prince (or empowered elder) may grant Final Death
-
-These are fundamental laws of the Camarilla (LotN Revised), even if specific details are not found in the search results.";
-    $body = [
-        'messages' => [
-            ['role' => 'system', 'content' => $systemPrompt],
-            ['role' => 'user', 'content' => $question . "\n\n" . $context],
-        ],
-        'max_tokens' => 2000,
-    ];
-    $url = 'https://api.cloudflare.com/client/v4/accounts/' . rawurlencode($accountId) . '/ai/run/' . rawurlencode($model);
-    $payload = json_encode($body);
-    $ch = curl_init($url);
-    curl_setopt_array($ch, [
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_POST           => true,
-        CURLOPT_POSTFIELDS     => $payload,
-        CURLOPT_HTTPHEADER     => [
-            'Content-Type: application/json',
-            'Authorization: Bearer ' . $token,
-        ],
-        CURLOPT_TIMEOUT        => 60,
-    ]);
-    $response = curl_exec($ch);
-    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    $err = curl_error($ch);
-    curl_close($ch);
-    if ($err !== '') {
-        throw new RuntimeException('Cloudflare Workers AI failed: ' . $err);
-    }
-    if ($response === false) {
-        throw new RuntimeException('Cloudflare Workers AI failed: no response');
-    }
-    $data = json_decode($response, true);
-    if (!$data || empty($data['success']) || !isset($data['result']['response'])) {
-        $msg = isset($data['errors'][0]['message']) ? $data['errors'][0]['message'] : ('HTTP ' . $httpCode);
-        throw new RuntimeException('Cloudflare Workers AI error: ' . $msg);
-    }
-    $text = trim((string) $data['result']['response']);
-    if ($text === '') {
-        throw new RuntimeException('Cloudflare Workers AI returned empty response');
-    }
-    return ['answer' => $text, 'model' => $model];
-}
-
-$searchResults = [];
-if ($useCloudflareRag) {
-    try {
-        $searchResults = laws_agent_cloudflare_search($question, $accountId, $ragName, $cfToken, 5);
-    } catch (Throwable $e) {
-        ob_end_clean();
-        http_response_code(500);
-        echo json_encode(['success' => false, 'error' => $e->getMessage()]);
-        exit;
-    }
-}
-
-$isTraditionQuestion = (bool) preg_match('/\b(traditions?|masquerade|domain|progeny|accounting|hospitality|destruction)\b/i', $question);
 $rawQuestion = isset($input['question']) ? trim((string) $input['question']) : $question;
 
-if (count($searchResults) === 0 && !$isTraditionQuestion) {
-    ob_end_clean();
-    echo json_encode([
-        'success'  => true,
-        'question' => $rawQuestion,
-        'answer'    => "I couldn't find any relevant information in the rulebooks to answer that question. Please try rephrasing or being more specific.",
-        'sources'  => [],
-        'ai_model' => $cfModel,
-        'searched' => true,
-        'results_found' => 0,
-    ]);
-    exit;
-}
-
-$context = count($searchResults) > 0
-    ? laws_agent_build_context($searchResults)
-    : "No specific rulebook excerpts found, but answer based on fundamental knowledge of the Six Traditions.";
-
 try {
-    $aiResponse = laws_agent_cloudflare_llm($question, $context, $accountId, $cfToken, $cfModel);
+    $aiSearchResult = laws_agent_ai_search_via_mcp($question, $ragName, $authForSearch);
 } catch (Throwable $e) {
     ob_end_clean();
     http_response_code(500);
@@ -376,26 +376,19 @@ try {
     exit;
 }
 
-$sources = [];
-foreach ($searchResults as $r) {
-    $excerpt = mb_strlen($r['page_text']) > 300 ? mb_substr($r['page_text'], 0, 300) . '...' : $r['page_text'];
-    $sources[] = [
-        'book'      => $r['book_title'],
-        'page'      => $r['page_number'],
-        'category'  => $r['category'],
-        'system'    => $r['system_type'],
-        'excerpt'   => $excerpt,
-        'relevance' => $r['relevance'],
-    ];
+$answer = $aiSearchResult['answer'];
+$sources = $aiSearchResult['sources'];
+if ($answer === '') {
+    $answer = "I couldn't find any relevant information in the rulebooks to answer that question. Please try rephrasing or being more specific.";
 }
 
 ob_end_clean();
 echo json_encode([
     'success'       => true,
     'question'      => $rawQuestion,
-    'answer'        => $aiResponse['answer'],
+    'answer'        => $answer,
     'sources'       => $sources,
-    'ai_model'      => $aiResponse['model'],
+    'ai_model'      => 'Cloudflare AI Search',
     'searched'      => true,
-    'results_found' => count($searchResults),
+    'results_found' => count($sources),
 ]);

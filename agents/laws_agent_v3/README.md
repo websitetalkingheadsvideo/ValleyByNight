@@ -1,6 +1,14 @@
 # Laws Agent v3
 
-`laws_agent_v3` uses Cloudflare only: AI Search (AutoRAG) for retrieval when configured, Workers AI for answer synthesis.
+`laws_agent_v3` answers rules/lore questions using **Cloudflare AI Search (AutoRAG) only**: same process as the MCP `ai_search` tool. No Workers AI.
+
+## Process (same as MCP)
+
+- **RAG:** `laws-agent` (configurable via `LAWS_AGENT_RAG_NAME` or `CF_AUTORAG_NAME`, default `laws-agent`)
+- **Query:** The user’s natural-language question (optionally with previous Q/A for follow-up)
+- **Endpoint:** Cloudflare `ai-search` (AutoRAG); returns synthesized answer (and sources in the web API)
+
+See [MCP_AI_SEARCH_USAGE.md](MCP_AI_SEARCH_USAGE.md) for the MCP flow. The web API (`api_query.php`) uses the same process.
 
 ## Web Interface
 
@@ -28,35 +36,27 @@
   "question": "...",
   "answer": "...",
   "sources": [{"book": "...", "page": 1, "category": "...", "system": "..."}],
-  "ai_model": "claude-sonnet-4-20250514"
+  "ai_model": "Cloudflare AI Search",
+  "searched": true,
+  "results_found": 10
 }
 ```
 
 ## MCP (Cursor Integration)
 
-- Config entry: `laws-agent-v3` in `.cursor/mcp.json`
-- Remote MCP URL: `https://autorag.mcp.cloudflare.com/mcp`
-- Runtime server identifier may differ from the config key.
-  In this workspace, the working runtime identifier was `project-0-v:-cloudflare-ai-search`.
-
-### MCP Tool Flow
-
-1. Call `accounts_list`
-2. Call `set_active_account` with `activeAccountIdParam: "76b8ec41079de44fa4c882753cb0f5e6"`
-3. Call `search` with `rag_id: "laws-agent"`, `query: "<rules question>"`
+- **Server:** `project-0-v:-cloudflare-ai-search` (Cloudflare AutoRAG MCP)
+- **Tool:** `ai_search` with **rag_id:** `laws-agent`, **query:** natural-language question (e.g. "describe the Brujah")
+- Same process as the web API; MCP returns only the synthesized answer (no sources in the tool response).
 
 ## Environment (.env)
 
 **Required (Cloudflare):**
 
-- `CLOUDFLARE_API_TOKEN` – API token with Workers AI access
+- **AI Search (Q&A):** `CF_Fucking_6th_API` – token from AI Search (Copy API Token). If set, used for ai-search; else falls back to `CLOUDFLARE_API_TOKEN`.
+- **Account / general:** `CLOUDFLARE_API_TOKEN` or `CLOUDFLARE_EMAIL` + `CLOUDFLARE_API_KEY`.
 
-**Optional:** `CF_ACCOUNT_ID` – if not set, the API will try to resolve it from the token (GET /accounts). Set it in .env if resolution fails.
+**Required for PHP:** `CF_ACCOUNT_ID` – if not set, the API tries to resolve it from the token (GET /accounts). Set in .env if resolution fails.
 
-**Optional (for rulebook RAG):** If `CF_AUTORAG_NAME` is set, answers use Cloudflare AI Search context. If not set, the LLM answers without rulebook citations.
+**Optional:** `LAWS_AGENT_RAG_NAME` or `CF_AUTORAG_NAME` (default `laws-agent`).
 
-- `CF_AUTORAG_NAME` (e.g. `ai-search-laws-agent`)
-
-**Optional:** `CF_WORKERS_AI_MODEL` (default `@cf/meta/llama-3.1-8b-instruct`).
-
-Use **GET** `api_query.php?debug` to see which vars are set.
+Use **GET** `api_query.php?debug=1` to see which env vars are set.

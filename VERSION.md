@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.215
+## Current Version: 0.9.218
+
+**Date:** 2026-03-10  
+**Type:** Patch (git sync: laws_agent_v3 MCP AI search usage, README, api_query, index updates)
+
+## Previous Version: 0.9.215
 
 **Date:** 2026-03-09  
 **Type:** Patch (git sync: add processed clan book markdown and README update)
