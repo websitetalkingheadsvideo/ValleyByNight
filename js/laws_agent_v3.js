@@ -20,8 +20,21 @@
     let lastUserQuestion = '';
     let lastAnswer = '';
 
-    function showError(msg) {
-        errorDisplay.textContent = msg;
+    function showError(msg, fullBody) {
+        errorDisplay.innerHTML = '';
+        const p = document.createElement('p');
+        p.textContent = msg;
+        errorDisplay.appendChild(p);
+        if (fullBody && fullBody.length > 0) {
+            const pre = document.createElement('pre');
+            pre.className = 'bg-dark border border-danger rounded p-2 mt-2 text-start small';
+            pre.style.maxHeight = '400px';
+            pre.style.overflow = 'auto';
+            pre.style.whiteSpace = 'pre-wrap';
+            pre.style.wordBreak = 'break-all';
+            pre.textContent = fullBody;
+            errorDisplay.appendChild(pre);
+        }
         errorDisplay.classList.remove('d-none');
         resultSection.classList.add('d-none');
     }
@@ -127,7 +140,7 @@
                 } else {
                     var errMsg = data.error || 'An error occurred.';
                     if (data.tried_exe) { errMsg += ' Tried: ' + data.tried_exe; }
-                    showError(errMsg);
+                    showError(errMsg, data.error_response_body);
                 }
             })
             .catch(function (err) {

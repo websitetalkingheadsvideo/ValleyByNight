@@ -8,3 +8,4 @@ alwaysApply: false
 
 - **Do not modify** any login, session, redirect, or auth logic in `agents/laws_agent_v3/` unless the user explicitly asks you to.
 - **Do not remove or replace** `includes/header.php` and `includes/footer.php` on this page. The page must use the standard header/footer includes. Do not make the page "self-contained" or output raw HTML without them.
+- **Cloudflare AI Search:** Use `CF_FUCKING_7th_API` only. Never add, request, or reference another Cloudflare API token for this system.

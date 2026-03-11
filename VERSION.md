@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.218
+## Current Version: 0.9.219
+
+**Date:** 2026-03-11  
+**Type:** Patch (git sync: laws_agent_v3 Cloudflare token/docs, API diagnostics, Iceberg steps doc)
+
+## Previous Version: 0.9.218
 
 **Date:** 2026-03-10  
 **Type:** Patch (git sync: laws_agent_v3 MCP AI search usage, README, api_query, index updates)

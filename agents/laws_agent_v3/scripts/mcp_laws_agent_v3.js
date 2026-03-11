@@ -9,7 +9,20 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-4-20250514';
+// Load project .env so MCP has tokens when Cursor does not inject them
+const projectRoot = path.resolve(__dirname, '..', '..', '..');
+const envPath = path.join(projectRoot, '.env');
+try {
+    if (fs.existsSync(envPath)) {
+        const content = fs.readFileSync(envPath, 'utf8');
+        for (const line of content.split('\n')) {
+            const match = line.match(/^\s*([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/);
+            if (match && !process.env[match[1]]) {
+                process.env[match[1]] = match[2].replace(/^["']|["']$/g, '').trim();
+            }
+        }
+    }
+} catch (_) {}
 
 function requireEnv(name) {
     const value = process.env[name];
@@ -36,42 +49,6 @@ function extractExcerpt(text, maxChars) {
     }
 
     return `${excerpt}...`;
-}
-
-function readKnowledgeBaseFiles() {
-    const knowledgeBasePath = path.join(__dirname, '..', 'knowledge-base');
-    let knowledgeContent = '';
-
-    try {
-        if (!fs.existsSync(knowledgeBasePath)) {
-            return '';
-        }
-
-        const files = fs.readdirSync(knowledgeBasePath);
-        const textFiles = files.filter((file) =>
-            ['.txt', '.md', '.mdx', '.json'].some((ext) => file.endsWith(ext))
-        );
-
-        if (textFiles.length === 0) {
-            return '';
-        }
-
-        knowledgeContent = '\n\n=== Knowledge Base Reference Files ===\n\n';
-
-        textFiles.forEach((file, index) => {
-            try {
-                const filePath = path.join(knowledgeBasePath, file);
-                const content = fs.readFileSync(filePath, 'utf8');
-                knowledgeContent += `[Knowledge Base File ${index + 1}] ${file}:\n${content}\n\n`;
-            } catch (error) {
-                console.error(`Error reading ${file}: ${error.message}`);
-            }
-        });
-    } catch (error) {
-        console.error(`Knowledge base error: ${error.message}`);
-    }
-
-    return knowledgeContent;
 }
 
 function buildCloudflareFilters(category, system) {
@@ -187,7 +164,7 @@ function normalizeCloudflareSearchRows(rows) {
 async function searchRulebooksCloudflare(question, category, system, limit) {
     const accountId = requireEnv('CF_ACCOUNT_ID');
     const ragName = requireEnv('CF_AUTORAG_NAME');
-    const token = requireEnv('CLOUDFLARE_API_TOKEN');
+    const token = requireEnv('CF_FUCKING_7th_API');
     const filters = buildCloudflareFilters(category, system);
     const body = {
         query: question,
@@ -203,140 +180,26 @@ async function searchRulebooksCloudflare(question, category, system, limit) {
     }
 
     const result = await sendCloudflareSearchRequest(accountId, ragName, token, body);
-    return normalizeCloudflareSearchRows(result.data).slice(0, limit);
-}
-
-function buildContextFromResults(results) {
-    if (!results || results.length === 0) {
-        return 'No relevant rulebook content found.';
-    }
-
-    let context = 'Context from VTM/MET rulebooks:\n\n';
-
-    results.forEach((result, index) => {
-        const excerpt = extractExcerpt(result.page_text, 800);
-        context += `[Source ${index + 1}] ${result.book_title} (Page ${result.page_number}, Category: ${result.category}, System: ${result.system_type}):\n${excerpt}\n\n`;
-    });
-
-    const knowledgeContent = readKnowledgeBaseFiles();
-
-    if (knowledgeContent) {
-        context += knowledgeContent;
-    }
-
-    return context;
-}
-
-function callAnthropicAPI(question, context) {
-    const anthropicApiKey = requireEnv('ANTHROPIC_API_KEY');
-    const systemPrompt = `You are a helpful assistant answering questions about Vampire: The Masquerade and Mind's Eye Theatre rules. Baseline edition is Laws of the Night Revised. Do not reference V5 or the Second Inquisition. Answer based on the provided context from official rulebooks. Always cite your sources by including [Book Name, Page X] citations in your response.
-
-IMPORTANT: When asked about "Camarilla traditions" or "the Traditions," you should always mention the Six Traditions that govern vampire society:
-1. The Masquerade - Conceal vampiric nature from mortals at all times
-2. Domain - A Prince (or rightful lord) holds the city; respect granted rights
-3. Progeny - Do not Embrace without the Prince's explicit leave
-4. Accounting - A sire is responsible for a childe until formal Release
-5. Hospitality - Present yourself to the Prince upon entering a city
-6. Destruction - Only the Prince (or empowered elder) may grant Final Death
-
-These are fundamental laws of the Camarilla (LotN Revised), even if specific details are not found in the search results.`;
-
-    const payload = JSON.stringify({
-        model: ANTHROPIC_MODEL,
-        max_tokens: 2000,
-        system: systemPrompt,
-        messages: [
-            {
-                role: 'user',
-                content: `${question}\n\n${context}`,
-            },
-        ],
-    });
-
-    const options = {
-        hostname: 'api.anthropic.com',
-        port: 443,
-        path: '/v1/messages',
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            'x-api-key': anthropicApiKey,
-            'anthropic-version': '2023-06-01',
-            'Content-Length': Buffer.byteLength(payload),
-        },
+    return {
+        response: typeof result.response === 'string' ? result.response : '',
+        rows: normalizeCloudflareSearchRows(result.data || []).slice(0, limit),
     };
-
-    return new Promise((resolve, reject) => {
-        const req = https.request(options, (res) => {
-            let responseBody = '';
-
-            res.on('data', (chunk) => {
-                responseBody += chunk;
-            });
-
-            res.on('end', () => {
-                try {
-                    const parsed = JSON.parse(responseBody);
-
-                    if (res.statusCode !== 200) {
-                        throw new Error(parsed.error?.message || 'Anthropic request failed');
-                    }
-
-                    const answer = parsed.content?.[0]?.text;
-
-                    if (!answer) {
-                        throw new Error('Unexpected Anthropic response format');
-                    }
-
-                    resolve({
-                        answer,
-                        model: parsed.model,
-                    });
-                } catch (error) {
-                    reject(new Error(`Anthropic request failed: ${error.message}`));
-                }
-            });
-        });
-
-        req.on('error', (error) => {
-            reject(new Error(`Anthropic request failed: ${error.message}`));
-        });
-
-        req.setTimeout(60000, () => {
-            req.destroy();
-            reject(new Error('Anthropic request timed out'));
-        });
-
-        req.write(payload);
-        req.end();
-    });
 }
 
 async function askLawsAgent(question, category, system) {
     try {
-        const searchResults = await searchRulebooksCloudflare(question, category, system, 5);
-        const isTraditionQuestion = /\b(traditions?|masquerade|domain|progeny|accounting|hospitality|destruction)\b/i.test(
-            question
+        const { response: cloudflareAnswer, rows: searchResults } = await searchRulebooksCloudflare(
+            question,
+            category,
+            system,
+            5
         );
 
-        if (searchResults.length === 0 && !isTraditionQuestion) {
-            return {
-                success: true,
-                question,
-                answer: "I couldn't find any relevant information in the rulebooks to answer that question. Please try rephrasing or being more specific.",
-                sources: [],
-                ai_model: ANTHROPIC_MODEL,
-                searched: true,
-                results_found: 0,
-            };
-        }
+        const answer =
+            typeof cloudflareAnswer === 'string' && cloudflareAnswer.trim() !== ''
+                ? cloudflareAnswer.trim()
+                : "I couldn't find any relevant information in the rulebooks to answer that question. Please try rephrasing or being more specific.";
 
-        const context =
-            searchResults.length > 0
-                ? buildContextFromResults(searchResults)
-                : 'No specific rulebook excerpts found, but answer based on fundamental knowledge of the Six Traditions.';
-
-        const aiResponse = await callAnthropicAPI(question, context);
         const sources = searchResults.map((result) => ({
             book: result.book_title,
             page: result.page_number,
@@ -349,9 +212,9 @@ async function askLawsAgent(question, category, system) {
         return {
             success: true,
             question,
-            answer: aiResponse.answer,
+            answer,
             sources,
-            ai_model: aiResponse.model,
+            ai_model: 'Cloudflare AI Search',
             searched: true,
             results_found: searchResults.length,
         };

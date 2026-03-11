@@ -52,8 +52,8 @@ See [MCP_AI_SEARCH_USAGE.md](MCP_AI_SEARCH_USAGE.md) for the MCP flow. The web A
 
 **Required (Cloudflare):**
 
-- **AI Search (Q&A):** `CF_Fucking_6th_API` – token from AI Search (Copy API Token). If set, used for ai-search; else falls back to `CLOUDFLARE_API_TOKEN`.
-- **Account / general:** `CLOUDFLARE_API_TOKEN` or `CLOUDFLARE_EMAIL` + `CLOUDFLARE_API_KEY`.
+- **AI Search:** `CF_FUCKING_7th_API` or `CLOUDFLARE_API_TOKEN` – must be the token created **from the instance** (open your RAG, e.g. **laws-agent**, then Copy/Create API Token there; the main AI Search “+ Create” only creates new RAGs). A token from My Profile → API Tokens can verify but still return `[10000]` on the AI Search endpoint. See [MCP_AI_SEARCH_USAGE.md](MCP_AI_SEARCH_USAGE.md) (“Making the RAG work”).
+- **Account resolution (if CF_ACCOUNT_ID not set):** `CLOUDFLARE_API_TOKEN` or `CLOUDFLARE_EMAIL` + `CLOUDFLARE_API_KEY`.
 
 **Required for PHP:** `CF_ACCOUNT_ID` – if not set, the API tries to resolve it from the token (GET /accounts). Set in .env if resolution fails.
 

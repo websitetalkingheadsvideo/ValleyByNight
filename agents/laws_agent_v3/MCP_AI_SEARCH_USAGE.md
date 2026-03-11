@@ -1,34 +1,43 @@
-# Using Cloudflare AI Search via MCP
+# Cloudflare AI Search (laws-agent)
 
-To run a search from Cursor (or any MCP client) using the Cloudflare AI Search AutoRAG:
+## Tokens (two kinds)
 
-## MCP server
+| Token | Use | Where |
+|-------|-----|--------|
+| **Service API token** | Indexing (R2, Vectorize, Workers AI) | Instance → **Settings** → **General** → **Service API Token** → edit → **Create a new token** → **Save** |
+| **AI Search API token** | Your REST/MCP requests (query) | **My Profile → API Tokens** → Create Token → **Account** → **AI Search** → Read (+ Edit) |
 
-- **Server:** `project-0-v:-cloudflare-ai-search` (Cloudflare AutoRAG MCP at `https://autorag.mcp.cloudflare.com/mcp`)
+Put the **AI Search API token** in `.env` as `CLOUDFLARE_API_TOKEN` or `CF_FUCKING_7th_API`.
 
-## Tool: `ai_search`
+## Supported file formats (R2 source)
 
-- **Purpose:** AI Search over documents in an AutoRAG (vector store).
-- **Parameters (both required):**
-  - `rag_id` (string): ID of the AutoRAG to search. For this project use **`laws-agent`**.
-  - `query` (string): Natural-language question or search phrase (e.g. a rules/lore question).
+**Limit:** 4 MB per file. Larger or unsupported types are skipped and show as errors.
 
-## Example
+**Plain text (indexed as-is):** `.txt` `.rst` `.log` `.ini` `.conf` `.env` `.toml` `.md` `.markdown` `.mdx` `.tex` `.json` `.yaml` `.yml` `.css` `.js` `.php` `.py` `.rb` `.java` `.c` `.cpp` `.h` `.go` `.rs` `.swift` `.dart` `.sh` `.bat` `.ps1` `.sgml` `.el`
 
-Search for “What best describes the Nosferatu?”:
+**Rich (converted to markdown for indexing):** `.pdf` `.html` `.htm` `.xml` `.docx` `.xlsx` `.xls` `.xlsm` `.xlsb` `.odt` `.ods` `.csv` `.numbers` `.jpeg` `.jpg` `.png` `.webp` `.svg`
 
-- **rag_id:** `laws-agent`
-- **query:** `What best describes the Nosferatu?`
+Source: [R2 data source](https://developers.cloudflare.com/ai-search/configuration/data-source/r2/). If the dashboard says "can't display markdown", that's a UI bug — **Markdown (`.md`, `.markdown`, `.mdx`) is supported** for indexing.
 
-The tool returns a single text answer synthesized from the RAG content (no raw chunks or citations in the response).
+## REST API (PHP)
 
-## Finding the tool schema
+`POST https://api.cloudflare.com/client/v4/accounts/{ACCOUNT_ID}/autorag/rags/{AUTORAG_NAME}/ai-search`  
+Headers: `Authorization: Bearer {AI_SEARCH_API_TOKEN}`, `Content-Type: application/json`  
+Body: `{"query": "...", "rewrite_query": false, "max_num_results": 10, "ranking_options": {"score_threshold": 0.1}}`
 
-MCP tool descriptors live under the workspace `mcps` folder. For this server:
+## MCP
 
-- `mcps/project-0-v-cloudflare-ai-search/tools/ai_search.json` — defines `rag_id` and `query` (both required).
+- **Server:** `project-0-v:-cloudflare-ai-search` (or `https://autorag.mcp.cloudflare.com/mcp`)
+- **Tool:** `ai_search` — params: `rag_id` (use `laws-agent`), `query` (string)
+
+## Indexing broken (zero files, N errors)
+
+1. **Jobs tab** on the instance — check the latest job log for per-file errors.
+2. **Service API token** — recreate in **Settings** → **General** → **Service API Token** (edit → Create a new token → Save). Then **Sync Index**.
+3. **Data source** — R2 bucket/keys or website URL still valid.
+4. **File size** — over 4 MB or unsupported format → skipped (see supported formats above).
 
 ## Related
 
-- **Laws Agent v3 (same process):** The web UI and **POST** `api_query.php` use this exact process (rag_id `laws-agent`, query = user question). They call the same Cloudflare `ai-search` endpoint; API returns answer plus sources. Env: `CLOUDFLARE_API_TOKEN` or `CLOUDFLARE_EMAIL` + `CLOUDFLARE_API_KEY`; `CF_ACCOUNT_ID` (required for PHP); optional `LAWS_AGENT_RAG_NAME` or `CF_AUTORAG_NAME` (default `laws-agent`). Token must have **AI Search - Read** (or use “Copy API Token” from the AI Search page in the dashboard).
-- README: [agents/laws_agent_v3/README.md](README.md).
+- Web API: **POST** `api_query.php` (same process). Env: `CF_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` or `CF_FUCKING_7th_API`; optional `LAWS_AGENT_RAG_NAME` (default `laws-agent`).
+- [README](README.md)
