@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.220
+## Current Version: 0.9.221
+
+**Date:** 2026-03-13  
+**Type:** Patch (rituals_agent: sorting, pagination, per-page; DB migration for rituals_master/character_rituals)
+
+## Previous Version: 0.9.220
 
 **Date:** 2026-03-12  
 **Type:** Patch (git sync: laws_agent_v3 MCP_AI_SEARCH_USAGE — Sync vs indexing, dashboard-only troubleshooting, stuck status note)
