@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.219
+## Current Version: 0.9.220
+
+**Date:** 2026-03-12  
+**Type:** Patch (git sync: laws_agent_v3 MCP_AI_SEARCH_USAGE — Sync vs indexing, dashboard-only troubleshooting, stuck status note)
+
+## Previous Version: 0.9.219
 
 **Date:** 2026-03-11  
 **Type:** Patch (git sync: laws_agent_v3 Cloudflare token/docs, API diagnostics, Iceberg steps doc)
