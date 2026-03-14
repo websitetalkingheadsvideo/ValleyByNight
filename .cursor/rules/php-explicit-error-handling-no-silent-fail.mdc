@@ -1,0 +1,43 @@
+---
+description: PHP must raise or return errors explicitly; no silent ignores or generic catch-all that hides the cause.
+globs: **/*.php
+alwaysApply: false
+---
+
+- **Errors MUST be explicit and actionable**
+  - Use specific error types/messages that indicate what failed (e.g. "Supabase query failed", "Missing required parameter X").
+  - In API endpoints: return JSON `{ "success": false, "error": "clear message" }` and appropriate HTTP status when applicable.
+  - In CLI/scripts: log or print the error and exit with non-zero code; do not swallow exceptions.
+
+- **DO NOT**
+  - Use empty `catch` blocks or catch-all that only logs a generic "Error" without context.
+  - Mask failures with fallback values unless the user explicitly requested fallback behavior (see [fallbacks.mdc](mdc:.cursor/rules/fallbacks.mdc)).
+  - Assume the caller will "handle it"; ensure the failure is visible (response body, log, or exit).
+
+- **Examples**
+
+```php
+// ✅ DO: Specific message, single exit path for API
+try {
+    $rows = supabase_table_get(...);
+} catch (Throwable $e) {
+    header('Content-Type: application/json; charset=utf-8');
+    http_response_code(500);
+    echo json_encode(['success' => false, 'error' => 'Database error: ' . $e->getMessage()], JSON_UNESCAPED_UNICODE);
+    exit;
+}
+```
+
+```php
+// ❌ DON'T: Silent ignore
+catch (Exception $e) {
+    // continue
+}
+```
+
+```php
+// ❌ DON'T: Vague message
+echo json_encode(['success' => false, 'error' => 'Something went wrong']);
+```
+
+- **Rationale:** Speeds debugging and prevents hidden bugs; aligns with project preference for transparent errors and no implicit fallbacks.

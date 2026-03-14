@@ -31,6 +31,11 @@ alwaysApply: false
 - **Discovered front-end modular conventions (from codebase)**
   1. [javascript-character-creation-logic-must-be-organized-under-js-modules-and-initialized-from-main-js.mdc](mdc:.cursor/rules/javascript-character-creation-logic-must-be-organized-under-js-modules-and-initialized-from-main-js.mdc)
   2. [css-use-css-custom-properties-from-css-global-css-instead-of-hardcoded-theme-colors.mdc](mdc:.cursor/rules/css-use-css-custom-properties-from-css-global-css-instead-of-hardcoded-theme-colors.mdc)
+  3. [ui-task-vbn-style-check-before-done.mdc](mdc:.cursor/rules/ui-task-vbn-style-check-before-done.mdc)
+
+- **API and error-handling conventions**
+  1. [api-json-response-envelope.mdc](mdc:.cursor/rules/api-json-response-envelope.mdc)
+  2. [php-explicit-error-handling-no-silent-fail.mdc](mdc:.cursor/rules/php-explicit-error-handling-no-silent-fail.mdc)
 
 - **Discovered tools/ scripts conventions (from codebase)**
   0. [before-writing-a-new-script-check-tools-repeatable-documentation-and-search-for-an-existing-tool-first.mdc](mdc:.cursor/rules/before-writing-a-new-script-check-tools-repeatable-documentation-and-search-for-an-existing-tool-first.mdc)

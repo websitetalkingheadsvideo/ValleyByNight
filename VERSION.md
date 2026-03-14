@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.221
+## Current Version: 0.9.222
+
+**Date:** 2026-03-14  
+**Type:** Patch (cursor rules: API JSON envelope, PHP explicit error handling, UI VbN style checklist; rules index update)
+
+## Previous Version: 0.9.221
 
 **Date:** 2026-03-13  
 **Type:** Patch (rituals_agent: sorting, pagination, per-page; DB migration for rituals_master/character_rituals)

@@ -1,0 +1,18 @@
+---
+description: Before marking a UI/HTML/CSS task done, verify compliance with VbN style guide (variables, borders, no muted/opacity on text).
+globs: **/*.php, **/*.html, css/**/*.css, **/components/**/*
+alwaysApply: false
+---
+
+- **Before considering a UI change "done", run this checklist**
+  - **Colors:** Use CSS variables from [css/global.css](mdc:css/global.css) (e.g. `var(--primary)`, `var(--text-light)`). No hardcoded theme hex/rgb in new styles.
+  - **Borders:** Radius `0.75rem` (or `1rem` for emphasis); width 2px for cards/buttons, 3px for modals (see [VbN_styles.md](mdc:VbN_styles.md)).
+  - **Text:** No `text-muted`, `form-text`, or `opacity-*` on text (see [text-muted-dark-background.mdc](mdc:.cursor/rules/text-muted-dark-background.mdc)). Helper text: plain `<div>` or `<p>` with readable color.
+  - **Focus:** Interactive elements have visible focus states for accessibility.
+  - **Bootstrap:** Enhance only; do not override core Bootstrap behavior (see [Bootstrap.mdc](mdc:.cursor/rules/Bootstrap.mdc)).
+
+- **Reference**
+  - Full guide: [VbN_styles.md](mdc:VbN_styles.md).
+  - Definition of Done (AGENTS.md): styling compliance and focus states.
+
+- **Rationale:** Catches style drift and a11y gaps before merge; reduces rework and follow-up fixes.

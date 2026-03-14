@@ -1,0 +1,35 @@
+---
+description: All API endpoints must return JSON with a consistent success/data/error envelope and Content-Type header.
+globs: **/api_*.php
+alwaysApply: false
+---
+
+- **All API endpoints MUST use a single JSON response shape**
+  - Success: `{ "success": true, "data": ... }` (or `"message"` for action-only responses).
+  - Failure: `{ "success": false, "error": "string" }`.
+  - Set header once at start: `header('Content-Type: application/json; charset=utf-8');`.
+  - Use `JSON_UNESCAPED_UNICODE` (and `JSON_THROW_ON_ERROR` where available) when encoding.
+
+- **DO NOT**
+  - Return raw payload on success and `{ "error": ... }` on failure (inconsistent envelope).
+  - Echo HTML or plain text; exit after a single `echo json_encode(...)`.
+  - Omit `Content-Type` or mix JSON with other output.
+
+- **Examples**
+
+```php
+// ✅ DO: Consistent envelope
+header('Content-Type: application/json; charset=utf-8');
+if ($auth_failed) {
+    echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
+    exit;
+}
+echo json_encode(['success' => true, 'data' => $result], JSON_UNESCAPED_UNICODE);
+```
+
+```php
+// ❌ DON'T: Raw payload on success, envelope only on error
+echo json_encode($diagnostics, JSON_THROW_ON_ERROR);  // No "success" or "data" key
+```
+
+- **Reference:** Existing pattern in [admin/api_music_registry.php](mdc:admin/api_music_registry.php), [agents/coterie_agent/api_coterie_crud.php](mdc:agents/coterie_agent/api_coterie_crud.php).
