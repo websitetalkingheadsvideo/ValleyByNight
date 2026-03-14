@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.224
+## Current Version: 0.9.225
+
+**Date:** 2026-03-15  
+**Type:** Patch (character portrait: Alessandro Vescari official image, portrait_name SQL/scripts, AGENTS.md docs)
+
+## Previous Version: 0.9.224
 
 **Date:** 2026-03-14  
 **Type:** Patch (character portraits grid: 3 per row when wide, center partial rows; portrait page + assets)

@@ -1,0 +1,28 @@
+final_prompt_used:
+Night scene only. Interior only. Dark room lit by desk lamp and warm office lighting. No sun, no moonlight visible, no sky, no moon in frame.
+
+Subject: Italian man, late 30s to early 40s. Mediterranean complexion, warm olive skin tone, slightly darker skin. Tall, poised, composed. Burgundy velvet blazer (fabric color only, no blood), black silk shirt, gold chain at throat, dark hair styled with 1990s elegance. Clean face, clean clothes—no blood, no splatter. Exactly two arms visible. Expression: restrained, watchful, quietly amused. Predatory stillness, controlled grace. Predatory catchlight in eyes, no overt fangs or supernatural display.
+
+Environment: Interior office. Professional high-end office interior—desk, office walls, leather chair, desk lamp or soft ceiling lights, mahogany or dark wood desk, portfolios or papers, no windows visible or windows with closed blinds. Clearly indoors, not outdoor, not park, not garden. Candlelight or warm desk-lamp only. Blurred office background.
+
+Lighting: Key light from desk lamp or office ceiling, 35–45°, soft rim. Noir blue-black shadows. Desert amber and muted gold as highlights from lamp. No moon, no sky visible.
+
+Camera: 50mm lens, eye-level, head and upper torso. Film-still realism, cinematic neo-noir. Shallow depth of field, eyes and face sharp. Medium-high contrast.
+
+Phoenix, Arizona, 1994. Two arms only, no extra limbs. Interior office setting.
+
+---
+negative_prompt_used (in options):
+cartoon, anime, illustration, painterly brush strokes, CGI, video game render, glam beauty retouch, plastic skin, over-sharpening, HDR halos, overt fangs, gore, blood, blood splatter, deformed face, three arms, extra arms, extra limbs, moon, full moon, moon in sky, moon visible, sky, outdoor, exterior, park, garden, trees, grass, lawn, furniture in park, outdoor furniture, daytime, daylight, sun, sunlight, sunny, sunlit, golden hour, sunrise, sunset, bright blue sky, text overlays, watermarks, logos, pale skin, pallid, ghostly white, very fair skin
+
+---
+revision_notes:
+- Fixed: "dried-blood velvet blazer" → "burgundy velvet blazer (fabric color only, no blood)" to avoid literal blood rendering.
+- Added: clean face, clean clothes, no blood/splatter, exactly two arms, no extra limbs.
+- Revision: removed moon; environment set to interior office only (desk, office walls, desk lamp, no sky/moon); negative added moon, park, garden, outdoor, furniture in park.
+- Revision: Mediterranean complexion, warm olive skin tone, slightly darker skin; removed "slightly cool pallor"; negative added pale skin, pallid, ghostly white.
+
+---
+model: fal-ai/flux-2/flash
+task_id: 7ac67f66-b7ba-4e57-8cb1-cf7204e0b83f
+source: 速推AI MCP (generate), interior office, no moon, Mediterranean complexion

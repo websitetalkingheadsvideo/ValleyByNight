@@ -11,7 +11,7 @@ This directory (`reference/Characters/Images/`) is where character portrait imag
 
 2. **Application Copy**: Images must be **copied** to `uploads/characters/` for the application to load them.
 
-3. **Database Update**: The `character_image` field in the database **must be updated** for the image to display. JSON files are reference only - the database is the source of truth.
+3. **Database Update**: The portrait filename in the database **must be updated** for the image to display. JSON files are reference only - the database is the source of truth. **Supabase**: the column is `characters.portrait_name` (not `character_image`). Use `character_name` in WHERE; `id` is UUID.
 
 ### Why Two Locations?
 
@@ -25,7 +25,7 @@ The application constructs image paths as:
 PATH_PREFIX + 'uploads/characters/' + character_image
 ```
 
-Where `character_image` is the filename stored in the **database** `characters.character_image` field (e.g., `"Trace Element.png"`).
+The app resolves the filename from the **database** via `characters.portrait_name` (Supabase; the resolver also checks legacy `character_image` if present). Example: `"Trace Element.png"`.
 
 **Important**: The application loads character data from the database, not from JSON files. JSON files are reference files only.
 
@@ -42,15 +42,13 @@ When adding new character images:
    Copy-Item -Path "V:\reference\Characters\Images\Trace Element.png" -Destination "V:\uploads\characters\Trace Element.png" -Force
    ```
 
-3. **Update database record** - **This is required for the image to display**:
+3. **Update database record** - **This is required for the image to display**. Run in **Supabase Dashboard → SQL Editor** (or use the PHP script below):
    ```sql
-   UPDATE characters SET character_image = 'Trace Element.png' WHERE character_name = 'Trace Element';
+   UPDATE characters SET portrait_name = 'Trace Element.png' WHERE character_name = 'Trace Element';
    ```
-   
-   Or use a PHP update script (see examples in `database/update_*.php` files):
-   ```php
-   // See database/update_trace_evan_lila_images.php or database/update_dorikhan_image.php for examples
-   ```
+   **Note**: Column is `portrait_name`. Use `character_name` in WHERE (do not use `id = 70`; `id` is UUID).
+
+   **Alternative**: PHP script (copies file and updates DB): `php tools/repeatable/php/database-tools/assign_character_image.php --id=UUID --image="Name.png" [--source=path/to/file]`. For SQL-only (file already in uploads): see `tools/repeatable/php/database-tools/assign_character_image_alessandro.sql` as a template.
 
 4. **Update character JSON** `character_image` field for reference (optional, but recommended):
    ```json
@@ -62,12 +60,12 @@ When adding new character images:
 ## Filename Format
 
 - Use spaces in filenames if the character name contains spaces (e.g., `"Trace Element.png"`)
-- Match the filename exactly in both the **database** `character_image` field and JSON `character_image` field
+- Match the filename exactly in the **database** `portrait_name` column and (optionally) in JSON `character_image` field
 - Case-sensitive: `"Trace Element.png"` not `"trace element.png"`
 
 ## Fallback Behavior
 
-If `character_image` is empty in the **database** or the image file doesn't exist in `uploads/characters/`, the application will:
+If `portrait_name` (and any legacy `character_image`) is empty in the **database** or the image file doesn't exist in `uploads/characters/`, the application will:
 - For Wraith characters: Use `images/Clan Logos/WtOlogo.webp`
 - For VtM characters: Use the clan logo from `clan_logo_url` or `clanLogoUrl(clan)` function
 
@@ -94,15 +92,12 @@ If `character_image` is empty in the **database** or the image file doesn't exis
 - **Database**: Source of truth for the application - must be updated for images to display
 - **JSON files**: Reference files for version control and backup - updating JSON alone will NOT change what displays in the application
 
-**Example**: If you update `"character_image": "Trace Element.png"` in the JSON file but the database still has `character_image = NULL`, the character will show the clan logo, not the image.
+**Example**: If you update the JSON file but the database still has `portrait_name = NULL`, the character will show the clan logo, not the image.
 
 ## Update Scripts
 
-Example database update scripts are available in `database/`:
-- `database/update_trace_evan_lila_images.php` - Example script for updating multiple characters
-- `database/update_dorikhan_image.php` - Example script for updating a single character
-
-These scripts verify the image file exists before updating the database record.
+- **SQL (recommended for one-off)**: Run in Supabase SQL Editor: `UPDATE characters SET portrait_name = 'Character Name.png' WHERE character_name = 'Character Name';` Example: `tools/repeatable/php/database-tools/assign_character_image_alessandro.sql`.
+- **PHP**: `tools/repeatable/php/database-tools/assign_character_image.php` — copies a file to `uploads/characters/` and sets `portrait_name` (see that script’s `--id` for UUID; script uses Supabase PATCH). Documented in `tools/repeatable/php/database-tools/README.md`.
 
 ## Automation Note
 

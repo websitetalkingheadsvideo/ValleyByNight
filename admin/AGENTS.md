@@ -102,6 +102,7 @@ $rows = supabase_table_get('table', ['select' => '*', 'id' => 'eq.' . $id]);
   - **Show all**: Table has `data-show-all="true"`. In `admin_panel.js`, `updatePagination()` detects that and does not paginate: it shows all filtered rows (no `.hidden` on visible rows), so every character is listed.
   - **Robustness**: Loop body is in try/catch so one bad row does not blank the page; failed rows render as "—" and no image. Empty or non-array Supabase response is normalized to `[]`.
 - **Key files**: `admin/character_portraits.php`, `css/character_portraits.css`, `js/admin_panel.js` (show-all branch, filter/sort), `includes/character_portrait_resolver.php`.
+- **Assigning an official portrait**: (1) Put the image file in `uploads/characters/` (e.g. `Character Name.png`). (2) Update the DB: Supabase uses column `characters.portrait_name` (not `character_image`). Run in Supabase SQL Editor: `UPDATE characters SET portrait_name = 'Character Name.png' WHERE character_name = 'Character Name';` (use `character_name` in WHERE; `id` is UUID). Example SQL: `tools/repeatable/php/database-tools/assign_character_image_alessandro.sql`. Alternatively use `tools/repeatable/php/database-tools/assign_character_image.php` (see [reference/Characters/Images/AGENTS.md](../reference/Characters/Images/AGENTS.md)).
 
 ## JIT Index Hints
 

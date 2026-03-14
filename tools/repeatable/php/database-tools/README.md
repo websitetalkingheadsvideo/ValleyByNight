@@ -4,6 +4,30 @@ Reusable tools for database operations including imports, exports, audits, and m
 
 ## Tools
 
+### assign_character_image.php
+
+**Purpose:** Set a character's official portrait: copy an image to `uploads/characters/` and set `characters.character_image` in the database. Use after generating a portrait (e.g. via 速推AI) to make it the character's display image.
+
+**Usage:**
+```bash
+# DB only (file already in uploads/characters/)
+php tools/repeatable/php/database-tools/assign_character_image.php --id=70 --image="Alessandro Vescari.png"
+
+# Copy from source path then update DB
+php tools/repeatable/php/database-tools/assign_character_image.php --id=70 --image="Alessandro Vescari.png" --source=images-generated/alessandro-vescari_20260315-clean.png
+
+# Dry-run
+php tools/repeatable/php/database-tools/assign_character_image.php --id=70 --image="Alessandro Vescari.png" --dry-run
+```
+
+**Inputs:** `--id` (character id), `--image` (filename in uploads/characters), optional `--source` (path to copy from). Loads `.env` from project root for Supabase.
+
+**Outputs:** Copies file to `uploads/characters/` when `--source` is given; PATCHes `characters.character_image` for the given id.
+
+**Reference:** [reference/Characters/Images/AGENTS.md](../../../reference/Characters/Images/AGENTS.md) — three-step workflow: copy to uploads, update DB, optionally update JSON.
+
+---
+
 ### audit_rituals_duplicates.php
 
 **Purpose:** Detects duplicate ritual entries in the database.
