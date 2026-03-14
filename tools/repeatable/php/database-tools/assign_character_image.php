@@ -1,6 +1,6 @@
 <?php
 /**
- * Assign character image: copy file to uploads/characters and set characters.character_image.
+ * Assign character image: copy file to uploads/characters and set characters.portrait_name (Supabase).
  * CLI: php assign_character_image.php --id=70 --image="Alessandro Vescari.png" [--source=path/to/source.png]
  * If --source is omitted, only the DB is updated (file must already exist in uploads/characters).
  */
@@ -64,7 +64,7 @@ if ($source_path !== '') {
 }
 
 if ($dry_run) {
-    echo "[dry-run] Would set character_image = " . $image_filename . " for character id " . $character_id . "\n";
+    echo "[dry-run] Would set portrait_name = " . $image_filename . " for character id " . $character_id . "\n";
     exit(0);
 }
 
@@ -72,7 +72,7 @@ $result = supabase_rest_request(
     'PATCH',
     '/rest/v1/characters',
     ['id' => 'eq.' . $character_id],
-    ['character_image' => $image_filename],
+    ['portrait_name' => $image_filename],
     ['Prefer: return=minimal']
 );
 
@@ -81,4 +81,4 @@ if ($result['error'] !== null) {
     exit(1);
 }
 
-echo "Updated character id {$character_id} character_image to \"{$image_filename}\".\n";
+echo "Updated character id {$character_id} portrait_name to \"{$image_filename}\".\n";

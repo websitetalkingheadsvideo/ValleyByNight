@@ -6,7 +6,7 @@ Reusable tools for database operations including imports, exports, audits, and m
 
 ### assign_character_image.php
 
-**Purpose:** Set a character's official portrait: copy an image to `uploads/characters/` and set `characters.character_image` in the database. Use after generating a portrait (e.g. via 速推AI) to make it the character's display image.
+**Purpose:** Set a character's official portrait: copy an image to `uploads/characters/` and set `characters.portrait_name` in the database (Supabase). Use after generating a portrait (e.g. via 速推AI) to make it the character's display image.
 
 **Usage:**
 ```bash
@@ -22,7 +22,7 @@ php tools/repeatable/php/database-tools/assign_character_image.php --id=70 --ima
 
 **Inputs:** `--id` (character id), `--image` (filename in uploads/characters), optional `--source` (path to copy from). Loads `.env` from project root for Supabase.
 
-**Outputs:** Copies file to `uploads/characters/` when `--source` is given; PATCHes `characters.character_image` for the given id.
+**Outputs:** Copies file to `uploads/characters/` when `--source` is given; PATCHes `characters.portrait_name` for the given id.
 
 **Reference:** [reference/Characters/Images/AGENTS.md](../../../reference/Characters/Images/AGENTS.md) — three-step workflow: copy to uploads, update DB, optionally update JSON.
 

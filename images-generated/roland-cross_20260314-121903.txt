@@ -1,0 +1,9 @@
+final_prompt_used:
+Square 1:1 portrait, head and upper torso centered, full square frame. Night scene only. Dark sky, no sun. Lit by moonlight and streetlights. Roland Cross. Toreador, Gunslinger Sheriff. Tall, lean man, late 30s, weather-worn frontier features, piercing blue eyes, salt-and-pepper hair. Worn leather duster, wide-brimmed hat. Sandalwood-handled revolvers on hip only; no necklace, no cross, no pendant. Severe, commanding presence. Cooler pallor, steady gaze. Emotionally restrained, predatory calm. Noir shadows, desert amber and muted gold from streetlights. Paved street in background: asphalt road, urban Phoenix 1994 night, streetlights on pavement. Real paved road, not dirt. Blurred background. 50mm, eye-level, square portrait. Film-still realism, cinematic neo-noir. Shallow depth of field. Masquerade-friendly.
+
+---
+negative_prompt_used:
+cartoon, anime, illustration, CGI, video game render, plastic skin, HDR halos, fangs, gore, deformed face, modern 2020s streetwear, text, watermarks, daytime, sun, daylight, dirt road, unpaved road, dirt path, gravel road, cross, necklace, chain, pendant
+
+---
+note: Square format (1:1). Paved/asphalt road in background per user request; no dirt road.

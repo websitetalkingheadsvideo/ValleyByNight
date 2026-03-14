@@ -86,7 +86,7 @@ Build a **single character payload** for the next step: at least `character_name
 
 ### 6. Optional: assign image to character in DB
 
-- Put the image in `uploads/characters/` with the chosen filename (e.g. `portrait_name` or `Character Name.png`).
+- **You MUST copy the final image to `uploads/characters/`** with the chosen filename (e.g. `Character Name.png`). Do this before or as part of the DB update.
 - Update the database: Supabase uses `characters.portrait_name` (see [reference/Characters/Images/AGENTS.md](../../../reference/Characters/Images/AGENTS.md)). Either:
   - Run the PHP tool: `php tools/repeatable/php/database-tools/assign_character_image.php --id=<character_id> --image="<filename>" [--source=images-generated/...]` (see that script and [tools/repeatable/php/database-tools/README.md](../../../tools/repeatable/php/database-tools/README.md)), or
   - Run SQL in Supabase: `UPDATE characters SET portrait_name = '...' WHERE character_name = '...';` (use `character_name` in WHERE; `id` is UUID).

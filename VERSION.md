@@ -1,11 +1,11 @@
 # Version History
 
-## Current Version: 0.9.226
+## Current Version: 0.9.227
 
 **Date:** 2026-03-15  
-**Type:** Patch (add vbn-db-character-portrait-mcp skill; git sync)
+**Type:** Patch (character portraits: name links open view modal; UUID id fix; delegated click)
 
-## Previous Version: 0.9.225
+## Previous Version: 0.9.226
 
 **Date:** 2026-03-15  
 **Type:** Patch (character portrait: Alessandro Vescari official image, portrait_name SQL/scripts, AGENTS.md docs)

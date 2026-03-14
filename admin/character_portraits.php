@@ -228,7 +228,8 @@ function row_val(array $row, string $key, string $altKey = ''): string {
                         try {
                             $char = is_array($char) ? $char : [];
                             $charName = row_val($char, 'character_name', 'Character_Name');
-                            $charId = (int) ($char['id'] ?? $char['Id'] ?? 0);
+                            $charIdRaw = $char['id'] ?? $char['Id'] ?? null;
+                            $charId = $charIdRaw !== null && $charIdRaw !== '' ? (string) $charIdRaw : '';
                             $is_npc = (row_val($char, 'player_name', 'Player_Name') === 'NPC');
                             $playerName = row_val($char, 'player_name', 'Player_Name');
                             $playerName = $playerName !== '' ? $playerName : ($is_npc ? 'NPC' : '—');
@@ -269,7 +270,7 @@ function row_val(array $row, string $key, string $altKey = ''): string {
                         } catch (Throwable $e) {
                             error_log('character_portraits: row error for id ' . ($char['id'] ?? '?') . ': ' . $e->getMessage());
                             $charName = '—';
-                            $charId = 0;
+                            $charId = '';
                             $is_npc = false;
                             $playerName = '—';
                             $clanName = 'Unknown';
@@ -282,7 +283,7 @@ function row_val(array $row, string $key, string $altKey = ''): string {
                         }
                 ?>
                 <tr class="character-row"
-                    data-id="<?php echo $charId; ?>"
+                    data-id="<?php echo htmlspecialchars((string) $charId, ENT_QUOTES, 'UTF-8'); ?>"
                     data-type="<?php echo $is_npc ? 'npc' : 'pc'; ?>"
                     data-name="<?php echo htmlspecialchars($charName, ENT_QUOTES, 'UTF-8'); ?>"
                     data-clan="<?php echo htmlspecialchars($clanName, ENT_QUOTES, 'UTF-8'); ?>"
@@ -302,7 +303,13 @@ function row_val(array $row, string $key, string $altKey = ''): string {
                                 <?php endif; ?>
                             </div>
                             <div class="card-body text-center">
-                                <strong class="card-title text-light d-block"><?php echo htmlspecialchars($charName, ENT_QUOTES, 'UTF-8'); ?></strong>
+                                <strong class="card-title text-light d-block">
+                                    <?php if ($charId !== ''): ?>
+                                    <a href="javascript:void(0)" class="character-portrait-name-link text-light text-decoration-none" data-character-id="<?php echo htmlspecialchars($charId, ENT_QUOTES, 'UTF-8'); ?>"><?php echo htmlspecialchars($charName, ENT_QUOTES, 'UTF-8'); ?></a>
+                                    <?php else: ?>
+                                    <?php echo htmlspecialchars($charName, ENT_QUOTES, 'UTF-8'); ?>
+                                    <?php endif; ?>
+                                </strong>
                                 <div class="card-text"><?php echo render_clan_badge_portraits($clanName); ?></div>
                             </div>
                         </div>
@@ -325,6 +332,24 @@ function row_val(array $row, string $key, string $altKey = ''): string {
     </div>
 </div>
 
+<?php
+$apiEndpoint = '/admin/view_character_api.php';
+$modalId = 'viewCharacterModal';
+include __DIR__ . '/../includes/character_view_modal.php';
+?>
+<script>
+(function() {
+    const container = document.querySelector('.character-portraits-grid-wrapper');
+    if (!container) return;
+    container.addEventListener('click', function(e) {
+        const link = e.target.closest('.character-portrait-name-link');
+        if (!link) return;
+        e.preventDefault();
+        const id = link.getAttribute('data-character-id');
+        if (id && typeof window.viewCharacter === 'function') window.viewCharacter(id);
+    });
+})();
+</script>
 <?php
 $extra_js = ['js/admin_panel.js'];
 include __DIR__ . '/../includes/footer.php';

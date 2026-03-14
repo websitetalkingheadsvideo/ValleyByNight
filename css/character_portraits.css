@@ -77,3 +77,8 @@
 .character-portrait-card .card-body {
     border-top: 2px solid var(--blood-red, #8B0000);
 }
+
+.character-portrait-name-link:hover {
+    text-decoration: underline;
+    color: var(--blood-red, #8B0000);
+}

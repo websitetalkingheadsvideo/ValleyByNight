@@ -1,0 +1,33 @@
+final_prompt_used:
+Night scene only. Dark sky, no sun, no sunlight. Lit only by moonlight, streetlights, neon, or firelight. The whole image must look like night—dark blues and blacks, no warm daylight in sky or background.
+
+Subject: Roland Cross. Toreador vampire, Generation 9, Gunslinger Sheriff. Tall, lean man, late 30s appearance, weather-worn frontier features, piercing blue eyes that miss nothing. Salt-and-pepper hair. Worn leather duster coat, wide-brimmed hat, practical clothing that conceals weapons. Sandalwood-handled revolvers on hip, heavy silver cross. Moves with fluid, economical grace; severe, commanding presence. Cooler pallor, reduced warmth in lips and cheeks, faint under-eye shadow; less emotive, steady unblinking gaze; faint wrongness in stillness. Expression: emotionally restrained, predatory calm, Survivor nature and Loner demeanor.
+
+Lighting: Noir blue-black #0D0E10 shadows and night sky. Desert amber #C87B3E and muted gold #B89B64 as key and secondary highlights from moonlight or streetlights. Deep crimson #7A1E1E very subtle undertone. Directional volumetric lighting, subtle haze. Eyes and face sharp.
+
+Environment: Dark night. Phoenix 1994. Moonlit street or desert edge; no sun in frame. Blurred noir background. Frontier Arizona atmosphere.
+
+Camera: 50mm lens, eye-level, head and upper torso. Film-still realism, cinematic neo-noir gothic. Shallow depth of field. Medium-high contrast.
+
+Phoenix, Arizona, 1994. Masquerade-friendly subtlety; no overt supernatural display.
+
+Time of day: Night. No daylight, no sunrise, no sunset, no golden hour. Moonlit or artificial lighting only.
+
+---
+negative_prompt_used:
+cartoon, anime, illustration, painterly brush strokes, CGI, video game render, glam beauty retouch, plastic skin, over-sharpening, HDR halos, overt fangs, gore, blood splatter, horror monster, deformed face, fantasy architecture, medieval clothing, modern 2020s streetwear, text overlays, captions, watermarks, logos, date stamps, daytime, daylight, day, sun, sunlight, sunny, sunlit, sunlit sky, golden hour, sunrise, sunset, dawn, dusk, noon, afternoon, morning, bright blue sky, blue sky, bright sky, clouds in daylight, natural daylight, outdoor daylight, warm daylight, daylight portrait
+
+---
+extracted_character_highlights:
+- Character: Roland Cross. Toreador, Gen 9. Gunslinger Sheriff. Sire: Kate (Catherine Barlow).
+- Appearance: Tall, lean, late 30s; weather-worn frontier features; piercing blue eyes; salt-and-pepper hair; worn leather duster, wide-brimmed hat; sandalwood-handled revolvers, heavy silver cross; fluid economical grace.
+- Traits: Commanding, Intimidating, Dexterous, Quick, Steady, Disciplined, Observant, Patient. Negative: Callous, Distant, Obsessive.
+- Disciplines: Auspex 5, Celerity 5, Presence 4, Fortitude 2.
+- Morality: Humanity 5 — cooler pallor, steady gaze, faint wrongness in stillness.
+- Portrait filename: roland-cross_20260314-115025.png (from character_name; portrait_name not in reference JSON).
+
+---
+morality_visualization_notes:
+- Humanity 5 (path_rating 5). Mapping: cooler pallor, reduced warmth in lips/cheeks, faint under-eye shadow; less emotive, steady/unblinking gaze; faint wrongness in stillness.
+- Path: Humanity. No daylight exemption; portrait is NIGHT (nocturnal default).
+- Source: reference/Characters/Added to Database/npc__roland_cross__88.json
