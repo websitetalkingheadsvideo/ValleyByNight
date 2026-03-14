@@ -9,7 +9,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Start session if not already started
 if (session_status() === PHP_SESSION_NONE) {
@@ -21,7 +21,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     http_response_code(401);
     echo json_encode([
         'success' => false,
-        'message' => 'Unauthorized'
+        'error' => 'Unauthorized'
     ]);
     exit();
 }
@@ -62,7 +62,7 @@ try {
     http_response_code(500);
     echo json_encode([
         'success' => false,
-        'message' => htmlspecialchars($e->getMessage())
+        'error' => htmlspecialchars($e->getMessage())
     ]);
 }
 

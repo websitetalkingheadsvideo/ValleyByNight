@@ -105,7 +105,7 @@ $locations = array_values(array_filter($locations, static function (array $locat
                         </select>
                         <?php endif; ?>
                         <div class="vr"></div>
-                        <span class="opacity-75 small">
+                        <span class="text-light small">
                             <i class="fas fa-info-circle"></i> Click and drag to pan, use controls to zoom
                         </span>
                     </div>

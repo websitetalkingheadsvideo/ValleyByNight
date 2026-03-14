@@ -17,16 +17,16 @@ if (session_status() === PHP_SESSION_NONE) {
 // Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     http_response_code(401);
-    header('Content-Type: application/json');
+    header('Content-Type: application/json; charset=utf-8');
     echo json_encode([
         'success' => false,
-        'message' => 'Unauthorized. Admin access required.'
+        'error' => 'Unauthorized. Admin access required.'
     ]);
     exit();
 }
 
 // Set JSON response header
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Get path ID from query parameter
 $pathId = isset($_GET['id']) ? (int)$_GET['id'] : 0;
@@ -35,7 +35,7 @@ if ($pathId <= 0) {
     http_response_code(400);
     echo json_encode([
         'success' => false,
-        'message' => 'Invalid path ID. Must be a positive integer.'
+        'error' => 'Invalid path ID. Must be a positive integer.'
     ]);
     exit();
 }
@@ -62,7 +62,7 @@ try {
         http_response_code(404);
         echo json_encode([
             'success' => false,
-            'message' => 'Path not found with ID: ' . $pathId
+            'error' => 'Path not found with ID: ' . $pathId
         ]);
         exit();
     }
@@ -83,7 +83,7 @@ try {
     http_response_code(500);
     echo json_encode([
         'success' => false,
-        'message' => 'Error loading path: ' . htmlspecialchars($e->getMessage())
+        'error' => 'Error loading path: ' . htmlspecialchars($e->getMessage())
     ]);
 }
 

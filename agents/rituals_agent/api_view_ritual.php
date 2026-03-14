@@ -8,12 +8,12 @@
 ob_start();
 
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     ob_end_clean();
-    echo json_encode(['success' => false, 'message' => 'Unauthorized']);
+    echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -27,14 +27,14 @@ try {
     ob_end_clean();
     echo json_encode([
         'success' => false,
-        'message' => 'Error loading dependencies: ' . $e->getMessage()
+        'error' => 'Error loading dependencies: ' . $e->getMessage()
     ]);
     exit();
 } catch (Error $e) {
     ob_end_clean();
     echo json_encode([
         'success' => false,
-        'message' => 'Fatal error loading dependencies: ' . $e->getMessage()
+        'error' => 'Fatal error loading dependencies: ' . $e->getMessage()
     ]);
     exit();
 }
@@ -42,7 +42,7 @@ try {
 $ritual_id = isset($_GET['id']) ? intval($_GET['id']) : 0;
 
 if ($ritual_id <= 0) {
-    echo json_encode(['success' => false, 'message' => 'Invalid ritual ID']);
+    echo json_encode(['success' => false, 'error' => 'Invalid ritual ID'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -57,7 +57,7 @@ try {
     $ritual = $agent->getRitualById($ritual_id, false);
     
     if (!$ritual) {
-        echo json_encode(['success' => false, 'message' => 'Ritual not found']);
+        echo json_encode(['success' => false, 'error' => 'Ritual not found'], JSON_UNESCAPED_UNICODE);
         exit();
     }
     
@@ -110,7 +110,7 @@ try {
     ob_end_clean();
     echo json_encode([
         'success' => false,
-        'message' => 'Error loading ritual: ' . $e->getMessage()
+        'error' => 'Error loading ritual: ' . $e->getMessage()
     ]);
     exit();
 } catch (Error $e) {
@@ -119,7 +119,7 @@ try {
     ob_end_clean();
     echo json_encode([
         'success' => false,
-        'message' => 'Fatal error loading ritual: ' . $e->getMessage()
+        'error' => 'Fatal error loading ritual: ' . $e->getMessage()
     ]);
     exit();
 }

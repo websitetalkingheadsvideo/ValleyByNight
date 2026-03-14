@@ -4,7 +4,7 @@
  */
 declare(strict_types=1);
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     echo json_encode(['success' => false, 'error' => 'Unauthorized']);
@@ -26,7 +26,7 @@ try {
         'limit' => '1'
     ]);
     if (empty($charRows)) {
-        echo json_encode(['success' => false, 'message' => 'Character not found']);
+        echo json_encode(['success' => false, 'error' => 'Character not found'], JSON_UNESCAPED_UNICODE);
         exit;
     }
     $character = $charRows[0];
@@ -73,5 +73,5 @@ try {
         'backgrounds' => $backgrounds
     ]);
 } catch (Exception $e) {
-    echo json_encode(['success' => false, 'message' => $e->getMessage()]);
+    echo json_encode(['success' => false, 'error' => $e->getMessage()], JSON_UNESCAPED_UNICODE);
 }

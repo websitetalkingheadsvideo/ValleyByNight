@@ -32,12 +32,16 @@ require_once __DIR__ . '/../includes/admin_header.php';
                     </thead>
                     <tbody>
                         <?php
+                        $rows_error = '';
                         try {
                             $rows = supabase_table_get('supernatural_entities', ['select' => '*', 'order' => 'id.desc']);
                         } catch (Throwable $e) {
+                            error_log('supernatural_entities_admin_panel: supernatural_entities query failed: ' . $e->getMessage());
                             $rows = [];
+                            $rows_error = $e->getMessage();
                         }
-                        if (empty($rows)) { echo "<tr><td colspan='5' class='text-center'>No Supernatural entities found.</td></tr>"; } else {
+                        if ($rows_error !== '') { echo '<tr><td colspan="5" class="text-center text-warning">Failed to load: ' . htmlspecialchars($rows_error, ENT_QUOTES, 'UTF-8') . '</td></tr>'; }
+                        elseif (empty($rows)) { echo "<tr><td colspan='5' class='text-center'>No Supernatural entities found.</td></tr>"; } else {
                             foreach ($rows as $c) {
                                 $st = strtolower(trim($c['status'] ?? 'active')); if ($st === '') $st = 'active';
                                 $badge = $st === 'active' ? 'badge bg-success' : ($st === 'inactive' ? 'badge bg-secondary' : 'badge bg-warning');

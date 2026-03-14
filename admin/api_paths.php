@@ -7,12 +7,12 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Check if user is admin
 session_start();
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    echo json_encode(['success' => false, 'message' => 'Unauthorized']);
+    echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -44,14 +44,14 @@ try {
         default:
             echo json_encode([
                 'success' => false,
-                'message' => 'Invalid action. Valid actions: list_paths, get_powers, get_character_paths, can_use_power'
+                'error' => 'Invalid action. Valid actions: list_paths, get_powers, get_character_paths, can_use_power'
             ]);
             break;
     }
 } catch (Exception $e) {
     echo json_encode([
         'success' => false,
-        'message' => 'Error: ' . $e->getMessage()
+        'error' => 'Error: ' . $e->getMessage()
     ]);
 }
 
@@ -78,7 +78,7 @@ function handleGetPowers(PathsAgent $agent) {
     if ($pathId <= 0) {
         echo json_encode([
             'success' => false,
-            'message' => 'path_id parameter is required and must be a positive integer'
+            'error' => 'path_id parameter is required and must be a positive integer'
         ]);
         return;
     }
@@ -97,7 +97,7 @@ function handleGetCharacterPaths(PathsAgent $agent) {
     if ($characterId <= 0) {
         echo json_encode([
             'success' => false,
-            'message' => 'character_id parameter is required and must be a positive integer'
+            'error' => 'character_id parameter is required and must be a positive integer'
         ]);
         return;
     }
@@ -117,7 +117,7 @@ function handleCanUsePower(PathsAgent $agent) {
     if ($characterId <= 0) {
         echo json_encode([
             'success' => false,
-            'message' => 'character_id parameter is required and must be a positive integer'
+            'error' => 'character_id parameter is required and must be a positive integer'
         ]);
         return;
     }
@@ -125,7 +125,7 @@ function handleCanUsePower(PathsAgent $agent) {
     if ($powerId <= 0) {
         echo json_encode([
             'success' => false,
-            'message' => 'power_id parameter is required and must be a positive integer'
+            'error' => 'power_id parameter is required and must be a positive integer'
         ]);
         return;
     }

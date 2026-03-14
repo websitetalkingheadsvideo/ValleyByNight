@@ -60,10 +60,13 @@ if (!empty($_POST["action"])) {
     }
 }
 
+$questions_error = '';
 try {
     $questions = supabase_table_get('questionnaire_questions', ['select' => 'id,question,category,answer1,answer2,answer3,answer4,clanWeight1,clanWeight2,clanWeight3,clanWeight4', 'order' => 'id.asc']);
 } catch (Throwable $e) {
+    error_log('questionnaire_admin: questionnaire_questions load failed: ' . $e->getMessage());
     $questions = [];
+    $questions_error = $e->getMessage();
 }
 
 $extra_css = [
@@ -78,6 +81,9 @@ include __DIR__ . '/../includes/header.php';
             <a href="../admin/admin_panel.php" style="color: #c9a96e;">← Back to Admin Panel</a>
         </div>
 
+        <?php if ($questions_error !== ''): ?>
+            <div class="alert alert-warning">Questions could not be loaded: <?php echo htmlspecialchars($questions_error, ENT_QUOTES, 'UTF-8'); ?></div>
+        <?php endif; ?>
         <?php if (isset($message)): ?>
             <div class="message success"><?php echo $message; ?></div>
         <?php endif; ?>

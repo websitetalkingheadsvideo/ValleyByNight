@@ -38,7 +38,7 @@ $csrf_token = $_SESSION['csrf_token'];
         <div class="card" style="max-width: 450px; width: 100%;">
             <div class="card-body p-4">
                 <h1 class="card-title text-center mb-2">🦇 Join the Chronicle</h1>
-                <p class="text-center opacity-75 mb-4">Create your account to enter the night</p>
+                <p class="text-center text-light mb-4">Create your account to enter the night</p>
                 
                 <?php
                 if (isset($_SESSION['error'])) {

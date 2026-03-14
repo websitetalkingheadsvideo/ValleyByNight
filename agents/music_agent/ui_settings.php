@@ -118,6 +118,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $success = true;
         
     } catch (Exception $e) {
+        error_log('ui_settings: save failed: ' . $e->getMessage());
         $error = $e->getMessage();
     }
 }
@@ -126,6 +127,7 @@ try {
     $registry = load_registry();
     $mix_profiles = $registry['mix_profiles'] ?? [];
 } catch (Exception $e) {
+    error_log('ui_settings: load_registry failed: ' . $e->getMessage());
     $error = $error ?: $e->getMessage();
     $registry = null;
     $mix_profiles = [];
@@ -172,7 +174,7 @@ try {
                         <div class="mb-3">
                             <label for="mix_profiles_json" class="form-label">Mix Profiles <span class="text-danger">*</span></label>
                             <textarea class="form-control font-monospace" id="mix_profiles_json" name="mix_profiles_json" rows="30" required><?php echo h(json_preview($mix_profiles)); ?></textarea>
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">
                                 Edit the mix_profiles array. Changes are validated before saving.
                             </div>
                         </div>
@@ -192,7 +194,7 @@ try {
                 </div>
                 <div class="card-body">
                     <?php if (empty($mix_profiles)): ?>
-                    <p class="opacity-75">No mix profiles configured.</p>
+                    <p class="text-light">No mix profiles configured.</p>
                     <?php else: ?>
                     <div class="table-responsive">
                         <table class="table table-sm">
@@ -218,7 +220,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="opacity-75">—</span>
+                                        <span class="text-light">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -229,7 +231,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="opacity-75">—</span>
+                                        <span class="text-light">—</span>
                                         <?php endif; ?>
                                     </td>
                                     <td>
@@ -240,7 +242,7 @@ try {
                                             <?php endforeach; ?>
                                         </ul>
                                         <?php else: ?>
-                                        <span class="opacity-75">—</span>
+                                        <span class="text-light">—</span>
                                         <?php endif; ?>
                                     </td>
                                 </tr>

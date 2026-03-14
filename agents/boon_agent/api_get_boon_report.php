@@ -5,12 +5,12 @@
  */
 
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     http_response_code(403);
-    echo json_encode(['error' => 'Forbidden']);
+    echo json_encode(['success' => false, 'error' => 'Forbidden'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -20,7 +20,7 @@ $filename = isset($_GET['file']) ? $_GET['file'] : '';
 
 if (empty($reportType) || empty($filename)) {
     http_response_code(400);
-    echo json_encode(['error' => 'Missing type or file parameter']);
+    echo json_encode(['success' => false, 'error' => 'Missing type or file parameter'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -28,7 +28,7 @@ if (empty($reportType) || empty($filename)) {
 $allowedTypes = ['daily', 'validation', 'character'];
 if (!in_array($reportType, $allowedTypes)) {
     http_response_code(400);
-    echo json_encode(['error' => 'Invalid report type']);
+    echo json_encode(['success' => false, 'error' => 'Invalid report type'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -45,14 +45,14 @@ $real_reports_dir = realpath($reports_dir);
 
 if (!$real_file_path || strpos($real_file_path, $real_reports_dir) !== 0) {
     http_response_code(403);
-    echo json_encode(['error' => 'Forbidden: Invalid file path']);
+    echo json_encode(['success' => false, 'error' => 'Forbidden: Invalid file path'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
 // Check if file exists
 if (!file_exists($real_file_path)) {
     http_response_code(404);
-    echo json_encode(['error' => 'Report not found']);
+    echo json_encode(['success' => false, 'error' => 'Report not found'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -60,7 +60,7 @@ if (!file_exists($real_file_path)) {
 $content = file_get_contents($real_file_path);
 if ($content === false) {
     http_response_code(500);
-    echo json_encode(['error' => 'Failed to read report file']);
+    echo json_encode(['success' => false, 'error' => 'Failed to read report file'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -68,11 +68,9 @@ if ($content === false) {
 $data = json_decode($content, true);
 if (json_last_error() !== JSON_ERROR_NONE) {
     http_response_code(500);
-    echo json_encode(['error' => 'Invalid JSON in report file']);
+    echo json_encode(['success' => false, 'error' => 'Invalid JSON in report file'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
-// Output the JSON data
-echo $content;
-?>
+echo json_encode(['success' => true, 'data' => $data], JSON_UNESCAPED_UNICODE);
 

@@ -177,7 +177,7 @@ $sample_locations = is_array($sample_locations) ? $sample_locations : [];
                 </div>
                 <div class="card-body">
                     <div id="activeCuesDisplay" class="text-light">
-                        <p class="opacity-75">No active cues</p>
+                        <p class="text-light">No active cues</p>
                     </div>
                 </div>
             </div>

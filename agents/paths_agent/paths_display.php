@@ -370,7 +370,7 @@ function truncateText(string $text, int $maxLength = 100): string {
             html += '</div>';
         } else {
             html += '<h3>Path Powers</h3>';
-            html += '<p class="opacity-75">No powers found for this path.</p>';
+            html += '<p class="text-light">No powers found for this path.</p>';
         }
         
         html += '</div>';

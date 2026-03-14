@@ -130,6 +130,7 @@ include 'includes/header.php';
                 <?php
                 // Get character statistics
                 $stats = ['total' => 0, 'npcs' => 0, 'pcs' => 0];
+                $stats_error = '';
                 try {
                     $characterRows = supabase_table_get('characters', [
                         'select' => 'player_name'
@@ -145,6 +146,7 @@ include 'includes/header.php';
                     }
                 } catch (Throwable $e) {
                     error_log('index.php stats query failed: ' . $e->getMessage());
+                    $stats_error = $e->getMessage();
                 }
                 ?>
                 <div class="card col-md-4 col-sm-6">
@@ -165,6 +167,11 @@ include 'includes/header.php';
                         <div class="vbn-stat-label">NPCs</div>
                     </div>
                 </div>
+                <?php if ($stats_error !== ''): ?>
+                <div class="col-12">
+                    <div class="alert alert-warning mb-0">Character stats temporarily unavailable.</div>
+                </div>
+                <?php endif; ?>
             </div>
             
             <!-- Admin Actions -->
@@ -316,6 +323,7 @@ include 'includes/header.php';
                 <?php
                 // Get player's characters
                 $playerCharacters = [];
+                $player_chars_error = '';
                 try {
                     $playerCharacters = supabase_table_get('characters', [
                         'select' => 'id,character_name,status,concept,clan,user_id',
@@ -324,9 +332,14 @@ include 'includes/header.php';
                     ]);
                 } catch (Throwable $e) {
                     error_log('index.php player characters query failed: ' . $e->getMessage());
+                    $player_chars_error = $e->getMessage();
                 }
 
-                if (!empty($playerCharacters)):
+                if ($player_chars_error !== ''):
+                    ?>
+                    <div class="alert alert-warning">Your characters could not be loaded. Please try again later.</div>
+                    <?php
+                elseif (!empty($playerCharacters)):
                     // Helper function to convert clan name to CSS class
                     function getClanClass($clan_name) {
                         if (empty($clan_name)) return '';

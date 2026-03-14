@@ -4,7 +4,7 @@
  * Returns discipline powers data for character creation
  */
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Check authentication (optional - disciplines are public data)
 // Uncomment if you want to restrict access

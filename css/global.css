@@ -10,7 +10,7 @@
      * Grid: .container, .row, .col-*
      * Spacing: .m-*, .p-*, .mt-*, .mb-*, etc.
      * Display: .d-flex, .d-grid, .d-none
-     * Text: .text-center, .opacity-75, etc.
+     * Text: .text-center, .text-light, etc. (do not use opacity utilities on text)
    ======================================== */
 
 /* ===== CSS VARIABLES ===== */

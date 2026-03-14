@@ -42,11 +42,13 @@ foreach ($itemsRows as $row) {
 $item_types = array_values(array_unique(array_filter(array_column($itemsRows, 'type'))));
 sort($item_types);
 $item_categories = [];
+$item_categories_error = '';
 try {
     $catRows = supabase_table_get('items_categories', ['select' => 'category_name', 'order' => 'category_name.asc']);
     $item_categories = array_values(array_unique(array_filter(array_column($catRows, 'category_name'))));
 } catch (Throwable $e) {
-    // table may not exist
+    error_log('admin_items: items_categories load failed: ' . $e->getMessage());
+    $item_categories_error = $e->getMessage();
 }
 $all_characters = supabase_table_get('characters', ['select' => 'id,character_name,clan,player_name', 'order' => 'character_name.asc']);
 ?>
@@ -54,7 +56,9 @@ $all_characters = supabase_table_get('characters', ['select' => 'id,character_na
 <div class="container-fluid py-4 px-3 px-md-4 d-flex flex-column">
     <h1 class="display-5 text-light fw-bold mb-1">⚔️ Items Database Management</h1>
     <p class="lead text-light fst-italic mb-4">Manage items database and assign equipment to characters</p>
-    
+    <?php if ($item_categories_error !== ''): ?>
+    <div class="alert alert-warning mb-4">Item categories could not be loaded: <?php echo htmlspecialchars($item_categories_error, ENT_QUOTES, 'UTF-8'); ?></div>
+    <?php endif; ?>
     <!-- Admin Navigation -->
     <nav class="row g-2 g-md-3 mb-4" aria-label="Admin Navigation">
         <div class="col-12 col-sm-6 col-md-4 col-lg">
@@ -309,7 +313,7 @@ $all_characters = supabase_table_get('characters', ['select' => 'id,character_na
             <div class="mb-3">
                 <label for="itemRequirements" class="form-label">Requirements (JSON)</label>
                 <textarea id="itemRequirements" name="requirements" class="form-control" rows="3" placeholder='{"strength": 3, "dexterity": 2}'></textarea>
-                <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Format: JSON object with attribute: value pairs</small>
+                <div class="mt-1 small text-light">Format: JSON object with attribute: value pairs</div>
             </div>
             
             <!-- Special Powers & Consequences Section -->
@@ -344,7 +348,7 @@ $all_characters = supabase_table_get('characters', ['select' => 'id,character_na
             <div class="mb-3">
                 <label for="itemImage" class="form-label">Image Name</label>
                 <input type="text" id="itemImage" name="image" class="form-control" placeholder="image.jpg">
-                <small class="form-text opacity-75" style="color: #d4c4b0; font-size: 0.85em;">Image file name from uploads/items/ directory</small>
+                <div class="mt-1 small text-light">Image file name from uploads/items/ directory</div>
             </div>
             
             <div class="mb-3">

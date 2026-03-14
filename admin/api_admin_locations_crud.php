@@ -16,8 +16,8 @@ ob_start();
 // Function to output JSON and exit cleanly
 function outputJson($data) {
     ob_end_clean();
-    header('Content-Type: application/json');
-    echo json_encode($data);
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode($data, JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -29,19 +29,19 @@ register_shutdown_function(function() {
             ob_end_clean();
         }
         if (!headers_sent()) {
-            header('Content-Type: application/json');
+            header('Content-Type: application/json; charset=utf-8');
             http_response_code(500);
         }
         echo json_encode([
             'success' => false,
             'error' => 'Fatal error: ' . $error['message'] . ' in ' . basename($error['file']) . ' on line ' . $error['line']
-        ]);
+        ], JSON_UNESCAPED_UNICODE);
         exit();
     }
 });
 
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 // Check authentication
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {

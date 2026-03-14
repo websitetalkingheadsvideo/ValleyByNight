@@ -136,6 +136,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $created_id = $asset_id;
         
     } catch (Exception $e) {
+        error_log('ui_add_asset: save failed: ' . $e->getMessage());
         $error = $e->getMessage();
     }
 }
@@ -144,6 +145,7 @@ try {
     $registry = load_registry();
     $metadata = get_registry_metadata();
 } catch (Exception $e) {
+    error_log('ui_add_asset: load_registry failed: ' . $e->getMessage());
     $error = $error ?: $e->getMessage();
     $registry = null;
 }
@@ -185,7 +187,7 @@ try {
                             <label for="title" class="form-label">Title <span class="text-danger">*</span></label>
                             <input type="text" class="form-control" id="title" name="title" 
                                    value="<?php echo h($_POST['title'] ?? ''); ?>" required>
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">Asset ID will be auto-generated below</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">Asset ID will be auto-generated below</div>
                         </div>
                         
                         <div class="mb-3">
@@ -193,7 +195,7 @@ try {
                             <input type="text" class="form-control" id="asset_id" name="asset_id" 
                                    value="<?php echo h($_POST['asset_id'] ?? ''); ?>" required readonly 
                                    style="background-color: #2a1515; cursor: not-allowed;">
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">Auto-generated from title</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">Auto-generated from title</div>
                         </div>
                     </div>
                 </div>
@@ -263,7 +265,7 @@ try {
                         <div class="mb-3">
                             <label for="files_json" class="form-label">Files (JSON) <span class="text-danger">*</span></label>
                             <textarea class="form-control font-monospace" id="files_json" name="files_json" rows="6" required><?php echo h($_POST['files_json'] ?? '[{"path": "assets/audio/music/example.mp3", "format": "mp3", "loopable": true}]'); ?></textarea>
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">
                                 JSON array of file objects. Example:<br>
                                 <code style="background: rgba(139, 0, 0, 0.2); padding: 2px 6px; border-radius: 3px; color: #f5e6d3;">[{"path": "assets/audio/music/track.mp3", "format": "mp3", "loopable": true}]</code>
                             </div>
@@ -281,7 +283,7 @@ try {
                             <input type="text" class="form-control" id="tags" name="tags" 
                                    value="<?php echo h($_POST['tags'] ?? ''); ?>" 
                                    placeholder="camarilla, elegant, noir">
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">Comma-separated tags</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">Comma-separated tags</div>
                         </div>
                         
                         <div class="mb-3">

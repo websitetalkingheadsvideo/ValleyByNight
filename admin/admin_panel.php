@@ -196,10 +196,13 @@ function render_clan_badge(string $clan): string {
     <!-- Character Statistics -->
     <div class="character-stats row g-3 mb-4">
     <?php
+        $stats_error = '';
         try {
             $allChars = supabase_table_get('characters', ['select' => 'id,player_name']);
         } catch (Throwable $e) {
+            error_log('admin_panel: characters stats query failed: ' . $e->getMessage());
             $allChars = [];
+            $stats_error = $e->getMessage();
         }
         $total = count($allChars);
         $npcs = count(array_filter($allChars, fn($c) => trim((string)($c['player_name'] ?? '')) === 'NPC'));
@@ -230,6 +233,11 @@ function render_clan_badge(string $clan): string {
                 </div>
             </div>
         </div>
+        <?php if ($stats_error !== ''): ?>
+        <div class="col-12">
+            <div class="alert alert-warning mb-0">Character stats temporarily unavailable: <?php echo htmlspecialchars($stats_error, ENT_QUOTES, 'UTF-8'); ?></div>
+        </div>
+        <?php endif; ?>
     </div>
 
     <section class="mb-4">
@@ -245,11 +253,14 @@ function render_clan_badge(string $clan): string {
     <div class="questionnaire-stats d-flex flex-wrap gap-3 mb-4 align-items-center">
         <h2 class="h6 text-light mb-0">Story Questionnaire</h2>
         <?php
+        $questionnaire_error = '';
         try {
             $questionnaire_rows = supabase_table_get('questionnaire_questions', ['select' => 'id']);
             $questionnaire_count = count($questionnaire_rows);
         } catch (Throwable $e) {
+            error_log('admin_panel: questionnaire_questions query failed: ' . $e->getMessage());
             $questionnaire_count = 0;
+            $questionnaire_error = $e->getMessage();
         }
         ?>
         <div class="card text-center min-w-100px">
@@ -258,6 +269,9 @@ function render_clan_badge(string $clan): string {
                 <div class="vbn-stat-label">Questions</div>
             </div>
         </div>
+        <?php if ($questionnaire_error !== ''): ?>
+        <div class="alert alert-warning mb-0">Questionnaire count unavailable: <?php echo htmlspecialchars($questionnaire_error, ENT_QUOTES, 'UTF-8'); ?></div>
+        <?php endif; ?>
         <div class="d-flex align-items-center">
             <a href="questionnaire_admin.php" class="btn btn-outline-danger btn-sm">📝 Manage</a>
         </div>
@@ -342,13 +356,16 @@ function render_clan_badge(string $clan): string {
             </thead>
             <tbody>
                 <?php
+                $characters_error = '';
                 try {
                     $characters = supabase_table_get('characters', [
                         'select' => '*',
                         'order' => 'created_at.desc,id.desc',
                     ]);
                 } catch (Throwable $e) {
+                    error_log('admin_panel: characters list failed: ' . $e->getMessage());
                     $characters = [];
+                    $characters_error = $e->getMessage();
                 }
                 foreach ($characters as &$c) {
                     $c['owner_username'] = '—';
@@ -357,7 +374,9 @@ function render_clan_badge(string $clan): string {
                 $currentAdminUrl = $_SERVER['REQUEST_URI'] ?? '/admin/admin_panel.php';
                 $encodedReturnUrl = rawurlencode($currentAdminUrl);
                 
-                if (empty($characters)) {
+                if ($characters_error !== '') {
+                    echo '<tr><td colspan="6" class="text-center text-warning">Failed to load characters: ' . htmlspecialchars($characters_error, ENT_QUOTES, 'UTF-8') . '</td></tr>';
+                } elseif (empty($characters)) {
                     echo "<tr><td colspan='6'>No characters found.</td></tr>";
                 } else {
                     foreach ($characters as $char) {
@@ -400,7 +419,7 @@ function render_clan_badge(string $clan): string {
                             } elseif ($playerName && $playerName !== '—') {
                                 echo '<span class="text-light">' . htmlspecialchars($playerName) . '</span>';
                             } else {
-                                echo '<span class="opacity-75">—</span>';
+                                echo '<span class="text-light">—</span>';
                             }
                             ?>
                         </td>

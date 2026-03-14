@@ -173,6 +173,4 @@
     color: var(--text-light) !important;
 }
 
-.alert-blood .opacity-75 {
-    color: rgba(245, 230, 211, 0.6) !important;
-}
+/* Use .text-light inside .alert-blood for readable secondary text; do not use opacity on text */

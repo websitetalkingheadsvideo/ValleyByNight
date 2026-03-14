@@ -6,11 +6,11 @@ declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 session_start();
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    echo json_encode(['success' => false, 'message' => 'Unauthorized']);
+    echo json_encode(['success' => false, 'error' => 'Unauthorized']);
     exit();
 }
 
@@ -35,7 +35,7 @@ function handleUpdateRelationship(): void {
     $input = json_decode((string) file_get_contents('php://input'), true);
 
     if (!$input || !is_array($input)) {
-        echo json_encode(['success' => false, 'message' => 'Invalid input']);
+        echo json_encode(['success' => false, 'error' => 'Invalid input']);
         return;
     }
 
@@ -43,14 +43,14 @@ function handleUpdateRelationship(): void {
     $sire = trim((string) ($input['sire'] ?? ''));
 
     if ($character_id <= 0) {
-        echo json_encode(['success' => false, 'message' => 'Character ID required']);
+        echo json_encode(['success' => false, 'error' => 'Character ID required']);
         return;
     }
 
     if ($sire !== '') {
         $existing = supabase_table_get('characters', ['select' => 'id', 'character_name' => 'eq.' . $sire, 'limit' => 1]);
         if (empty($existing) || !is_array($existing)) {
-            echo json_encode(['success' => false, 'message' => 'Sire not found in database']);
+            echo json_encode(['success' => false, 'error' => 'Sire not found in database']);
             return;
         }
     }
@@ -59,7 +59,7 @@ function handleUpdateRelationship(): void {
     $result = supabase_rest_request('PATCH', '/rest/v1/characters?id=eq.' . $character_id, [], $payload);
 
     if ($result['error'] !== null) {
-        echo json_encode(['success' => false, 'message' => 'Database error: ' . $result['error']]);
+        echo json_encode(['success' => false, 'error' => 'Database error: ' . $result['error']]);
         return;
     }
 

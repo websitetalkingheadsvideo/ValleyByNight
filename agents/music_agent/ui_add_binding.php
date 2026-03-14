@@ -133,6 +133,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $created_id = $binding_id;
         
     } catch (Exception $e) {
+        error_log('ui_add_binding: save failed: ' . $e->getMessage());
         $error = $e->getMessage();
     }
 }
@@ -141,6 +142,7 @@ try {
     $registry = load_registry();
     $cue_options = get_cue_options($registry);
 } catch (Exception $e) {
+    error_log('ui_add_binding: load_registry failed: ' . $e->getMessage());
     $error = $error ?: $e->getMessage();
     $registry = null;
     $cue_options = [];
@@ -215,7 +217,7 @@ try {
                             <label for="priority" class="form-label">Priority</label>
                             <input type="number" class="form-control" id="priority" name="priority" 
                                    value="<?php echo h($_POST['priority'] ?? '0'); ?>" min="0">
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">Higher numbers = higher priority</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">Higher numbers = higher priority</div>
                         </div>
                     </div>
                 </div>
@@ -269,7 +271,7 @@ try {
                         <div class="mb-3">
                             <label for="payload_filters_json" class="form-label">Payload Filters (JSON, Optional)</label>
                             <textarea class="form-control font-monospace" id="payload_filters_json" name="payload_filters_json" rows="4"><?php echo h($_POST['payload_filters_json'] ?? '{}'); ?></textarea>
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">JSON object for filtering event payloads</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">JSON object for filtering event payloads</div>
                         </div>
                     </div>
                 </div>
@@ -282,7 +284,7 @@ try {
                         <div class="mb-3">
                             <label for="conditions_json" class="form-label">Conditions (JSON)</label>
                             <textarea class="form-control font-monospace" id="conditions_json" name="conditions_json" rows="4"><?php echo h($_POST['conditions_json'] ?? '{}'); ?></textarea>
-                            <div class="form-text" style="color: #b8a090; font-size: 0.9em; margin-top: 0.25rem;">JSON object for conditional logic</div>
+                            <div class="mt-1 small text-light" style="font-size: 0.9em;">JSON object for conditional logic</div>
                         </div>
                     </div>
                 </div>

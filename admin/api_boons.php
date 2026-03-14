@@ -6,11 +6,11 @@
 declare(strict_types=1);
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 session_start();
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    echo json_encode(['success' => false, 'message' => 'Unauthorized']);
+    echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
     exit;
 }
 
@@ -34,7 +34,7 @@ switch ($action) {
         } elseif ($method === 'DELETE') {
             handleDeleteBoon();
         } else {
-            echo json_encode(['success' => false, 'message' => 'Invalid action']);
+            echo json_encode(['success' => false, 'error' => 'Invalid action'], JSON_UNESCAPED_UNICODE);
         }
         break;
 }
@@ -82,13 +82,13 @@ function handleListBoons(): void {
 function handleGetBoon(): void {
     $boon_id = (int) ($_GET['id'] ?? 0);
     if (!$boon_id) {
-        echo json_encode(['success' => false, 'message' => 'Boon ID required']);
+        echo json_encode(['success' => false, 'error' => 'Boon ID required']);
         return;
     }
     $rows = supabase_table_get('boons', ['select' => '*', 'id' => 'eq.' . $boon_id, 'limit' => '1']);
     $boon = $rows[0] ?? null;
     if (!$boon) {
-        echo json_encode(['success' => false, 'message' => 'Boon not found']);
+        echo json_encode(['success' => false, 'error' => 'Boon not found']);
         return;
     }
     $creditor_id = (int) ($boon['creditor_id'] ?? 0);
@@ -113,7 +113,7 @@ function handleGetBoon(): void {
 function handleCreateBoon(): void {
     $input = json_decode((string) file_get_contents('php://input'), true);
     if (!$input) {
-        echo json_encode(['success' => false, 'message' => 'Invalid input']);
+        echo json_encode(['success' => false, 'error' => 'Invalid input']);
         return;
     }
     $creditor_id = null;
@@ -123,7 +123,7 @@ function handleCreateBoon(): void {
     } elseif (!empty($input['giver_name'])) {
         $creditor_id = getCharacterIdByName($input['giver_name']);
         if (!$creditor_id) {
-            echo json_encode(['success' => false, 'message' => 'Creditor (giver) not found in database']);
+            echo json_encode(['success' => false, 'error' => 'Creditor (giver) not found in database']);
             return;
         }
     }
@@ -132,17 +132,17 @@ function handleCreateBoon(): void {
     } elseif (!empty($input['receiver_name'])) {
         $debtor_id = getCharacterIdByName($input['receiver_name']);
         if (!$debtor_id) {
-            echo json_encode(['success' => false, 'message' => 'Debtor (receiver) not found in database']);
+            echo json_encode(['success' => false, 'error' => 'Debtor (receiver) not found in database']);
             return;
         }
     }
     if (!$creditor_id || !$debtor_id) {
-        echo json_encode(['success' => false, 'message' => 'Creditor and debtor IDs or names are required']);
+        echo json_encode(['success' => false, 'error' => 'Creditor and debtor IDs or names are required']);
         return;
     }
     $boon_type = strtolower(trim((string) ($input['boon_type'] ?? '')));
     if (!in_array($boon_type, ['trivial', 'minor', 'major', 'life'], true)) {
-        echo json_encode(['success' => false, 'message' => 'Invalid boon type. Must be: trivial, minor, major, life']);
+        echo json_encode(['success' => false, 'error' => 'Invalid boon type. Must be: trivial, minor, major, life']);
         return;
     }
     $status = strtolower(trim((string) ($input['status'] ?? 'active')));
@@ -163,7 +163,7 @@ function handleCreateBoon(): void {
     ];
     $res = supabase_rest_request('POST', '/rest/v1/boons', [], $payload, ['Prefer: return=representation']);
     if ($res['error'] !== null) {
-        echo json_encode(['success' => false, 'message' => 'Database error: ' . $res['error']]);
+        echo json_encode(['success' => false, 'error' => 'Database error: ' . $res['error']]);
         return;
     }
     $data = is_array($res['data']) ? $res['data'] : (isset($res['data'][0]) ? $res['data'][0] : null);
@@ -174,12 +174,12 @@ function handleCreateBoon(): void {
 function handleUpdateBoon(): void {
     $input = json_decode((string) file_get_contents('php://input'), true);
     if (!$input) {
-        echo json_encode(['success' => false, 'message' => 'Invalid input']);
+        echo json_encode(['success' => false, 'error' => 'Invalid input']);
         return;
     }
     $boon_id = (int) ($input['boon_id'] ?? $input['id'] ?? 0);
     if (!$boon_id) {
-        echo json_encode(['success' => false, 'message' => 'Boon ID required']);
+        echo json_encode(['success' => false, 'error' => 'Boon ID required']);
         return;
     }
     $payload = [];
@@ -233,12 +233,12 @@ function handleUpdateBoon(): void {
     }
     $payload['updated_at'] = date('Y-m-d H:i:s');
     if (empty($payload)) {
-        echo json_encode(['success' => false, 'message' => 'No fields to update']);
+        echo json_encode(['success' => false, 'error' => 'No fields to update']);
         return;
     }
     $res = supabase_rest_request('PATCH', '/rest/v1/boons', ['id' => 'eq.' . $boon_id], $payload, ['Prefer: return=minimal']);
     if ($res['error'] !== null) {
-        echo json_encode(['success' => false, 'message' => 'Database error: ' . $res['error']]);
+        echo json_encode(['success' => false, 'error' => 'Database error: ' . $res['error']]);
         return;
     }
     echo json_encode(['success' => true, 'message' => 'Boon updated successfully']);
@@ -247,12 +247,12 @@ function handleUpdateBoon(): void {
 function handleDeleteBoon(): void {
     $boon_id = (int) ($_GET['id'] ?? 0);
     if (!$boon_id) {
-        echo json_encode(['success' => false, 'message' => 'Boon ID required']);
+        echo json_encode(['success' => false, 'error' => 'Boon ID required']);
         return;
     }
     $res = supabase_rest_request('DELETE', '/rest/v1/boons', ['id' => 'eq.' . $boon_id], null, ['Prefer: return=minimal']);
     if ($res['error'] !== null) {
-        echo json_encode(['success' => false, 'message' => 'Database error: ' . $res['error']]);
+        echo json_encode(['success' => false, 'error' => 'Database error: ' . $res['error']]);
         return;
     }
     echo json_encode(['success' => true, 'message' => 'Boon deleted successfully']);

@@ -17,7 +17,7 @@ if (session_status() === PHP_SESSION_NONE) {
 require_once __DIR__ . '/../../includes/supabase_client.php';
 require_once __DIR__ . '/../../includes/verify_role.php';
 
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 $user_id = $_SESSION['user_id'] ?? 0;
 $role    = verifyUserRole($conn, $user_id);
@@ -25,13 +25,13 @@ $allowed = ($role === 'admin' || $role === 'storyteller');
 
 if (!$user_id || !$allowed) {
     http_response_code(403);
-    echo json_encode(['error' => 'Forbidden']);
+    echo json_encode(['success' => false, 'error' => 'Forbidden'], JSON_UNESCAPED_UNICODE);
     exit;
 }
 
 if (!$conn) {
     http_response_code(500);
-    echo json_encode(['error' => 'Database unavailable']);
+    echo json_encode(['success' => false, 'error' => 'Database unavailable'], JSON_UNESCAPED_UNICODE);
     exit;
 }
 
@@ -46,19 +46,20 @@ $characterId = isset($_GET['character_id']) ? (int) $_GET['character_id'] : 0;
 if ($drinkerId > 0 && $sourceId > 0) {
     $ctx = $builder->buildPairContext($drinkerId, $sourceId);
     if ($ctx) {
-        echo json_encode($ctx, JSON_THROW_ON_ERROR);
+        echo json_encode(['success' => true, 'data' => $ctx], JSON_THROW_ON_ERROR | JSON_UNESCAPED_UNICODE);
     } else {
         http_response_code(404);
-        echo json_encode(['error' => 'Bond context not found']);
+        echo json_encode(['success' => false, 'error' => 'Bond context not found'], JSON_UNESCAPED_UNICODE);
     }
     exit;
 }
 
 if ($characterId > 0) {
     $ctx = $builder->buildCharacterBondsAsDrinker($characterId);
-    echo json_encode($ctx, JSON_THROW_ON_ERROR);
+    echo json_encode(['success' => true, 'data' => $ctx], JSON_THROW_ON_ERROR | JSON_UNESCAPED_UNICODE);
     exit;
 }
 
 http_response_code(400);
-echo json_encode(['error' => 'Provide drinker_id+source_id or character_id']);
+echo json_encode(['success' => false, 'error' => 'Provide drinker_id+source_id or character_id'], JSON_UNESCAPED_UNICODE);
+exit;

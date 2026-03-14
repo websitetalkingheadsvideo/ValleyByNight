@@ -17,7 +17,7 @@ if (session_status() === PHP_SESSION_NONE) {
 require_once __DIR__ . '/../../includes/supabase_client.php';
 require_once __DIR__ . '/../../includes/verify_role.php';
 
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 $user_id = $_SESSION['user_id'] ?? 0;
 $role    = verifyUserRole($conn, $user_id);

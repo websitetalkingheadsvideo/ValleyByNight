@@ -77,7 +77,7 @@ $config_sections = [
                             <div class="card-body text-center">
                                 <div class="mb-2" style="font-size: 2.5em;"><?= $section_info['icon']; ?></div>
                                 <h5 class="text-light mb-2"><?= htmlspecialchars($section_info['title']); ?></h5>
-                                <p class="opacity-75 small mb-0"><?= htmlspecialchars($section_info['description']); ?></p>
+                                <p class="text-light small mb-0"><?= htmlspecialchars($section_info['description']); ?></p>
                             </div>
                         </div>
                     </div>

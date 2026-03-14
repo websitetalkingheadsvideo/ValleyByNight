@@ -261,7 +261,7 @@ $path_prefix = '../../';
                         <p class="mb-2">
                             Comprehensive reference guide integrating all summaries, characters, locations, clans, plot hooks, and historical context.
                         </p>
-                        <div class="d-flex gap-3 flex-wrap small opacity-75">
+                        <div class="d-flex gap-3 flex-wrap small text-light">
                             <span><strong>Size:</strong> <?php echo formatFileSize($overview_info['size']); ?></span>
                             <span><strong>Last Modified:</strong> <?php echo date('Y-m-d H:i:s', $overview_info['modified']); ?></span>
                         </div>
@@ -280,7 +280,7 @@ $path_prefix = '../../';
                         <h2 class="h4 mb-0">Summary Documents</h2>
                     </div>
                     <div class="card-body">
-                        <p class="mb-3 opacity-75">
+                        <p class="mb-3 text-light">
                             Intermediate summary documents organized by analysis phase. These were synthesized into the main overview document.
                         </p>
                         <div class="row g-3">
@@ -293,7 +293,7 @@ $path_prefix = '../../';
                                                 <?php echo htmlspecialchars($summary['name']); ?>
                                             </a>
                                         </h5>
-                                        <p class="card-text small opacity-75 mb-2">
+                                        <p class="card-text small text-light mb-2">
                                             <?php
                                             // Extract phase description from filename
                                             $name = $summary['name'];
@@ -314,7 +314,7 @@ $path_prefix = '../../';
                                             }
                                             ?>
                                         </p>
-                                        <div class="d-flex gap-2 flex-wrap small opacity-75">
+                                        <div class="d-flex gap-2 flex-wrap small text-light">
                                             <span><?php echo formatFileSize($summary['size']); ?></span>
                                             <span>•</span>
                                             <span><?php echo date('M d, Y', $summary['modified']); ?></span>
@@ -339,7 +339,7 @@ $path_prefix = '../../';
                         <h2 class="h4 mb-0">Progress Tracking</h2>
                     </div>
                     <div class="card-body">
-                        <p class="mb-3 opacity-75">
+                        <p class="mb-3 text-light">
                             Project progress logs, dashboards, and quality gate reports from the overview generation process.
                         </p>
                         <div class="row g-3">
@@ -352,7 +352,7 @@ $path_prefix = '../../';
                                                 <?php echo htmlspecialchars($checkpoint['name']); ?>
                                             </a>
                                         </h5>
-                                        <p class="card-text small opacity-75 mb-2">
+                                        <p class="card-text small text-light mb-2">
                                             <?php
                                             $name = $checkpoint['name'];
                                             if (strpos($name, 'progress_dashboard') !== false) {
@@ -366,7 +366,7 @@ $path_prefix = '../../';
                                             }
                                             ?>
                                         </p>
-                                        <div class="d-flex gap-2 flex-wrap small opacity-75">
+                                        <div class="d-flex gap-2 flex-wrap small text-light">
                                             <span><?php echo formatFileSize($checkpoint['size']); ?></span>
                                             <span>•</span>
                                             <span><?php echo date('M d, Y', $checkpoint['modified']); ?></span>
@@ -391,7 +391,7 @@ $path_prefix = '../../';
                         <h2 class="h4 mb-0">Canon Registry</h2>
                     </div>
                     <div class="card-body">
-                        <p class="mb-3 opacity-75">
+                        <p class="mb-3 text-light">
                             Official canon registry tracking frozen content and proposed additions.
                         </p>
                         <div class="row g-3">
@@ -404,10 +404,10 @@ $path_prefix = '../../';
                                                 <?php echo htmlspecialchars($canon['name']); ?>
                                             </a>
                                         </h5>
-                                        <p class="card-text small opacity-75 mb-2">
+                                        <p class="card-text small text-light mb-2">
                                             Canon content registry and tracking.
                                         </p>
-                                        <div class="d-flex gap-2 flex-wrap small opacity-75">
+                                        <div class="d-flex gap-2 flex-wrap small text-light">
                                             <span><?php echo formatFileSize($canon['size']); ?></span>
                                             <span>•</span>
                                             <span><?php echo date('M d, Y', $canon['modified']); ?></span>
@@ -433,25 +433,25 @@ $path_prefix = '../../';
                             <div class="col-md-3 col-6 mb-3">
                                 <div class="border rounded p-3">
                                     <div class="h4 text-primary mb-1"><?php echo count($summaries); ?></div>
-                                    <div class="small opacity-75">Summary Documents</div>
+                                    <div class="small text-light">Summary Documents</div>
                                 </div>
                             </div>
                             <div class="col-md-3 col-6 mb-3">
                                 <div class="border rounded p-3">
                                     <div class="h4 text-info mb-1"><?php echo count($checkpoints); ?></div>
-                                    <div class="small opacity-75">Progress Files</div>
+                                    <div class="small text-light">Progress Files</div>
                                 </div>
                             </div>
                             <div class="col-md-3 col-6 mb-3">
                                 <div class="border rounded p-3">
                                     <div class="h4 text-warning mb-1"><?php echo count($canon_files); ?></div>
-                                    <div class="small opacity-75">Canon Files</div>
+                                    <div class="small text-light">Canon Files</div>
                                 </div>
                             </div>
                             <div class="col-md-3 col-6 mb-3">
                                 <div class="border rounded p-3">
                                     <div class="h4 text-success mb-1"><?php echo ($overview_info ? 1 : 0) + count($summaries) + count($checkpoints) + count($canon_files); ?></div>
-                                    <div class="small opacity-75">Total Files</div>
+                                    <div class="small text-light">Total Files</div>
                                 </div>
                             </div>
                         </div>

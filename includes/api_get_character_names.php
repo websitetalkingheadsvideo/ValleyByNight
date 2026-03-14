@@ -4,7 +4,7 @@
  * Returns list of all character names for dropdowns
  */
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 require_once __DIR__ . '/supabase_client.php';
 
@@ -31,6 +31,5 @@ try {
     $response['error'] = $e->getMessage();
 }
 
-echo json_encode($response);
-?>
-
+echo json_encode($response, JSON_UNESCAPED_UNICODE);
+exit;

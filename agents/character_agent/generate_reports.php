@@ -506,21 +506,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['generate'])) {
                                     <label class="form-check-label text-light" for="report_daily">
                                         Daily Report
                                     </label>
-                                    <small class="form-text text-danger d-block ms-4">Summary of character processing, new characters, updates, and validation errors for today.</small>
+                                    <small class="d-block ms-4 text-danger">Summary of character processing, new characters, updates, and validation errors for today.</small>
                                 </div>
                                 <div class="form-check mb-2">
                                     <input class="form-check-input" type="radio" name="report_type" id="report_continuity" value="continuity">
                                     <label class="form-check-label text-light" for="report_continuity">
                                         Continuity Report
                                     </label>
-                                    <small class="form-text text-danger d-block ms-4">Checks for sire relationship issues, generation inconsistencies, clan conflicts, and timeline problems.</small>
+                                    <small class="d-block ms-4 text-danger">Checks for sire relationship issues, generation inconsistencies, clan conflicts, and timeline problems.</small>
                                 </div>
                                 <div class="form-check mb-3">
                                     <input class="form-check-input" type="radio" name="report_type" id="report_both" value="both">
                                     <label class="form-check-label text-light" for="report_both">
                                         Both Reports
                                     </label>
-                                    <small class="form-text text-danger d-block ms-4">Generate both daily and continuity reports.</small>
+                                    <small class="d-block ms-4 text-danger">Generate both daily and continuity reports.</small>
                                 </div>
                             </div>
                             

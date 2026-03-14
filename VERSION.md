@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.222
+## Current Version: 0.9.223
+
+**Date:** 2026-03-14  
+**Type:** Patch (git sync: rules compliance implementation and tracker)
+
+## Previous Version: 0.9.222
 
 **Date:** 2026-03-14  
 **Type:** Patch (cursor rules: API JSON envelope, PHP explicit error handling, UI VbN style checklist; rules index update)

@@ -6,10 +6,10 @@ declare(strict_types=1);
  * Returns all characters with image status (Present / Missing / Broken) for admin reporting.
  */
 session_start();
-header('Content-Type: application/json');
+header('Content-Type: application/json; charset=utf-8');
 
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
-    echo json_encode(['success' => false, 'message' => 'Unauthorized']);
+    echo json_encode(['success' => false, 'error' => 'Unauthorized'], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
@@ -28,8 +28,8 @@ try {
 } catch (Throwable $e) {
     echo json_encode([
         'success' => false,
-        'message' => 'Failed to load characters: ' . $e->getMessage(),
-    ]);
+        'error' => 'Failed to load characters: ' . $e->getMessage(),
+    ], JSON_UNESCAPED_UNICODE);
     exit();
 }
 
