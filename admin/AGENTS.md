@@ -93,6 +93,16 @@ $rows = supabase_table_get('table', ['select' => '*', 'id' => 'eq.' . $id]);
 - **NPC Briefing**: `admin_npc_briefing.php`, `api_npc_briefing.php`
 - **Questionnaire**: `questionnaire_admin.php`
 
+### Character Portraits
+- **Page**: `character_portraits.php` – displays every character’s portrait in a card grid.
+- **Purpose**: Show `character_image` for all characters with the same filter/sort behaviour as the main admin panel.
+- **How it was done**:
+  - **Data**: Fetches all characters via `supabase_table_get('characters', ['select' => '*', 'order' => 'created_at.desc,id.desc'])`. Uses `row_val($row, $key, $altKey)` to read fields and support alternate key casing from Supabase. Portrait filename is resolved with `resolve_character_portrait()` (same as `view_character_api.php`); image URL is `$path_prefix . 'uploads/characters/' . rawurlencode($filename)` so it matches the View Character modal.
+  - **Layout**: Card grid with 512×512px images. Markup is still a **table** (`table.character-table`, `tbody.character-portrait-cards-tbody`) so `js/admin_panel.js` filter/sort/pagination logic works unchanged. Each row is `tr.character-row` with one `td` containing a `div.character-portrait-card` (card with image, name, clan badge). Thead is hidden; CSS makes tbody a flex wrap grid and each `tr` a 512px-wide card column.
+  - **Show all**: Table has `data-show-all="true"`. In `admin_panel.js`, `updatePagination()` detects that and does not paginate: it shows all filtered rows (no `.hidden` on visible rows), so every character is listed.
+  - **Robustness**: Loop body is in try/catch so one bad row does not blank the page; failed rows render as "—" and no image. Empty or non-array Supabase response is normalized to `[]`.
+- **Key files**: `admin/character_portraits.php`, `css/character_portraits.css`, `js/admin_panel.js` (show-all branch, filter/sort), `includes/character_portrait_resolver.php`.
+
 ## JIT Index Hints
 
 ```bash

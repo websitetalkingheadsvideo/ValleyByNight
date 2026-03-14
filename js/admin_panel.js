@@ -484,6 +484,19 @@ function updatePagination(visibleRows = null) {
     }
     
     const totalVisible = visibleRows.length;
+    const tableEl = document.getElementById('characterTable');
+    const showAll = tableEl && tableEl.getAttribute('data-show-all') === 'true';
+
+    if (showAll) {
+        document.querySelectorAll('.character-row').forEach(row => row.classList.add('hidden'));
+        visibleRows.forEach(row => row.classList.remove('hidden'));
+        const paginationInfo = document.getElementById('paginationInfo');
+        if (paginationInfo) {
+            paginationInfo.textContent = 'Showing 1-' + totalVisible + ' of ' + totalVisible + ' characters';
+        }
+        return;
+    }
+
     const totalPages = Math.ceil(totalVisible / pageSize);
     
     // Hide all rows first

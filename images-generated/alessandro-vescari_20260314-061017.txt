@@ -1,0 +1,41 @@
+final_prompt_used:
+Night scene only. Dark sky, no sun, no sunlight. Lit only by moonlight, streetlights, neon, or firelight. The whole image must look like night—dark blues and blacks, no warm daylight in sky or background.
+
+Subject: Italian man, late 30s to early 40s, Alessandro Vescari. Giovanni vampire, Generation 10, investment liaison and necromantic operator. Tall, poised, composed. Dried-blood velvet blazer, black silk shirt, gold chain at throat, dark hair styled with deliberate 1990s elegance. Expression: restrained, watchful, quietly amused; precise and listening. Predatory stillness, controlled grace. Cold-stone presence; rooms grow quieter when he arrives. Slightly cool pallor, predatory catchlight in eyes, no overt fangs or supernatural display.
+
+Lighting: Grayscale candlelight and Italian classic motifs. Key light 35–45°, soft rim from upper-right. Noir blue-black #0D0E10 shadows and background. Desert amber #C87B3E and muted gold #B89B64 as key and secondary highlights from candlelight or moonlight. Deep crimson #7A1E1E very subtle undertone. Shadows retain detail; no harsh digital specular.
+
+Environment: Dark night. Candlelit study or high-end office—mahogany, portfolios, leather, sense of Scottsdale/Mesa financial world. Blurred noir background. No sun in frame. Moonlit or candlelit only.
+
+Camera: 50mm lens, eye-level, head and upper torso. Film-still realism, cinematic neo-noir gothic, Phoenix 1994. Shallow depth of field, eyes and face sharp. Medium-high contrast, directional volumetric lighting, subtle haze.
+
+Phoenix, Arizona, 1994. Masquerade-friendly subtlety; no overt supernatural display.
+
+Time of day: Night. No daylight, no sunrise, no sunset, no golden hour. Moonlit or artificial lighting only.
+
+---
+negative_prompt_used:
+cartoon, anime, illustration, painterly brush strokes, CGI, video game render, glam beauty retouch, plastic skin, over-sharpening, HDR halos, overt fangs, gore, blood splatter, horror monster, deformed face, fantasy architecture, medieval clothing, modern 2020s streetwear, text overlays, captions, watermarks, logos, date stamps, daytime, daylight, day, sun, sunlight, sunny, sunlit, sunlit sky, golden hour, sunrise, sunset, dawn, dusk, noon, afternoon, morning, bright blue sky, blue sky, bright sky, clouds in daylight, natural daylight, outdoor daylight, warm daylight, daylight portrait
+
+---
+extracted_character_highlights:
+- Character: Alessandro Vescari. Giovanni, Gen 10. Sire: Luca Vescari.
+- Appearance (from DB/sheet): Tall, poised; dried-blood velvet blazer, black silk shirt, gold chain at throat; dark hair, 1990s elegance; cold-stone sandalwood presence.
+- Traits: Charming, Composed, Predatory, Seductive, Eloquent, Persuasive, Poised, Diplomatic, Manipulative; Calculating, Perceptive, Methodical, Strategic, Scheming, Analytical; Graceful, Precise, Unassuming. Negative: Fragile, Arrogant, Obsessive.
+- Disciplines: Dominate 3, Fortitude 1, Potence 1, Necromancy (Giovanni) 2. Visual cue: commanding presence, subtle otherworldly chill (no overt display).
+- Abilities/role: Finance (Offshore Structures), Bureaucracy, Etiquette (High Society & Kindred Courts), Subterfuge (Polite Lies), Occult (Necromancy and Setite Lore), Investigation (Forensic Accounting), Politics, Streetwise (Mesa Nightlife).
+- Biography: Italian branch Giovanni, Embraced late 1970s; Venice/LA then Scottsdale; investment liaison; necromantic infiltrator targeting Setite Temple in Mesa; ledgers and bound ghosts; polite, indulgent, attentive; listens more than speaks; words precise and flattering.
+- Merits/flaws: Enchanting Voice, Medium/Haunted Sensitivity; Dark Secret (Setite infiltration), Family Ties (Giovanni obligations).
+- Derangement: None in character sheet.
+- Equipment: Tailored velvet blazer, black silk shirt, gold chain and signet ring, Italian shoes, leather portfolio with financial and necromantic notes.
+
+---
+morality_visualization_notes:
+- Humanity 7 (path_rating 7). Mapping: slightly cooler pallor, predatory catchlight, restrained stillness; composed, controlled, watchful. Default VbN vamp treatment.
+- Path: Humanity. No daylight exemption; portrait is NIGHT (nocturnal default).
+- Style lock: Giovanni clan motif per Art Bible—grayscale candlelight, Italian classic motifs. 1024×1024, 50mm/85mm, head + upper torso, eyes as emotional anchors.
+
+---
+model: fal-ai/flux-2/flash
+task_id: 504d31f7-49ff-4994-ada6-66ad8f6cf015
+source: 速推AI MCP (generate) + style_agent (Art Bible I Portrait, RULES.md) + reference/Characters/Added to Database/Alessandro_Vescari_character_sheet.json

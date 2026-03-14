@@ -1,6 +1,11 @@
 # Version History
 
-## Current Version: 0.9.223
+## Current Version: 0.9.224
+
+**Date:** 2026-03-14  
+**Type:** Patch (character portraits grid: 3 per row when wide, center partial rows; portrait page + assets)
+
+## Previous Version: 0.9.223
 
 **Date:** 2026-03-14  
 **Type:** Patch (git sync: rules compliance implementation and tracker)

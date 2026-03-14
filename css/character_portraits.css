@@ -1,0 +1,79 @@
+/* Character Portraits page - card grid with 512×512 images */
+
+.character-portraits-grid-wrapper {
+    background: radial-gradient(circle at center, rgba(139, 0, 0, 0.4) 0%, rgba(139, 0, 0, 0.2) 40%, rgba(26, 15, 15, 0.6) 100%);
+    border: 2px solid var(--blood-red, #8B0000);
+    border-radius: 0.75rem;
+    padding: 1rem;
+}
+
+.character-portraits-grid-wrapper .character-table {
+    display: block;
+    width: 100%;
+}
+
+.character-portraits-grid-wrapper .character-table thead {
+    display: none;
+}
+
+.character-portraits-grid-wrapper .character-table tbody.character-portrait-cards-tbody {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.character-portraits-grid-wrapper .character-table tbody tr.character-row {
+    display: block;
+    width: 512px;
+    flex: 0 0 512px;
+}
+
+.character-portraits-grid-wrapper .character-table tbody tr.character-row td.character-portrait-card-cell {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border: none;
+    vertical-align: top;
+}
+
+.character-portrait-card {
+    border-radius: 0.75rem;
+    border-width: 2px;
+    overflow: hidden;
+}
+
+.character-portrait-card-img-wrap {
+    width: 100%;
+    height: 512px;
+    overflow: hidden;
+    background: rgba(26, 15, 15, 0.5);
+}
+
+.character-portrait-card .character-portrait-img {
+    width: 100%;
+    height: 512px;
+    object-fit: cover;
+    border-radius: 0;
+    border: none;
+    display: block;
+}
+
+.character-portrait-card .character-portrait-img.card-img-top {
+    border-radius: 0;
+}
+
+.character-portrait-card .character-portrait-placeholder {
+    width: 100%;
+    height: 512px;
+    margin: 0;
+    border-radius: 0;
+    border: none;
+    border-bottom: 2px dashed var(--blood-red, #8B0000);
+    font-size: 1rem;
+}
+
+.character-portrait-card .card-body {
+    border-top: 2px solid var(--blood-red, #8B0000);
+}
